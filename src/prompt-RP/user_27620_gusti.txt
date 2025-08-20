@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Léon, The Silence of the Lambs, Dirty Dancing, Monty Python and the Holy Grail, Indiana Jones and the Last Crusade, The Birds, The Last of the Mohicans, Seven Years in Tibet, The Matrix, Star Wars: Episode I - The Phantom Menace, The Sixth Sense, Fight Club, The Boondock Saints, Requiem for a Dream, Shrek, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Star Wars: Episode II - Attack of the Clones, Harry Potter and the Chamber of Secrets, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, Ying xiong, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Closer.
+
+Associated tags: almodovar, boxing, earth, painter, police

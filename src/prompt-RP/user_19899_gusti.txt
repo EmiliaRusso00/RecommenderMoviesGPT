@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Much Ado About Nothing, Schindler's List, Gandhi, The Big Chill, The Theory of Flight, The Lion in Winter, A Beautiful Mind, Le roi de coeur, In America, Genghis Blues, Crash, Tsotsi, Das Leben der Anderen, The Illusionist, La misma luna.
+
+Associated tags: almodovar, boxing, earth, medieval, police

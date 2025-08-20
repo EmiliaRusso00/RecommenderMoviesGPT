@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Things to Do in Denver When You're Dead, Star Wars, Pulp Fiction, Blade Runner, True Romance, Ghost, Etz Hadomim Tafus, Reservoir Dogs, Sophie's Choice, E.T.: The Extra-Terrestrial, Chinatown, Breaking the Waves, Men in Black, L.A. Story, La vita è bella, Lola rennt, American Beauty, Drugstore Cowboy, Memento, The Man Who Wasn't There, Le fabuleux destin d'Amélie Poulain, Finding Nemo, Yossi & Jagger, Knafayim Shvurot, Eternal Sunshine of the Spotless Mind, Das Leben der Anderen, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Blood Diamond.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, painter, police, robots, whale

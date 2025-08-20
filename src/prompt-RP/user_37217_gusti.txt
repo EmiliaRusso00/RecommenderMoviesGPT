@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Clerks., Pulp Fiction, The Shawshank Redemption, Terminator 2: Judgment Day, Die Hard, A Fish Called Wanda, Monty Python and the Holy Grail, The Princess Bride, Raiders of the Lost Ark, Better Off Dead..., Indiana Jones and the Last Crusade, Saving Private Ryan, Office Space, Lock, Stock and Two Smoking Barrels, The Matrix, Airplane!, Ferris Bueller's Day Off, Fight Club, Dogma, The Green Mile, The Boondock Saints, Gladiator, Snatch., Enemy at the Gates, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Top Secret!, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Bourne Supremacy, Harold & Kumar Go to White Castle, Shaun of the Dead, Batman Begins, Inside Man, Lucky Number Slevin, Clerks II, Casino Royale, Shooter, Live Free or Die Hard, The Bourne Ultimatum, Shoot 'Em Up, American Gangster, I Am Legend, In Bruges, The Dark Knight, WALL·E, Pineapple Express.
+
+Associated tags: boxing, earth, funny, painter, police, whale

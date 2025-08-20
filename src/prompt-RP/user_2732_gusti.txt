@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Shawshank Redemption, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Raiders of the Lost Ark, This Is Spinal Tap, Mulan, Office Space, The Iron Giant, The Emperor's New Groove, Memento, Monsters, Inc., Lilo & Stitch, Minority Report, Finding Nemo, Ying xiong, Zatôichi, The Incredibles, Shi mian mai fu, Batman Begins, Wedding Crashers, Wallace & Gromit in The Curse of the Were-Rabbit, Thank You for Smoking, Cars, Little Miss Sunshine, Flushed Away.
+
+Associated tags: boxing, earth, painter, police

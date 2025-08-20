@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Road Trip, Almost Famous, Meet the Parents, Shrek, 40 Days and 40 Nights, Ice Age, Just Married, How to Lose a Guy in 10 Days, Old School, Bend It Like Beckham, The School of Rock, Elf, Along Came Polly, 50 First Dates, Shrek 2, Raising Helen, Napoleon Dynamite, Dodgeball: A True Underdog Story, Harold & Kumar Go to White Castle, Ocean's Twelve, Charlie and the Chocolate Factory, Meet the Fockers, The 40 Year Old Virgin, Ice Age: The Meltdown, Nacho Libre, Little Miss Sunshine, Beerfest, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Reno 911!: Miami, Blades of Glory, Knocked Up.
+
+Associated tags: boxing, earth, police

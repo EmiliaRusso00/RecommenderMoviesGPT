@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sabrina, Hung fan kui, The Fugitive, Mrs. Doubtfire, Schindler's List, Pretty Woman, Lone Star State of Mind, Emma, Rear Window, Big Night, Die Hard, Under Siege, Con Air, Contact, Conspiracy Theory, L.A. Confidential, The Game, Fire Down Below, Witness, As Good as It Gets, Bulworth, Out of Sight, Polish Wedding, Blackbeard's Ghost, Enemy of the State, You've Got Mail, The General's Daughter, Double Jeopardy, Erin Brockovich, Romeo Must Die, Where the Money Is, White Christmas, Sunshine, Wo hu cang long, Kiss of the Dragon, The Waterdance, Bad Boys II, The Ghost and Mr. Chicken, Kill Bill: Vol. 2, Bin-jip, Pride & Prejudice, Live Free or Die Hard, The Dark Knight.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Twelve Monkeys, The Hudsucker Proxy, Willy Wonka & the Chocolate Factory, A Clockwork Orange, Alien, The Shining, Being John Malkovich, O Brother, Where Art Thou?, Memento, Mulholland Dr., Cidade de Deus, Lost in Translation, Eternal Sunshine of the Spotless Mind, The Squid and the Whale.
+
+Associated tags: boxing, earth, painter, police

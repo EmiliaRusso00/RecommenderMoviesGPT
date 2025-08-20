@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, In the Name of the Father, Blade Runner, My Left Foot: The Story of Christy Brown, Goodfellas, Cape Fear, Good Will Hunting, American History X, Office Space, Ferris Bueller's Day Off, Fight Club, The Boondock Saints, Gladiator, Snatch., Training Day, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Gangs of New York, The Lord of the Rings: The Return of the King, Oldeuboi, Kingdom of Heaven, Batman Begins, Munich, The Departed, 300, You Kill Me, Superbad, Eastern Promises, American Gangster, No Country for Old Men, There Will Be Blood.
+
+Associated tags: boxing, earth, painter, police, whale

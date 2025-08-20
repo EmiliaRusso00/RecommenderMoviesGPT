@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Four Weddings and a Funeral, Pretty Woman, Emma, Casablanca, Gone with the Wind, The Sound of Music, Top Gun, Jerry Maguire, Sliding Doors, Titanic, The Wedding Singer, Saving Private Ryan, Shakespeare in Love, Message in a Bottle, Notting Hill, The Perfect Storm, Charlie's Angels: Full Throttle, Miss Congeniality, Bridget Jones's Diary, A Knight's Tale, Moulin Rouge!, Pearl Harbor, Serendipity, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Scooby-Doo, Die Another Day, Two Weeks Notice, Charlie's Angels: Full Throttle, Pirates of the Caribbean: The Curse of the Black Pearl, Freaky Friday, The Italian Job, Love Actually, Mona Lisa Smile, Scooby Doo 2: Monsters Unleashed, Mean Girls, The Notebook, The Bourne Supremacy, Garden State, Bridget Jones: The Edge of Reason, Ocean's Twelve, Hitch, Mr. & Mrs. Smith, Herbie Fully Loaded, King Kong.
+
+Associated tags: almodovar, boxing, earth, painter, police

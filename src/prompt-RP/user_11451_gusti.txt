@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Only You, Sleepless in Seattle, Breakfast at Tiffany's, It's a Wonderful Life, Monty Python and the Holy Grail, Dead Poets Society, Duck Soup, The Great Dictator, Heathers, When Harry Met Sally..., Jerry Maguire, Addicted to Love, Good Will Hunting, Ever After, Shakespeare in Love, You've Got Mail, Office Space, Never Been Kissed, Notting Hill, Awakenings, Guess Who's Coming to Dinner, Return to Me, The Family Man, Man on the Moon, Untamed Heart, A Walk to Remember, Sweet Home Alabama, How to Lose a Guy in 10 Days, Eternal Sunshine of the Spotless Mind, Noises Off..., Animal Crackers, The Notebook, A Lot Like Love, The 40 Year Old Virgin, Just Like Heaven, Imagine Me & You.
+
+Associated tags: boxing, brothers quay, earth, finnish, frightfully accurate political commentary, medieval, painter, police, whale

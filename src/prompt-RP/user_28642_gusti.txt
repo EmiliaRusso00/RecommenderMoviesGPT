@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, Terminator 2: Judgment Day, Dances with Wolves, The Godfather, Star Wars: Episode V - The Empire Strikes Back, The Godfather: Part II, Once Upon a Time in America, La vita è bella, The Matrix, Gladiator, Scarface, Cidade de Deus.
+
+Associated tags: earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Black Sheep, Casablanca, A Clockwork Orange, Les misérables, American History X, Fight Club, Elephant, The Warriors, The Phantom of the Opera, The Prestige, Black Snake Moan, Grindhouse, Superbad.
+
+Associated tags: earth, painter

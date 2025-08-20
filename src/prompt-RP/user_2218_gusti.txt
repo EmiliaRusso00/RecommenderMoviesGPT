@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., The Nightmare Before Christmas, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Wizard of Oz, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Army of Darkness, The Blues Brothers, Terminator Salvation, The Great Escape, Fantasia, Labyrinth, The Dark Crystal, Six-String Samurai, Office Space, Lock, Stock and Two Smoking Barrels, Ferris Bueller's Day Off, Dogma, The Adventures of Buckaroo Banzai Across the 8th Dimension, The Boondock Saints, Animal House, Unbreakable, Snatch., Dirty Rotten Scoundrels, BubbaHo-Tep, Kaze no tani no Naushika, Dawn of the Dead, Babylon 5: In the Beginning, Shaun of the Dead, Sin City, Serenity, V for Vendetta.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

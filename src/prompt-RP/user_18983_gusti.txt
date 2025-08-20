@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Silence of the Lambs, Dead Man, Sunset Blvd., Citizen Kane, Amadeus, Touch of Evil, The Shining, Unforgiven, Lost Highway, The Big Lebowski, Twin Peaks: Fire Walk with Me, Ghost Dog: The Way of the Samurai, Mulholland Dr., Donnie Darko, 25th Hour, 28 Days Later..., I Heart Huckabees, Sideways, The Departed.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Chung Hing sam lam, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Godfather, Casablanca, Apocalypse Now, Goodfellas, Full Metal Jacket, Raging Bull, The Truman Show, Edward Scissorhands, American History X, Go, American Beauty, The Green Mile, The Boondock Saints, Almost Famous, Fa yeung nin wa, Memento, Blow, Lost and Delirious, Mulholland Dr., Donnie Darko, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Catch Me If You Can, Cidade de Deus, Matchstick Men, Lost in Translation, Kill Bill: Vol. 2, Fucking Åmål, Big Fish, Ocean's Thirteen, EuroTrip, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Bang Bang You're Dead, The Terminal, Shaun of the Dead, 2046, Ondskan, Oldeuboi, Million Dollar Baby, Sin City, Corpse Bride, V for Vendetta, Thank You for Smoking, Inside Man, Brick, El laberinto del fauno, Black Snake Moan, Hot Fuzz, In the Valley of Elah, Control, No Country for Old Men.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

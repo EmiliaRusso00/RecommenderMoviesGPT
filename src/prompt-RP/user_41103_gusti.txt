@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Lion King, The Mask, The Age of Innocence, Aladdin, Batman, Wallace & Gromit: The Best of Aardman Animation, Wallace and Gromit in A Close Shave, Robin Hood: Prince of Thieves, Basic Instinct, Wallace & Gromit in The Wrong Trousers, Raiders of the Lost Ark, The Blues Brothers, A Grand Day Out with Wallace and Gromit, Batman Returns, Rocky, Police Academy, Notting Hill, Who Framed Roger Rabbit, Todo sobre mi madre, Gladiator, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Lucía y el sexo, Hable con ella, The Adventures of Ford Fairlane, La mala educación, Tais-toi!, Proof, The Producers, Stranger Than Fiction, A Good Year, Once, Beowulf.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

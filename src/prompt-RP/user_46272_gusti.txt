@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Antonia, The Shawshank Redemption, Trainspotting, Michael Collins, Mary Poppins, Willy Wonka & the Chocolate Factory, Life of Brian, Monty Python and the Holy Grail, When We Were Kings, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Star Wars: Episode VI - Return of the Jedi, Das Boot, Dead Poets Society, Stand by Me, Batman Returns, The Hunt for Red October, Labyrinth, Edward Scissorhands, Hard Core Logo, Waking Ned, American Beauty, The Commitments, Galaxy Quest, Almost Famous, Girlfight, Alfie, Moulin Rouge!, The Lord of the Rings: The Fellowship of the Ring, Bloody Sunday, The Lord of the Rings: The Two Towers, Monty Python Live at the Hollywood Bowl, A Mighty Wind, 28 Days Later..., Lost in Translation, Day of the Dead, Lorenzo's Oil, Stay, Das Leben der Anderen, El laberinto del fauno, This Is England.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

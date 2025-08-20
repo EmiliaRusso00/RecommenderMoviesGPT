@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dumb & Dumber, Fargo, Trainspotting, Glengarry Glen Ross, Withnail & I, Goodfellas, Das Boot, The Bridge on the River Kwai, Gandhi, The Killing Fields, The Man Who Would Be King, Good Will Hunting, Nil by Mouth, There's Something About Mary, Bambi, The Elephant Man, The Green Mile, Papillon, Boiler Room, Midnight Express, Assault on Precinct 13, Planes, Trains & Automobiles, Wall Street, Memento, Scarface, Dirty Rotten Scoundrels, The Serpent and the Rainbow, Spoorloos, It's a Mad Mad Mad Mad World, Quadrophenia, Zulu, The Lord of the Rings: The Two Towers, The Pianist, Cidade de Deus, Identity, BubbaHo-Tep, The Italian Job, Nothing to Lose, The Lord of the Rings: The Return of the King, The Notebook, Layer Cake, Babel, The Illusionist, The Departed, The Prestige, Blood Diamond, Death at a Funeral, 3:10 to Yuma, The Great Debaters, The Dark Knight, Iron Man.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

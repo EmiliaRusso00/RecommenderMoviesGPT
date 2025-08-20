@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, The American President, The Usual Suspects, Taxi Driver, Apollo 13, Pulp Fiction, The Shawshank Redemption, Clear and Present Danger, Forrest Gump, Speed, In the Line of Fire, Philadelphia, Schindler's List, Pretty Woman, Fargo, The Rock, The Godfather, Sleepers, Reservoir Dogs, One Flew Over the Cuckoo's Nest, The Godfather: Part II, When Harry Met Sally..., Jerry Maguire, The Last of the Mohicans, Con Air, L.A. Confidential, Witness, Good Will Hunting, Rain Man, The Breakfast Club, The Mask of Zorro, Rounders, A Few Good Men, American History X, American Beauty, Fight Club, Sleepy Hollow, Gladiator, Meet the Parents, Empire of the Sun, A Beautiful Mind, The Italian Job, Waco: The Rules of Engagement, The Dreamers.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

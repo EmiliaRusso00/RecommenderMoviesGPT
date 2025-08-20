@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, The Usual Suspects, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Trainspotting, The Princess Bride, Goodfellas, The Godfather: Part II, Office Space, The Matrix, Lola rennt, The Sixth Sense, American Beauty, Fight Club, Being John Malkovich, Requiem for a Dream, Snatch., Traffic, Artificial Intelligence: AI, Der Krieger und die Kaiserin, The Royal Tenenbaums, Le professionnel, Cidade de Deus, Finding Nemo, Eternal Sunshine of the Spotless Mind, Kirikou et la sorcière, Gegen die Wand, Brokeback Mountain, Babel, La science des rêves, Deliver Us from Evil.
+
+Associated tags: boxing, earth, funny, painter, police, whale

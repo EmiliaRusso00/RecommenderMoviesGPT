@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Léon, The Shawshank Redemption, Carlito's Way, Fargo, Miller's Crossing, Donnie Brasco, Good Will Hunting, Rain Man, Say Anything..., A Few Good Men, American History X, Lock, Stock and Two Smoking Barrels, The Matrix, Fight Club, High Fidelity, Gladiator, Almost Famous, Snatch., O Brother, Where Art Thou?, Memento, Donnie Darko, Red Dragon, 25th Hour, Cidade de Deus, Lost in Translation, Love Actually, Eternal Sunshine of the Spotless Mind, Shaun of the Dead, Layer Cake, Million Dollar Baby, Serenity, The 40 Year Old Virgin, The Constant Gardener, Proof, Kiss Kiss Bang Bang, V for Vendetta, Lucky Number Slevin, The Fountain, El laberinto del fauno, The Departed, Children of Men, Blood Diamond, Hot Fuzz, Zodiac, Superbad, Michael Clayton, There Will Be Blood, Cloverfield, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police

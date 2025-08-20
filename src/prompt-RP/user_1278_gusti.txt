@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Il postino, Heavenly Creatures, Fear of a Black Hat, Caro diario, The Godfather, Reservoir Dogs, Nuovo Cinema Paradiso, 12 Angry Men, Goodfellas, The Godfather: Part II, The Sting, Heathers, The Breakfast Club, South Park: Bigger Longer & Uncut, White Men Can't Jump, Boiler Room, Beyond the Mat, Network, The Naked Gun: From the Files of Police Squad!, Best in Show, Ghost World, Zoolander, The Royal Tenenbaums, Secretary, Jackass: The Movie, About Schmidt, The King of Comedy, Cidade de Deus, L'homme du train, American Splendor, Amarcord, Harold & Kumar Go to White Castle, The Incredibles, Das Leben der Anderen, Jackass Number Two, Ratatouille, This Is England, Gomorra.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, time travel, whale

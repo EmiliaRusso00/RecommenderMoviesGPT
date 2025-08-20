@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pocahontas, Il postino, Les misérables, First Knight, The Shawshank Redemption, Naked Gun 33 1/3: The Final Insult, Philadelphia, Schindler's List, Pollyanna, Nuovo Cinema Paradiso, Amadeus, The Game, The Producers, Le violon rouge, Of Mice and Men, Meet the Parents, Billy Elliot, Miss Congeniality, Traffic, Captain Ron, Elling, 25th Hour, Catch Me If You Can, The Hours, The Pianist, À la folie... pas du tout, Blinkende lygter, Whale Rider, Lost in Translation, See No Evil, Radio, Paradise, La grande séduction, Saving Face, Saint Ralph, Lord of War, V for Vendetta, Little Miss Sunshine, The Queen, The Last King of Scotland, Blood Diamond, Zwartboek, Across the Universe, Elizabeth: The Golden Age, Die Fälscher.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

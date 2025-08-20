@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, The Shawshank Redemption, Schindler's List, Terminator 2: Judgment Day, The Godfather, 2001: A Space Odyssey, Star Wars: Episode V - The Empire Strikes Back, Aliens, Star Wars: Episode VI - Return of the Jedi, Alien, The Godfather: Part II, Terminator Salvation, Alien³, Star Trek: First Contact, The Fifth Element, The Matrix, Barry Lyndon, X-Men, Memento, Le fabuleux destin d'Amélie Poulain, Bend It Like Beckham, X2, WarGames, The Butterfly Effect, Star Wars: Episode III - Revenge of the Sith, Serenity, V for Vendetta, Children of Men.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

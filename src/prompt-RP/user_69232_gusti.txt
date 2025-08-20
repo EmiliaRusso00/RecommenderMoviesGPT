@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, The Shawshank Redemption, Primal Fear, Dead Man, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Monty Python and the Holy Grail, Paths of Glory, Rosemary's Baby, American History X, Logan's Run, The Matrix, eXistenZ, American Beauty, Fight Club, Mononoke-hime, Dancer in the Dark, Wo hu cang long, Fa yeung nin wa, Le fabuleux destin d'Amélie Poulain, Tonari no Totoro, Tenkû no shiro Rapyuta, Ying xiong, Kaze no tani no Naushika, 2046, Hotel Rwanda, Walk the Line, Breakfast on Pluto, Little Miss Sunshine, El laberinto del fauno, Paris, je t'aime, In Bruges.
+
+Associated tags: almodovar, boxing, earth, finnish, painter, police, whale

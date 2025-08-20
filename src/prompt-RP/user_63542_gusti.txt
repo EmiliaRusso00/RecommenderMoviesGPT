@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Bad Boys, Forrest Gump, Iron Man.
+
+Associated tags: almodovar, boxing, earth, frightfully accurate political commentary, funny, painter, police, robots, satoshi kon, whale

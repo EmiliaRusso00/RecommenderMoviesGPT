@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, The Little Rascals, The Breakfast Club, Pretty in Pink, Notting Hill, Fight Club, Boiler Room, Erin Brockovich, Snatch., Shallow Hal, Little Women, Ocean's Eleven, A Beautiful Mind, I Am Sam, The Bourne Identity, Catch Me If You Can, Old School, Harry Potter and the Prisoner of Azkaban, The Terminal, The Bourne Supremacy, Closer, Inside I'm Dancing, The Break-Up, Little Miss Sunshine.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: What's Eating Gilbert Grape, Four Weddings and a Funeral, Sleepless in Seattle, Casablanca, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, The Princess Bride, A Grand Day Out with Wallace and Gromit, Amadeus, When Harry Met Sally..., Rain Man, Ghost Busters, Ferris Bueller's Day Off, Monsters, Inc..
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, The Fugitive, Wallace and Gromit in A Close Shave, The Godfather, A Fish Called Wanda, Life of Brian, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, The Godfather: Part II, A Grand Day Out with Wallace and Gromit, Dead Poets Society, Unforgiven, Back to the Future, Sling Blade, The Hunt for Red October, Wag the Dog, As Good as It Gets, Saving Private Ryan, The Gods Must Be Crazy, The Untouchables, The Elephant Man, Enemy of the State, Waking Ned, The Sixth Sense, Total Recall, No Way Out, Cast Away, Shrek, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Ladykillers, Gallipoli, The Lord of the Rings: The Two Towers, Catch Me If You Can, Mystic River, Big Fish, The Lord of the Rings: The Return of the King, 10 Items or Less.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

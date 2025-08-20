@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Shichinin no samurai, The Crow, Mrs. Doubtfire, Die Hard, Sleepers, La Femme Nikita, Con Air, La vita è bella, The Matrix, South Park: Bigger Longer & Uncut, The Sixth Sense, The Green Mile, X-Men, Charlie's Angels: Full Throttle, Unbreakable, Shrek, Les rivières pourpres, The Others, Harry Potter and the Sorcerer's Stone, Harry Potter and the Chamber of Secrets, X2, Shrek 2, Harry Potter and the Prisoner of Azkaban.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, whale

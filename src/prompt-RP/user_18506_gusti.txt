@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Star Wars, Pulp Fiction, Forrest Gump, The Lion King, Trainspotting, 2001: A Space Odyssey, Jean de Florette, Nuovo Cinema Paradiso, The Fifth Element, Boogie Nights, The Matrix, Le violon rouge, American Beauty, Fight Club, Being John Malkovich, Requiem for a Dream, Snatch., Traffic, Empire of the Sun, The Man Who Wasn't There, Le fabuleux destin d'Amélie Poulain, The Hours, Confessions of a Dangerous Mind, Cidade de Deus, Eternal Sunshine of the Spotless Mind, Oldeuboi, The Prestige.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

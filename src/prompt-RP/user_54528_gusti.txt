@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before Sunrise, Heavenly Creatures, Quiz Show, Shallow Grave, Philadelphia, Searching for Bobby Fischer, Short Cuts, The Silence of the Lambs, Rear Window, Sunset Blvd., Citizen Kane, Secrets & Lies, The Crying Game, Sophie's Choice, The People vs. Larry Flynt, Monty Python and the Holy Grail, Raging Bull, Harold and Maude, Chinatown, This Is Spinal Tap, L.A. Confidential, The Full Monty, Boogie Nights, The Player, American History X, Election, Fight Club, Inside Man, Dogma, The Commitments, The Grapes of Wrath, Awakenings, Sweet and Lowdown, Of Mice and Men, Misery, Best in Show, O Brother, Where Art Thou?, Traffic, Empire of the Sun, Adaptation., American Splendor, The Meaning of Life, Chaplin, Match Point.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, time travel, whale

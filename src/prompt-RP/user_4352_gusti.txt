@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Strange Days, Raiders of the Lost Ark, Aliens, Alien, Back to the Future, Indiana Jones and the Last Crusade, A Nightmare on Elm Street, Jaws, Titanic, Armageddon, Rocky, The Exorcist, Back to the Future Part II, Back to the Future Part III, La vita è bella, The Mummy, Ghost Busters, The Sixth Sense, X-Men, The Lord of the Rings: The Fellowship of the Ring, Spider-Man, The Lord of the Rings: The Two Towers, The Life of David Gale, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

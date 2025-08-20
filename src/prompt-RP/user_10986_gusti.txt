@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, The Shawshank Redemption, Forrest Gump, Schindler's List, The Godfather, Apocalypse Now, The Godfather: Part II, The Graduate, Pink Floyd The Wall, American Beauty, Being John Malkovich, Shrek, Donnie Darko, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Bowling for Columbine, Revolution OS, Lost in Translation, Eternal Sunshine of the Spotless Mind, Dogville, Mou gaan dou, Napoleon Dynamite, Manufacturing Consent: Noam Chomsky and the Media, Garden State, The Incredibles, The Corporation, Hotel Rwanda, Der Untergang, Enron: The Smartest Guys in the Room, Why We Fight, An Inconvenient Truth, Sicko, Persepolis.
+
+Associated tags: earth, police

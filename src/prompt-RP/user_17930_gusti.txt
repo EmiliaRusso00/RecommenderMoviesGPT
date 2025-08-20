@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Speed, Mrs. Doubtfire, Philadelphia, The Silence of the Lambs, Twister, Ransom, Better Off Dead..., Scream, My Best Friend's Wedding, Kiss the Girls, Titanic, As Good as It Gets, Notting Hill, Double Jeopardy, Dogma, Erin Brockovich, Scary Movie, X-Men, What Lies Beneath, Hannibal, The Making of 'Along Came a Spider', Shrek, The Others, The Lord of the Rings: The Fellowship of the Ring, My Big Fat Greek Wedding, Minority Report, Red Dragon, The Lord of the Rings: The Two Towers, Chicago, À la folie... pas du tout, The Life of David Gale, Irréversible, Phone Booth, Identity, X2, Finding Nemo, Runaway Jury, The Lord of the Rings: The Return of the King, Monster, Man on Fire, The Incredibles, Finding Neverland, La mala educación, Crash, The Exorcism of Emily Rose, Flightplan, Brokeback Mountain, Saw II, Derailed, Walk the Line, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Firewall, Inside Man.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

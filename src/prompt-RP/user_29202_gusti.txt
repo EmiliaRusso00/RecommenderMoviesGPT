@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, The Bridges of Madison County, The Shawshank Redemption, Forrest Gump, Jurassic Park, Rudy, The Silence of the Lambs, Twister, The Wizard of Oz, Die Hard, Top Gun, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, Full Metal Jacket, Terminator Salvation, Unforgiven, Men in Black, Saving Private Ryan, The Matrix, The Sixth Sense, Stop Making Sense, Gladiator, The Others, We Were Soldiers, Signs, Big Fish, Crash.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

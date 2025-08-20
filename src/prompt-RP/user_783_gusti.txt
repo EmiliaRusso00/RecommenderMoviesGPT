@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Fargo, The Blues Brothers, Groundhog Day, Raising Arizona, Grosse Pointe Blank, Shrek, The Lord of the Rings: The Fellowship of the Ring, Love Actually, The Lord of the Rings: The Return of the King, 50 First Dates, The Incredibles, V for Vendetta.
+
+Associated tags: boxing, earth, funny, police, whale

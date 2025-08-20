@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Happy Gilmore, Apollo 13, Pulp Fiction, The Silence of the Lambs, Wallace and Gromit in A Close Shave, Vertigo, Rear Window, North by Northwest, Citizen Kane, To Catch a Thief, Dial M for Murder, Wallace & Gromit in The Wrong Trousers, Nuovo Cinema Paradiso, Raiders of the Lost Ark, 12 Angry Men, To Kill a Mockingbird, Psycho, The Blues Brothers, A Grand Day Out with Wallace and Gromit, Amadeus, The Shining, Diva, Groundhog Day, Butch Cassidy and the Sundance Kid, Austin Powers: International Man of Mystery, In & Out, Jackie Brown, As Good as It Gets, There's Something About Mary, My Cousin Vinny, La vita è bella, Austin Powers: The Spy Who Shagged Me, Wayne's World, Do the Right Thing, Meet the Parents, Memento, Undercover Brother, Austin Powers in Goldmember, The School of Rock, 50 First Dates, The Terminal, Lemony Snicket's A Series of Unfortunate Events, Meet the Fockers, The 40 Year Old Virgin.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, satoshi kon, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Fargo, Back to the Future, Back to the Future Part II, Saving Private Ryan, Edward Scissorhands, Mononoke-hime, Girl, Interrupted, Gladiator, Wo hu cang long, The Lord of the Rings: The Fellowship of the Ring, Hotaru no haka, Siu lam juk kau, The Lord of the Rings: The Return of the King, Babylon 5: In the Beginning, Harry Potter and the Prisoner of Azkaban, The Incredibles, Batman, Sin City, Final Fantasy VII: Advent Children, V for Vendetta.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police

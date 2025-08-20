@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Pulp Fiction, The Fugitive, Jurassic Park, Terminator 2: Judgment Day, The Silence of the Lambs, Fargo, Star Wars: Episode V - The Empire Strikes Back, Miller's Crossing, L.A. Confidential, Saving Private Ryan, The Matrix, American Beauty, Fight Club, Shrek, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, Le peuple migrateur, Pirates of the Caribbean: The Curse of the Black Pearl, Casino Royale, Papurika.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

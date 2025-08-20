@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, The Usual Suspects, Utomlyonnye solntsem, Before the Rain, Léon, Pulp Fiction, Bullets Over Broadway, Four Weddings and a Funeral, Wallace & Gromit in The Wrong Trousers, La Femme Nikita, The Killing Fields, Breaking the Waves, The Fifth Element, L.A. Confidential, Starship Troopers, Office Space, The Matrix, eXistenZ, Crna macka, beli macor, Fight Club, Being John Malkovich, Magnolia, The Talented Mr. Ripley, Gladiator, X-Men, Wo hu cang long, O Brother, Where Art Thou?, Traffic, Fa yeung nin wa, Shrek, Le fabuleux destin d'Amélie Poulain, Gosford Park, The Bourne Identity, Sånger från andra våningen, The Hours, Elsker dig for evigt, Les triplettes de Belleville, The Station Agent, Eternal Sunshine of the Spotless Mind, The Bourne Supremacy, Crash, Serenity, The Constant Gardener, A History of Violence, Syriana, Walk the Line, Babel, The Queen.
+
+Associated tags: boxing, dreamdontcatch, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

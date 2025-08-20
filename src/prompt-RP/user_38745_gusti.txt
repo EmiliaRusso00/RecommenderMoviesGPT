@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Fifth Element, The Matrix, Fight Club, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, Primer, The Dark Knight.
+
+Associated tags: earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Taxi Driver, Chung Hing sam lam, The Shawshank Redemption, Blade Runner, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Reservoir Dogs, Monty Python and the Holy Grail, Paths of Glory, One Flew Over the Cuckoo's Nest, Il buono, il brutto, il cattivo., Apocalypse Now, Dip huet seung hung, Miller's Crossing, The Shining, The Big Lebowski, Fear and Loathing in Las Vegas, The Exorcist, Scarface, Tonari no Totoro, Lost in Translation, Kill Bill: Vol. 2, Mou gaan dou, Zatôichi, The Last King of Scotland, Children of Men, Hot Fuzz.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

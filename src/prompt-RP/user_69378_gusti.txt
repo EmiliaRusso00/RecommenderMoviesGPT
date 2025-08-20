@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Clerks., Pulp Fiction, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Reservoir Dogs, Monty Python and the Holy Grail, Apocalypse Now, Full Metal Jacket, Saving Private Ryan, Office Space, Per un pugno di dollari, Lat sau san taam, Equilibrium, 300.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

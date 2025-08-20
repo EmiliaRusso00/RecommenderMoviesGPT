@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Persuasion, Shichinin no samurai, The Bridges of Madison County, Braveheart, Forrest Gump, The Jungle Book, The Secret Garden, Fargo, One Flew Over the Cuckoo's Nest, Apocalypse Now, Psycho, Annie Hall, The Shining, The Deer Hunter, Butch Cassidy and the Sundance Kid, L.A. Confidential, Good Will Hunting, The X Files, Saving Private Ryan, Shakespeare in Love, Fight Club, Network, Gladiator, The Perfect Storm, Tigerland, Snatch., Dracula 2000, A Knight's Tale, American Outlaws, Kate & Leopold, The Lord of the Rings: The Fellowship of the Ring, Hart's War, The Aviator, The Importance of Being Earnest, Gallipoli, The Lord of the Rings: The Two Towers, Phone Booth, Pirates of the Caribbean: The Curse of the Black Pearl, Veronica Guerin, Love Actually, The Lord of the Rings: The Return of the King, Intermission, Dear Frankie, Bridget Jones: The Edge of Reason, The Phantom of the Opera, Ask the Dust, Miami Vice, Apocalypto, The Departed, The Prestige.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: What's Eating Gilbert Grape, The Piano, To Kill a Mockingbird, Amadeus, Life as a House, About a Boy, The Station Agent, Garden State, Crash.
+
+Associated tags: almodovar, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

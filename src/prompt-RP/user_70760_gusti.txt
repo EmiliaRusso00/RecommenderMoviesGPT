@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Kids, Pulp Fiction, Trainspotting, Beautiful Thing, A Clockwork Orange, The Shining, Contact, The Matrix, The Rocky Horror Picture Show, Lola rennt, Le dîner de cons, The Sixth Sense, Fight Club, Todo sobre mi madre, Requiem for a Dream, Memento, Amores perros, The Others, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Y tu mamá también, The Lord of the Rings: The Two Towers, Catch Me If You Can, The Pianist, Cidade de Deus, Nirgendwo in Afrika, 28 Days Later..., Kill Bill: Vol. 2, 21 Grams, The Lord of the Rings: The Return of the King, Monster, Good Bye Lenin!, Kill Bill: Vol. 2, The Machinist, La mala educación, ¿Qué he hecho yo para merecer esto!!, The Island, Movie Crazy, Das Leben der Anderen, Volver, Babel, El laberinto del fauno.
+
+Associated tags: boxing, earth, funny, painter, police, whale

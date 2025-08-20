@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clueless, Shichinin no samurai, The Usual Suspects, Mallrats, Clerks., Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, Tank Girl, Four Weddings and a Funeral, Philadelphia, Sleepless in Seattle, Pretty Woman, Trainspotting, Reservoir Dogs, Cruel Intentions, The Matrix, 10 Things I Hate About You, Go, Lola rennt, Lake Placid, Ferris Bueller's Day Off, Erin Brockovich, Empire Records, Human Traffic, Scary Movie, Pay It Forward, Snatch., Blow, Bridget Jones's Diary, Legally Blonde, Jay and Silent Bob Strike Back, Ocean's Eleven, The Bourne Identity, Finding Nemo, The Italian Job, Charlie's Angels: Full Throttle, Kill Bill: Vol. 2, The Italian Job, The Butterfly Effect, Latter Days, 50 First Dates, Kill Bill: Vol. 2, The Terminal, The Notebook, The Bourne Supremacy, The Incredibles, Spanglish, Hitch, Be Cool, Flightplan, Candy.
+
+Associated tags: boxing, earth, funny, painter, police, whale

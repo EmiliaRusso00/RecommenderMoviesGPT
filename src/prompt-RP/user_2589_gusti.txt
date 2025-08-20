@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, Forrest Gump, Philadelphia, Schindler's List, The Silence of the Lambs, As Good as It Gets, Austin Powers: The Spy Who Shagged Me, X-Men, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Two Towers.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, Braveheart, Die Hard: With a Vengeance, Forrest Gump, The Fugitive, Jurassic Park, Schindler's List, Ghost, Terminator 2: Judgment Day, Batman, Pretty Woman, Cool Runnings, Basic Instinct, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Die Hard, Private Parts, Titanic, There's Something About Mary, Office Space, The Mummy, South Park: Bigger Longer & Uncut, Erin Brockovich, Misery, The Evil Dead, The Mummy Returns, Shrek, The Fast and the Furious, Lean on Me, The Others, The Lord of the Rings: The Fellowship of the Ring, Spider-Man, Star Wars: Episode II - Attack of the Clones, The Lord of the Rings: The Two Towers, 2 Fast 2 Furious, Siu lam juk kau, The Lord of the Rings: The Return of the King, The Passion of the Christ, Shrek 2, Taegukgi hwinalrimyeo, 300.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, time travel, whale

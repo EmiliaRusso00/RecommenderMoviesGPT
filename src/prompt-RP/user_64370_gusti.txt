@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before the Rain, Trzy kolory: Bialy, The Nightmare Before Christmas, Dead Man, Monty Python and the Holy Grail, Down by Law, Akira, Pink Floyd The Wall, Alien³, Fanny och Alexander, Peeping Tom, Ghost Dog: The Way of the Samurai, Solyaris, Tonari no Totoro, The Mists of Avalon, Phenomenon, Aguirre, der Zorn Gottes, Coffee and Cigarettes, El ángel exterminador, Batman, Ruang rak noi nid mahasan.
+
+Associated tags: boxing, dreamdontcatch, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

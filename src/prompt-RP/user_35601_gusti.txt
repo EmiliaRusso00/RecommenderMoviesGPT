@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Twelve Monkeys, The Shawshank Redemption, The Fugitive, Blade Runner, Terminator 2: Judgment Day, The Silence of the Lambs, The Godfather, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Aliens, Goodfellas, The Godfather: Part II, Indiana Jones and the Last Crusade, Gattaca, The Truman Show, Back to the Future Part II, La vita è bella, Lock, Stock and Two Smoking Barrels, Gladiator, Requiem for a Dream, Memento, Scarface, Donnie Darko, Minority Report, Hotaru no haka, Tenkû no shiro Rapyuta, Lost in Translation, Kaze no tani no Naushika, Super Size Me, Shaun of the Dead, Majo no takkyûbin, Hauru no ugoku shiro, Batman Begins, Serenity, The Prestige, Hot Fuzz.
+
+Associated tags: boxing, earth, painter, police, whale

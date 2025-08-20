@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Fugitive, Schindler's List, The Silence of the Lambs, A Time to Kill, The Godfather, Sleepers, Evita, The Little Mermaid, Notting Hill, For Love of the Game, Moulin Rouge!, My Big Fat Greek Wedding, Spider-Man, Chicago, Runaway Jury, Mona Lisa Smile, Spider-Man, Hotel Rwanda, The Phantom of the Opera, Coach Carter, La marche de l'empereur, The Constant Gardener, Little Miss Sunshine, The Pursuit of Happyness, Ratatouille, Fracture, Mr. Brooks, A Mighty Heart, Across the Universe, Gone Baby Gone, 21, Traitor.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, The Godfather, Raiders of the Lost Ark, To Kill a Mockingbird, Cool Hand Luke, Per un pugno di dollari, Per qualche dollaro in più, The Magnificent Seven, The Lord of the Rings: The Return of the King.
+
+Associated tags: earth, police, whale

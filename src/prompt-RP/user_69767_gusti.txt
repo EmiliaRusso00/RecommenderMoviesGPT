@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, Four Weddings and a Funeral, Saving Private Ryan, Gladiator, Bridget Jones's Diary, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Gallipoli, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Seabiscuit, The Lord of the Rings: The Return of the King, Cold Mountain, Troy, Bridget Jones: The Edge of Reason, Un long dimanche de fiançailles, Pride & Prejudice, Memoirs of a Geisha, Pirates of the Caribbean: Dead Man's Chest, Little Miss Sunshine, Pirates of the Caribbean: At World's End, Harry Potter and the Order of the Phoenix, Atonement, Sex and the City.
+
+Associated tags: earth, police

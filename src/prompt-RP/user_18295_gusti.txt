@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Como agua para chocolate, Fargo, Casablanca, The Thin Man, It's a Wonderful Life, Nuovo Cinema Paradiso, Delicatessen, 12 Angry Men, Amadeus, Groundhog Day, Being There, Shine, Gattaca, Pleasantville, La vita è bella, The Matrix, Abre los ojos, South Park: Bigger Longer & Uncut, American Beauty, Todo sobre mi madre, Galaxy Quest, Chicken Run, State and Main, Memento, The Lord of the Rings: The Fellowship of the Ring, Hable con ella, Mies vailla menneisyyttä, Lost in Translation, 21 Grams, The Lord of the Rings: The Return of the King, Good Bye Lenin!, Eternal Sunshine of the Spotless Mind, Team America: World Police, The Incredibles, Der Untergang, Corpse Bride, Capote, Das Leben der Anderen, Volver.
+
+Associated tags: boxing, earth, funny, painter, police, satoshi kon, tim allen

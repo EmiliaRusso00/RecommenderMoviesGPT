@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Independence Day, The X Files, The Prince of Egypt, The Matrix, The Matrix Revolutions, El laberinto del fauno.
+
+Associated tags: boxing, earth, police

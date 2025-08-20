@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Chung Hing sam lam, Trois couleurs: Rouge, Schindler's List, Blade Runner, Wallace and Gromit in A Close Shave, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Singin' in the Rain, Rear Window, North by Northwest, A Fish Called Wanda, Wallace & Gromit in The Wrong Trousers, One Flew Over the Cuckoo's Nest, Psycho, A Grand Day Out with Wallace and Gromit, The Great Dictator, The Unbearable Lightness of Being, Sling Blade, The Big Lebowski, Duo luo tian shi, The Trouble with Harry, The Matrix, El mariachi, High Fidelity, Wo hu cang long, The Magnificent Seven, Lost in La Mancha, Ônibus 174, Touching the Void, Grizzly Man, Wallace & Gromit in The Curse of the Were-Rabbit.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, whale

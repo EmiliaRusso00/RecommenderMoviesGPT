@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Taxi Driver, Vicky Cristina Barcelona, Careful, Vertigo, North by Northwest, 2001: A Space Odyssey, Goodfellas, Raging Bull, Annie Hall, M, The Fly, A Christmas Story, Ferris Bueller's Day Off, The Talented Mr. Ripley, The Hustler, Almost Famous, La passion de Jeanne d'Arc, La belle et la bête, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara, La strada, Tengoku to jigoku, Såsom i en spegel, Hiroshima mon amour, Our Hospitality, The Incredibles, Andrey Rublyov, Brick.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

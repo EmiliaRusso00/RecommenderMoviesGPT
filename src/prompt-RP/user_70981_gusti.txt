@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, The Nightmare Before Christmas, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Hotaru no haka, Tonari no Totoro, Tenkû no shiro Rapyuta, MirrorMask, El laberinto del fauno, Stardust.
+
+Associated tags: earth, police

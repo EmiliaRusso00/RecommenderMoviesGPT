@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Mallrats, Clerks., Star Wars, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Godfather, Die Hard, Reservoir Dogs, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Sting, Dead Poets Society, Good Will Hunting, Rounders, American History X, Office Space, The Matrix, Fight Club, Spaceballs, Dogma, The Boondock Saints, Animal House, O Brother, Where Art Thou?, The Evil Dead, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Kill Bill: Vol. 2, The Last Samurai, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Garden State, The Incredibles, Sin City, Crash, Good Night, and Good Luck., V for Vendetta, Clerks II.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

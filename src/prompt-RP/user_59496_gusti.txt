@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Les yeux sans visage, Blood for Dracula, The Mummy, The Curse of Frankenstein, The Wolf Man, Pit and the Pendulum, The Masque of the Red Death, La morte vivante, La maschera del demonio, Vampiros lesbos, From Dusk Till Dawn, La novia ensangrentada, House of Usher, Suspiria, The Wicker Man, The Phantom of the Opera, La chiesa, Le lac des morts vivants, The Revenge of Frankenstein, Dracula, To the Devil a Daughter, Tenebre, La casa dalle finestre che ridono, The Satanic Rites of Dracula, Kronos, Frankenstein and the Monster from Hell, Kaidan, The Plague of the Zombies, The Vampire Lovers, Countess Dracula, Frankenstein Must Be Destroyed, Terrore nello spazio, Onibaba, L'uccello dalle piume di cristallo.
+
+Associated tags: boxing, earth, medieval, police

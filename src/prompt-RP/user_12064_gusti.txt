@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Pulp Fiction, The Shawshank Redemption, The Nightmare Before Christmas, Trainspotting, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Átame!, Goodfellas, Alien, The Shining, The Killing Fields, Crash, The Big Lebowski, The Matrix, American Beauty, Fight Club, Being John Malkovich, The Green Mile, Papillon, Modern Times, Close Encounters of the Third Kind, Chicken Run, Meet the Parents, Snatch., Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Cidade de Deus, Anger Management, Bad Santa, Big Fish, Shrek 2, Napoleon Dynamite, Kopps, The Village, Shaun of the Dead, Saw, Jeux d'enfants, Lucky Number Slevin, Babel, The Departed, 300, Reign Over Me, Dan in Real Life, Things We Lost in the Fire, Auf der anderen Seite, In Bruges.
+
+Associated tags: boxing, earth, funny, painter, police, whale

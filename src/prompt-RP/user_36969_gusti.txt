@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Star Wars, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, 8½, Back to the Future, Schizopolis, Shichinin no samurai, Blue Velvet, Who Framed Roger Rabbit, Being John Malkovich, Eraserhead, Wo hu cang long, Traffic, Slackers, Naked Lunch, La battaglia di Algeri, Oldeuboi, No Country for Old Men.
+
+Associated tags: earth, painter, police

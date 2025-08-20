@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Trois couleurs: Rouge, Trois couleurs: Bleu, Nuovo Cinema Paradiso, La double vie de Véronique, Breaking the Waves, The Straight Story, Blowup, Stranger Than Paradise, Viskningar och rop, Stroszek, Nóz w wodzie, Aguirre, der Zorn Gottes, La strada, Professione: reporter, Die fetten Jahre sind vorbei, Woyzeck, Babel.
+
+Associated tags: boxing, earth, painter, police, whale

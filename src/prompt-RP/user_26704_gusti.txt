@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Four Rooms, Shichinin no samurai, From Dusk Till Dawn, Pulp Fiction, Reservoir Dogs, The Shining, American History X, Fight Club, Twin Peaks: Fire Walk with Me, Memento, Mulholland Dr., Donnie Darko, Le fabuleux destin d'Amélie Poulain, 21 Grams, Novecento, Mar adentro, Sin City, Little Miss Sunshine.
+
+Associated tags: boxing, earth, funny, painter, police, whale

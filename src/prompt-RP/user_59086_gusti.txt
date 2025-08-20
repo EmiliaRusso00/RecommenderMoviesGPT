@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, Schindler's List, 2001: A Space Odyssey, Secrets & Lies, Reservoir Dogs, Sex, Lies, and Videotape, A Clockwork Orange, Apocalypse Now, Alien, Annie Hall, Local Hero, Dead Poets Society, This Is Spinal Tap, Ponette, Le mépris, Smoke Signals, Tender Mercies, Rosetta, The Filth and the Fury, 'Breaker' Morant, Wonderland, The King of Comedy, Capturing the Friedmans, Lost in Translation, The Station Agent, La dolce vita, Capote, WALL·E.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

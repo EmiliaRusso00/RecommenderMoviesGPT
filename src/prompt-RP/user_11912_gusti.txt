@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Happy Gilmore, Star Wars, Forrest Gump, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Star Wars: Episode VI - Return of the Jedi, La vita è bella, ¡Three Amigos!, The Matrix, Fight Club, Best in Show, Snatch., Memento, Zoolander, Ocean's Eleven, Minority Report, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Garden State, The Incredibles, The Life Aquatic with Steve Zissou, Cinderella Man, Serenity, Stranger Than Fiction.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, satoshi kon

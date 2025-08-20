@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Jumanji, Star Wars, Blade Runner, The Three Musketeers, E.T.: The Extra-Terrestrial, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, Lawrence of Arabia, Star Wars: Episode VI - Return of the Jedi, The Last of the Mohicans, A Few Good Men, The Matrix, Star Wars: Episode I - The Phantom Menace, Superman, Mononoke-hime, The Lord of the Rings: The Fellowship of the Ring, Star Wars: Episode II - Attack of the Clones, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Tonari no Totoro, X2, Tenkû no shiro Rapyuta, Kaze no tani no Naushika, The Lord of the Rings: The Return of the King, Rupan sansei: Kariosutoro no shiro, Majo no takkyûbin, Kurenai no buta, Hauru no ugoku shiro, Star Wars: Episode III - Revenge of the Sith, Mission: Impossible III.
+
+Associated tags: earth, painter, police, whale

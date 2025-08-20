@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Forrest Gump, The Lion King, Mystery Science Theater 3000: The Movie, Men in Black, The Muppet Christmas Carol, The Matrix, Hook, Mission: Impossible, Le fabuleux destin d'Amélie Poulain, The Incredibles.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

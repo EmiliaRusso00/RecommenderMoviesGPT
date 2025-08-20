@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Dances with Wolves, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Independence Day, Willy Wonka & the Chocolate Factory, Sleeper, Bananas, Star Wars: Episode V - The Empire Strikes Back, Army of Darkness, Annie Hall, Harold and Maude, Groundhog Day, Back to the Future, Indiana Jones and the Last Crusade, Star Trek: First Contact, Chasing Amy, The Postman, Back to the Future Part II, Back to the Future Part III, The Matrix, Fight Club, Being John Malkovich, The Time Machine, Moulin Rouge!, Young Einstein, Wet Hot American Summer, K-PAX, The School of Rock, Interstate 60: Episodes of the Road, The Butterfly Effect, Pirates of Silicon Valley, I, Robot, The Producers, Sicko, The Man from Earth, Hancock.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, painter, police, whale

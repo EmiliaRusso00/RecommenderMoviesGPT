@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Apocalypse Now, Alien, Full Metal Jacket, Fight Club, Le fabuleux destin d'Amélie Poulain, Eternal Sunshine of the Spotless Mind.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

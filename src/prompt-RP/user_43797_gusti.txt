@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Kids, The Silence of the Lambs, Trainspotting, Bound, The Apartment, Casablanca, One Flew Over the Cuckoo's Nest, A Clockwork Orange, La Femme Nikita, Groundhog Day, Koyaanisqatsi, L.A. Confidential, The Ice Storm, Gattaca, Where the Wild Things Are, High Art, Labyrinth, Abre los ojos, Fight Club, For Your Eyes Only, Being John Malkovich, Dogma, East Is East, Marathon Man, Dancer in the Dark, Requiem for a Dream, Memento, Amores perros, Wish Upon a Star, Mulholland Dr., Y tu mamá también, Panic Room, The Bourne Identity, The Rules of Attraction, Tonari no Totoro, Cidade de Deus, Laurel Canyon, House of Sand and Fog, Birth, Gegen die Wand, Serenity, Flightplan, Reefer Madness: The Movie Musical.
+
+Associated tags: boxing, earth, painter, police

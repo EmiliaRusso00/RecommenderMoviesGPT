@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Shichinin no samurai, Braveheart, The Birdcage, Apollo 13, Dumb & Dumber, Star Wars, Léon, The Shawshank Redemption, The Crow, Forrest Gump, Jurassic Park, Batman, The Silence of the Lambs, Willy Wonka & the Chocolate Factory, Top Gun, Aliens, Alien, Jaws, Good Will Hunting, The X Files, Pi, Saving Private Ryan, What Dreams May Come, American History X, Lock, Stock and Two Smoking Barrels, The Matrix, Fight Club, Spaceballs, Dogma, The Green Mile, The Boondock Saints, Hook, Enemy at the Gates, Monsters, Inc., Ocean's Eleven, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, The Last Samurai, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Man on Fire, Saw, Batman Begins, V for Vendetta, Cars, Employee of the Month, The Prestige, Bobby.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

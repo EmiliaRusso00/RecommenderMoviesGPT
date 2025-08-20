@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Taxi Driver, Star Wars, The Shawshank Redemption, Schindler's List, The Silence of the Lambs, Beauty and the Beast, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Casablanca, Platoon, Glengarry Glen Ross, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Apocalypse Now, The Godfather: Part II, The Sting, Chinatown, L.A. Confidential, Rain Man, Doctor Zhivago, American History X, The Matrix, American Beauty, Fight Club, Gladiator, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Harry Potter and the Chamber of Secrets, Boyz n the Hood, Mystic River, Million Dollar Baby, Hotel Rwanda, Crash, Good Night, and Good Luck..
+
+Associated tags: boxing, earth, finnish, painter, police, whale

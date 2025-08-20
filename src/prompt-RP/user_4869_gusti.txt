@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Princess Bride, Fantasia, Mononoke-hime, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Tonari no Totoro, Wong Fei Hung, Wong Fei Hung II: Nam yi dong ji keung, Ying xiong, Kaze no tani no Naushika, The Lord of the Rings: The Return of the King, Zatôichi, Super Size Me, The Incredibles, Kurenai no buta, Chinjeolhan geumjassi, Juno.
+
+Associated tags: earth, painter, police

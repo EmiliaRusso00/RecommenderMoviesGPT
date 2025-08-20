@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, Jurassic Park, Terminator 2: Judgment Day, The Rock, Ging chat goo si 3: Chiu kup ging chat, The Mask of Zorro, Total Recall, Gladiator, Harry Potter and the Sorcerer's Stone, Minority Report, The Lord of the Rings: The Two Towers, Gladiator, I, Robot.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

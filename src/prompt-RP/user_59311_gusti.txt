@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Forrest Gump, Schindler's List, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, The Godfather, Citizen Kane, Life of Brian, A Clockwork Orange, The Blues Brothers, The Godfather: Part II, Full Metal Jacket, The Great Dictator, Kolja, La vita è bella, The Matrix, Fight Club, Dogma, The Cider House Rules, Magnolia, Modern Times, O Brother, Where Art Thou?, No Man's Land, Le fabuleux destin d'Amélie Poulain, Hable con ella, Catch Me If You Can, Syriana, Stranger Than Fiction, Helvetica.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

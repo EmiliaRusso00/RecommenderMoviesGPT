@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, My Own Private Idaho, Nashville, The Thin Red Line, Election, Days of Heaven, Fight Club, Badlands, Requiem for a Dream, Finding Forrester, Donnie Darko, Minority Report, Cidade de Deus, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, The New World, Brick, Stick It, The Departed.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

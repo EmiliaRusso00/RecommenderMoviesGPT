@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Shichinin no samurai, The Usual Suspects, Die Hard: With a Vengeance, Forrest Gump, True Lies, In the Line of Fire, Mrs. Doubtfire, Aladdin, Terminator 2: Judgment Day, Pinocchio, The Rock, Eraser, Die Hard, Monty Python and the Holy Grail, Terminator Salvation, Back to the Future, Indiana Jones and the Last Crusade, Liar Liar, The Fifth Element, Contact, Rain Man, Lethal Weapon, The Mask of Zorro, Back to the Future Part II, Indiana Jones and the Temple of Doom, La vita è bella, Enemy of the State, The Matrix, The Sixth Sense, Anna and the King, Erin Brockovich, Shrek, Spy Game, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, Catch Me If You Can, Finding Nemo, The Italian Job, The Lord of the Rings: The Return of the King, The Bourne Supremacy, The Incredibles, Banlieue 13, Live Free or Die Hard.
+
+Associated tags: boxing, earth, excellent characters, painter, police, whale

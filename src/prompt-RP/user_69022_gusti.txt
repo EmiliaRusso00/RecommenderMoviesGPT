@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Total Eclipse, Pulp Fiction, Monty Python and the Holy Grail, One Flew Over the Cuckoo's Nest, Goodfellas, Titanic, Blue Velvet, Memento, Amores perros, Scarface, Vanilla Sky, Cidade de Deus, Big Fish, Mou gaan dou, Vozvrashchenie, Bin-jip, The Prestige, Stardust.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Princess Bride, 12 Angry Men, Goodfellas, The Fifth Element, L.A. Confidential, Saving Private Ryan, Shakespeare in Love, Lola rennt, American Beauty, Ferris Bueller's Day Off, Gladiator, Snatch., Memento, Le professionnel, Cidade de Deus, V for Vendetta, Thank You for Smoking, The Departed, Casino Royale, Hot Fuzz, The Bourne Ultimatum, 3:10 to Yuma, The Mist, I Am Legend, In Bruges, The Dark Knight, WALL·E, Burn After Reading.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

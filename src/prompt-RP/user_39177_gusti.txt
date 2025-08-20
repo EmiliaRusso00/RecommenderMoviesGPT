@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Star Wars, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Back to the Future, The Goonies, The Matrix, The Talented Mr. Ripley, Close Encounters of the Third Kind, Le fabuleux destin d'Amélie Poulain, The Andromeda Strain, Dirty Pretty Things, Lost in Translation, Kill Bill: Vol. 2, Eternal Sunshine of the Spotless Mind, Io non ho paura, Before Sunset, Shaun of the Dead, Hauru no ugoku shiro, Crash, Caché, Factotum, The Descent, Volver, Casino Royale, The Bourne Ultimatum, No Country for Old Men.
+
+Associated tags: almodovar, boxing, earth, painter, police

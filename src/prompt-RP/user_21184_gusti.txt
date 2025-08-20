@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Les misérables, Braveheart, The Shawshank Redemption, Forrest Gump, The Lion King, Aladdin, Beauty and the Beast, Life of Brian, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Groundhog Day, Back to the Future, Indiana Jones and the Last Crusade, Good Will Hunting, As Good as It Gets, Rain Man, Back to the Future Part II, The Sixth Sense, O Brother, Where Art Thou?, Memento, Shrek, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Lord of the Rings: The Two Towers, Cidade de Deus, Pirates of the Caribbean: The Curse of the Black Pearl, Love Actually, Big Fish, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Casablanca, The Maltese Falcon, Sabrina, The Women, Rebecca, Ninotchka, Annie Hall, Trust the Man, M, The Birds, Duo luo tian shi, Guilty by Suspicion, The Haunting, The Spiral Staircase, Fa yeung nin wa, Rashômon, Cat People, Tystnaden, Bom yeoreum gaeul gyeoul geurigo bom, Napoleon Dynamite, Ministry of Fear.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

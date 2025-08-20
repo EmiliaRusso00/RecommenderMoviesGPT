@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Murder in the First, Pulp Fiction, Quiz Show, The Shawshank Redemption, Forrest Gump, The Silence of the Lambs, Breakfast at Tiffany's, Casablanca, The Maltese Falcon, 12 Angry Men, The Shining, Stand by Me, Back to the Future, Cool Hand Luke, The Big Sleep, Indiana Jones and the Last Crusade, Field of Dreams, Donnie Brasco, L.A. Confidential, The Game, Good Will Hunting, As Good as It Gets, Edward Scissorhands, My Cousin Vinny, La vita è bella, Meet Joe Black, The Sixth Sense, Wonder Boys, Double Indemnity, The Virgin Suicides, Almost Famous, Best in Show, Chocolat, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, The Count of Monte Cristo, Minority Report, Adaptation., Mystic River, Eternal Sunshine of the Spotless Mind, Finding Neverland, Fubar, The Corporation, Kiss Kiss Bang Bang, Gone Baby Gone.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

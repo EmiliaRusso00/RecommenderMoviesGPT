@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Pulp Fiction, The Shawshank Redemption, Naked Gun 33 1/3: The Final Insult, Hot Shots! Part Deux, Jurassic Park, Last Action Hero, Blade Runner, Terminator 2: Judgment Day, The Silence of the Lambs, Reservoir Dogs, Aliens, Terminator Salvation, Con Air, Fear and Loathing in Las Vegas, Fight Club, The Boondock Saints, Traffic, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, robots, whale

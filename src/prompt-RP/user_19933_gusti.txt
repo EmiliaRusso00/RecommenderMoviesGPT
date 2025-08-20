@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Strange Days, Blade Runner, Bonnie and Clyde, Star Wars: Episode V - The Empire Strikes Back, Aliens, Alien, Back to the Future, Alien³, Dark City, Back to the Future Part II, TRON, The Matrix, Inside Man, X-Men, The Cell, Tenkû no shiro Rapyuta, Evan Almighty, Terminator 3: Rise of the Machines, Eternal Sunshine of the Spotless Mind, El laberinto del fauno, Children of Men.
+
+Associated tags: earth, painter, police, whale

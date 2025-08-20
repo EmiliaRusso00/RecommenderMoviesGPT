@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, What's Eating Gilbert Grape, Forrest Gump, Citizen Kane, Back to the Future, Back to the Future Part II, Back to the Future Part III, Arlington Road, Shrek, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, Black Hawk Down, Ice Age, Cidade de Deus, Finding Nemo, Big Fish, La meglio gioventù, Napoleon Dynamite, Walk the Line, Paradise Now, Babel.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

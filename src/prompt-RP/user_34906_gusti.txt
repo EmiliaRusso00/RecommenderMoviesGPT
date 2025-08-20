@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Shichinin no samurai, The Usual Suspects, Chung Hing sam lam, Blade Runner, Fargo, The Godfather, Die Hard, Raiders of the Lost Ark, Terminator Salvation, Donnie Brasco, Wag the Dog, The Godfather: Part III, Magnolia, Fa yeung nin wa, About a Boy, Little Miss Sunshine, The Bourne Ultimatum.
+
+Associated tags: boxing, earth, funny, painter, police, whale

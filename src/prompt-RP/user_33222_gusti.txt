@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Nightmare Before Christmas, Trainspotting, Life of Brian, Monty Python and the Holy Grail, The Princess Bride, The Blues Brothers, Fear and Loathing in Las Vegas, Velvet Goldmine, Office Space, The Matrix, The Rocky Horror Picture Show, Dogma, Almost Famous, Hedwig and the Angry Inch, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Importance of Being Earnest, The Lord of the Rings: The Two Towers, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Harry Potter and the Prisoner of Azkaban, Kinky Boots, Shortbus.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, The Usual Suspects, Mallrats, The Shawshank Redemption, Schindler's List, Citizen Kane, Monty Python and the Holy Grail, When Harry Met Sally..., Chasing Amy, Good Will Hunting, Office Space, The Matrix, South Park: Bigger Longer & Uncut, Fight Club, Being John Malkovich, Man on the Moon, The Legend of Bagger Vance, Donnie Darko, Waydowntown, Adaptation., Bend It Like Beckham, Shrek 2, Harry Potter and the Prisoner of Azkaban, The Incredibles, Syriana, Movie Crazy, Little Miss Sunshine, Harry Potter and the Order of the Phoenix.
+
+Associated tags: boxing, earth, painter, police

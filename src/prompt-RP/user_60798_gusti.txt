@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Happy Gilmore, Forrest Gump, Space Jam, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Life of Brian, The Godfather: Part II, Indiana Jones and the Last Crusade, Field of Dreams, Stripes, Rounders, My Cousin Vinny, Back to School, Vacation, Caddyshack, Major League, Zoolander, Ocean's Eleven, Super Troopers, Dodgeball: A True Underdog Story, Ocean's Twelve, Meet the Fockers, Wedding Crashers, Talladega Nights: The Ballad of Ricky Bobby, Vantage Point.
+
+Associated tags: almodovar, boxing, earth, finnish, medieval, painter, police, satoshi kon, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, The Shawshank Redemption, Forrest Gump, Jurassic Park, Ghost, The Silence of the Lambs, Primal Fear, The Godfather, The Godfather: Part II, Field of Dreams, Good Will Hunting, La vita è bella, The Thomas Crown Affair, Fight Club, About a Boy, Eternal Sunshine of the Spotless Mind, Crash, Syriana, Match Point, Juno.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

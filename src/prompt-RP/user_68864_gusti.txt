@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Wallace & Gromit: The Best of Aardman Animation, Kôkaku kidôtai, Wallace and Gromit in A Close Shave, Wallace & Gromit in The Wrong Trousers, Akira, Fear and Loathing in Las Vegas, The Matrix, Mononoke-hime, Creature Comforts, Shrek, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Sen to Chihiro no kamikakushi, X2, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, The Bourne Supremacy, Innocence, Hauru no ugoku shiro, Serenity, Kiss Kiss Bang Bang, Hoodwinked!, Hot Fuzz.
+
+Associated tags: earth, finnish, painter, police

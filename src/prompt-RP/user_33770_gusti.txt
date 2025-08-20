@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Breakfast at Tiffany's, Some Like It Hot, Chocolat, Shrek, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, Dennis the Menace, Pirates of the Caribbean: The Curse of the Black Pearl, War Photographer, Ying xiong, Before Sunset, Finding Neverland, Shi mian mai fu, Everything Is Illuminated, Corpse Bride, Memoirs of a Geisha, Little Miss Sunshine, Paris, je t'aime, Hors de prix, La môme, Across the Universe, Stardust, 2 Days in Paris, Juno, Sweeney Todd: The Demon Barber of Fleet Street, Forgetting Sarah Marshall.
+
+Associated tags: boxing, earth, medieval, painter, police

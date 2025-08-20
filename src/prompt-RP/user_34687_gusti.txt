@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Star Wars, Pulp Fiction, The Shawshank Redemption, The Crow, Forrest Gump, The Lion King, Dazed and Confused, True Romance, The Silence of the Lambs, Beauty and the Beast, Independence Day, Cinderella, Reservoir Dogs, E.T.: The Extra-Terrestrial, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Titanic, Toy Story, The Green Mile, Almost Famous, I Am Sam, Lilo & Stitch, Finding Nemo, Cars.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, When a Man Loves a Woman, Titanic, There's Something About Mary, Message in a Bottle, The Matrix, Runaway Bride, The Green Mile, The Bodyguard, The Perfect Storm, Autumn in New York, The Wedding Planner, Not Without My Daughter, Ice Age, 8 Mile, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Shall We Dance, Flightplan, Ice Age: The Meltdown, The Lake House, Apocalypto, Hannibal Rising, The Last Mimzy, Live Free or Die Hard, The Dark Knight.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

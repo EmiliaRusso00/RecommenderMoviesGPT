@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Apollo 13, Clear and Present Danger, Forrest Gump, Schindler's List, Dances with Wolves, The English Patient, Apocalypse Now, The Right Stuff, Austin Powers: International Man of Mystery, The Full Monty, Good Will Hunting, Lethal Weapon, Saving Private Ryan, Austin Powers: The Spy Who Shagged Me, American Pie, The Sixth Sense, A Christmas Story, Mystery, Alaska, Patriot Games, The Boondock Saints, Animal House, The Patriot, Scary Movie, Remember the Titans, Finding Forrester, Traffic, Twelve O'Clock High, Jay and Silent Bob Strike Back, Life as a House, Black Hawk Down, Orange County, We Were Soldiers, Secondhand Lions, Man on Fire, Dodgeball: A True Underdog Story, Larry the Cable Guy: Health Inspector, Cars, Hot Fuzz, The Bucket List.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

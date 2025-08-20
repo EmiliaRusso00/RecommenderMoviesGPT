@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ai no korîda, Kôkaku kidôtai, Wallace and Gromit in A Close Shave, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 2001: A Space Odyssey, When We Were Kings, Wallace & Gromit in The Wrong Trousers, One Flew Over the Cuckoo's Nest, Apocalypse Now, A Grand Day Out with Wallace and Gromit, M, The Great Dictator, Buffalo '66, The Matrix, American Beauty, Mononoke-hime, Modern Times, The Gold Rush, The Boys of Baraka, Chicken Run, Himalaya - l'enfance d'un chef, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Hotaru no haka, Hable con ella, Japón, Mies vailla menneisyyttä, Le peuple migrateur, Tenkû no shiro Rapyuta, Whale Rider, Ikiru, Lost in Translation, Mon oncle, Les vacances de Monsieur Hulot, Salmer fra kjøkkenet, Zatôichi, The Incredibles, La battaglia di Algeri, A Scanner Darkly, Caché.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

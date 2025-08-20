@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Monty Python and the Holy Grail, A Clockwork Orange, Fight Club, Ghost World.
+
+Associated tags: boxing, earth, painter, police

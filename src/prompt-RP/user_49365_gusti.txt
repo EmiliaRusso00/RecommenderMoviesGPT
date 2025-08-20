@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Braveheart, Star Wars, Léon, The Shawshank Redemption, Schindler's List, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Life of Brian, Monty Python and the Holy Grail, Goodfellas, The Blues Brothers, The Godfather: Part II, The Birds, Fear and Loathing in Las Vegas, Pi, Nineteen Eighty-Four, American History X, The Matrix, Lolita, American Beauty, Fight Club, The Green Mile, Wo hu cang long, Le fabuleux destin d'Amélie Poulain, Black Hawk Down, The Pianist, Cidade de Deus, Gladiator, Oldeuboi, Wallace & Gromit in The Curse of the Were-Rabbit, Lucky Number Slevin, The Departed, No Country for Old Men, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, finnish, painter, police, whale

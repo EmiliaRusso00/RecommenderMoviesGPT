@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, The Godfather, Rear Window, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Goodfellas, Alien, Full Metal Jacket, The Shining, Shichinin no samurai, American History X, Spartacus, Memento, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Der Untergang, Batman Begins, Serenity, Good Night, and Good Luck..
+
+Associated tags: boxing, earth, medieval, painter, police, whale

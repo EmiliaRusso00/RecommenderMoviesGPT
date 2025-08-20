@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Goodfellas, There's Something About Mary, Rain Man, American Beauty, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers.
+
+Associated tags: boxing, earth

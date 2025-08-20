@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Star Wars, The Shawshank Redemption, Blade Runner, The Silence of the Lambs, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, This Is Spinal Tap, The Truman Show, The Matrix, American Beauty, Mononoke-hime, Requiem for a Dream, Finding Nemo, Kill Bill: Vol. 2, Big Fish, Sin City, Walk the Line.
+
+Associated tags: earth, painter, police, whale

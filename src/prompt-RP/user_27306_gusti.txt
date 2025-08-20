@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, Terminator 2: Judgment Day, Amadeus, Groundhog Day, Rocky, Rocky II, The Sixth Sense, American Beauty, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, 8 Mile, The Lord of the Rings: The Two Towers, Boyz n the Hood, Mystic River, Elephant, 50 First Dates, Fong Sai Yuk, Ging chat goo si, Yeopgijeogin geunyeo, Million Dollar Baby, Hotel Rwanda, Kung fu, Jarhead, An Inconvenient Truth, Casino Royale, Rocky Balboa, Gone Baby Gone, The Great Debaters.
+
+Associated tags: boxing, earth, police

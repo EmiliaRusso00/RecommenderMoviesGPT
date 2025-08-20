@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Star Wars, Pulp Fiction, Forrest Gump, Jurassic Park, Reservoir Dogs, Monty Python and the Holy Grail, Austin Powers: International Man of Mystery, There's Something About Mary, Saving Private Ryan, American History X, Office Space, American Beauty, Help!, Fight Club, Scent of a Woman, The Boondock Saints, Snatch., Cast Away, Amores perros, The Bourne Identity, The Pianist, Cidade de Deus, Eternal Sunshine of the Spotless Mind, The Bourne Supremacy, Garden State, Crash, Star Wars: Episode III - Revenge of the Sith, Batman Begins, Syriana, Little Miss Sunshine, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, El laberinto del fauno, The Prestige, Ratatouille, The Namesake, Grindhouse, Knocked Up, The Bourne Ultimatum, No End in Sight, Dan in Real Life, Michael Clayton, The Kite Runner, There Will Be Blood, Charlie Wilson's War, The Dark Knight, WALL·E.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

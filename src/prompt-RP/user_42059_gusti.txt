@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Kids, Natural Born Killers, Pulp Fiction, The Crow, Batman, Dead Man, Die Blechtrommel, Batman Returns, The Matrix, Sleepy Hollow, La grande bouffe, Donnie Darko, Wrong Turn, Secret Window, Kung fu, Sin City, Shoot 'Em Up, Into the Wild, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

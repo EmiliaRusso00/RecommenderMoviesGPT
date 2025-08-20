@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Star Wars, Léon, Pulp Fiction, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, La môme, Romeo + Juliet, Life of Brian, Star Wars: Episode V - The Empire Strikes Back, Brazil, Aliens, Alien, When Harry Met Sally..., L.A. Confidential, Chasing Amy, Pi, La vita è bella, Office Space, Fight Club, Being John Malkovich, Requiem for a Dream, O Brother, Where Art Thou?, Memento, Moulin Rouge!, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Bowling for Columbine, Adaptation., Chicago, Good Bye Lenin!, Eternal Sunshine of the Spotless Mind, Mou gaan dou, Shaun of the Dead, Charlie and the Chocolate Factory, The Life Aquatic with Steve Zissou, Hauru no ugoku shiro, Dear Wendy, Serenity, The Producers.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

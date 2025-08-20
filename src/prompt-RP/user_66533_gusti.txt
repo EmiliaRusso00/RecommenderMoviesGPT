@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Blade Runner, Casablanca, Star Wars: Episode V - The Empire Strikes Back, Der Himmel über Berlin, The Thin Red Line, American Beauty, Fight Club, Zerkalo, Dersu Uzala, Solyaris, Moskva slezam ne verit, Letyat zhuravli, Tonari no Totoro, Tenkû no shiro Rapyuta, Vozvrashchenie, Hauru no ugoku shiro.
+
+Associated tags: earth, painter, police, whale

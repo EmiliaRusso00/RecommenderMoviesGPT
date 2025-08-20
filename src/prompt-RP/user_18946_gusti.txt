@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Pulp Fiction, Forrest Gump, Schindler's List, The Godfather, Citizen Kane, The Godfather: Part II, Back to the Future, Donnie Brasco, The Devil's Advocate, City of Angels, The Godfather: Part III, South Park: Bigger Longer & Uncut, The Sixth Sense, Fight Club, Awakenings, The Green Mile, Scent of a Woman, Scarface, Artificial Intelligence: AI, Original Sin, A Beautiful Mind, Insomnia, 21 Grams, Bom yeoreum gaeul gyeoul geurigo bom, The Incredibles, Scarecrow, Oldeuboi, Million Dollar Baby, Constantine, Sin City, Stay, Match Point, Das Leben der Anderen, The Fountain, The Departed, Into the Wild, American Gangster, I Am Legend, Juno, The Bucket List, Sweeney Todd: The Demon Barber of Fleet Street, The Dark Knight, Kung Fu Panda, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

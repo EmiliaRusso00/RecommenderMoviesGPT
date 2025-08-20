@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, True Lies, Some Like It Hot, Sleeper, Goodfellas, The Manchurian Candidate, The Goonies, The Sixth Sense, Three Kings, Ferris Bueller's Day Off, Lost in Translation, Das Leben der Anderen.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

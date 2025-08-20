@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, The Fugitive, True Romance, Terminator Salvation, Glory, Titanic, As Good as It Gets, The Color Purple, Alive, Boyz n the Hood.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, painter, police, robots, whale

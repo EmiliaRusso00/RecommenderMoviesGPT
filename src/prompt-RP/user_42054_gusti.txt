@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, A Grand Day Out with Wallace and Gromit, Star Trek: First Contact, Star Trek VI: The Undiscovered Country, Star Trek: The Wrath of Khan, The Iron Giant, Galaxy Quest, Unbreakable, Bend It Like Beckham, Love Actually, Fucking Åmål, The Incredibles, D.E.B.S., Wallace & Gromit in The Curse of the Were-Rabbit, Pride & Prejudice, Imagine Me & You, The Man from Earth, Juno.
+
+Associated tags: boxing, earth, police

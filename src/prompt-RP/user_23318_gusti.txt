@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Schindler's List, Fargo, Kôkaku kidôtai, Life of Brian, Monty Python and the Holy Grail, Star Wars: Episode VI - Return of the Jedi, La vita è bella, And Now for Something Completely Different, O Brother, Where Art Thou?, Madadayo, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, Bowling for Columbine, Cidade de Deus, Den enfaldige mördaren, Monty Python Live at the Hollywood Bowl, Lilja 4-ever, Underworld, Fahrenheit 9/11, Dodesukaden, Der Untergang, Sin City, Batman Begins, Family Guy Presents Stewie Griffin: The Untold Story, Sicko.
+
+Associated tags: boxing, earth, finnish, funny, painter, police

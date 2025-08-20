@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Braveheart, Immortal Beloved, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Sleepless in Seattle, True Romance, Swingers, Nuovo Cinema Paradiso, Lawrence of Arabia, Goodfellas, Full Metal Jacket, The Shining, The Unbearable Lightness of Being, Contact, Enemy of the State, Lock, Stock and Two Smoking Barrels, Le violon rouge, Eyes Wide Shut, American Beauty, Patriot Games, The Tao of Steve, Meet the Parents, Snatch., Traffic, Scarface, Sexy Beast, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, Irréversible, Master and Commander: The Far Side of the World, Bad Santa, De zaak Alzheimer, There Will Be Blood.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

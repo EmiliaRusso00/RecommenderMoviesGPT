@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Godfather, The People vs. Larry Flynt, Ran, Chinatown, Dangerous Liaisons, Lock, Stock and Two Smoking Barrels, Bull Durham, Animal House, O Brother, Where Art Thou?, Empire of the Sun, Bridget Jones's Diary, The Wicker Man, Dreams, THX 1138, Harry Potter and the Prisoner of Azkaban, Batman Begins.
+
+Associated tags: boxing, earth, medieval, painter, police

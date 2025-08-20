@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Twelve Monkeys, Shichinin no samurai, Taxi Driver, Léon, Pulp Fiction, The Godfather, A Clockwork Orange, Apocalypse Now, Ran, The Godfather: Part II, Full Metal Jacket, Shichinin no samurai, American Beauty, Fight Club, Cidade de Deus.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

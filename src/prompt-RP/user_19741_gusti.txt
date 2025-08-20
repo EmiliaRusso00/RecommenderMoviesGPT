@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Pulp Fiction, Reservoir Dogs, Goodfellas, Full Metal Jacket, Fear and Loathing in Las Vegas, American History X, Fight Club, Gladiator, Requiem for a Dream, Scarface, Ice Age, Finding Nemo, Oldeuboi, Sin City.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

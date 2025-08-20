@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Shichinin no samurai, Braveheart, Outbreak, The Hudsucker Proxy, The Silence of the Lambs, Trainspotting, The Godfather, Reservoir Dogs, Platoon, Glengarry Glen Ross, A Clockwork Orange, Goodfellas, The Godfather: Part II, Full Metal Jacket, Terminator Salvation, Glory, The Shining, This Is Spinal Tap, The Omen, Jaws, Contact, Conspiracy Theory, L.A. Confidential, Starship Troopers, Good Will Hunting, Saving Private Ryan, American History X, Deliverance, Inside Man, Dead Again, Close Encounters of the Third Kind, Misery, Gladiator, Mad Max, Best in Show, Cast Away, Scarface, A Beautiful Mind, Panic Room, The Bourne Identity, Road to Perdition, The Pianist, 28 Days Later..., The Missing, The Bourne Supremacy, Saw, Cinderella Man, V for Vendetta, Zodiac.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, medieval, painter, police, whale

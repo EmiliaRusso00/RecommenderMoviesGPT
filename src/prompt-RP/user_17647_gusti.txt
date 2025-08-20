@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, Forrest Gump, Stand by Me, Fried Green Tomatoes, As Good as It Gets, Terms of Endearment, The Matrix, American Beauty, The Fisher King, Thelma & Louise, Waking the Dead, Rat Race, About Schmidt, Pirates of the Caribbean: The Curse of the Black Pearl, Big Fish, Shrek 2, Million Dollar Baby, Brokeback Mountain, X-Men: The Last Stand, The Devil Wears Prada.
+
+Associated tags: boxing, earth, funny, painter, police, whale

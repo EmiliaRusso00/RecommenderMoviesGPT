@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Pulp Fiction, Sleepless in Seattle, Ghost, Pretty Woman, Casablanca, Gone with the Wind, Dirty Dancing, Top Gun, When Harry Met Sally..., Austin Powers: International Man of Mystery, A Few Good Men, 10 Things I Hate About You, American Pie, Thelma & Louise, Animal House, Shrek, Harry Potter and the Sorcerer's Stone, Harry Potter and the Chamber of Secrets, Bend It Like Beckham, Man on Fire, Harry Potter and the Goblet of Fire.
+
+Associated tags: boxing, earth, funny, painter, police, whale

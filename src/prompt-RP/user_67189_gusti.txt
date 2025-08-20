@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, Pulp Fiction, Dances with Wolves, Monty Python and the Holy Grail, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, A Clockwork Orange, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Amadeus, Stand by Me, Gandhi, Sling Blade, The Game, Boogie Nights, The Big Lebowski, Fear and Loathing in Las Vegas, Saving Private Ryan, American Beauty, Fight Club, Magnolia, The Virgin Suicides, Requiem for a Dream, O Brother, Where Art Thou?, The Lord of the Rings: The Fellowship of the Ring, Punch-Drunk Love, Adaptation., The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Oldeuboi, The Life Aquatic with Steve Zissou, Sin City, The Hitch Hikers Guide to the Galaxy, Batman Begins, Walk the Line, 300, The Bourne Ultimatum, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

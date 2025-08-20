@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Some Like It Hot, Gone with the Wind, Nuovo Cinema Paradiso, A Clockwork Orange, The Godfather: Part II, La Femme Nikita, The Last Emperor, The Jungle Book, Edward Scissorhands, The Sixth Sense, Goldfinger, The Talented Mr. Ripley, Misery, House of Games, A Beautiful Mind, The Departed.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

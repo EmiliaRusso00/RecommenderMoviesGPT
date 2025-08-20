@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Babe, The Usual Suspects, Flirting with Disaster, Sleeper, Raiders of the Lost Ark, Annie Hall, Manhattan, Groundhog Day, Raising Arizona, The Fifth Element, Starship Troopers, Take the Money and Run, Enemy of the State, Wandâfuru raifu, Barefoot in the Park, Crimes and Misdemeanors, American Movie, Scrooged, The Conversation, Love and Death, The Seven Year Itch, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, Bowling for Columbine, The World of Henry Orient, The Lord of the Rings: The Two Towers, The Life Aquatic with Steve Zissou, Paper Moon, Pieces of April, Desk Set, The Lord of the Rings: The Return of the King, Hellboy, Everything Is Illuminated, Corpse Bride, Kiss Kiss Bang Bang, Chicken Little, Talladega Nights: The Ballad of Ricky Bobby, The Illusionist, The Queen, Cashback, Michael Clayton, The Golden Compass, Iron Man, The Fall, Kung Fu Panda, WALL·E.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

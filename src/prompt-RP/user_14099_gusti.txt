@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Stargate, The Shawshank Redemption, The Blues Brothers, Back to the Future, Pink Floyd The Wall, Saving Private Ryan, Cube, The Matrix, The Rocky Horror Picture Show, South Park: Bigger Longer & Uncut, Ghost Busters, Dogma, Loaded Weapon 1, Wayne's World, Gladiator, The Pianist, Kill Bill: Vol. 2, Paycheck, Kill Bill: Vol. 2, Troy, Resident Evil: Apocalypse, Team America: World Police, Saw, Star Wars: Episode III - Revenge of the Sith, Mr. & Mrs. Smith, Serenity, Underworld: Evolution, V for Vendetta, WALL·E.
+
+Associated tags: earth, police, whale

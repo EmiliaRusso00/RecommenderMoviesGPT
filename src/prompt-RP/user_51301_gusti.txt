@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Forrest Gump, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Back to the Future, Mononoke-hime, Siu nin Wong Fei Hung ji: Tit Ma Lau, Sen to Chihiro no kamikakushi, Tenkû no shiro Rapyuta, Finding Nemo, Siu lam juk kau, Ying xiong, EuroTrip, The Whole Ten Yards, The Incredibles, Majo no takkyûbin, Hauru no ugoku shiro, Memoirs of a Geisha, Stranger Than Fiction, The Prestige, Ratatouille, Rush Hour 3, Definitely, Maybe, Superhero Movie, Harold & Kumar Escape from Guantanamo Bay, WALL·E.
+
+Associated tags: earth, police

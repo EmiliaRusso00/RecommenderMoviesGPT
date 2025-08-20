@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Kids, Hoop Dreams, The Shawshank Redemption, Fresh, The Godfather, 2001: A Space Odyssey, Glengarry Glen Ross, Bob Roberts, Nuovo Cinema Paradiso, Goodfellas, Full Metal Jacket, Annie Hall, Manhattan, Groundhog Day, Unforgiven, L.A. Confidential, Shichinin no samurai, La vita è bella, Rushmore, American Beauty, Todo sobre mi madre, Last Chance Harvey, Girl, Interrupted, Do the Right Thing, High Fidelity, The Guns of Navarone, Requiem for a Dream, In the Bedroom, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Monster's Ball, Shogun Assassin, Hable con ella, 25th Hour, The Hours, My Life Without Me, Être et avoir, The Station Agent, Les invasions barbares, Eternal Sunshine of the Spotless Mind, Bom yeoreum gaeul gyeoul geurigo bom, Ondskan, Sin City, The Squid and the Whale, Thank You for Smoking, Brick, Little Miss Sunshine, El laberinto del fauno, The Darjeeling Limited.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

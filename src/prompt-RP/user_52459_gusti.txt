@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Pulp Fiction, Forrest Gump, Batman, The Silence of the Lambs, Wallace & Gromit: The Best of Aardman Animation, Wallace and Gromit in A Close Shave, The Godfather, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, American Beauty, Das Leben der Anderen.
+
+Associated tags: boxing, earth, funny, painter, police, whale

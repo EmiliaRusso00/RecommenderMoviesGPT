@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Heavenly Creatures, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Brazil, Army of Darkness, Full Metal Jacket, The Fisher King, Eraserhead, Dancer in the Dark, À ma soeur!, 28 Days Later..., Kill Bill: Vol. 2, Janghwa, Hongryeon, Sister My Sister, Boksuneun naui geot, Oldeuboi, Chinjeolhan geumjassi.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, time travel, whale

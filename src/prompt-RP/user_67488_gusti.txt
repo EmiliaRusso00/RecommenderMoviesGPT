@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, A Clockwork Orange, American History X, Fight Club, The Boondock Saints, Cidade de Deus, Oldeuboi.
+
+Associated tags: boxing, earth, funny, painter, police, whale

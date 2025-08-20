@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sabrina, Ace Ventura: When Nature Calls, First Knight, Schindler's List, Liar Liar, Good Will Hunting, As Good as It Gets, City of Angels, There's Something About Mary, The Negotiator, Elizabeth, Meet Joe Black, Scent of a Woman, High Fidelity, Gladiator, Me, Myself & Irene, Billy Elliot, Serendipity, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Ice Age, About a Boy, Mr. Deeds, Love Actually, Troy, The Pursuit of Happyness, Shrek 2, The Incredibles, Kingdom of Heaven, The Longest Yard, Must Love Dogs, Lord of War, Fun with Dick and Jane, Cars, The Pursuit of Happyness, One Night with the King, Fracture, Bella.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

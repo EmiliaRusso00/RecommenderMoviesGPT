@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Gone with the Wind, The Sound of Music, Contact, Les misérables, La vita è bella, The Other Sister, Memento, The Hours, Kill Bill: Vol. 2, Eternal Sunshine of the Spotless Mind, The Notebook, Crash, Somersault.
+
+Associated tags: boxing, earth, police

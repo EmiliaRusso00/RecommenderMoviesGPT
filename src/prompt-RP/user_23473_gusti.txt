@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Il postino, Como agua para chocolate, In the Name of the Father, Much Ado About Nothing, Mary Poppins, The Sound of Music, The Doors, The English Patient, The Full Monty, Roger & Me, Edward Scissorhands, Waking Ned, Wilde, Lola rennt, The Mission, 42: Forty Two Up, The Talented Mr. Ripley, The Way We Were, Cry Freedom, Gosford Park, The Pianist, Le peuple migrateur, 28 Up, Super Size Me, Fahrenheit 9/11, Ray, Majo no takkyûbin, The Corporation, Why We Fight, Good Night, and Good Luck., Ha-Ushpizin, Transamerica, Das Leben der Anderen, Who Killed the Electric Car?, An Inconvenient Truth, The Illusionist, The Painted Veil, Sweet Land, Ratatouille, Copying Beethoven, Once, Sicko, 2 Days in Paris, Juno, Starting Out in the Evening.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, satoshi kon, tim allen, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Die Hard: With a Vengeance, Star Wars, The Shawshank Redemption, 2001: A Space Odyssey, Die Hard, Star Wars: Episode VI - Return of the Jedi, Full Metal Jacket, The Shining, Groundhog Day, The Truman Show, The Matrix, Fight Club, Being John Malkovich, Wo hu cang long, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Enigma, Star Wars: Episode II - Attack of the Clones, Secretary, The Matrix Reloaded, The Matrix Revolutions, Little Miss Sunshine, Stranger Than Fiction, The Prestige, Casino Royale.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

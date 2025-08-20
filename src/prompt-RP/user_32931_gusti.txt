@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Star Wars, Dazed and Confused, Die Hard, Reservoir Dogs, Star Wars: Episode V - The Empire Strikes Back, Apocalypse Now, Goodfellas, This Is Spinal Tap, Boogie Nights, A Bug's Life, The Matrix, Star Wars: Episode I - The Phantom Menace, South Park: Bigger Longer & Uncut, American Beauty, Fight Club, Gladiator, Memento, The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Shaun of the Dead, Little Miss Sunshine, La science des rêves, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, The Departed, Zodiac.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, The Godfather, Vertigo, Casablanca, Citizen Kane, 2001: A Space Odyssey, Il buono, il brutto, il cattivo., 12 Angry Men, Lawrence of Arabia, Alien, Psycho, Full Metal Jacket, The Bridge on the River Kwai, The Shining, Titanic, On the Waterfront, Shichinin no samurai, Scarface, The Magnificent Seven, The Lord of the Rings: The Two Towers.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

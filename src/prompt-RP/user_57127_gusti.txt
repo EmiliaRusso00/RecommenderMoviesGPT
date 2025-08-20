@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, Forrest Gump, Jurassic Park, Schindler's List, Raiders of the Lost Ark, Back to the Future, Scream, The Truman Show, Amistad, The Matrix, Arlington Road, American Beauty, Dancer in the Dark, Empire of the Sun, The Sum of All Fears, Elling, About Schmidt, The Pianist, Cidade de Deus, Evan Almighty, Harry Potter and the Prisoner of Azkaban, Shaun of the Dead, Capricorn One, Hotel Rwanda, Lord of War, Jarhead, V for Vendetta, The Last King of Scotland, Ratatouille, Fracture, Sicko, Superbad, I Am Legend, Juno, The Great Debaters, The Dark Knight.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Godfather, North by Northwest, Casablanca, Chinatown, L.A. Confidential, Enemy of the State, The Servant, Cidade de Deus, All the President's Men, Der Untergang.
+
+Associated tags: boxing, earth, funny, painter, police

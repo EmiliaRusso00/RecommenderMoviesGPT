@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: A Clockwork Orange, Todo sobre mi madre, The Royal Tenenbaums, The Hours, Cidade de Deus, Lost in Translation, Kill Bill: Vol. 2, Elephant, 21 Grams, Good Bye Lenin!, Dogville, Before Sunset, Hotel Rwanda, Capote, Good Night, and Good Luck., Babel, 4 luni, 3 saptamâni si 2 zile, No Country for Old Men.
+
+Associated tags: earth, police

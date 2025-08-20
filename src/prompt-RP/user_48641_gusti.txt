@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Forrest Gump, Trainspotting, Paths of Glory, A Clockwork Orange, Star Wars: Episode VI - Return of the Jedi, The Shining, The Big Lebowski, Lolita, Eyes Wide Shut, Fight Club, Magnolia, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Das Experiment, The Lord of the Rings: The Two Towers, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Sin City, Hoodwinked!, V for Vendetta, Nacho Libre, Little Miss Sunshine, Children of Men, The Prestige, Perfume: The Story of a Murderer, 300.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, Blade Runner, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Rear Window, The Apartment, Raiders of the Lost Ark, Aliens, Terminator Salvation, Halloween, Shichinin no samurai, The Thing, The Texas Chainsaw Massacre, Time Bandits, Lat sau san taam, Animal House, Carnival of Souls, Angustia, Night of the Creeps, Mad Max 2, E tu vivrai nel terrore - L'aldilà, The Blob, The Phantom of the Opera, Female Trouble, Deliria, Zombi 2, Batoru rowaiaru, Grindhouse.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

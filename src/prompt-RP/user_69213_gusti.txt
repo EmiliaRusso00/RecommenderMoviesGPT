@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Braveheart, Star Wars, Léon, The Shawshank Redemption, The Crow, Schindler's List, Kôkaku kidôtai, Life of Brian, Star Wars: Episode V - The Empire Strikes Back, Aliens, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Alien, Das Boot, Stand by Me, Indiana Jones and the Last Crusade, Field of Dreams, The Fifth Element, American History X, Lock, Stock and Two Smoking Barrels, Fight Club, Mononoke-hime, Requiem for a Dream, K-PAX, The Lord of the Rings: The Fellowship of the Ring, Le pacte des loups, Equilibrium, The Lord of the Rings: The Two Towers, Crying Freeman, The Lord of the Rings: The Return of the King, Fong Sai Yuk, Memphis Belle, Talvisota, Million Dollar Baby, Sin City, Batman Begins, Wallace & Gromit in The Curse of the Were-Rabbit.
+
+Associated tags: almodovar, boxing, earth, finnish, painter, police

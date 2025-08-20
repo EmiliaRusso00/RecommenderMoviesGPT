@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Searching for Bobby Fischer, Fargo, Wallace & Gromit: The Best of Aardman Animation, Cold Comfort Farm, Wallace and Gromit in A Close Shave, Breakfast at Tiffany's, Some Like It Hot, Casablanca, Bringing Up Baby, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, The Right Stuff, The Sting, Rosencrantz & Guildenstern Are Dead, Chinatown, Arsenic and Old Lace, Men in Black, Dark City, Mulan, The Producers, The Big Chill, The Prince of Egypt, Shakespeare in Love, The Lady Eve, Galaxy Quest, Chicken Run, Moulin Rouge!, Bill & Ted's Excellent Adventure, Monsters, Inc., Ocean's Eleven, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, Lilo & Stitch, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Finding Nemo, Desk Set, Eternal Sunshine of the Spotless Mind, Kiss Kiss Bang Bang.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

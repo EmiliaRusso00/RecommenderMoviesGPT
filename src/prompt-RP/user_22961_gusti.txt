@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Il postino, Como agua para chocolate, Pulp Fiction, Big Night, Swingers, Monty Python and the Holy Grail, Brazil, Ridicule, Raising Arizona, L.A. Confidential, Lock, Stock and Two Smoking Barrels, The Adventures of Buckaroo Banzai Across the 8th Dimension, Toy Story, Snatch., O Brother, Where Art Thou?, Memento, Le fabuleux destin d'Amélie Poulain, Lost in Translation, Les triplettes de Belleville, The Station Agent, The Incredibles, The Snapper.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, satoshi kon, tim allen, whale

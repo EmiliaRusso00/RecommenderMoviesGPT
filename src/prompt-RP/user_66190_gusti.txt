@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Braveheart, Léon, The Shawshank Redemption, Forrest Gump, The Man Without a Face, Schindler's List, The Secret Garden, Beauty and the Beast, Mission: Impossible III, The Godfather, Platoon, Raiders of the Lost Ark, The Godfather: Part II, Amadeus, Rocky, Chariots of Fire, Saving Private Ryan, Rocky II, Rocky III, Rocky IV, Rocky V, The Matrix, Sister Act, Scent of a Woman, Gladiator, Training Day, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Lord of the Rings: The Two Towers, Chicago, The Pianist, The Lord of the Rings: The Return of the King, Man on Fire, Cinderella Man, The Last King of Scotland, Deja Vu, Rocky Balboa, The Bourne Ultimatum, Michael Clayton, American Gangster.
+
+Associated tags: almodovar, boxing, earth, painter, police

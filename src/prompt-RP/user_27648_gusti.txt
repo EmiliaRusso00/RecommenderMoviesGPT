@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Casino, Friday, Pulp Fiction, The Shawshank Redemption, Speed, True Lies, Philadelphia, Terminator 2: Judgment Day, The Godfather, Die Hard, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, Terminator Salvation, Groundhog Day, Back to the Future, Star Trek: The Wrath of Khan, L.A. Confidential, The Jerk, The Matrix, The Sixth Sense, Airplane!, American Beauty, Fight Club, ...And Justice for All., Blow, Scarface, Training Day.
+
+Associated tags: boxing, earth, excellent characters, finnish, funny, painter, police, time travel, very moving, whale

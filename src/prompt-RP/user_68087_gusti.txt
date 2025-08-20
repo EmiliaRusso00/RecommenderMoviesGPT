@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Il postino, The Shawshank Redemption, The Godfather, The Crying Game, Dead Poets Society, Heathers, The Untouchables, My Cousin Vinny, American History X, Ferris Bueller's Day Off, Fast Times at Ridgemont High, Erin Brockovich, One Day in September, O Brother, Where Art Thou?, Traffic, Memento, Spellbound, All the President's Men, The School of Rock, Eternal Sunshine of the Spotless Mind, Super Size Me, Les choristes, Hotel Rwanda, Murderball, Why We Fight, Good Night, and Good Luck., Thank You for Smoking, Inside Man, X-Men: The Last Stand, Little Miss Sunshine, Wordplay, Hollywoodland.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police

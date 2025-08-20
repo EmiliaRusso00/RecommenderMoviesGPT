@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Desperado, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Mask, Trainspotting, Men in Black, The Truman Show, Pi, Rain Man, The Breakfast Club, Dangerous Liaisons, Edward Scissorhands, The Matrix, Election, American Pie, The Sixth Sense, American Beauty, X-Men, Ghost World, A Beautiful Mind, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Lost in Translation, Kill Bill: Vol. 2, Eternal Sunshine of the Spotless Mind, I'm Reed Fish.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, What's Eating Gilbert Grape, Much Ado About Nothing, The Secret Garden, Dances with Wolves, Rear Window, Amadeus, Dead Poets Society, Shine, Le violon rouge, Chocolat, Bridget Jones's Diary, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Pianist, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, Shi mian mai fu.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

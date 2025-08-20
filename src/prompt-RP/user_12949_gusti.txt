@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Silence of the Lambs, Trainspotting, 2001: A Space Odyssey, Night of the Living Dead, Platoon, Braindead, The Shining, City of Angels, The Exorcist, The Matrix, Star Wars: Episode I - The Phantom Menace, The Green Mile, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, House of 1000 Corpses, Day of the Dead, Kill Bill: Vol. 2, Koroshiya 1, Cannibal Holocaust, Saw, Ôdishon, The Animatrix, Sin City, Hostel, Blood Diamond.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: French Kiss, Schindler's List, Pretty Woman, Mission: Impossible III, The Rock, Men in Black, Chasing Amy, City of Angels, Lethal Weapon, Lethal Weapon, Rush Hour, 10 Things I Hate About You, Tarzan, The Thomas Crown Affair, Dogma, Buffy the Vampire Slayer, High Fidelity, Gladiator, Almost Famous, Wo hu cang long, What Women Want, Finding Forrester, Memento, Shrek, The Score, Rush Hour 2, Le fabuleux destin d'Amélie Poulain, The Bourne Identity, Minority Report, Das Experiment, Die Another Day, Finding Nemo, Big Fish, Shrek 2, I, Robot, The Incredibles, Shi mian mai fu, Assault on Precinct 13, Hitch, Constantine, Sin City, Crash, Mr. & Mrs. Smith, Wedding Crashers.
+
+Associated tags: boxing, earth, painter, police

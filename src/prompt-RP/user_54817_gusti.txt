@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, A Clockwork Orange, Full Metal Jacket, The Shining, Indiana Jones and the Last Crusade, Birdy, Requiem for a Dream, Memento, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Pianist, Elephant, Eternal Sunshine of the Spotless Mind, Movie Crazy.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

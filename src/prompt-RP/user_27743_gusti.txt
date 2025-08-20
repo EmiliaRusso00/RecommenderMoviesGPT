@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Star Wars, The Shawshank Redemption, Forrest Gump, Schindler's List, Sleepless in Seattle, Pretty Woman, Fargo, My Fair Lady, Cinderella, The Sound of Music, On Golden Pond, Goodfellas, Fried Green Tomatoes, Good Will Hunting, As Good as It Gets, Terms of Endearment, Rain Man, Driving Miss Daisy, The Breakfast Club, Waking Ned, Erin Brockovich, Bridget Jones's Diary, Shrek, Monsters, Inc., Bowling for Columbine, Catch Me If You Can, Pirates of the Caribbean: The Curse of the Black Pearl, Shrek 2, Fahrenheit 9/11, Pirates of the Caribbean: Dead Man's Chest.
+
+Associated tags: boxing, earth, funny, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La haine, Taxi Driver, Natural Born Killers, Léon, Pulp Fiction, What's Eating Gilbert Grape, True Romance, Fargo, Trainspotting, The Godfather, Reservoir Dogs, One Flew Over the Cuckoo's Nest, A Clockwork Orange, Goodfellas, The Blues Brothers, The Godfather: Part II, Once Upon a Time in America, The Shining, Butch Cassidy and the Sundance Kid, Jackie Brown, Blue Velvet, Edward Scissorhands, American History X, Magnolia, Requiem for a Dream, Memento, Ghost World, Mulholland Dr., Big Fish, Eternal Sunshine of the Spotless Mind, Sideways, Oldeuboi, Kiss Kiss Bang Bang, Zodiac, Fukushû suru wa ware ni ari, There Will Be Blood, Maradona by Kusturica.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, frightfully accurate political commentary, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Specialist, The Lion King, Last Action Hero, Lethal Weapon, Enemy of the State, Tarzan, Toy Story, Charlie's Angels: Full Throttle, Shrek, Monsters, Inc., Ice Age, Lilo & Stitch, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Brother Bear, Shrek 2, The Incredibles.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

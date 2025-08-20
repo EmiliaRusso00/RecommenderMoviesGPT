@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, The Shawshank Redemption, The Firm, The Godfather, Monty Python and the Holy Grail, When We Were Kings, 12 Angry Men, The Godfather: Part II, Good Will Hunting, A Few Good Men, Lock, Stock and Two Smoking Barrels, Inside Man, O Brother, Where Art Thou?, Memento, Cidade de Deus, Good Night, and Good Luck., The Departed.
+
+Associated tags: boxing, earth, funny, painter, police, whale

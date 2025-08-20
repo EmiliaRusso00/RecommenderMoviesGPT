@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Shichinin no samurai, The Usual Suspects, Taxi Driver, Natural Born Killers, Schindler's List, The Silence of the Lambs, Fargo, The Godfather, Sleepers, Monty Python and the Holy Grail, Alien, The Godfather: Part II, Jaws, Austin Powers: International Man of Mystery, Fear and Loathing in Las Vegas, Lock, Stock and Two Smoking Barrels, Mystery Men, Fight Club, The Commitments, High Fidelity, The Naked Gun 2½: The Smell of Fear, Snatch., Mies vailla menneisyyttä, Eternal Sunshine of the Spotless Mind, The Manchurian Candidate, Saw, Sin City, Hooligans, Pirates of the Caribbean: Dead Man's Chest, Little Miss Sunshine.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

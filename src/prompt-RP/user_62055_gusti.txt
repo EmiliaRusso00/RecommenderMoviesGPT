@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Frankenstein, Aladdin, Snow White and the Seven Dwarfs, Beauty and the Beast, Pinocchio, Singin' in the Rain, My Fair Lady, The Wizard of Oz, Gone with the Wind, Sunset Blvd., All About Eve, An Affair to Remember, Cinderella, The Sound of Music, Victor Victoria, Amadeus, Somewhere in Time, Dracula, Bride of Frankenstein, Grease, Titanic, Dangerous Liaisons, The Little Mermaid, Sleeping Beauty, The King and I, The Mummy, Dracula, Frankenstein, Anna and the King, What Ever Happened to Baby Jane?, Romeo + Juliet, The Invisible Man, The Phantom of the Opera, Cleopatra, Moulin Rouge!, Gentlemen Prefer Blondes, Chicago, House of Wax, La belle et la bête, Jezebel, Mean Girls, Callas Forever, The Phantom of the Opera.
+
+Associated tags: boxing, earth, excellent characters, medieval, painter, police, whale

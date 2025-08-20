@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, The Usual Suspects, La haine, The People vs. Larry Flynt, A Clockwork Orange, Lost Highway, Big, Roger & Me, South Park: Bigger Longer & Uncut, American Beauty, Memento, Amores perros, Y tu mamá también, Believers, Gangster No. 1, Das Experiment, Bowling for Columbine, Frida, Dogville, Super Size Me, Fahrenheit 9/11, The Village, Sideways, Control Room, Vozvrashchenie, The Corporation, The Yes Men, Outfoxed: Rupert Murdoch's War on Journalism, Melinda and Melinda, Das Leben der Anderen, Hard Candy, The Illusionist, El laberinto del fauno, Sicko, The Man from Earth.
+
+Associated tags: boxing, brothers quay, earth, finnish, frightfully accurate political commentary, funny, painter, police, robots, satoshi kon

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Taxi Driver, Star Wars, Pulp Fiction, Forrest Gump, Schindler's List, The Silence of the Lambs, The Godfather, The Maltese Falcon, My Fair Lady, Citizen Kane, The African Queen, Willy Wonka & the Chocolate Factory, Bananas, Bonnie and Clyde, Reservoir Dogs, Monty Python and the Holy Grail, Goodfellas, The Godfather: Part II, Glory, Miller's Crossing, Groundhog Day, Patton, Cool Hand Luke, Young Frankenstein, Being There, Gandhi, Jaws, Raising Arizona, In the Company of Men, The Wedding Singer, Take the Money and Run, The Purple Rose of Cairo, The Elephant Man, Analyze This, Radio Days, The Sixth Sense, Crimes and Misdemeanors, Little Big Man, Dead Again, The Green Mile, Malcolm X, Inherit the Wind, Blazing Saddles, Gardens of Stone, The Man Who Shot Liberty Valance, MASH, Signs, The Passion of the Christ.
+
+Associated tags: boxing, earth, funny, painter, police, whale

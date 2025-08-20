@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sabrina, Judge Dredd, Disclosure, City Slickers II: The Legend of Curly's Gold, Coneheads, Executive Decision, Much Ado About Nothing, North by Northwest, Gone with the Wind, Citizen Kane, Star Trek: The Wrath of Khan, Scream, Gattaca, Honey, I Shrunk the Kids, Superman, South Park: Bigger Longer & Uncut, Almost Famous, Point Break.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Godfather, It's a Wonderful Life, The Sound of Music, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Goodfellas, The Godfather: Part II, Terminator Salvation, Patton, Ben-Hur, Indiana Jones and the Last Crusade, The Hunt for Red October, Chariots of Fire, The Mask of Zorro, The Jungle Book, The Rocketeer, The Untouchables, Rounders, The Matrix, The Dirty Dozen, Goldfinger, From Russia with Love, Thunderball, Toy Story, Patriot Games, Gladiator, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, Silverado, The Lord of the Rings: The Return of the King, The Ten Commandments, You Only Live Twice, Gladiator, The Bourne Supremacy, The Incredibles, Casino Royale, 300, The Bourne Ultimatum.
+
+Associated tags: boxing, earth, medieval, police

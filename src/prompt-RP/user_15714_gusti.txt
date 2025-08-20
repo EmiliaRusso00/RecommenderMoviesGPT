@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Pulp Fiction, The Shawshank Redemption, The Silence of the Lambs, Wallace & Gromit: The Best of Aardman Animation, Wallace and Gromit in A Close Shave, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Stealing Beauty, The Godfather, Sleepers, A Clockwork Orange, Alien, Le grand bleu, The Godfather: Part II, Amadeus, Dracula, The Devil's Advocate, As Good as It Gets, The Last Emperor, Ferris Bueller's Day Off, Fight Club, Who Framed Roger Rabbit, Magnolia, Shrek, Point Break, Le fabuleux destin d'Amélie Poulain, Cidade de Deus, Dreams, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Something's Gotta Give, Dogville, Kill Bill: Vol. 2, Shrek 2, Shi mian mai fu.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

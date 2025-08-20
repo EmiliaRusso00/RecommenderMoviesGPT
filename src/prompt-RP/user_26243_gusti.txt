@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Nightmare Before Christmas, Some Like It Hot, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, The Sting, Back to the Future, Heathers, Beetle Juice, Edward Scissorhands, American Beauty, Todo sobre mi madre, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Hable con ella, Big Fish, Eternal Sunshine of the Spotless Mind, Napoleon Dynamite, The Incredibles, Kung fu.
+
+Associated tags: boxing, earth, medieval, painter, police

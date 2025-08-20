@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Apollo 13, The Shawshank Redemption, The Fugitive, Schindler's List, Some Folks Call It a Sling Blade, Cinderella, The Sound of Music, The Princess Bride, Lawrence of Arabia, Amadeus, Dead Poets Society, When Harry Met Sally..., Star Trek: The Motion Picture, Star Trek III: The Search for Spock, Star Trek IV: The Voyage Home, Everest, Bambi, La vita è bella, A Christmas Story, Toy Story, Gladiator, Chocolat, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Elizabeth: The Golden Age.
+
+Associated tags: almodovar, boxing, earth, police

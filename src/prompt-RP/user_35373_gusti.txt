@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before Sunrise, The Shawshank Redemption, True Romance, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Vertigo, Rear Window, It Happened One Night, Casablanca, 2001: A Space Odyssey, All About Eve, Rebecca, Laura, It's a Wonderful Life, Dial M for Murder, Il buono, il brutto, il cattivo., A Clockwork Orange, C'era una volta il West, The Shining, Forbidden Planet, Breaking the Waves, Lost Highway, Gattaca, Buffalo '66, Midnight Cowboy, Shichinin no samurai, Dune, Guilty by Suspicion, The Thing, The Texas Chainsaw Massacre, American Beauty, Mononoke-hime, Magnolia, City Lights, Modern Times, Dancer in the Dark, Mulholland Dr., Vanilla Sky, Sen to Chihiro no kamikakushi, Hotaru no haka, Solyaris, Cidade de Deus, Dogville, Bom yeoreum gaeul gyeoul geurigo bom, Mean Creek, Million Dollar Baby, Hauru no ugoku shiro, Junebug.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

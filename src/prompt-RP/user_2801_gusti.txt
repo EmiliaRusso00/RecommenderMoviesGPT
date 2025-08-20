@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Speed, True Lies, Terminator 2: Judgment Day, The Silence of the Lambs, Fargo, The Rock, Rear Window, North by Northwest, The Wizard of Oz, Willy Wonka & the Chocolate Factory, Alien, Terminator Salvation, Chinatown, Young Frankenstein, This Is Spinal Tap, Jaws, The Big Lebowski, Office Space, American Beauty, MASH, The Lord of the Rings: The Two Towers, Honogurai mizu no soko kara, I Married a Monster from Outer Space, Planet Terror, Team America: World Police, It's Alive, Colossus: The Forbin Project, Duel, Dark Star, Gojira, Ebirâ, Mosura: Nankai no daiketto, Gojira VS Mekagojira.
+
+Associated tags: boxing, earth, funny, painter, police, whale

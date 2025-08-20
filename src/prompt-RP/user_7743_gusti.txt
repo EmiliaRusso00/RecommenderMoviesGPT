@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Renaissance Man, Tombstone, Dead Poets Society, Groundhog Day, Vegas Vacation, Trial and Error, Six Days Seven Nights, A Few Good Men, My Cousin Vinny, Scent of a Woman, Good Morning, Vietnam, Twins, Shallow Hal, Sudden Impact, Joe Somebody, Blood Work, Sweet Home Alabama, Two Weeks Notice, The In-Laws, Lost in Translation, Something's Gotta Give, The Interpreter, Munich, Stranger Than Fiction.
+
+Associated tags: boxing, earth, police

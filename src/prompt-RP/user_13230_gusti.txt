@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, Good Will Hunting, Meet Joe Black, South Park: Bigger Longer & Uncut, Fight Club, Snatch., Out Cold, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Love Actually, Layer Cake, Wedding Crashers, The 40 Year Old Virgin.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, The Shawshank Redemption, A Clockwork Orange, Le grand bleu, Fear and Loathing in Las Vegas, Buffalo '66, American History X, The Matrix, American Beauty, Fight Club, Being John Malkovich, Mononoke-hime, The Virgin Suicides, Requiem for a Dream, Snatch., Donnie Darko, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Sen to Chihiro no kamikakushi, Cidade de Deus, Fucking Åmål, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, Bom yeoreum gaeul gyeoul geurigo bom, Diarios de motocicleta, Hauru no ugoku shiro, Corpse Bride, Brokeback Mountain, Den brysomme mannen, Gone Baby Gone, Juno.
+
+Associated tags: earth, painter, police

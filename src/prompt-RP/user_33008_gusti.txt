@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, The Silence of the Lambs, Mystery Science Theater 3000: The Movie, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Monty Python and the Holy Grail, The Manchurian Candidate, Pink Floyd The Wall, The Matrix, Fight Club, Donnie Darko, Eternal Sunshine of the Spotless Mind, The Wizard, Grandma's Boy, El laberinto del fauno, The Departed, American Gangster.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

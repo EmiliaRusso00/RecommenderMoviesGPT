@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Doom Generation, Como agua para chocolate, True Romance, Stealing Beauty, Gone with the Wind, Átame!, The Princess Bride, Where the Wild Things Are, Carne trémula, Slums of Beverly Hills, Election, The Blue Lagoon, Fight Club, Mujeres al borde de un ataque de nervios, Todo sobre mi madre, Girl, Interrupted, American Psycho, The Virgin Suicides, Bully, Secretary, The Company of Wolves, Swimming Pool, L'amant, The Dreamers, Good Bye Lenin!, Saved!, The Notebook, La mala educación, Closer, Shi mian mai fu, Jeux d'enfants, ¿Qué he hecho yo para merecer esto!!, Ae Fond Kiss..., Mysterious Skin.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, tim allen, whale

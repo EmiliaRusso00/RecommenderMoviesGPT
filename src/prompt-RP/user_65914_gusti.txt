@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Fargo, The Godfather, Reservoir Dogs, The Godfather: Part II, The Bridge on the River Kwai, Cube, The Matrix, American Beauty, Minority Report, Das Experiment, Kill Bill: Vol. 2, Batoru rowaiaru, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Saw, 11:14, Sin City, Kiss Kiss Bang Bang, Lucky Number Slevin.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, Schindler's List, Saving Private Ryan, Cube, The Matrix, Deliverance, Fight Club, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Saw, The Pursuit of Happyness, Reign Over Me.
+
+Associated tags: boxing, earth, funny, painter, police, whale

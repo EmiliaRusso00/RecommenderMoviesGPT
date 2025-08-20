@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Casino, Babe, The Usual Suspects, Braveheart, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Four Weddings and a Funeral, The Fugitive, Schindler's List, Blade Runner, Apocalypse Now, Goodfellas, Full Metal Jacket, Das Boot, Dead Poets Society, Donnie Brasco, Contact, Good Will Hunting, Jackie Brown, As Good as It Gets, Saving Private Ryan, The Matrix, Pitch Black, Gladiator, Shrek, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Sum of All Fears, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, time travel, whale

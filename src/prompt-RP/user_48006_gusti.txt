@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Crimson Tide, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Lawrence of Arabia, Star Trek VI: The Undiscovered Country, The Last of the Mohicans, Elizabeth, Dogma, Lara Croft: Tomb Raider, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Flesh+Blood, Waterloo, Serenity.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, painter, police, seriously scary, whale

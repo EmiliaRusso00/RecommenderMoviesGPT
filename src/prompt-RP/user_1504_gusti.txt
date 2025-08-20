@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Don Juan DeMarco, The Philadelphia Story, It Happened One Night, Casablanca, All About Eve, Star Trek IV: The Voyage Home, Bacheha-Ye aseman, Guess Who's Coming to Dinner, Monsieur Verdoux, Xizao, Tampopo, Le fabuleux destin d'Amélie Poulain, 28 Up, Safety Last!, Before Sunset, De fem benspænd, The Incredibles, Saving Face, Keeping Mum, Ratatouille.
+
+Associated tags: earth, funny, police

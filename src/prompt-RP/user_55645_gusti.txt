@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Pulp Fiction, What's Eating Gilbert Grape, Dances with Wolves, Pinocchio, Fargo, The Godfather, Strictly Ballroom, One Flew Over the Cuckoo's Nest, A Clockwork Orange, Annie Hall, Chinatown, Young Frankenstein, The Unbearable Lightness of Being, Sling Blade, The Last of the Mohicans, Ordinary People, Boys Don't Cry, The Year of Living Dangerously, O Brother, Where Art Thou?, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara.
+
+Associated tags: almodovar, boxing, brothers quay, earth, excellent characters, finnish, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

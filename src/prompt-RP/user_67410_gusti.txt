@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Searching for Bobby Fischer, The Godfather, The Philadelphia Story, North by Northwest, Some Like It Hot, Casablanca, The Maltese Falcon, The Wizard of Oz, The African Queen, Lawrence of Arabia, The Third Man, Alien, Annie Hall, The Bridge on the River Kwai, Duck Soup, Jaws, Good Will Hunting, On the Waterfront, West Side Story, Chariots of Fire, Saving Private Ryan, The Endurance: Shackleton's Legendary Antarctic Expedition, Fiddler on the Roof, The Lord of the Rings: The Two Towers, Le peuple migrateur, The Lord of the Rings: The Return of the King, The Bourne Supremacy, Wordplay.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

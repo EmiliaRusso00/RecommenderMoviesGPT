@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Hot Shots! Part Deux, Schindler's List, Dances with Wolves, Batman, The Silence of the Lambs, E.T.: The Extra-Terrestrial, One Flew Over the Cuckoo's Nest, Star Wars: Episode VI - Return of the Jedi, Back to the Future, Election, Lola rennt, Gladiator, The Lord of the Rings: The Fellowship of the Ring, X2, The Matrix Revolutions, Star Wars: Episode III - Revenge of the Sith.
+
+Associated tags: boxing, earth, funny, painter, police, whale

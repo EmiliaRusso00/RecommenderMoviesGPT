@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, The Client, Kôkaku kidôtai, 20000 Leagues Under the Sea, Life of Brian, Star Wars: Episode V - The Empire Strikes Back, A Clockwork Orange, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Akira, Austin Powers: International Man of Mystery, The Fifth Element, The Matrix, Total Recall, The Lord of the Rings: The Two Towers, Cowboy Bebop: Tengoku no tobira, WarGames, The Butterfly Effect, Babylon 5: In the Beginning, Babylon 5: A Call to Arms, Children of Dune, I, Robot, The Hitch Hikers Guide to the Galaxy, Star Wars: Episode III - Revenge of the Sith.
+
+Associated tags: boxing, earth, finnish, painter, police

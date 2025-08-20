@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Pulp Fiction, Fargo, Kôkaku kidôtai, Delicatessen, A Clockwork Orange, Army of Darkness, Stalker, Braindead, Bad Taste, The Shining, Akira, Jackie Brown, The Big Lebowski, Fear and Loathing in Las Vegas, Blue Velvet, Fight Club, Falling Down, Spaceballs, The Boondock Saints, Requiem for a Dream, The Return of the Living Dead, Donnie Darko, Stroszek, Sen to Chihiro no kamikakushi, Punch-Drunk Love, Bijitâ Q, Day of the Dead, BubbaHo-Tep, Naked Lunch, Bom yeoreum gaeul gyeoul geurigo bom, Napoleon Dynamite, Shaun of the Dead, Ôdishon, Das Leben der Anderen, Clerks II, Crank, The Departed, Children of Men, Direktøren for det hele, Gwoemul, Papurika, Death Proof, Rocket Science, Eastern Promises, Black Sheep, Wristcutters: A Love Story, He Was a Quiet Man, In Bruges.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

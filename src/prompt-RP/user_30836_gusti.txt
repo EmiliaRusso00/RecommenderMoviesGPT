@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Il postino, Much Ado About Nothing, Rear Window, It Happened One Night, North by Northwest, Some Like It Hot, Casablanca, The Maltese Falcon, Gone with the Wind, Sunset Blvd., Citizen Kane, Notorious, The African Queen, Picnic, 12 Angry Men, To Kill a Mockingbird, The Third Man, The Sting, Strangers on a Train, Shadow of a Doubt, Stalag 17, Double Indemnity, Anatomy of a Murder, Sweet Smell of Success, Witness for the Prosecution, The Big Sleep, Wait Until Dark, Kind Hearts and Coronets, Judgment at Nuremberg, Adam's Rib, A Night at the Opera, To Have and Have Not, The Women, How to Steal a Million, The Caine Mutiny, That's Entertainment!, Random Harvest, I Remember Mama, Good Night, and Good Luck..
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police

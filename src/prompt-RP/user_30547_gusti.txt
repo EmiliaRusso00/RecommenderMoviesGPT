@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Pulp Fiction, The Shawshank Redemption, The Truman Show, Saving Private Ryan, Lock, Stock and Two Smoking Barrels, Fight Club, Almost Famous, Memento, Donnie Darko, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

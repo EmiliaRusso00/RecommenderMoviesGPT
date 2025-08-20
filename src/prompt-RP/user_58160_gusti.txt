@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, Farinelli, Schindler's List, Germinal, Wallace & Gromit: The Best of Aardman Animation, Wallace and Gromit in A Close Shave, Gone with the Wind, Sophie's Choice, Wallace & Gromit in The Wrong Trousers, 12 Angry Men, To Kill a Mockingbird, Big, Bandit Queen, Gods and Monsters, Boys Don't Cry, Matewan, To Sir, with Love, Erin Brockovich, Thelma & Louise, Chicken Run, Aimée & Jaguar, Iris, Akahige, Finding Nemo, Earth, Wit, The Weather Underground, Super Size Me, The Prime of Miss Jean Brodie, Diarios de motocicleta, Vera Drake, Kinsey, The Laramie Project, The Corporation, Million Dollar Baby, Hotel Rwanda, The Constant Gardener, Wallace & Gromit in The Curse of the Were-Rabbit, Brokeback Mountain, An Inconvenient Truth, The Prestige, Hairspray, Sicko, Die Fälscher, Happy-Go-Lucky, King Corn, WALL·E, Kit Kittredge: An American Girl.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

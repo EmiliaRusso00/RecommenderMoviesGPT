@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Twelve Monkeys, Shichinin no samurai, Braveheart, Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, The Crow, Forrest Gump, Robin Hood: Men in Tights, Monty Python and the Holy Grail, Goodfellas, The Last of the Mohicans, Saving Private Ryan, Heroes, La vita è bella, American History X, The Matrix, Austin Powers: The Spy Who Shagged Me, Fight Club, Gladiator, Enemy at the Gates, Freddy Got Fingered, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Minority Report, Attila, The Lord of the Rings: The Two Towers, The Matrix Reloaded, Kill Bill: Vol. 2, The Last Samurai, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Shi mian mai fu, The Animatrix, Sin City, V for Vendetta, Lucky Number Slevin, The Fountain, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, The Prestige, 300, The Simpsons Movie.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

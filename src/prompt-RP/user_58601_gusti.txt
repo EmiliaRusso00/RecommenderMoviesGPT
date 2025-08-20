@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Desperado, What's Eating Gilbert Grape, The Nightmare Before Christmas, Life of Brian, Young Frankenstein, Austin Powers: International Man of Mystery, Edward Scissorhands, Austin Powers: The Spy Who Shagged Me, Sleepy Hollow, Toy Story, Chocolat, Sen to Chihiro no kamikakushi, Tonari no Totoro, Pirates of the Caribbean: The Curse of the Black Pearl, Finding Neverland, Majo no takkyûbin, Charlie and the Chocolate Factory, Pirates of the Caribbean: Dead Man's Chest.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

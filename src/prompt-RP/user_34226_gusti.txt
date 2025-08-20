@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Bottle Rocket, Waterworld, Pulp Fiction, Terminator 2: Judgment Day, Batman, Dead Man, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Reservoir Dogs, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, A Clockwork Orange, Apocalypse Now, Army of Darkness, The Shining, The Big Lebowski, Rushmore, Office Space, Ghost Busters, The Royal Tenenbaums, Lost in Translation, Primer, Sideways, The Life Aquatic with Steve Zissou, Brick, Hot Rod, No Country for Old Men, There Will Be Blood.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

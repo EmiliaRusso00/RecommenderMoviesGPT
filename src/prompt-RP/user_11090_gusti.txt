@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, Shichinin no samurai, The Shawshank Redemption, Forrest Gump, Schindler's List, Full Metal Jacket, And the Band Played On, La vita è bella, American History X, American Beauty, The Green Mile, Gladiator, Almost Famous, Cidade de Deus, Garden State, Hotel Rwanda, Crash, Harry Potter and the Goblet of Fire, Thank You for Smoking, The Departed, Hot Fuzz, 300, Harry Potter and the Order of the Phoenix, Into the Wild, The Man from Earth, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, time travel, whale

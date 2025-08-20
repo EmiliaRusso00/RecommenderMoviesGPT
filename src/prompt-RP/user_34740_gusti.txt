@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, From Dusk Till Dawn, Star Wars, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Hudsucker Proxy, Blade Runner, Terminator 2: Judgment Day, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Aliens, Il buono, il brutto, il cattivo., A Clockwork Orange, Star Wars: Episode VI - Return of the Jedi, Alien, Army of Darkness, The Godfather: Part II, Once Upon a Time in America, Terminator Salvation, Back to the Future, Pink Floyd The Wall, The Omen, Starship Troopers, Alien³, Labyrinth, Saving Private Ryan, Big, Tommy, Total Recall, Misery, Predator, Per qualche dollaro in più, Star Wars: Episode II - Attack of the Clones, Sen to Chihiro no kamikakushi, Equilibrium, Kill Bill: Vol. 2, Soldaat van Oranje, The Hitcher, Duel, Sin City, Star Wars: Episode III - Revenge of the Sith, Batman Begins, The 40 Year Old Virgin.
+
+Associated tags: boxing, earth, funny, painter, police, whale

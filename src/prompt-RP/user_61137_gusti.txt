@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, The Godfather, Casablanca, Apocalypse Now, The Godfather: Part II, Per un pugno di dollari, The Magnificent Seven, Los lunes al sol, Million Dollar Baby.
+
+Associated tags: earth, police

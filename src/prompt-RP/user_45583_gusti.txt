@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Blade Runner, The Godfather, When We Were Kings, One Flew Over the Cuckoo's Nest, A Clockwork Orange, Apocalypse Now, Goodfellas, Alien, Ran, Psycho, Raging Bull, Chinatown, The Untouchables, American Beauty, Being John Malkovich, The Hustler, The Virgin Suicides, Blowup, Traffic, Y tu mamá también, Cidade de Deus, Lost in Translation, Eternal Sunshine of the Spotless Mind, Sideways, Nochnoy dozor, Match Point.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

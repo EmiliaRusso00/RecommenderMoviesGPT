@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Twelve Monkeys, The Usual Suspects, Braveheart, Mallrats, Pulp Fiction, The Shawshank Redemption, Terminator 2: Judgment Day, The Godfather, Life of Brian, Monty Python and the Holy Grail, The Princess Bride, The Godfather: Part II, Grosse Pointe Blank, The Fifth Element, The Big Lebowski, Rain Man, Office Space, Lock, Stock and Two Smoking Barrels, The Matrix, American Beauty, Fight Club, Mononoke-hime, Gladiator, Snatch., O Brother, Where Art Thou?, Memento, Zoolander, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, Super Troopers, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, The Matrix Reloaded, The Matrix Revolutions, The Lord of the Rings: The Return of the King, I Heart Huckabees, Batman Begins, V for Vendetta, Talladega Nights: The Ballad of Ricky Bobby, Children of Men, No End in Sight.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: American History X, Lola rennt, Fight Club, Memento, Der Krieger und die Kaiserin, The Lord of the Rings: The Fellowship of the Ring, Cidade de Deus, Elsker dig for evigt, Lilja 4-ever, Good Bye Lenin!, Dogville, Boksuneun naui geot, Oldeuboi, Hotel Rwanda, Der Untergang, Kung fu, Sin City, Crash, The Constant Gardener, Breakfast on Pluto, Transamerica, Volver.
+
+Associated tags: boxing, earth, painter

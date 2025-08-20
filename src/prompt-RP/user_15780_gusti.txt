@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Il postino, Utomlyonnye solntsem, The Adventures of Priscilla, Queen of the Desert, The Remains of the Day, Singin' in the Rain, Vertigo, The African Queen, The Crying Game, Lawrence of Arabia, The Deer Hunter, The Birds, Jules et Jim, La ciociara, Musíme si pomáhat, A Beautiful Mind, Orfeu Negro, At First Sight, Sommarnattens leende, Good Night, and Good Luck..
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

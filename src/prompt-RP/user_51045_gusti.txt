@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, The Shawshank Redemption, The Godfather, 12 Angry Men, Goodfellas, Police Academy, Police Academy 5: Assignment: Miami Beach, The Matrix, The Sixth Sense, Requiem for a Dream, Memento, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Hotel Rwanda.
+
+Associated tags: boxing, earth, funny, painter, police, whale

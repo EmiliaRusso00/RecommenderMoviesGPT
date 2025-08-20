@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Powder, Shichinin no samurai, Die Hard: With a Vengeance, Pulp Fiction, The Shawshank Redemption, Tommy Boy, Clear and Present Danger, Terminator 2: Judgment Day, Batman, Swingers, Reservoir Dogs, Top Gun, The Abyss, Monty Python and the Holy Grail, The Princess Bride, Apocalypse Now, Alien, Stand by Me, Jerry Maguire, Austin Powers: International Man of Mystery, Good Will Hunting, Saving Private Ryan, The Jerk, Romancing the Stone, Office Space, The Matrix, Austin Powers: The Spy Who Shagged Me, American Pie, Big, Total Recall, Dogma, Animal House, Caddyshack, Gladiator, X-Men, What About Bob?, Charlie's Angels: Full Throttle, Beverly Hills Cop, The Bourne Identity, Chicago, Old School, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, Big Fish, Kill Bill: Vol. 2, Sideways, Crash, Wedding Crashers, The 40 Year Old Virgin, Little Miss Sunshine.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

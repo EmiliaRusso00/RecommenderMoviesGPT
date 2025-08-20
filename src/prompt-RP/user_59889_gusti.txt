@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Silence of the Lambs, Mr. Smith Goes to Washington, Star Wars: Episode V - The Empire Strikes Back, Goodfellas, Alien, Psycho, Das Boot, La Femme Nikita, Sling Blade, Private Parts, Driving Miss Daisy, Cocoon, Dog Day Afternoon, Do the Right Thing, Snatch., Lilies of the Field, Cidade de Deus, Eternal Sunshine of the Spotless Mind, Born Into Brothels: Calcutta's Red Light Kids, Million Dollar Baby, Hotel Rwanda, Der Untergang, Cinderella Man, Thank You for Smoking, An Inconvenient Truth, Little Miss Sunshine, The Queen, El laberinto del fauno, The Last King of Scotland, Letters from Iwo Jima, 3:10 to Yuma, American Gangster, No Country for Old Men, The Kite Runner, Iron Man.
+
+Associated tags: boxing, earth, painter, police

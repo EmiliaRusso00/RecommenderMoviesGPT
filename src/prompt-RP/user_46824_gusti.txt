@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Parent Trap, Blue Crush, What a Girl Wants, Agent Cody Banks, Another Cinderella Story, Into the Blue, Take the Lead, High School Musical, Step Up, Step Up 2: The Streets, WALL·E, High School Musical, High School Musical 3: Senior Year.
+
+Associated tags: earth

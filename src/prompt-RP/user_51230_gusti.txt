@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Muppet Treasure Island, The Little Rascals, The Silence of the Lambs, The Godfather, Willy Wonka & the Chocolate Factory, Monty Python and the Holy Grail, The Princess Bride, The Godfather: Part II, American History X, The Boondock Saints, Saving Grace, Les rivières pourpres, Harry Potter and the Sorcerer's Stone, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Pianist, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, Dune, Shrek 2, Wallace & Gromit in The Curse of the Were-Rabbit, Pirates of the Caribbean: Dead Man's Chest, 300, Pirates of the Caribbean: At World's End.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Utomlyonnye solntsem, Léon, Trois couleurs: Rouge, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Wallace & Gromit in The Wrong Trousers, Lawrence of Arabia, Der Himmel über Berlin, Das Boot, Bis ans Ende der Welt, Hamlet, Dark City, Hurlyburly, La vie rêvée des anges, Lola rennt, American Beauty, Titus, The End of Violence, La lengua de las mariposas, Dancer in the Dark, Requiem for a Dream, You Can Count on Me, The Million Dollar Hotel, Der Krieger und die Kaiserin, The Lord of the Rings: The Fellowship of the Ring, La stanza del figlio, Lost in Translation, Kill Bill: Vol. 2, In America, House of Sand and Fog, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Winterschläfer, Born Into Brothels: Calcutta's Red Light Kids, Don't Come Knocking, Das Leben der Anderen, Little Miss Sunshine, There Will Be Blood.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Pulp Fiction, The Shawshank Redemption, The Silence of the Lambs, The Apartment, Some Like It Hot, The Matrix, The Dark Knight.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

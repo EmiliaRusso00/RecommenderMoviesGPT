@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, A Clockwork Orange, Pink Floyd The Wall, The Truman Show, The Matrix, Lola rennt, Fight Club, Le fabuleux destin d'Amélie Poulain, Ice Age, Sen to Chihiro no kamikakushi, Les triplettes de Belleville, Big Fish, Eternal Sunshine of the Spotless Mind, Alexis Zorbas, Batman Begins, La science des rêves, El laberinto del fauno, Ratatouille, Persepolis, Auf der anderen Seite, Juno, Funny Games U.S., The X Files: I Want to Believe.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

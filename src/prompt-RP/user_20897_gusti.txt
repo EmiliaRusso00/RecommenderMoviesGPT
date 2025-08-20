@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Star Wars, The Shawshank Redemption, Terminator 2: Judgment Day, Life of Brian, Monty Python and the Holy Grail, Star Wars: Episode VI - Return of the Jedi, Alien, Indiana Jones and the Last Crusade, Der Name der Rose, The Matrix, Per un pugno di dollari, Fight Club, Gladiator, Requiem for a Dream, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Battlestar Galactica, Kingdom of Heaven, Star Wars: Episode III - Revenge of the Sith, V for Vendetta, The Prestige, Casino Royale, The Bourne Ultimatum, No Country for Old Men, The Dark Knight, Iron Man.
+
+Associated tags: almodovar, boxing, earth, painter, police

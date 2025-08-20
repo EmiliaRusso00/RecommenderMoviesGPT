@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Vertigo, It Happened One Night, 2001: A Space Odyssey, The Third Man, Ran, Raging Bull, Manhattan, The Graduate, 8½, Groundhog Day, Down by Law, Da hong deng long gao gao gua, On the Waterfront, Shichinin no samurai, Who's Afraid of Virginia Woolf?, Le notti di Cabiria, Les quatre cents coups, The General, The Last Picture Show, Memento, Mulholland Dr., Cet obscur objet du désir, Aguirre, der Zorn Gottes, Persona, Scener ur ett äktenskap, Ugetsu monogatari, La jetée, I vitelloni, Capote, Walk the Line.
+
+Associated tags: boxing, brothers quay, earth, finnish, medieval, painter, police, whale

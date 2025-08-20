@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Twelve Monkeys, The Usual Suspects, Léon, Pulp Fiction, The Shawshank Redemption, Trainspotting, 2001: A Space Odyssey, A Fish Called Wanda, Life of Brian, The People vs. Larry Flynt, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, Terminator Salvation, Back to the Future, Akira, L.A. Confidential, The Truman Show, The Big Lebowski, Lola rennt, American Beauty, Who Framed Roger Rabbit, Requiem for a Dream, Memento, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Lost in Translation, Mystic River, 21 Grams, Big Fish, Eternal Sunshine of the Spotless Mind, Bom yeoreum gaeul gyeoul geurigo bom, Sin City, Walk the Line, 300.
+
+Associated tags: boxing, earth, funny, painter, police, whale

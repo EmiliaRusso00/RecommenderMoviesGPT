@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, The Sound of Music, Evita, Ever After, La vita è bella, Le violon rouge, The Thomas Crown Affair, American Beauty, Gladiator, Saving Grace, Remember the Titans, Chocolat, Finding Forrester, Moulin Rouge!, Zoolander, My Big Fat Greek Wedding, Bend It Like Beckham, Love Actually.
+
+Associated tags: boxing, earth, painter, police, whale

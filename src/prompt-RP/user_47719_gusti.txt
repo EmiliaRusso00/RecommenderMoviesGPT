@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, To Wong Foo Thanks for Everything, Julie Newmar, Forrest Gump, The Lion King, The Hudsucker Proxy, Wallace and Gromit in A Close Shave, My Fair Lady, Wallace & Gromit in The Wrong Trousers, Office Space, American Beauty, The Green Mile, Dancer in the Dark, Moulin Rouge!, Serendipity, Donnie Darko, Le fabuleux destin d'Amélie Poulain, How to Kill Your Neighbor's Dog, About a Boy, 28 Days Later..., The Station Agent, Eternal Sunshine of the Spotless Mind, Janghwa, Hongryeon, Harry Potter and the Prisoner of Azkaban, Dear Frankie, Un long dimanche de fiançailles, Born Into Brothels: Calcutta's Red Light Kids, Million Dollar Baby, Crash, Serenity, Harry Potter and the Goblet of Fire, Walk the Line, King Kong, United 93, Cars, The Lake House, Clerks II, La science des rêves, The Prestige, Ratatouille, Atonement, Mr. Magorium's Wonder Emporium.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

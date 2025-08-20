@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Bullets Over Broadway, Manhattan Murder Mystery, Fargo, Wallace & Gromit: The Best of Aardman Animation, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Everyone Says I Love You, Shall We Dance, Duck Soup, The Great Dictator, Gandhi, Hamlet, The Big Lebowski, Rang-e khoda, No Way Out, East Is East, Africa: The Serengeti, Monsoon Wedding, Spellbound, Animal Crackers, The Day of the Jackal, Murder on the Orient Express, Million Dollar Baby, Match Point, Michael Clayton.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, From Dusk Till Dawn, Dumb & Dumber, Pulp Fiction, Forrest Gump, Wallace & Gromit in The Wrong Trousers, Aliens, Alien, Braindead, Evil Dead II, The Fifth Element, The Exorcist, The Thing, The Matrix, Ghost Busters, American Beauty, Fight Club, What Ever Happened to Baby Jane?, The Lord of the Rings: The Fellowship of the Ring, Resident Evil, Y tu mamá también, Hotaru no haka, Dog Soldiers, Bijitâ Q, The Lord of the Rings: The Two Towers, Mies vailla menneisyyttä, Kill Bill: Vol. 2, The Return, The Lord of the Rings: The Return of the King, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Kung Fu Panda.
+
+Associated tags: boxing, earth, funny, painter, police, whale

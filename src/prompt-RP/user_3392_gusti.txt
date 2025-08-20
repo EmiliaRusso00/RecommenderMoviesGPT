@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Dumb & Dumber, Pulp Fiction, Terminator 2: Judgment Day, The Godfather, Mr. Smith Goes to Washington, Die Hard, Reservoir Dogs, 12 Angry Men, The Big Lebowski, There's Something About Mary, Saving Private Ryan, The Matrix, The Sixth Sense, American Beauty, Falling Down, Dog Day Afternoon, Animal House, The Naked Gun: From the Files of Police Squad!, Requiem for a Dream, Memento, A Beautiful Mind, Kill Bill: Vol. 2, Dawn of the Dead, Kill Bill: Vol. 2, Spider-Man, Sin City, Crash, The Departed, Mr. Brooks, The Simpsons Movie, Superbad, Planet Terror, [Rec], Cloverfield, Kung Fu Panda, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mr. Holland's Opus, Braveheart, Apollo 13, Star Wars, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Four Weddings and a Funeral, Schindler's List, Dances with Wolves, Fargo, One Flew Over the Cuckoo's Nest, Dead Poets Society, The Shining, Stand by Me, Unforgiven, Back to the Future, Gandhi, The Killing Fields, When Harry Met Sally..., Shine, Sling Blade, Prefontaine, Austin Powers: International Man of Mystery, Contact, The Full Monty, Stripes, Amistad, Good Will Hunting, Rain Man, Saving Private Ryan, La vita è bella, Fletch, Pale Rider, Christmas Vacation, Patch Adams, Night Shift, American Pie, A Christmas Story, Deliverance, High Plains Drifter, Awakenings, Fast Times at Ridgemont High, American Flyers, Erin Brockovich, Animal House, Caddyshack, The Tao of Steve, Chocolat, Traffic, Shrek, A Beautiful Mind, Bowling for Columbine, Hotel Rwanda, Walk the Line.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

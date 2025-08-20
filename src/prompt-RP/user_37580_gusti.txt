@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Screamers, Braveheart, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, True Lies, Schindler's List, Dances with Wolves, Wallace and Gromit in A Close Shave, The Godfather, Wallace & Gromit in The Wrong Trousers, Good Will Hunting, Saving Private Ryan, American History X, The Matrix, American Beauty, Le fabuleux destin d'Amélie Poulain, The Butterfly Effect, Babel.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

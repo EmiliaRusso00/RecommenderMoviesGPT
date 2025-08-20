@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, La cité des enfants perdus, Twelve Monkeys, Taxi Driver, Star Wars, Blade Runner, Trainspotting, The Godfather, 2001: A Space Odyssey, A Clockwork Orange, Star Wars: Episode VI - Return of the Jedi, Goodfellas, Le grand bleu, The Godfather: Part II, Gattaca, Pi, The Exorcist, Blade, Cube, American History X, Abre los ojos, The Blair Witch Project, Pitch Black, Ghost Dog: The Way of the Samurai, Jacob's Ladder, Donnie Darko, Vanilla Sky, Tesis, Sen to Chihiro no kamikakushi, The Ring, Equilibrium, Tonari no Totoro, Zong heng si hai, Batoru rowaiaru, The Butterfly Effect, Dobermann, Jin-Rô, The Grudge, The Machinist, Ôdishon, Bin-jip, Sin City, Haute tension, The Descent, Lucky Number Slevin, WALL·E.
+
+Associated tags: boxing, earth, painter, police, whale

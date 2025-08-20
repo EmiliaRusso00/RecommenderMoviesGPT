@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Blade Runner, The Nightmare Before Christmas, 2001: A Space Odyssey, Brazil, Il buono, il brutto, il cattivo., Apocalypse Now, Der Himmel über Berlin, 8½, M, Dark City, Blue Velvet, Pleasantville, Mujeres al borde de un ataque de nervios, Sleepy Hollow, Todo sobre mi madre, Mulholland Dr., Donnie Darko, El espinazo del diablo, Sen to Chihiro no kamikakushi, Hable con ella, Les triplettes de Belleville, Eternal Sunshine of the Spotless Mind, La mala educación, Nochnoy dozor, Volver, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Il postino, Braveheart, The Crow, Schindler's List, Aladdin, Mary Poppins, Sleepers, E.T.: The Extra-Terrestrial, The Truman Show, One Hundred and One Dalmatians, La vita è bella, The Matrix, The Sixth Sense, The Green Mile, Ladyhawke, Shrek, 25th Hour, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Charlie and the Chocolate Factory, Family Guy Presents Stewie Griffin: The Untold Story, La tigre e la neve.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

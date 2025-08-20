@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Santa Claus, Forrest Gump, Sleepless in Seattle, The Godfather, The Philadelphia Story, The Princess Bride, Back to the Future, When Harry Met Sally..., The Truman Show, Music from Another Room, Hocus Pocus, Sleeping Beauty, Sixteen Candles, Shakespeare in Love, Christmas Vacation, You've Got Mail, ¡Three Amigos!, Notting Hill, Vacation, Big, Ferris Bueller's Day Off, Trading Places, Last Chance Harvey, America's Sweethearts, Turner & Hooch, Serendipity, Harry Potter and the Sorcerer's Stone, The Sandlot, My Big Fat Greek Wedding, How to Lose a Guy in 10 Days, Pirates of the Caribbean: The Curse of the Black Pearl, Love Actually, Chitty Chitty Bang Bang, Secret Window, Raising Helen, Saved!, The Notebook, The Incredibles, Yours, Mine and Ours, A Lot Like Love, Crash, The Skeleton Key, Harry Potter and the Goblet of Fire, Memoirs of a Geisha, Casino Royale, Blood Diamond, Knocked Up, Superbad, American Gangster, Juno.
+
+Associated tags: boxing, earth, police

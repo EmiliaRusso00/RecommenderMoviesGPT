@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Utomlyonnye solntsem, A Little Princess, Schindler's List, My Fair Lady, Dirty Dancing, One Flew Over the Cuckoo's Nest, Stalker, Dead Poets Society, Groundhog Day, As Good as It Gets, Rain Man, La vita è bella, You've Got Mail, The Sixth Sense, Awakenings, The Fisher King, The Green Mile, Scent of a Woman, City Lights, The Karate Kid, Good Morning, Vietnam, Modern Times, The Gold Rush, Bridget Jones's Diary, A Beautiful Mind, Ballada o soldate, How to Steal a Million, The Maltese Falcon, The Immigrant.
+
+Associated tags: boxing, earth, painter, police, whale

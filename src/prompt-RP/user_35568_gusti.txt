@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Apollo 13, The Shawshank Redemption, Forrest Gump, The Sound of Music, Willy Wonka & the Chocolate Factory, Monty Python and the Holy Grail, Full Metal Jacket, Das Boot, La vita è bella, American History X, You've Got Mail, Lock, Stock and Two Smoking Barrels, The Hurricane, Wayne's World, Requiem for a Dream, Cast Away, Africa: The Serengeti, Le fabuleux destin d'Amélie Poulain, Bowling for Columbine, Cidade de Deus, Love Actually, 21 Grams, Napoleon Dynamite, Fubar, The Constant Gardener, Lord of War, Syriana, Thank You for Smoking, Little Miss Sunshine, Stranger Than Fiction, El laberinto del fauno, The Departed, Fuck, Eagle vs Shark, Lars and the Real Girl, Juno, Die Fälscher, Step Brothers.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

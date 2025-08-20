@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Schindler's List, The Godfather, The Sting, The Bridge on the River Kwai, Cool Hand Luke, Young Frankenstein, This Is Spinal Tap, Butch Cassidy and the Sundance Kid, Con Air, American History X, Office Space, Planet of the Apes, Gladiator, MASH, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

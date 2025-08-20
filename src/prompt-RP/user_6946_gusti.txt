@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Apollo 13, The Shawshank Redemption, The Lion King, The Fugitive, The Silence of the Lambs, The Godfather, 20000 Leagues Under the Sea, Platoon, Il buono, il brutto, il cattivo., Alien, The Godfather: Part II, The Bridge on the River Kwai, The Deer Hunter, Ben-Hur, Contact, Titanic, The Untouchables, American History X, The Thin Red Line, The Matrix, Spartacus, Per un pugno di dollari, Papillon, Gladiator, The Perfect Storm, Scarface, The Magnificent Seven, Ocean's Eleven, Bowling for Columbine, The Pianist, The Last Samurai, Escape from Alcatraz, Mutiny on the Bounty, Hotel Rwanda, Der Untergang, La marche de l'empereur, Lord of War, Good Night, and Good Luck., Munich, Inside Man.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Star Wars, The Shawshank Redemption, Forrest Gump, Philadelphia, Terminator 2: Judgment Day, The Silence of the Lambs, Pretty Woman, Primal Fear, The Wizard of Oz, The Sound of Music, Star Wars: Episode VI - Return of the Jedi, Somewhere in Time, Indiana Jones and the Last Crusade, The Truman Show, As Good as It Gets, There's Something About Mary, Indiana Jones and the Temple of Doom, The Matrix, The Green Mile, The Others, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Count of Monte Cristo, Ice Age, The Lord of the Rings: The Two Towers, Chicago, The Pianist, Cidade de Deus, Pirates of the Caribbean: The Curse of the Black Pearl, Something's Gotta Give, The Lord of the Rings: The Return of the King, Troy, The Terminal, Shark Tale, The Polar Express, Finding Neverland, Million Dollar Baby, Star Wars: Episode III - Revenge of the Sith, Harry Potter and the Goblet of Fire, The Departed.
+
+Associated tags: almodovar, boxing, earth, police

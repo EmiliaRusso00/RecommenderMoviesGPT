@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mary Reilly, Braveheart, Schindler's List, Terminator Salvation, Back to the Future, Gandhi, Pink Floyd The Wall, Dracula, The Man in the Iron Mask, Back to the Future Part II, Meet Joe Black, Shakespeare in Love, The Sixth Sense, Best Laid Plans, Awakenings, Moulin Rouge!, The Life of David Gale, Eternal Sunshine of the Spotless Mind, The Corporation, Sicko.
+
+Associated tags: almodovar, boxing, earth, painter, police

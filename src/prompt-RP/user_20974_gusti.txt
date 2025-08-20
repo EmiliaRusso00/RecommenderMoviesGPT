@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Circle of Friends, The AristoCats, Escape from L.A., The Philadelphia Story, 20000 Leagues Under the Sea, The Gods Must Be Crazy, Jui kuen II, Jui kuen II, Wo hu cang long, The Forbidden Kingdom, Kung Fu Panda.
+
+Associated tags: earth

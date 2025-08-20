@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Vertigo, Rear Window, North by Northwest, It's a Wonderful Life, The Sound of Music, 12 Angry Men, Psycho, The Great Escape, Groundhog Day, Good Will Hunting, Zero Effect, Pi, Miracle on 34th Street, The Matrix, Being John Malkovich, Croupier, Finding Forrester, The Lord of the Rings: The Fellowship of the Ring, Spider-Man, The Bourne Identity, Cidade de Deus, Lost in Translation, The Day of the Jackal, The Bourne Supremacy, Off the Map, La marche de l'empereur, Good Night, and Good Luck., Casino Royale, Ratatouille, The Bourne Ultimatum.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

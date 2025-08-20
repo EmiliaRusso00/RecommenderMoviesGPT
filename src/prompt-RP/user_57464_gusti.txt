@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Rear Window, The Maltese Falcon, Sunset Blvd., Notorious, Laura, Crossfire, Murder, My Sweet, He Walked by Night, T-Men, The Third Man, The Sting, Touch of Evil, Chinatown, The Manchurian Candidate, Young Frankenstein, The Big Sleep, This Is Spinal Tap, Sling Blade, L.A. Confidential, Out of the Past, Strangers on a Train, Shadow of a Doubt, The Killing, Gilda, Key Largo, The Asphalt Jungle, Double Indemnity, Sweet Smell of Success, The Big Heat, Spider-Man, In a Lonely Place, The Night of the Hunter, DOA: Dead or Alive, Pickup on South Street, The Postman Always Rings Twice, Natural Born Killers, White Heat, Deadly Is the Female, Letters from Iwo Jima, The Lady from Shanghai, Kiss Kiss Bang Bang.
+
+Associated tags: boxing, earth, painter, police

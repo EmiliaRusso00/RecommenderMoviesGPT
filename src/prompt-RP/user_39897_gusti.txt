@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, Forrest Gump, Terminator 2: Judgment Day, Independence Day, Platoon, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Terminator Salvation, The Great Escape, Indiana Jones and the Last Crusade, The Hunt for Red October, The Game, Rain Man, Saving Private Ryan, The Untouchables, Goldfinger, The Green Mile, Predator, Scarface, The Bourne Identity, The Lord of the Rings: The Two Towers, Catch Me If You Can, Terminator 3: Rise of the Machines, Where Eagles Dare, Scarface, Casino Royale, 300, Shooter, The Bourne Ultimatum.
+
+Associated tags: boxing, earth, medieval, painter, police

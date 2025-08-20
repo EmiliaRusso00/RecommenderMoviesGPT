@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Apollo 13, Star Wars, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Jurassic Park, Terminator 2: Judgment Day, Pinocchio, The Godfather, The Godfather: Part II, Fantasia, Memento, Le fabuleux destin d'Amélie Poulain, Cidade de Deus, Becket, King Kong, The Fountain, Harry Potter and the Order of the Phoenix.
+
+Associated tags: almodovar, boxing, earth, excellent characters, funny, medieval, painter, police, whale

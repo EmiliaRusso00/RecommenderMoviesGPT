@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Truman Show, American History X, The Matrix, American Beauty, Fight Club, Finding Forrester, Ocean's Eleven, A Beautiful Mind, The Bourne Identity, Catch Me If You Can, The Pianist, The Matrix Reloaded, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, The Matrix Revolutions, Kill Bill: Vol. 2, The Terminal, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, King Kong, Pirates of the Caribbean: Dead Man's Chest, Pirates of the Caribbean: At World's End, American Gangster, Iron Man, The Chronicles of Narnia: Prince Caspian.
+
+Associated tags: earth, painter, police

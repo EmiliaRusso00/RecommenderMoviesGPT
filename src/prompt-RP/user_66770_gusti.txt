@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heavy Weights, Star Wars, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Godfather, Romeo + Juliet, Star Wars: Episode V - The Empire Strikes Back, The Blues Brothers, The Godfather: Part II, The Fifth Element, The Truman Show, The Big Lebowski, Fight Club, Empire Records, High Fidelity, Almost Famous, The Royal Tenenbaums, Cidade de Deus, 28 Days Later..., Lost in Translation, Eternal Sunshine of the Spotless Mind, Diarios de motocicleta, The Life Aquatic with Steve Zissou, The 40 Year Old Virgin, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, The Departed, Hot Fuzz, Knocked Up.
+
+Associated tags: boxing, earth, funny, painter, police, whale

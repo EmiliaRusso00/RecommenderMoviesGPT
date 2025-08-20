@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Forrest Gump, The Fugitive, Jurassic Park, Schindler's List, Terminator 2: Judgment Day, Independence Day, Rear Window, North by Northwest, My Fair Lady, It's a Wonderful Life, E.T.: The Extra-Terrestrial, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Star Wars: Episode VI - Return of the Jedi, The Godfather: Part II, Groundhog Day, L.A. Confidential, Shichinin no samurai, Say Anything..., The Matrix, Ladyhawke, Gladiator, Memento, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Cidade de Deus, Kill Bill: Vol. 2, Star Wars: Episode III - Revenge of the Sith.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

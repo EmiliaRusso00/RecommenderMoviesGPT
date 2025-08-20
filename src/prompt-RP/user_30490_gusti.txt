@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Il postino, Little Women, Gone with the Wind, Winnie the Pooh and the Blustery Day, Mary Poppins, Alice in Wonderland, The Sound of Music, The English Patient, Dead Poets Society, Lady and the Tramp, Sleeping Beauty, Edward Scissorhands, Thelma & Louise, Chocolat, Tootsie, Little Man Tate, Little Women, Fame, A Beautiful Mind, Mies vailla menneisyyttä, Cry-Baby, Jalla! Jalla!, Brokeback Mountain.
+
+Associated tags: almodovar, boxing, dreamdontcatch, earth, excellent characters, funny, medieval, painter, police, robots, whale

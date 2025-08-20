@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Clerks., Interview with the Vampire: The Vampire Chronicles, Léon, Pulp Fiction, The Princess Bride, This Is Spinal Tap, Pink Floyd The Wall, The Big Lebowski, Pi, American Beauty, Fight Club, Mononoke-hime, The Boys of Baraka, Kelly's Heroes, Snatch., O Brother, Where Art Thou?, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Metropolis, The Bourne Identity, Sen to Chihiro no kamikakushi, Tonari no Totoro, Tenkû no shiro Rapyuta, Kaze no tani no Naushika, Eternal Sunshine of the Spotless Mind, Innocence, Neko no ongaeshi, Oldeuboi, A Scanner Darkly, Hauru no ugoku shiro, Suchîmubôi, Kung fu, Sin City, Why We Fight, Waiting..., Final Fantasy VII: Advent Children, V for Vendetta, Clerks II, Stranger Than Fiction, The Illusionist, Idlewild, Apocalypto, The Prestige, Perfume: The Story of a Murderer, 300, Papurika, Across the Universe, Into the Wild, The Man from Earth, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

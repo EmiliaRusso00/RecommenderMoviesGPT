@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Silence of the Lambs, A Fish Called Wanda, Life of Brian, Reservoir Dogs, Lock, Stock and Two Smoking Barrels, Snatch..
+
+Associated tags: boxing, earth, funny, painter, police, whale

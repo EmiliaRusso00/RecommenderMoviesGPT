@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, The Godfather, Mr. Smith Goes to Washington, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, The Godfather: Part II, Koyaanisqatsi, The Truman Show, The Matrix, Mononoke-hime, Mansfield Park, Memento, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Pianist, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Das Leben der Anderen, El laberinto del fauno, Children of Men, Hot Fuzz, 300, The Darjeeling Limited, The Dark Knight, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

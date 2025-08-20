@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Muppet Treasure Island, Ace Ventura: Pet Detective, The Lion King, Schindler's List, Aladdin, The Silence of the Lambs, Beauty and the Beast, The Godfather, Casablanca, 2001: A Space Odyssey, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Chinatown, Akira, Butch Cassidy and the Sundance Kid, Anastasia, The Big Lebowski, Sixteen Candles, The Little Shop of Horrors, American Beauty, Fight Club, All That Jazz, Cabaret, Chocolat, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Chicago, A Chorus Line, Battlestar Galactica, Les choristes, Batman Begins, Little Miss Sunshine, 300, Across the Universe, American Gangster, Bolt.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

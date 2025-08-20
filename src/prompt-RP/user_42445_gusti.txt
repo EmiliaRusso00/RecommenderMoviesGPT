@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, It's a Wonderful Life, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Koyaanisqatsi, Dark City, Lock, Stock and Two Smoking Barrels, Airplane!, Little Big Man, The Boondock Saints, Punch-Drunk Love, The Lord of the Rings: The Two Towers, Monty Python Live at the Hollywood Bowl, The Lord of the Rings: The Return of the King, The Machinist, Control Room, Tasogare Seibei, Serenity, Thank You for Smoking, Children of Men.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

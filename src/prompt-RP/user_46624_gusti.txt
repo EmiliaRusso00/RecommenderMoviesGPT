@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: American Beauty, Boys Don't Cry, Fight Club, Scary Movie, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Importance of Being Earnest, Moonlight Mile, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Oldeuboi, Metallica: Some Kind of Monster, X-Men: The Last Stand.
+
+Associated tags: earth, painter

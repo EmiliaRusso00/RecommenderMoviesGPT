@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mallrats, Clerks., Pulp Fiction, Angels in the Outfield, Reservoir Dogs, The Day the Earth Stood Still, Airplane!, Goldfinger, Fight Club, Animal House, Blazing Saddles, Predator, Memento, Zoolander, Donnie Darko, Cidade de Deus, 28 Days Later..., Dawn of the Dead, Shaun of the Dead, Batman Begins, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Children of Men, 28 Weeks Later, Superbad, American Gangster, The Dark Knight, Forgetting Sarah Marshall.
+
+Associated tags: boxing, earth, funny, painter, police, whale

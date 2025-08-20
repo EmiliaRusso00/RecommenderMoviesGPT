@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Bottle Rocket, Ed Wood, Léon, Shadowlands, Dead Man, Shine, Boogie Nights, The Big Lebowski, Fear and Loathing in Las Vegas, Buffalo '66, Pi, Edward Scissorhands, Rushmore, Lock, Stock and Two Smoking Barrels, Lola rennt, Fight Club, Magnolia, The Virgin Suicides, Dancer in the Dark, Best in Show, Requiem for a Dream, Wo hu cang long, Memento, Der Krieger und die Kaiserin, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Heaven, Punch-Drunk Love, Love Liza, Owning Mahowny, He ni zai yi qi, Dirty Pretty Things, Lost in Translation, The Station Agent, Good Bye Lenin!, Nói albínói, Napoleon Dynamite, Super Size Me, I Heart Huckabees, Primer, The Corporation, The Life Aquatic with Steve Zissou, Zelary, Die fetten Jahre sind vorbei, Broken Flowers, The Chumscrubber, Junebug, Thumbsucker.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Batman, Young Frankenstein, Election, MASH, Bring It on Again, Edmond, Stranger Than Fiction.
+
+Associated tags: boxing, earth, police

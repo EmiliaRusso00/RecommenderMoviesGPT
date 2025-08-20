@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Specialist, The Shawshank Redemption, Terminator 2: Judgment Day, Unforgiven, Star Trek IV: The Voyage Home, Lock, Stock and Two Smoking Barrels, American Beauty, O Brother, Where Art Thou?, The Lord of the Rings: The Fellowship of the Ring.
+
+Associated tags: earth, police

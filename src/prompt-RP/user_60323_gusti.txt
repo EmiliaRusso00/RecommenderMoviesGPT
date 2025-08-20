@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Usual Suspects, Mallrats, Star Wars, Pulp Fiction, Swingers, Austin Powers: International Man of Mystery, The Wedding Singer, Back to the Future Part II, Back to the Future Part III, Saving Private Ryan, Office Space, Lock, Stock and Two Smoking Barrels, The Matrix, Fight Club, Spaceballs, Wayne's World, Animal House, Snatch., Jay and Silent Bob Strike Back, The Lord of the Rings: The Fellowship of the Ring, Black Hawk Down, The Sandlot, The Lord of the Rings: The Two Towers, Old School, Master and Commander: The Far Side of the World, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, The 40 Year Old Virgin, Waiting..., Jarhead, The Fountain, Casino Royale, Stardust.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

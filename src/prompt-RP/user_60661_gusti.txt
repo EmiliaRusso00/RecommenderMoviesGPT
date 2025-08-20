@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Chung Hing sam lam, The Wild Bunch, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Full Metal Jacket, Das Boot, The Sting, Chinatown, The Manchurian Candidate, This Is Spinal Tap, Lost Highway, Starship Troopers, Shichinin no samurai, Ronin, The Iron Giant, Three Kings, High Plains Drifter, Spaceballs, Titus, Twin Peaks: Fire Walk with Me, Predator, Blazing Saddles, Best in Show, Transformers, Freddy Got Fingered, Time After Time, Cidade de Deus, Ringu, Wait Until Dark, Bad Santa, Koroshiya 1, Eternal Sunshine of the Spotless Mind, You Only Live Twice, Mean Streets, Jing wu ying xiong, Ôdishon, Katakuri-ke no kôfuku, Oldeuboi, Kung fu, Batman Begins, The Aristocrats, Kiss Kiss Bang Bang, Brick, The Departed, Casino Royale, Once, The Bourne Ultimatum, The Assassination of Jesse James by the Coward Robert Ford, No Country for Old Men, The Dark Knight, WALL·E, Burn After Reading.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

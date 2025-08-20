@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Monty Python and the Holy Grail, La vita è bella, The Virgin Suicides, Almost Famous, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Eternal Sunshine of the Spotless Mind, Sherlock Jr., The Life Aquatic with Steve Zissou, Thank You for Smoking, An Inconvenient Truth, Little Miss Sunshine, The Illusionist, El laberinto del fauno, Fracture, The Darjeeling Limited, In Bruges, Hamlet.
+
+Associated tags: boxing, earth, painter, police

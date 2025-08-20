@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Clerks., Pulp Fiction, The Shawshank Redemption, Forrest Gump, Fear and Loathing in Las Vegas, American History X, South Park: Bigger Longer & Uncut, Requiem for a Dream, Cast Away, Donnie Darko, Cidade de Deus, Lost in Translation, Into the Wild, The Man from Earth.
+
+Associated tags: boxing, earth, funny, painter, police, whale

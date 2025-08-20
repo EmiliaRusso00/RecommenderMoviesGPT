@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Bed of Roses, Léon, Ba wang bie ji, Schindler's List, Lawrence of Arabia, The Great Escape, The Joy Luck Club, The Prince of Egypt, The Matrix, Gladiator, The Lord of the Rings: The Two Towers, Ying xiong, Girl with a Pearl Earring, Osama, Eternal Sunshine of the Spotless Mind, Troy, Alexander, Shi mian mai fu, The Best of Everything, Munich.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

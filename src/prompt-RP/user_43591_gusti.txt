@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, The Usual Suspects, Bottle Rocket, Hoop Dreams, Pulp Fiction, Schindler's List, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Vertigo, Rear Window, North by Northwest, Citizen Kane, 2001: A Space Odyssey, Bananas, Monty Python and the Holy Grail, 12 Angry Men, Goodfellas, The Godfather: Part II, Raging Bull, Annie Hall, The Graduate, 8½, Chinatown, Groundhog Day, The Manchurian Candidate, The Big Lebowski, There's Something About Mary, Rushmore, Election, Being John Malkovich, High Fidelity, Best in Show, Mulholland Dr., Waking Life, The Man Who Wasn't There, The Royal Tenenbaums, Adaptation., The King of Comedy, Spellbound, Lost in Translation, All the President's Men, Kill Bill: Vol. 2, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Napoleon Dynamite, I Heart Huckabees, Team America: World Police, Sideways, Match Point.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, painter, police, time travel, whale

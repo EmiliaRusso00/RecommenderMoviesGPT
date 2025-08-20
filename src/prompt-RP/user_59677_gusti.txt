@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The American President, Desperado, Johnny Mnemonic, Star Wars, Trois couleurs: Rouge, Trois couleurs: Bleu, Trzy kolory: Bialy, Blade Runner, Mission: Impossible III, Casablanca, The Maltese Falcon, The African Queen, Top Gun, Sex, Lies, and Videotape, Ran, Full Metal Jacket, Touch of Evil, Chinatown, Butch Cassidy and the Sundance Kid, The Last of the Mohicans, The Hunt for Red October, L.A. Confidential, The Horse Whisperer, Sphere, Out of Sight, There's Something About Mary, The Mask of Zorro, Shichinin no samurai, Saving Private Ryan, Strangers on a Train, Ronin, Enemy of the State, Shakespeare in Love, The Matrix, The Thomas Crown Affair, Excalibur, Mumford, Double Indemnity, On Her Majesty's Secret Service.
+
+Associated tags: boxing, brothers quay, earth, funny, medieval, not seen it, painter, police, whale

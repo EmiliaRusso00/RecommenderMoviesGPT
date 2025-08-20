@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, The Usual Suspects, Taxi Driver, Pulp Fiction, Forrest Gump, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Casablanca, Citizen Kane, 2001: A Space Odyssey, Reservoir Dogs, A Clockwork Orange, Apocalypse Now, Goodfellas, The Godfather: Part II, Full Metal Jacket, Annie Hall, Manhattan, The Graduate, The Shining, L.A. Confidential, Jackie Brown, The Big Lebowski, American History X, Festen, The Matrix, American Beauty, Fight Club, Crimes and Misdemeanors, Papillon, The Man Who Shot Liberty Valance, The Lord of the Rings: The Fellowship of the Ring, The Last Waltz, Lost in Translation, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Mean Streets, Dont Look Back, No Direction Home: Bob Dylan.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

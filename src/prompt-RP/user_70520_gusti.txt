@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Beautiful Girls, Léon, The Shawshank Redemption, Speed, Blade Runner, The Silence of the Lambs, Kôkaku kidôtai, A Fish Called Wanda, Alien, Terminator Salvation, Dead Poets Society, Highlander, Field of Dreams, Sneakers, Gattaca, Shooting Fish, Out of Sight, The Breakfast Club, The Matrix, American Pie, The Sixth Sense, Fight Club, On Any Sunday, The Fisher King, Wo hu cang long, Shrek, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Lost in Translation, Jûbê ninpûchô, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Garden State, The Incredibles, Serenity, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, V for Vendetta, Stardust, Hellboy II: The Golden Army, The Dark Knight.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Life of Brian, Monty Python and the Holy Grail, The Godfather: Part II, Sneakers, The Big Lebowski, Wag the Dog, Pi, Office Space, The Matrix, Fight Club, Spaceballs, Scarface, The Royal Tenenbaums, MASH, The Meaning of Life, The Life Aquatic with Steve Zissou.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

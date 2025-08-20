@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Manchurian Candidate, Gandhi, Dark City, The 'burbs, Memento, Das Leben der Anderen, Michael Clayton, No Country for Old Men.
+
+Associated tags: boxing, earth, police

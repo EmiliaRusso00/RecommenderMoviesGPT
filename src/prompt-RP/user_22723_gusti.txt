@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Indiana Jones and the Temple of Doom, The Matrix, The Boondock Saints, Hellraiser, Donnie Darko, The Bourne Identity, Eternal Sunshine of the Spotless Mind, Sin City, Crash, V for Vendetta, The Prestige, 300, Mr. Brooks.
+
+Associated tags: earth, painter, police

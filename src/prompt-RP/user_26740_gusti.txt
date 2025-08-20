@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Apollo 13, Star Wars, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Jurassic Park, Independence Day, Star Wars: Episode VI - Return of the Jedi, Ocean's Eleven, Pirates of the Caribbean: The Curse of the Black Pearl, Garden State, Zodiac, The Dark Knight, Iron Man.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

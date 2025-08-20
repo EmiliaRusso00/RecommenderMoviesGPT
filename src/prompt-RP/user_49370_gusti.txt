@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Stargate, The Princess Bride, Young Frankenstein, Fantasia, Labyrinth, A Bug's Life, The Iron Giant, Airplane!, Airplane II: The Sequel, Toy Story, The Muppet Movie, Blazing Saddles, Monsters, Inc., The Lost Skeleton of Cadavra, I, Robot, Serenity, Lord of War, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Over the Hedge.
+
+Associated tags: boxing, earth, police

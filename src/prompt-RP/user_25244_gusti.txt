@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, Dances with Wolves, Seven Years in Tibet, The Truman Show, Good Will Hunting, The Last Emperor, Rain Man, La vita è bella, Waking Ned, Buena Vista Social Club, Gladiator, Amores perros, A Beautiful Mind, Ararat, The Pianist, Kill Bill: Vol. 2, Girl with a Pearl Earring, Nói albínói, Kill Bill: Vol. 2, Taxi, Sideways, Mar adentro, Les choristes, Die Geschichte vom weinenden Kamel, The Last King of Scotland, Perfume: The Story of a Murderer.
+
+Associated tags: boxing, earth, painter, police, whale

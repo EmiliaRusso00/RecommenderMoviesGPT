@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Star Wars, Schindler's List, Terminator 2: Judgment Day, The Silence of the Lambs, The Godfather, Platoon, Star Wars: Episode V - The Empire Strikes Back, Aliens, Goodfellas, Terminator Salvation, The Omen, Nochnoy dozor, The Fifth Element, Saving Private Ryan, American History X, Office Space, Lock, Stock and Two Smoking Barrels, The Matrix, Fight Club, Predator, Predator, Snatch., Scarface, Conan the Destroyer, Cidade de Deus, Kill Bill: Vol. 2, Ying xiong, Kill Bill: Vol. 2, Ong-bak, Sin City, Hostel, Tom yum goong, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, El laberinto del fauno, The Prestige, Casino Royale, 300, Dnevnoy dozor, Hostel: Part II, The Bourne Ultimatum, Planet Terror, Eastern Promises, American Gangster, No Country for Old Men, There Will Be Blood, Rambo, The Dark Knight, Forgetting Sarah Marshall.
+
+Associated tags: boxing, earth, painter, police

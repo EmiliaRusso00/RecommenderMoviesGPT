@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Braveheart, Pulp Fiction, The Shawshank Redemption, Jurassic Park, So I Married an Axe Murderer, Trainspotting, It's a Wonderful Life, The Game, Rain Man, American History X, Lock, Stock and Two Smoking Barrels, The Matrix, Lola rennt, American Beauty, Fight Club, Gladiator, Memento, Cidade de Deus, Maria Full of Grace, Garden State, Shaun of the Dead, The Incredibles, Closer, The Corporation, Crash, Cinderella Man, Me and You and Everyone We Know, The Island, The Constant Gardener, Syriana, The Queen, Jesus Camp, El laberinto del fauno, Hot Fuzz, This Is England, Superbad, In the Shadow of the Moon, Into the Wild, American Gangster, Le scaphandre et le papillon, No Country for Old Men, Juno, There Will Be Blood, In Bruges, WALL·E.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Star Wars, Léon, Pulp Fiction, The Lion King, Schindler's List, Blade Runner, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Lawrence of Arabia, Indiana Jones and the Last Crusade, The Last of the Mohicans, L.A. Confidential, Saving Private Ryan, Indiana Jones and the Temple of Doom, Blade, The Matrix, South Park: Bigger Longer & Uncut, Spaceballs, Gladiator, Snatch., Shrek, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Shrek 2, Collateral, Sin City, Serenity, The Departed, Children of Men, Blood Diamond, Stardust, There Will Be Blood, The Dark Knight, The Beach.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

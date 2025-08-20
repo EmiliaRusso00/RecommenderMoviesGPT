@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, Trainspotting, A Fish Called Wanda, Life of Brian, Monty Python and the Holy Grail, Psycho, Harold and Maude, Groundhog Day, Waiting for Guffman, Edward Scissorhands, Abre los ojos, Lola rennt, American Beauty, Boys Don't Cry, Fight Club, Being John Malkovich, Todo sobre mi madre, Billy Elliot, Mulholland Dr., Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, The Importance of Being Earnest, Hable con ella, 28 Days Later..., Fucking Åmål, Good Bye Lenin!, Eternal Sunshine of the Spotless Mind, La mala educación, Un long dimanche de fiançailles, Der Untergang, Brokeback Mountain, Das Leben der Anderen, La science des rêves.
+
+Associated tags: boxing, earth, painter, police

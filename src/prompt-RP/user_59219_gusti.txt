@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, The Adventures of Priscilla, Queen of the Desert, Philadelphia, Blade Runner, Beauty and the Beast, Wallace and Gromit in A Close Shave, Wallace & Gromit in The Wrong Trousers, Raiders of the Lost Ark, Lawrence of Arabia, The Blues Brothers, A Grand Day Out with Wallace and Gromit, Fantasia, Mitt liv som hund, Benny & Joon, Mulan, Shichinin no samurai, The Matrix, Election, Chicken Run, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Tenkû no shiro Rapyuta, Ikiru, Les triplettes de Belleville, The Incredibles, Majo no takkyûbin, Serenity, Ratatouille, Hot Fuzz.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

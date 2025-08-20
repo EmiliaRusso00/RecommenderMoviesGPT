@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Taxi Driver, Pulp Fiction, Blade Runner, The Godfather, Rear Window, Life of Brian, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, Brazil, Aliens, Apocalypse Now, The Godfather: Part II, Das Boot, The Thin Red Line, Fight Club, Scarface, Salvador (Puig Antich), A History of Violence.
+
+Associated tags: boxing, earth, funny, painter, police, whale

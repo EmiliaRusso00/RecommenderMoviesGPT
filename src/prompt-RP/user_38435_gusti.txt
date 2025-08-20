@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Crimson Tide, Star Wars, The Shawshank Redemption, The Lion King, Schindler's List, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, The Godfather: Part II, Glory, Indiana Jones and the Last Crusade, Shichinin no samurai, The Matrix, Gladiator, The Patriot, The Lord of the Rings: The Fellowship of the Ring, The Count of Monte Cristo, Star Wars: Episode II - Attack of the Clones, The Lord of the Rings: The Two Towers, The Last Samurai, The Lord of the Rings: The Return of the King, Star Wars: Episode III - Revenge of the Sith, Batman Begins, V for Vendetta, The Departed, The Dark Knight, Iron Man.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, seriously scary, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Snow White and the Seven Dwarfs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Vertigo, Rear Window, It Happened One Night, North by Northwest, Some Like It Hot, Casablanca, Sunset Blvd., Citizen Kane, The African Queen, When We Were Kings, Lawrence of Arabia, Apocalypse Now, Goodfellas, The Godfather: Part II, Henry V, The Graduate, Chinatown, The Day the Earth Stood Still, The Treasure of the Sierra Madre, Duck Soup, The Manchurian Candidate, High Noon, This Is Spinal Tap, The Man Who Would Be King, On the Waterfront, The Producers, Frankenstein, The Searchers, The Hustler, Network, Wo hu cang long, The Man Who Shot Liberty Valance, The Lion in Winter, The Lord of the Rings: The Fellowship of the Ring, Rashômon, Sen to Chihiro no kamikakushi, All the President's Men, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

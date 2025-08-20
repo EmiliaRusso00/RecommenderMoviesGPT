@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Meet John Doe, Local Hero, Chinatown, Chasing Amy, Metropolitan, The Last Picture Show, Joe Versus the Volcano, Polyester, Adaptation., Bande à part, American Splendor, The Red Shoes, Le corbeau, Pierrot le fou, Le fantôme de la liberté, The Life Aquatic with Steve Zissou, Ivanovo detstvo, Erogotoshi-tachi yori: Jinruigaku nyûmon.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

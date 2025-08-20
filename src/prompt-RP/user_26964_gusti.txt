@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Jurassic Park, Fargo, Raiders of the Lost Ark, Young Frankenstein, Ben-Hur, Gandhi, The Elephant Man, Guess Who's Coming to Dinner, The Odd Couple, Cry Freedom, Monsters, Inc., A Patch of Blue, The Pink Panther, Play It Again, Sam, A Night at the Opera, The Ox-Bow Incident, Animal Crackers, A Day at the Races, Bill Cosby: Himself, The Incredibles.
+
+Associated tags: boxing, earth, funny, medieval, police

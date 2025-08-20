@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Twelve Monkeys, 2001: A Space Odyssey, Brazil, Fight Club, Being John Malkovich, The Virgin Suicides, Lost in Translation, La science des rêves.
+
+Associated tags: boxing, earth, painter, police

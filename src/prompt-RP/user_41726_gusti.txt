@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Clerks., Pulp Fiction, The Shawshank Redemption, The Silence of the Lambs, Fargo, The Godfather, 2001: A Space Odyssey, Life of Brian, Reservoir Dogs, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, One Flew Over the Cuckoo's Nest, Apocalypse Now, Alien, Full Metal Jacket, The Shining, Jaws, Gattaca, The Big Lebowski, The Exorcist, The Thing, American History X, Office Space, The Matrix, American Beauty, Ferris Bueller's Day Off, Fight Club, Memento, Zoolander, Donnie Darko, Gangs of New York, Team America: World Police, Constantine, The Three Burials of Melquiades Estrada, Inside Man, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, El laberinto del fauno, Zodiac, The Bourne Ultimatum, Ne le dis à personne, 3:10 to Yuma, American Gangster, No Country for Old Men, There Will Be Blood, Man on Wire.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

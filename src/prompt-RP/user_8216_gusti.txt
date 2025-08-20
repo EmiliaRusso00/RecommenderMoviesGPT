@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Braveheart, Pulp Fiction, The Shawshank Redemption, Jurassic Park, Casablanca, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Star Wars: Episode VI - Return of the Jedi, The Sting, Good Will Hunting, Les misérables, Chariots of Fire, Saving Private Ryan, Rounders, Rushmore, Payback, Dangerous Beauty, American Beauty, Three Kings, Gladiator, Nine 1/2 Weeks, Wo hu cang long, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Count of Monte Cristo, The Bourne Identity, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Dogville, Troy, Saved!, The Bourne Supremacy, Pride & Prejudice, Ocean's Thirteen, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

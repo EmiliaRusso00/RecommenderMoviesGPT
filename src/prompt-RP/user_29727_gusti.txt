@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Apollo 13, Star Wars, The Shawshank Redemption, Forrest Gump, The Silence of the Lambs, American History X, The Matrix, Gladiator, The Lord of the Rings: The Two Towers, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Million Dollar Baby, Sin City, Crash, The Departed.
+
+Associated tags: earth, painter, police

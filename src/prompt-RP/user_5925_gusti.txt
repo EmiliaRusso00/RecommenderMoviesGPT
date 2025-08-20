@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Short Cuts, Fargo, Citizen Kane, Wallace & Gromit in The Wrong Trousers, One Flew Over the Cuckoo's Nest, A Grand Day Out with Wallace and Gromit, The Sting, Mitt liv som hund, The Birds, Citizen Ruth, Rain Man, Shichinin no samurai, Easy Rider, The Draughtsman's Contract, Chicken Run, O Brother, Where Art Thou?, Drowning by Numbers, Mulholland Dr., Witness for the Prosecution, The Last Waltz, Sånger från andra våningen, Woodstock, Dont Look Back, Wallace & Gromit in The Curse of the Were-Rabbit, No Direction Home: Bob Dylan, I'm Not There..
+
+Associated tags: boxing, earth, funny, police

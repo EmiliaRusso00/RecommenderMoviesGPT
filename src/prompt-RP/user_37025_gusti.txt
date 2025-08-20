@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before Sunrise, The Piano, The Nightmare Before Christmas, Mary Poppins, One Flew Over the Cuckoo's Nest, Full Metal Jacket, Shine, Out of Africa, Edward Scissorhands, La vita è bella, Fight Club, Dancer in the Dark, Requiem for a Dream, About a Boy, Sen to Chihiro no kamikakushi, Elling, Love Actually, Big Fish, Jalla! Jalla!, Charlie and the Chocolate Factory, Crash, Tsotsi, Little Miss Sunshine, Blood Diamond.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

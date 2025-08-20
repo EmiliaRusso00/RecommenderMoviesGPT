@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Reservoir Dogs, Goodfellas, Dead Poets Society, Good Will Hunting, Beetle Juice, Edward Scissorhands, American Beauty, Dogma, High Fidelity, X-Men, Requiem for a Dream, Memento, Monster's Ball, Y tu mamá también, Road to Perdition, The Pianist, Pirates of the Caribbean: The Curse of the Black Pearl, Finding Neverland, Crash, X-Men: The Last Stand.
+
+Associated tags: boxing, earth, painter, police

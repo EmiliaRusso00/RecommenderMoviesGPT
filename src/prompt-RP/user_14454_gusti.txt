@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Crumb, Naked, Pather Panchali, Dead Man, Rear Window, Citizen Kane, 2 ou 3 choses que je sais d'elle, Ran, Full Metal Jacket, Det sjunde inseglet, Touch of Evil, 8½, Chinatown, M, Strangers on a Train, Yôjinbô, Ladri di biciclette, McCabe & Mrs. Miller, Zerkalo, Do the Right Thing, The Conversation, Bronenosets Potyomkin, Kiss Me Deadly, À bout de souffle, Chelovek s kino-apparatom, Le procès, Ikiru, La passion de Jeanne d'Arc, Das Cabinet des Dr. Caligari., Vivre sa vie: Film en douze tableaux, Aguirre, der Zorn Gottes, Tirez sur le pianiste, Pierrot le fou, Kumonosu-jô, La dolce vita, L'avventura, Hiroshima mon amour, Le boucher, Un condamné à mort s'est échappé ou Le vent souffle où il veut, The Lady from Shanghai, L'eclisse, La battaglia di Algeri, Andrey Rublyov, Vozvrashchenie.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Apollo 13, Como agua para chocolate, Nell, Pulp Fiction, Quiz Show, The Shawshank Redemption, Forrest Gump, Six Degrees of Separation, Ghost, Dances with Wolves, The Silence of the Lambs, The Last Supper, Primal Fear, Dead Man, The Doors, E.T.: The Extra-Terrestrial, Wallace & Gromit in The Wrong Trousers, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, The Blues Brothers, Back to the Future, Sling Blade, Grease, Contact, Gattaca, Boogie Nights, Titanic, Wag the Dog, Lawn Dogs, Rain Man, Labyrinth, The Dark Crystal, Cube, American History X, The Matrix, The Rocky Horror Picture Show, La leggenda del pianista sull'oceano, American Beauty, Fight Club, Dogma, Awakenings, The Green Mile, Alive, Donnie Darko, Vanilla Sky, Death to Smoochy, Bowling for Columbine, Catch Me If You Can, Chicago, Naked Lunch, Cold Mountain, The Butterfly Effect, Kinsey.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, satoshi kon, tim allen, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Braveheart, The Shawshank Redemption, Forrest Gump, In the Name of the Father, Schindler's List, The Silence of the Lambs, Monty Python and the Holy Grail, Star Wars: Episode VI - Return of the Jedi, Goodfellas, Akira, The Big Lebowski, American History X, Lock, Stock and Two Smoking Barrels, Fight Club, Mononoke-hime, Gladiator, Requiem for a Dream, O Brother, Where Art Thou?, Donnie Darko, A Beautiful Mind, Cidade de Deus, The Life of David Gale, Big Fish, The Lord of the Rings: The Return of the King, Troy, The Animatrix, Star Wars: Episode III - Revenge of the Sith, Superbad, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, painter, police

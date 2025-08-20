@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Othello, The Usual Suspects, Braveheart, Pulp Fiction, The Shawshank Redemption, The Fugitive, In the Name of the Father, The Piano, Schindler's List, The Silence of the Lambs, Fargo, Trainspotting, An Affair to Remember, It's a Wonderful Life, The Crying Game, The English Patient, A Clockwork Orange, Apocalypse Now, Fried Green Tomatoes, Shine, The Last of the Mohicans, Good Will Hunting, Les misérables, Out of Africa, Rain Man, Driving Miss Daisy, Elizabeth, Waking Ned, The Color Purple, Fight Club, Being John Malkovich, The Taming of the Shrew, The Green Mile, The Cider House Rules, The Talented Mr. Ripley, Thelma & Louise, Snatch., Chocolat, Cast Away, Memento, Chocolat, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, The Count of Monte Cristo, The Pianist, Kill Bill: Vol. 2, Cold Mountain, Kill Bill: Vol. 2, The Notebook, Diarios de motocicleta, Munich, The Last King of Scotland, Blood Diamond.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

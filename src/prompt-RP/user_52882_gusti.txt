@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Judge Dredd, Star Wars, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Schindler's List, The Godfather, My Fair Lady, The Wizard of Oz, The Sound of Music, Willy Wonka & the Chocolate Factory, Raiders of the Lost Ark, The Blues Brothers, The Godfather: Part II, Groundhog Day, Back to the Future, Young Frankenstein, Field of Dreams, The Birds, Jaws, Rocky, Lethal Weapon, My Cousin Vinny, Pleasantville, Big, The Commitments, Animal House, Heart and Souls, Auntie Mame, Little Women, Harry Potter and the Goblet of Fire, Grandma's Boy.
+
+Associated tags: boxing, earth, funny, painter, police, whale

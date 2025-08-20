@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Angela's Ashes, Exotica, Léon, The Shawshank Redemption, Naked, Ruby in Paradise, This Is Spinal Tap, 2001: A Space Odyssey, Reservoir Dogs, Glengarry Glen Ross, Groundhog Day, Being There, Field of Dreams, Breaking the Waves, Sling Blade, Jaws, Good Will Hunting, Pi, Ordinary People, Broadcast News, A Simple Plan, Notting Hill, The Iron Giant, The Sixth Sense, Fight Club, Magnolia, Galaxy Quest, Papillon, Never Cry Wolf, JFK, Network, The Pledge, Mulholland Dr., Donnie Darko, Ratcatcher, May, All the President's Men, Hannah and Her Sisters, Mindwalk, Lorenzo's Oil, The Prize Winner of Defiance, Ohio, Deep Sea, V for Vendetta, Hard Candy, Children of Men, The Prestige, Bridge to Terabithia, Rescue Dawn, Superbad, 3:10 to Yuma, Into the Wild, The Assassination of Jesse James by the Coward Robert Ford, Juno, The Dark Knight, WALL·E.
+
+Associated tags: almodovar, boxing, earth, finnish, painter, police

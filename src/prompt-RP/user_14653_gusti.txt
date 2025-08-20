@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Trois couleurs: Bleu, The Shawshank Redemption, Terminator 2: Judgment Day, Reservoir Dogs, Nuovo Cinema Paradiso, Aliens, Le grand bleu, Dead Poets Society, Groundhog Day, Highlander, Gandhi, Grosse Pointe Blank, Gattaca, Fight Club, Snow Falling on Cedars, Modern Times, Close Encounters of the Third Kind, The Boys of Baraka, Memento, The Lord of the Rings: The Fellowship of the Ring, Joyeux Noël, Michael Clayton.
+
+Associated tags: boxing, earth, painter, police

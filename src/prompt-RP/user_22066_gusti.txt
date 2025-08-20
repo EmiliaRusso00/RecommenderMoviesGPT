@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Léon, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 2001: A Space Odyssey, Life of Brian, Monty Python and the Holy Grail, Apocalypse Now, The Third Man, Amadeus, Back to the Future, Gandhi, The Big Lebowski, Pi, American History X, Enemy of the State, The Thin Red Line, Lock, Stock and Two Smoking Barrels, The Matrix, Fight Club, Dogma, The Boondock Saints, Ghost Dog: The Way of the Samurai, O Brother, Where Art Thou?, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Pianist, Monty Python Live at the Hollywood Bowl, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, The Meaning of Life, The School of Rock, Master and Commander: The Far Side of the World, Good Bye Lenin!, Reconstruction, Diarios de motocicleta, Bin-jip, Inside Man, Clerks II, The Fountain, The Departed, Into the Wild, The Man from Earth, Juno, The Dark Knight.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

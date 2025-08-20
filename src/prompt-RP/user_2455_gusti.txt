@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Léon, Pulp Fiction, The Shawshank Redemption, Blade Runner, Terminator 2: Judgment Day, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, A Clockwork Orange, Goodfellas, Das Boot, The Deer Hunter, The Killing Fields, Star Trek: The Wrath of Khan, The Game, Starship Troopers, American Psycho, Requiem for a Dream, Enemy at the Gates, Memento, Miracle Mile, Hotaru no haka, Equilibrium, Cidade de Deus, The Matrix Reloaded, Kill Bill: Vol. 2, Batoru rowaiaru, The Lord of the Rings: The Return of the King, Fail-Safe, Cypher, Ondskan, Hotel Rwanda, Appurushîdo, Der Untergang, Sin City, Batman Begins, Serenity, V for Vendetta, Eastern Promises, No Country for Old Men, Låt den rätte komma in.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

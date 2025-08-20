@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Interview with the Vampire: The Vampire Chronicles, Gattaca, Labyrinth, The Neverending Story III, The Matrix, Fight Club, Requiem for a Dream, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Hauru no ugoku shiro, El laberinto del fauno, The Prestige, 300, El orfanato, Juno, The Dark Knight, WALL·E.
+
+Associated tags: boxing, earth, painter, police

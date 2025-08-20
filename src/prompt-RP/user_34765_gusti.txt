@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Babe, Apollo 13, The Shawshank Redemption, Schindler's List, Fargo, The Godfather, North by Northwest, Casablanca, Nuovo Cinema Paradiso, Star Wars: Episode V - The Empire Strikes Back, To Kill a Mockingbird, Annie Hall, Groundhog Day, Gandhi, Shakespeare in Love, The Natural, O Brother, Where Art Thou?, The Atomic Cafe, Spellbound, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara, Le salaire de la peur, Fahrenheit 9/11, Der Untergang, Das Leben der Anderen, An Inconvenient Truth.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

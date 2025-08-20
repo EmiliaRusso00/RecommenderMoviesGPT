@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, Léon, The Shawshank Redemption, Forrest Gump, Four Weddings and a Funeral, Terminator 2: Judgment Day, Star Wars: Episode VI - Return of the Jedi, Terminator Salvation, Groundhog Day, Unforgiven, Star Trek: First Contact, Austin Powers: International Man of Mystery, The Fifth Element, Conspiracy Theory, The Matrix, Bicentennial Man, High Fidelity, Almost Famous, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Minority Report, Sen to Chihiro no kamikakushi, Equilibrium, The Lord of the Rings: The Two Towers, 28 Days Later..., Cypher, The Man from Earth.
+
+Associated tags: boxing, earth, police

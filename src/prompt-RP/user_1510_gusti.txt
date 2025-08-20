@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Othello, The Shawshank Redemption, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, East of Eden, Amadeus, Edward Scissorhands, A Bug's Life, Airplane!, American Beauty, Final Destination, Scarface, Pearl Harbor, Ocean's Eleven, A Beautiful Mind, The Atomic Cafe, Catch Me If You Can, Confessions of a Dangerous Mind, Finding Nemo, The Lord of the Rings: The Return of the King, Mona Lisa Smile, Garden State, The Incredibles, Thumbsucker, Capote, Brokeback Mountain, Harry Potter and the Goblet of Fire, V for Vendetta, Das Leben der Anderen, Akeelah and the Bee, The Guardian, The Departed, Casino Royale, Breach, Hot Fuzz, Shooter, Disturbia, Knocked Up, Pirates of the Caribbean: At World's End, Transformers, Harry Potter and the Order of the Phoenix, The Bourne Ultimatum, August Rush, Die Fälscher, The Dark Knight.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

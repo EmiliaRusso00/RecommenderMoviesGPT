@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Ed Wood, Pulp Fiction, Stargate, The Shawshank Redemption, Schindler's List, Kôkaku kidôtai, Trainspotting, 2001: A Space Odyssey, Alice in Wonderland, Reservoir Dogs, Monty Python and the Holy Grail, Apocalypse Now, Full Metal Jacket, Akira, The Fifth Element, Fear and Loathing in Las Vegas, Pi, Saving Private Ryan, Cube, Office Space, The Matrix, Three Kings, Fight Club, The Boondock Saints, The Boys of Baraka, Blow, Waking Life, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, Spun, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Troy, Gladiator, Primer, The Machinist, The Animatrix, Oldeuboi, The Jacket, A Scanner Darkly, Hotel Rwanda, Kontroll, Cube Zero, Sin City, Grandma's Boy, V for Vendetta, Brick, Children of Men.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

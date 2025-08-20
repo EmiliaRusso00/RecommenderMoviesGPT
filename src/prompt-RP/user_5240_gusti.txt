@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La vita è bella, The Rocky Horror Picture Show, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Kate & Leopold, Y tu mamá también, Sen to Chihiro no kamikakushi, The Pianist, Jesus Christ Superstar, Super Size Me, Diarios de motocicleta.
+
+Associated tags: earth, police, whale

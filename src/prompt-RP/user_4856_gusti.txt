@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, The Silence of the Lambs, Fargo, Wallace and Gromit in A Close Shave, Stand by Me, Jackie Brown, The Last Emperor, The Matrix, The Castle, The Sixth Sense, Wo hu cang long, The Lord of the Rings: The Fellowship of the Ring, Austin Powers in Goldmember, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Tonari no Totoro, Ying xiong, Kaze no tani no Naushika, The Lord of the Rings: The Return of the King, Shaun of the Dead, Majo no takkyûbin, Million Dollar Baby.
+
+Associated tags: boxing, earth, funny, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ed Wood, Pulp Fiction, The Shawshank Redemption, Metropolis, Lolita, Boys Don't Cry, Du rififi chez les hommes, Hedwig and the Angry Inch, Tape, Le fabuleux destin d'Amélie Poulain, Chelovek s kino-apparatom, Barton Fink, Lost in Translation, La passion de Jeanne d'Arc, Das Cabinet des Dr. Caligari., Eternal Sunshine of the Spotless Mind, I Heart Huckabees, The Life Aquatic with Steve Zissou, Me and You and Everyone We Know, The Devil and Daniel Johnston, La science des rêves, Le scaphandre et le papillon, No Country for Old Men, Be Kind Rewind, There Will Be Blood.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

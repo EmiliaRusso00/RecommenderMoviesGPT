@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Bridges of Madison County, Braveheart, The Shawshank Redemption, Forrest Gump, The Lion King, True Lies, Schindler's List, Sleepless in Seattle, Dances with Wolves, The Silence of the Lambs, Pretty Woman, Cinderella, Liar Liar, My Best Friend's Wedding, Never Been Kissed, Notting Hill, Underworld: Evolution, The Princess Diaries, 50 First Dates, National Treasure: Book of Secrets, The Da Vinci Code, Becoming Jane.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

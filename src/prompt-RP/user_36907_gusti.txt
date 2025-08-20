@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ace Ventura: When Nature Calls, Happy Gilmore, Clerks., Pulp Fiction, Ace Ventura: Pet Detective, Jurassic Park, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Casablanca, Citizen Kane, Goodfellas, The Game, The Truman Show, Good Will Hunting, The Producers, Office Space, Fight Club, Dogma, The Boondock Saints, 28 Days Later..., Lord of War, V for Vendetta, Clerks II, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Deja Vu, The Bourne Ultimatum, The Nines, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

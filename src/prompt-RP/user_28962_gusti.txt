@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before Sunrise, The Shawshank Redemption, Fargo, Wallace & Gromit: The Best of Aardman Animation, Wallace and Gromit in A Close Shave, Casablanca, Life of Brian, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Raiders of the Lost Ark, A Grand Day Out with Wallace and Gromit, Back to the Future, The Birds, Office Space, American Beauty, High Fidelity, Shrek, Le fabuleux destin d'Amélie Poulain, Mies vailla menneisyyttä, Lost in Translation, Before Sunset, Battlestar Galactica, Corpse Bride, Brokeback Mountain, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan.
+
+Associated tags: boxing, earth, funny, painter, police

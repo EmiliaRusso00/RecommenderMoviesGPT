@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Il postino, Apollo 13, Star Wars, Pulp Fiction, Forrest Gump, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Pleasantville, The Sixth Sense, Monsters, Inc., The Lord of the Rings: The Two Towers, Queen of Hearts, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, The Incredibles, 20 Million Miles to Earth.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

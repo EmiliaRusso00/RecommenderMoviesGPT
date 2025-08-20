@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Forrest Gump, The Mask, The Matrix, The Green Mile, Predator, Mulholland Dr., A Beautiful Mind, Commando, AVP: Alien vs. Predator, The Island.
+
+Associated tags: boxing, earth, funny, painter, police, whale

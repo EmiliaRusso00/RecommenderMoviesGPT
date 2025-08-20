@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ed Wood, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Philadelphia Story, Rear Window, It Happened One Night, North by Northwest, Casablanca, The Maltese Falcon, All About Eve, The Women, My Man Godfrey, The Thin Man, His Girl Friday, Bringing Up Baby, Chinatown, The Treasure of the Sierra Madre, Young Frankenstein, Being There, Metropolis, The Player, Sullivan's Travels, Gilda, Crimes and Misdemeanors, The General, A Face in the Crowd, City Lights, Modern Times, Hud, Cabaret, Traffic, Of Mice and Men, Topkapi, MASH, Rashômon, Lenny, The Awful Truth, La règle du jeu, All the President's Men, La belle et la bête, Les diaboliques, Les vacances de Monsieur Hulot, Tell Your Children, Animal Crackers, After the Thin Man, A Matter of Life and Death, Mr. Deeds Goes to Town, V for Vendetta.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

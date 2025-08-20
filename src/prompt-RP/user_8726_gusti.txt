@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: As Good as It Gets, There's Something About Mary, Rush Hour, The Matrix, 10 Things I Hate About You, American Pie, Deuce Bigalow: Male Gigolo, Road Trip, Meet the Parents, A Knight's Tale, Rush Hour 2, American Pie, Rat Race, Bubble Boy, Serendipity, Ocean's Eleven, 40 Days and 40 Nights, About a Boy, The Bourne Identity, Jackass: The Movie, Catch Me If You Can, How to Lose a Guy in 10 Days, Anger Management, The Matrix Reloaded, Lost in Translation, Love Actually, Eternal Sunshine of the Spotless Mind, Meet the Fockers, The 40 Year Old Virgin, Hostel, Imagine Me & You, Date Movie, Candy, Little Miss Sunshine, Jackass Number Two, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Saw III, Zodiac, Spider-Man 3, Knocked Up, Hostel: Part II, The Simpsons Movie, The Bourne Ultimatum, Superbad, Untraceable, The Bank Job, Forgetting Sarah Marshall, You Don't Mess with the Zohan, Pineapple Express, Burn After Reading.
+
+Associated tags: boxing, earth, police

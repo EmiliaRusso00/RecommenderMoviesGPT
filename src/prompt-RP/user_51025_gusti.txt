@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Star Wars, Léon, The Crow, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Back to the Future, Abre los ojos, Fight Club, Dogma, Gladiator, Amores perros, Mulholland Dr., The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, Le professionnel, Cidade de Deus, 28 Days Later..., Pirates of the Caribbean: The Curse of the Black Pearl, Maria Full of Grace, Garden State, The Life Aquatic with Steve Zissou, Der Untergang, Walk on Water, Crash, Everything Is Illuminated, Family Guy Presents Stewie Griffin: The Untold Story, Why We Fight, Clerks II, The Illusionist, El laberinto del fauno, The Departed.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

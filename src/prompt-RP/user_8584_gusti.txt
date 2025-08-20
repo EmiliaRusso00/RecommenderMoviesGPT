@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Apollo 13, Terminator 2: Judgment Day, The Silence of the Lambs, Aliens, Saving Private Ryan, American History X, The Sixth Sense, Fight Club, U-571, Gladiator, Snatch., Memento, The Lord of the Rings: The Fellowship of the Ring, Black Hawk Down, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Talvisota, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Mr. Brooks.
+
+Associated tags: almodovar, boxing, earth, painter, police

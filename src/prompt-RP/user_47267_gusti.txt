@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, The Mask, The Fugitive, Schindler's List, The Silence of the Lambs, The Godfather, One Flew Over the Cuckoo's Nest, The Shining, When Harry Met Sally..., Liar Liar, The Game, Gattaca, Good Will Hunting, There's Something About Mary, Dangerous Liaisons, La vita è bella, American History X, The Matrix, The Sixth Sense, Stir of Echoes, Gladiator, Chocolat, No Man's Land, A Beautiful Mind, The Count of Monte Cristo, Minority Report, Red Dragon, Cidade de Deus, Lost in Translation, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, Before Sunset, Million Dollar Baby, Hotel Rwanda, Crash, The Constant Gardener, Syriana, Munich.
+
+Associated tags: boxing, earth, painter, police

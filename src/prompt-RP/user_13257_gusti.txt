@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Braveheart, Crimson Tide, Pulp Fiction, The Shawshank Redemption, Terminator 2: Judgment Day, The Silence of the Lambs, Fargo, The Shining, The Game, The Exorcist, The Untouchables, American History X, The Matrix, Election, The Sixth Sense, Fight Club, Dogma, Misery, Snatch., The Others, Training Day, Road to Perdition, The Ring, The Machinist, Sin City.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, seriously scary, whale

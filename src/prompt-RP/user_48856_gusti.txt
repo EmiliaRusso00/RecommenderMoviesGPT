@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Belle de jour, Welcome to the Dollhouse, Caro diario, Pather Panchali, To Be or Not to Be, Annie Hall, Manhattan, Breaking the Waves, Le mépris, Deconstructing Harry, Who's Afraid of Virginia Woolf?, Happiness, Rushmore, The Killing, The Last Picture Show, Interiors, Dancer in the Dark, Der amerikanische Freund, Il vangelo secondo Matteo, Ikiru, Das Cabinet des Dr. Caligari., The Night of the Hunter, Wild at Heart, Dogville, Pierrot le fou, Tystnaden, Broadway Danny Rose, 3 Women, Napoleon Dynamite, Freaks, Alice Doesn't Live Here Anymore, Brokeback Mountain.
+
+Associated tags: boxing, earth, funny, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Robin Hood: Men in Tights, My Cousin Vinny, American History X, Airplane!.
+
+Associated tags: boxing, earth, police

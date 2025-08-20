@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La haine, Bad Boys, Pulp Fiction, True Romance, Last Man Standing, Die Hard, Goodfellas, Indiana Jones and the Last Crusade, L.A. Confidential, The Big Hit, Blade, The Faculty, Payback, American Beauty, Jui kuen II, Fight Club, Snatch., Memento, Amores perros, Donnie Darko, Blade II, The Transporter, Cidade de Deus, Chuen jik sat sau, Kill Bill: Vol. 2, The Last Boy Scout, Dobermann, Mou gaan dou, Boksuneun naui geot, Oldeuboi, 300.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, frightfully accurate political commentary, funny, painter, police, robots, satoshi kon, whale

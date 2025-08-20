@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Usual Suspects, Forrest Gump, Philadelphia, The Piano, Le violon rouge, X-Men, Wo hu cang long, The Lord of the Rings: The Fellowship of the Ring, Minority Report, Das Experiment, Hable con ella, Identity, X2, Les triplettes de Belleville, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, The Incredibles, Der Untergang, Batman Begins, La marche de l'empereur, Good Night, and Good Luck., Superman Returns.
+
+Associated tags: boxing, earth, painter, police, whale

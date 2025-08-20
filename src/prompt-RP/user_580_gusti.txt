@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Naked Gun 33 1/3: The Final Insult, City Slickers II: The Legend of Curly's Gold, Grease, Grosse Pointe Blank, Mission: Impossible, Spider-Man, Amores Possíveis, The Lord of the Rings: The Return of the King.
+
+Associated tags: earth, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Natural Born Killers, The Shawshank Redemption, Schindler's List, The Silence of the Lambs, Full Metal Jacket, Dead Poets Society, L.A. Confidential, Rain Man, Saving Private Ryan, American History X, American Beauty, Requiem for a Dream, Catch Me If You Can, The Pianist, 21 Grams, Der Untergang, The Departed, The Prestige, Zwartboek.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

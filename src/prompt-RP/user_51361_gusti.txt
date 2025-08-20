@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Rob Roy, Schindler's List, The Adventures of Robin Hood, The Crying Game, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Dip huet seung hung, The Right Stuff, Chinatown, Ben-Hur, The Last of the Mohicans, Good Will Hunting, The Untouchables, Say Anything..., A Few Good Men, The Matrix, Erin Brockovich, High Fidelity, Per qualche dollaro in più, Wo hu cang long, Manhunter, Shrek, The Magnificent Seven, Fiddler on the Roof, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Master and Commander: The Far Side of the World, The Lord of the Rings: The Return of the King, Captain Blood, The Incredibles, Jeux d'enfants, Layer Cake, Kiss Kiss Bang Bang, Harry Potter and the Goblet of Fire.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, whale

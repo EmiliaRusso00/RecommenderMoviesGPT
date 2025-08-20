@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: What's Eating Gilbert Grape, Forrest Gump, Home Alone, The Silence of the Lambs, Dirty Dancing, Edward Scissorhands, Meet Joe Black, Planet of the Apes, The Green Mile, Monsters, Inc., Ocean's Eleven, A Walk to Remember, Ice Age, Phone Booth, Mystic River, The Terminal, The Notebook, Fahrenheit 9/11, Andrey Rublyov, Ivanovo detstvo, Madagascar, Mr. & Mrs. Smith, Brokeback Mountain.
+
+Associated tags: almodovar, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

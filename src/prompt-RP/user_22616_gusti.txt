@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Blade, The Sixth Sense, Gladiator, The Count of Monte Cristo, The Butterfly Effect, Zatôichi, National Treasure: Book of Secrets.
+
+Associated tags: earth

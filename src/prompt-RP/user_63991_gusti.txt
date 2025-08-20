@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Rob Roy, Star Wars, Pulp Fiction, Dances with Wolves, The Silence of the Lambs, The Godfather, Die Hard, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Aliens, Star Wars: Episode VI - Return of the Jedi, Amadeus, Chinatown, Unforgiven, Grosse Pointe Blank, West Side Story, Saving Private Ryan, TRON, Shakespeare in Love, The Matrix, Star Wars: Episode I - The Phantom Menace, Lola rennt, Ghost Busters, The Sixth Sense, American Beauty, Fight Club, Wo hu cang long, O Brother, Where Art Thou?, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Lost in Translation, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Sin City, Batman Begins.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Desperado, Star Wars, Pulp Fiction, The Silence of the Lambs, The Godfather, Die Hard, Life of Brian, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, Star Wars: Episode VI - Return of the Jedi, The Shining, Scream, The Matrix, The Sixth Sense, American Beauty, Fight Club, The Green Mile, Wayne's World, Gladiator, Snatch., Scarface, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, Slap Shot, Red Dragon, The Lord of the Rings: The Two Towers, Confidence, The Lord of the Rings: The Return of the King, Mindhunters, The Village, Star Wars: Episode III - Revenge of the Sith, The Departed.
+
+Associated tags: boxing, earth, funny, painter, police, whale

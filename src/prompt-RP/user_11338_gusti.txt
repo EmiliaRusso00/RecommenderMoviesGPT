@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mr. Holland's Opus, Braveheart, Apollo 13, The Shawshank Redemption, Forrest Gump, Rudy, Schindler's List, Searching for Bobby Fischer, Sleepless in Seattle, Dances with Wolves, It's a Wonderful Life, Mr. Smith Goes to Washington, The Princess Bride, The Right Stuff, Groundhog Day, Good Will Hunting, Miracle on 34th Street, October Sky, The Mission, Stand and Deliver, Hoosiers, Remember the Titans, A Beautiful Mind, We Were Soldiers, My Big Fat Greek Wedding, The Lord of the Rings: The Two Towers, Sergeant York, Cinderella Man, Pride & Prejudice, August Rush.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

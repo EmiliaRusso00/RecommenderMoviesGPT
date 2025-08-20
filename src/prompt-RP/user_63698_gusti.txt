@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, The Shawshank Redemption, Schindler's List, Rear Window, North by Northwest, Casablanca, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, 12 Angry Men, To Kill a Mockingbird, Goodfellas, The Godfather: Part II, The Manchurian Candidate, There's Something About Mary, The Sixth Sense, And Now for Something Completely Different, Double Indemnity, Memento, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Monsoon Wedding, The Lord of the Rings: The Two Towers, Monty Python Live at the Hollywood Bowl, Bend It Like Beckham, The Lord of the Rings: The Return of the King, The Incredibles.
+
+Associated tags: boxing, earth, funny, painter, police

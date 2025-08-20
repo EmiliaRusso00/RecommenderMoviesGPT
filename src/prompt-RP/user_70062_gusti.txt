@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Gone with the Wind, Ninotchka, Bonnie and Clyde, Monty Python and the Holy Grail, Evita, Benny & Joon, Waking Life, Le fabuleux destin d'Amélie Poulain, Madagascar, La marche de l'empereur, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Across the Universe, Arctic Tale.
+
+Associated tags: boxing, earth, painter, police

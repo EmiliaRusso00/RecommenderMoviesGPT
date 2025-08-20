@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Rear Window, North by Northwest, Citizen Kane, Life of Brian, The Princess Bride, A Clockwork Orange, Apocalypse Now, Goodfellas, The Godfather: Part II, 8½, The Big Lebowski, Carne trémula, Fear and Loathing in Las Vegas, Shichinin no samurai, The Last Temptation of Christ, Magnolia, Easy Rider, C'est arrivé près de chez vous, Wonder Boys, Eraserhead, Requiem for a Dream, Y tu mamá también, Hable con ella, Cidade de Deus, Lost in Translation, Funny Games U.S., Eternal Sunshine of the Spotless Mind, La jetée, Diarios de motocicleta, The Squid and the Whale, No Country for Old Men.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

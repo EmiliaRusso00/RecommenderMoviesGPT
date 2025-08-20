@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Trois couleurs: Bleu, Bitter Moon, Trainspotting, Die Blechtrommel, La double vie de Véronique, The English Patient, A Clockwork Orange, Amadeus, Fried Green Tomatoes, Cyrano de Bergerac, The Unbearable Lightness of Being, Breaking the Waves, Kolja, Brassed Off, Jackie Brown, Out of Africa, The Last Temptation of Christ, Fanny och Alexander, The Sheltering Sky, The Matrix, The Color Purple, Dom za vesanje, Mujeres al borde de un ataque de nervios, Todo sobre mi madre, Traffic, Amores perros, Drowning by Numbers, Gorillas in the Mist: The Story of Dian Fossey, The Others, Tillsammans, Sen to Chihiro no kamikakushi, The Quiet American, Hable con ella, Nirgendwo in Afrika, Lilja 4-ever, La strada, Diarios de motocicleta, Sideways, Vera Drake, La mala educación, La mariée était en noir, Mar adentro, Crash, Broken Flowers, The Constant Gardener, Brokeback Mountain, Das Leben der Anderen, Babel, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, earth, finnish, medieval, painter, police, whale

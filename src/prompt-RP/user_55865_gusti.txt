@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Hung fan kui, Speed, Days of Thunder, Back to the Future, Ging chaat goo si 4: Ji gaan daan yam mo, Back to the Future Part II, Back to the Future Part III, Flight of the Navigator, Herbie Goes Bananas, Herbie Goes to Monte Carlo, The Karate Kid, Superman, Superman II, Superman III, Superman IV: The Quest for Peace, Gone in Sixty Seconds, The Fast and the Furious, Gleaming the Cube, Smokey and the Bandit II, Smokey and the Bandit, The Bourne Identity, The Italian Job, 2 Fast 2 Furious, Agent Cody Banks, The Italian Job, WarGames, Vanishing Point, Agent Cody Banks 2: Destination London, Taxi, Taxi 3, The Chase, Batman Begins, Herbie Fully Loaded, Fantastic Four, Transporter 2, Cars, The Fast and the Furious: Tokyo Drift, Live Free or Die Hard, Transformers, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Dead Man Walking, Dolores Claiborne, Dumb & Dumber, Heavenly Creatures, Pulp Fiction, The Shawshank Redemption, Schindler's List, Fargo, A Clockwork Orange, Goodfellas, Sling Blade, Mujeres al borde de un ataque de nervios, Boogie Nights, Titanic, Midnight Cowboy, Edward Scissorhands, La vita è bella, Festen, Lola rennt, The Sixth Sense, American Beauty, Magnolia, American Psycho, Gladiator, Meet the Parents, Requiem for a Dream, Traffic, Memento, Amores perros, Moulin Rouge!, Tillsammans, Mulholland Dr., Donnie Darko, Le fabuleux destin d'Amélie Poulain, Minority Report, Das Experiment, The Pianist, Cidade de Deus, Irréversible, Lilja 4-ever, The Magdalene Sisters, Elephant, Big Fish, Eternal Sunshine of the Spotless Mind, La mala educación, Les choristes, Little Miss Sunshine, Children of Men, This Is England, There Will Be Blood.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, time travel, whale

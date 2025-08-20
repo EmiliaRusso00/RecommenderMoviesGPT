@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Singin' in the Rain, Some Like It Hot, Life of Brian, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, The Blues Brothers, A Grand Day Out with Wallace and Gromit, The Great Dictator, Star Trek IV: The Voyage Home, Starship Troopers, Wag the Dog, The Jungle Book, The Matrix, Lola rennt, South Park: Bigger Longer & Uncut, The Thomas Crown Affair, Crna macka, beli macor, Dogma, The Commitments, Galaxy Quest, Modern Times, Operation Petticoat, The Lord of the Rings: The Fellowship of the Ring, MASH, One, Two, Three, The Pink Panther, Idiocracy, Hot Fuzz.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

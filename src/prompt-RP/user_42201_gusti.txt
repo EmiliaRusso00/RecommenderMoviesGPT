@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, The Game, Rain Man, La vita è bella, The Matrix, The Sixth Sense, Fight Club, Memento, Big Fish, The Departed.
+
+Associated tags: boxing, earth, painter, police

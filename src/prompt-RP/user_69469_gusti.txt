@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clueless, Shichinin no samurai, The Birdcage, Don Juan DeMarco, Dumb & Dumber, The Silence of the Lambs, The Shining, Dracula, There's Something About Mary, Jane Austen's Mafia!, The Matrix, The Sixth Sense, American Beauty, Fight Club, Bedazzled, Traffic, Moulin Rouge!, Legally Blonde, The Others, Catch Me If You Can, Cidade de Deus, Identity, Twisted, Eternal Sunshine of the Spotless Mind, Closer, Million Dollar Baby, Memoirs of a Geisha, Thank You for Smoking, Cidade dos Homens.
+
+Associated tags: earth, painter, police

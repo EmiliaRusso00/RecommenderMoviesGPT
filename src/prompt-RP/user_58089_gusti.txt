@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, Cliffhanger, Terminator 2: Judgment Day, The Godfather, Die Hard, Star Wars: Episode V - The Empire Strikes Back, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Das Boot, The Fifth Element, The Hunt for Red October, Rain Man, A Night at the Roxbury, Rocky III, The Matrix, Goldfinger, Licence to Kill, Papillon, Gladiator, Mad Max 2, Mad Max Beyond Thunderdome, The 6th Day, Shrek, The Fast and the Furious, Legally Blonde, Dirty Harry, Le fabuleux destin d'Amélie Poulain, Blade II, Sen to Chihiro no kamikakushi, Commando, The Girl Next Door, You Only Live Twice, Octopussy, Shrek 2, Napoleon Dynamite, The Terminal, Talvisota, Ultimo mondo cannibale, The Incredibles, Der Untergang, Hauru no ugoku shiro, Lord of War, Star Wreck: In the Pirkinning, The Dark Knight.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

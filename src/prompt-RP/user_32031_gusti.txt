@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, The Shawshank Redemption, Philadelphia, The Piano, Schindler's List, Blade Runner, The Godfather, Casablanca, The Wizard of Oz, Citizen Kane, 2001: A Space Odyssey, Life of Brian, Wallace & Gromit in The Wrong Trousers, 12 Angry Men, Lawrence of Arabia, To Kill a Mockingbird, Apocalypse Now, Alien, The Blues Brothers, The Godfather: Part II, The Graduate, The Shining, Pink Floyd The Wall, Grosse Pointe Blank, West Side Story, Metropolis, All the President's Men.
+
+Associated tags: boxing, earth, funny, painter, police, whale

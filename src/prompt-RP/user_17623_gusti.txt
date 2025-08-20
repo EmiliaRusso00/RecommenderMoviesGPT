@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Star Wars, The Shawshank Redemption, The Crow, Terminator 2: Judgment Day, Nuovo Cinema Paradiso, Star Wars: Episode VI - Return of the Jedi, Alien³, Cube, The Matrix, The Sixth Sense, Fight Club, Memento, The Others, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Ying xiong, The Lord of the Rings: The Return of the King, Shrek 2, Saw.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police

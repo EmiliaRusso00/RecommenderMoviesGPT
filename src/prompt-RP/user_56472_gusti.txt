@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Jurassic Park, Romeo + Juliet, Strictly Ballroom, Titanic, You've Got Mail, The Matrix, Notting Hill, Fight Club, The Beach, Gladiator, Wo hu cang long, What Women Want, Moulin Rouge!, Spider-Man, Minority Report, Catch Me If You Can, Freaky Friday, The Passion of the Christ, Mean Girls, White Chicks, Ondskan, War of the Worlds, She's the Man, Step Up, The Illusionist, Apocalypto, Children of Men, Casino Royale, Freedom Writers, Vacancy, Halloween, Jumper, 21.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

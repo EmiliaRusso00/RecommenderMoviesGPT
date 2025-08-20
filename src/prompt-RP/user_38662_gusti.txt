@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Pulp Fiction, Blade Runner, Rear Window, Some Like It Hot, Casablanca, The Wizard of Oz, Citizen Kane, It's a Wonderful Life, Le retour de Martin Guerre, The Cook the Thief His Wife & Her Lover, Raiders of the Lost Ark, Brazil, Lawrence of Arabia, To Kill a Mockingbird, C'era una volta il West, The Sting, The Manchurian Candidate, The Great Dictator, Being There, Raising Arizona, All Quiet on the Western Front, Shichinin no samurai, The Producers, Le notti di Cabiria, Central do Brasil, Les quatre cents coups, La grande illusion, Titus, Suna no onna, Yi ge dou bu neng shao, Double Indemnity, Network, The Brother from Another Planet, Wo hu cang long, House of Games, Memento, Mulholland Dr., À bout de souffle, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, Chicago, Ikiru, Europa, La passion de Jeanne d'Arc, Dogville, The 40 Year Old Virgin.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, Schindler's List, Buffalo '66, American History X, The Sixth Sense, The Green Mile, Requiem for a Dream, The Emperor's New Groove, Cast Away, Memento, Shrek, Waking Life, Donnie Darko, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Tonari no Totoro, Pirates of the Caribbean: The Curse of the Black Pearl, The Incredibles, Hotel Rwanda, Hauru no ugoku shiro, Little Miss Sunshine, El laberinto del fauno, Children of Men, The Dark Knight.
+
+Associated tags: boxing, earth, police

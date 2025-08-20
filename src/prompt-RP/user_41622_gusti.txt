@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Lion King, Home Alone, Beauty and the Beast, Mrs. Winterbourne, The MatchMaker, Mulan, Simon Birch, The Mission, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, Evan Almighty, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, Wilbur Wants to Kill Himself, Taxi, Taxi 2, Charlie and the Chocolate Factory, Hauru no ugoku shiro, Rent, Eight Below, Click, The Devil Wears Prada, Night at the Museum, Casino Royale, The Holiday, Miss Potter, Amazing Grace, Hairspray, Evan Almighty, Se, jie.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

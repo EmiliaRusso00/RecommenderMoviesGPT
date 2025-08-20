@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Natural Born Killers, The Godfather, 2001: A Space Odyssey, Pink Floyd The Wall, Magnolia, Mulholland Dr., Sans soleil, Chavez: Inside the Coup, La meglio gioventù.
+
+Associated tags: earth, police

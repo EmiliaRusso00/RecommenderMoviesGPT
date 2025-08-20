@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Jurassic Park, Batman, The Godfather, The Princess Bride, Goodfellas, The Godfather: Part II, The Graduate, Sling Blade, Donnie Brasco, Good Will Hunting, Office Space, The Matrix, Fight Club, Being John Malkovich, Gladiator, Snatch., O Brother, Where Art Thou?, Shrek, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Spider-Man, The Lord of the Rings: The Two Towers, Cidade de Deus, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Million Dollar Baby, Cinderella Man, Little Miss Sunshine, The Departed, Casino Royale, Blood Diamond, The Good Shepherd, Black Snake Moan, 300.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

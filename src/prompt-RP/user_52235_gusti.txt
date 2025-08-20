@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Rob Roy, Jurassic Park, Dances with Wolves, Dark City, Saving Private Ryan, The Matrix, Gladiator, The Patriot, Enemy at the Gates, Bridget Jones's Diary, The Bourne Identity, Seabiscuit, Master and Commander: The Far Side of the World, Miracle, Diarios de motocicleta, Der Untergang, Kingdom of Heaven.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

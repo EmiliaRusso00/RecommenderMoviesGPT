@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Forrest Gump, Matilda, Groundhog Day, Airplane!, Le fabuleux destin d'Amélie Poulain, Signs, Catch Me If You Can, The Butterfly Effect, 50 First Dates, Eternal Sunshine of the Spotless Mind, Garden State, Marie Antoinette, El laberinto del fauno.
+
+Associated tags: earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Silence of the Lambs, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Once Upon a Time in America, High Noon, Ben-Hur, Butch Cassidy and the Sundance Kid, Star Trek: First Contact, Star Trek: The Wrath of Khan, Mulan, Edward Scissorhands, The Cider House Rules, Wo hu cang long, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, Better Luck Tomorrow, Sennen joyû, Ying xiong, The Lord of the Rings: The Return of the King, Spider-Man, Shi mian mai fu, Sherlock Jr., Saving Face, The Illusionist, The Fountain, El laberinto del fauno, Enchanted, Sweeney Todd: The Demon Barber of Fleet Street, The Dark Knight.
+
+Associated tags: boxing, earth, painter, police

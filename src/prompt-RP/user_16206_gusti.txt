@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Silence of the Lambs, Fargo, Bringing Up Baby, The African Queen, Nuovo Cinema Paradiso, Aliens, The Sting, The Graduate, The Treasure of the Sierra Madre, Duck Soup, Butch Cassidy and the Sundance Kid, Cape Fear, Terms of Endearment, Rosemary's Baby, La vita è bella, Desperately Seeking Susan, The Matrix, American Beauty, Midnight Run, Breaking Away, The Odd Couple, Xizao, Shrek, Vanilla Sky, The Lord of the Rings: The Fellowship of the Ring, Witness for the Prosecution, Diarios de motocicleta, The In-Laws, Brokeback Mountain, The World's Fastest Indian.
+
+Associated tags: boxing, earth, funny, painter, police, whale

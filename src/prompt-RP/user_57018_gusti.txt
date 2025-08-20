@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Shichinin no samurai, Antonia, Once Were Warriors, The Piano, Delicatessen, Kolja, The Straight Story, Wo hu cang long, Chocolat, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Vacas, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, The Village.
+
+Associated tags: earth, painter, police, whale

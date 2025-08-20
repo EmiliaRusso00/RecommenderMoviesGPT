@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Taxi Driver, The Basketball Diaries, Pulp Fiction, Addams Family Values, Philadelphia, Schindler's List, The Nightmare Before Christmas, Aladdin, The AristoCats, The Godfather, 2001: A Space Odyssey, The Godfather: Part II, Amadeus, The Shining, The Big Lebowski, All Dogs Go to Heaven, The Addams Family, An American Tail, Barry Lyndon, The Acid House, American Beauty, Todo sobre mi madre, Angela's Ashes, Almost Famous, 15 Minutes, Amores perros, Hedwig and the Angry Inch, 24 Hour Party People, Adaptation., Cidade de Deus, 21 Grams, Les invasions barbares, 11'09''01 - September 11, Arizona Dream, La mala educación, 2046, Hotel Rwanda, Transamerica, Babel.
+
+Associated tags: boxing, brothers quay, earth, funny, painter, police, whale

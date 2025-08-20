@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: What's Eating Gilbert Grape, Terminator 2: Judgment Day, Back to the Future, Sling Blade, Back to the Future Part II, American History X, Frequency, Memento, Training Day, The Lord of the Rings: The Fellowship of the Ring, Spider-Man, One Hour Photo, Out of Time, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Secret Window, Eternal Sunshine of the Spotless Mind, Man on Fire, Mean Girls, Spider-Man, Saw, Hostage, Crash, Batman Begins, The Dark Knight.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

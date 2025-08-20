@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Twelve Monkeys, Shichinin no samurai, Schindler's List, The Nightmare Before Christmas, The Silence of the Lambs, One Flew Over the Cuckoo's Nest, The Shining, Ponette, The Game, The Truman Show, Dark City, Edward Scissorhands, The Elephant Man, American History X, The Blair Witch Project, Fight Club, Magnolia, Memento, Donnie Darko, Le peuple migrateur, Mar adentro, La marche de l'empereur.
+
+Associated tags: boxing, earth, finnish, painter, police

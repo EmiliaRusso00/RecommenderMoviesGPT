@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Terminator 2: Judgment Day, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Life of Brian, Monty Python and the Holy Grail, A Clockwork Orange, Dracula, Saving Private Ryan, The Matrix, Fight Club, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, Adaptation., The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, The Butterfly Effect, Kill Bill: Vol. 2, Gladiator, Shaun of the Dead, Million Dollar Baby, Sin City, Batman Begins, Serenity, Kiss Kiss Bang Bang, Pirates of the Caribbean: Dead Man's Chest.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

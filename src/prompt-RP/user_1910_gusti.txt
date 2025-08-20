@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Life of Brian, American Beauty, Dogma, O Brother, Where Art Thou?, Traffic, X2, Eternal Sunshine of the Spotless Mind, Movie Crazy, El laberinto del fauno.
+
+Associated tags: earth, painter, police

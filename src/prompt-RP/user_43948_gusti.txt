@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, The Silence of the Lambs, Swingers, The Princess Bride, Sling Blade, Sliding Doors, Good Will Hunting, As Good as It Gets, La vita è bella, Office Space, Lola rennt, The Sixth Sense, American Beauty, Erin Brockovich, Almost Famous, Best in Show, Meet the Parents, Billy Elliot, Traffic, Memento, Shrek, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Monsoon Wedding, Chicago, Lost in Translation, Saved!, Garden State, Ray, Finding Neverland, Million Dollar Baby, Crash, La marche de l'empereur, Wedding Crashers, Match Point, Thank You for Smoking, Friends with Money, Little Miss Sunshine, Knocked Up.
+
+Associated tags: almodovar, boxing, earth, painter, police

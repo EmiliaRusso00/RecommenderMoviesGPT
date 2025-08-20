@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Shichinin no samurai, Léon, Pulp Fiction, Apocalypse Now, Le grand bleu, La Femme Nikita, The Shining, Akira, The Matrix, Fight Club, Mononoke-hime, Jacob's Ladder, Human Traffic, Requiem for a Dream, Memento, Tuvalu, Santa sangre, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Le professionnel, Ringu, Invasion of the Body Snatchers, Wild at Heart, The Dreamers, Eternal Sunshine of the Spotless Mind, Le salaire de la peur, Bom yeoreum gaeul gyeoul geurigo bom, Before Sunset, Cannibal Holocaust, Primer, Thursday, Oasis, Oldeuboi, Nochnoy dozor, Brutti, sporchi e cattivi, Les poupées russes, The Chumscrubber, MirrorMask, Broken English, Into the Wild, Youth Without Youth, The Fall.
+
+Associated tags: boxing, earth, funny, painter, police, whale

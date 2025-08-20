@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Legends of the Fall, Quiz Show, The Shawshank Redemption, Forrest Gump, Schindler's List, The Godfather, Casablanca, Giant, Dirty Dancing, Reservoir Dogs, Platoon, My Left Foot: The Story of Christy Brown, Raiders of the Lost Ark, Apocalypse Now, Goodfellas, The Godfather: Part II, Full Metal Jacket, Stand by Me, Back to the Future, The Killing Fields, Butch Cassidy and the Sundance Kid, Sneakers, The Last of the Mohicans, L.A. Confidential, Good Will Hunting, Rain Man, Saving Private Ryan, The Untouchables, Ghost Busters, Stigmata, American Beauty, Fight Club, Inside Man, The Commitments, A River Runs Through It, JFK, O Brother, Where Art Thou?, Ocean's Eleven, Gosford Park, Signs, Heaven, Gangs of New York, Catch Me If You Can, The Dancer Upstairs, Mystic River, Layer Cake, The Aviator, Crash, Good Night, and Good Luck., Little Miss Sunshine, The Departed.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

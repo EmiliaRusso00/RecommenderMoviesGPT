@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Twelve Monkeys, The Piano, Microcosmos: Le peuple de l'herbe, Delicatessen, Der Himmel über Berlin, Kundun, The Matrix, Being John Malkovich, Mononoke-hime, The Adventures of Buckaroo Banzai Across the 8th Dimension, Todo sobre mi madre, Creature Comforts, High Fidelity, The Boys of Baraka, Almost Famous, Waking Life, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Slackers, Eternal Sunshine of the Spotless Mind, Harold & Kumar Go to White Castle, Charlie and the Chocolate Factory, Wallace & Gromit in The Curse of the Were-Rabbit, Brokeback Mountain, Volver, Little Miss Sunshine, The Namesake.
+
+Associated tags: boxing, earth, painter, police, whale

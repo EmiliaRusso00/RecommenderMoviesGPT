@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Pulp Fiction, The Silence of the Lambs, Trainspotting, The Godfather, Reservoir Dogs, Raiders of the Lost Ark, Full Metal Jacket, Private Parts, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Walk the Line.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Life of Brian, Army of Darkness, The Blues Brothers, Braindead, Pink Floyd The Wall, Beavis and Butt-Head Do America, Titanic, Fear and Loathing in Las Vegas, Dune, The Elephant Man, American History X, Lock, Stock and Two Smoking Barrels, The Rocky Horror Picture Show, Sleepy Hollow, The Toxic Avenger, The Running Man, Big Trouble in Little China, Snatch., Artificial Intelligence: AI, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Spider, Commando, Lost in Translation, Day of the Dead, House of the Dead, Bad Santa, Das Cabinet des Dr. Caligari., Dark Star, Hauru no ugoku shiro, Chinjeolhan geumjassi, V for Vendetta, Snakes on a Plane, El laberinto del fauno.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

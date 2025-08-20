@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Sense and Sensibility, Get Shorty, Taxi Driver, Apollo 13, Léon, Pulp Fiction, Quiz Show, The Shawshank Redemption, While You Were Sleeping, Forrest Gump, Mrs. Doubtfire, Schindler's List, The Silence of the Lambs, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Emma, The Godfather, Casablanca, 2001: A Space Odyssey, E.T.: The Extra-Terrestrial, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Goodfellas, Alien, The Blues Brothers, The Godfather: Part II, Amadeus, Terminator Salvation, Groundhog Day, The Manchurian Candidate, Back to the Future, When Harry Met Sally..., Jaws, Jerry Maguire, Men in Black, Rain Man, Driving Miss Daisy, Saving Private Ryan, Broadcast News, Shakespeare in Love, American Beauty, Gladiator, Das Leben der Anderen.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, time travel, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Stargate, The Shawshank Redemption, Forrest Gump, Maverick, The Silence of the Lambs, Kôkaku kidôtai, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Star Wars: Episode VI - Return of the Jedi, Amadeus, Rosencrantz & Guildenstern Are Dead, Indiana Jones and the Last Crusade, The Big Lebowski, La vita è bella, The Matrix, Le violon rouge, Lola rennt, South Park: Bigger Longer & Uncut, American Beauty, Fight Club, Toy Story, The Boondock Saints, Chocolat, Shrek, Bandits, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Adaptation., Love Actually, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Fahrenheit 9/11, Garden State, Kinsey, Sin City, V for Vendetta, Das Leben der Anderen, The Departed, The Dark Knight.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

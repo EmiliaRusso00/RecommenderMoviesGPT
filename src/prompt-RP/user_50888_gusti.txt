@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, Shichinin no samurai, The Shawshank Redemption, Forrest Gump, Philadelphia, Schindler's List, The Silence of the Lambs, Beauty and the Beast, Pretty Woman, Independence Day, Gone with the Wind, Dirty Dancing, Jaws, The Truman Show, Titanic, La vita è bella, Star Wars: Episode I - The Phantom Menace, The Sixth Sense, La Bamba, Gladiator, Meet the Parents, Pay It Forward, Save the Last Dance, Shrek, K-PAX, A Beautiful Mind, A Walk to Remember, My Big Fat Greek Wedding, Spider-Man, Spirit: Stallion of the Cimarron, The Bourne Identity, Rabbit-Proof Fence, Mis, The Life of David Gale, Finding Nemo, The Italian Job, In America, The Terminal, The Notebook, Saw, Million Dollar Baby, Meet the Fockers, Star Wars: Episode III - Revenge of the Sith, Brokeback Mountain, Walk the Line, The Pursuit of Happyness, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan.
+
+Associated tags: boxing, earth, painter, police

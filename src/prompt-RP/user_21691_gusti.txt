@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Devil's Advocate, The Truman Show, Titanic, The Green Mile, Moulin Rouge!, Ocean's Eleven, Ice Age, Cold Mountain, Closer, Garfield: A Tail of Two Kitties, Ratatouille, WALL·E.
+
+Associated tags: earth, police

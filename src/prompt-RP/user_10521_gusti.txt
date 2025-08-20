@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Lion King, Dave, What's Love Got to Do with It, Schindler's List, Aladdin, Dances with Wolves, The Silence of the Lambs, Pretty Woman, Singin' in the Rain, Mary Poppins, That Thing You Do!, Psycho, Amadeus, The Shining, Sling Blade, Lady and the Tramp, Song of the South, Ever After, Working Girl, A Few Good Men, My Cousin Vinny, The Sixth Sense, Big, A League of Their Own, Erin Brockovich, Keeping the Faith, Steel Magnolias, Cat Ballou, Almost Famous, Remember the Titans, Men of Honor, An Officer and a Gentleman, Hans Christian Andersen, Lean on Me, Play Misty for Me, Blue Collar Comedy Tour: The Movie, Radio, Something's Gotta Give, Paper Clips, Bill Cosby: Himself, Spanglish, Crash, Wedding Crashers, Walk the Line.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Godfather, Escape from New York, Bob Roberts, The Godfather: Part II, Chinatown, The Manchurian Candidate, Shichinin no samurai, Eyes Wide Shut, The Iron Giant, Network, American Psycho, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara, Outfoxed: Rupert Murdoch's War on Journalism, The Constant Gardener, Kiss Kiss Bang Bang, Good Night, and Good Luck., Syriana, Walk the Line.
+
+Associated tags: boxing, earth, police

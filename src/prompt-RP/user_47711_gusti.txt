@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Rear Window, Romeo + Juliet, The English Patient, Contact, American History X, American Beauty, Fa yeung nin wa, Moulin Rouge!, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Gosford Park, Adaptation., The Hours, Cold Mountain, Dogville, Kill Bill: Vol. 2, V for Vendetta, Inside Man.
+
+Associated tags: boxing, earth, painter, police

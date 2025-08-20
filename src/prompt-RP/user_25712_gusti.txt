@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Pulp Fiction, Blade Runner, Life of Brian, Platoon, Monty Python and the Holy Grail, One Flew Over the Cuckoo's Nest, Brazil, Il buono, il brutto, il cattivo., Apocalypse Now, Alien, The Deer Hunter, Unforgiven, The Big Lebowski, Henry Fool, The Thin Red Line, Lock, Stock and Two Smoking Barrels, The Matrix, The Sixth Sense, Fight Club, Predator, Snatch., O Brother, Where Art Thou?, Memento, Amores perros, Mulholland Dr., The Lord of the Rings: The Fellowship of the Ring, MASH, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, 21 Grams, The Lord of the Rings: The Return of the King, Pirates of the Caribbean: Dead Man's Chest, Babel.
+
+Associated tags: boxing, earth, funny, painter, police, whale

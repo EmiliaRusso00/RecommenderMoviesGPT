@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mallrats, Forrest Gump, Schindler's List, Life of Brian, Monty Python and the Holy Grail, The Fifth Element, As Good as It Gets, Pi, The Sixth Sense, American Beauty, Fight Club, Memento, The Others, Mulholland Dr., K-PAX, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, The Mothman Prophecies, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Big Fish, The Lord of the Rings: The Return of the King, The Butterfly Effect, Shaun of the Dead, Lord of War, V for Vendetta.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Living in Oblivion, Blade Runner, Spanking the Monkey, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Reservoir Dogs, Glengarry Glen Ross, One Flew Over the Cuckoo's Nest, Brazil, Withnail & I, The Godfather: Part II, Amadeus, Chinatown, This Is Spinal Tap, Mitt liv som hund, L.A. Confidential, The Ice Storm, Buffalo '66, The Player, Office Space, Lolita, Les quatre cents coups, Fight Club, Repulsion, The Last Picture Show, Dog Day Afternoon, Do the Right Thing, Blood Simple., Angel Heart, The Conversation, Don't Look Now, Gallipoli, Cidade de Deus, El laberinto del fauno.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, time travel, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Star Wars, The Shawshank Redemption, The Fugitive, Schindler's List, Terminator 2: Judgment Day, The Silence of the Lambs, The Godfather, Casablanca, The Maltese Falcon, Sunset Blvd., Swingers, Platoon, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, 12 Angry Men, Goodfellas, The Godfather: Part II, Terminator Salvation, The Shining, The Great Escape, The Fifth Element, The Hunt for Red October, Gattaca, Good Will Hunting, Indiana Jones and the Temple of Doom, Office Space, The Matrix, The Sixth Sense, Fight Club, Double Indemnity, Predator, Per qualche dollaro in più, Snatch., Memento, Scarface, Donnie Darko, Catch Me If You Can, Kill Bill: Vol. 2, Mou gaan dou, Sin City, Serenity, Syriana, Walk the Line.
+
+Associated tags: boxing, earth, medieval, painter, police

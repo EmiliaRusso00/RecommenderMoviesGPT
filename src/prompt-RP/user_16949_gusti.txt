@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Judge Dredd, Forrest Gump, The Lion King, The Silence of the Lambs, Wallace and Gromit in A Close Shave, Mary Poppins, Wallace & Gromit in The Wrong Trousers, Alien, Full Metal Jacket, Back to the Future, G.I. Jane, The Game, Good Will Hunting, Rain Man, The Breakfast Club, American History X, The Fly, The Matrix, Total Recall, Fight Club, Boiler Room, Erin Brockovich, Gladiator, Chicken Run, Shrek, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Minority Report, Signs, Sen to Chihiro no kamikakushi, Red Dragon, The Lord of the Rings: The Two Towers, Finding Nemo, The Matrix Revolutions, Love Actually, The Lord of the Rings: The Return of the King, Bang Bang You're Dead, Gladiator, Super Size Me, The Island, This Film Is Not Yet Rated, An Inconvenient Truth, Kung Fu Panda, WALL·E.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Birdcage, Clerks., Forrest Gump, The Lion King, Mrs. Doubtfire, Philadelphia, The Silence of the Lambs, The Cable Guy, The Wizard of Oz, It's a Wonderful Life, Willy Wonka & the Chocolate Factory, Life of Brian, Jaws, Raising Arizona, The Game, The Truman Show, Good Will Hunting, La vita è bella, Office Space, Airplane!, American Beauty, Fight Club, Almost Famous, Shrek, Monsters, Inc., A Beautiful Mind, Adaptation., Eternal Sunshine of the Spotless Mind, Sin City, Little Miss Sunshine.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Sleeper, Star Wars: Episode V - The Empire Strikes Back, Lawrence of Arabia, Duck Soup, Groundhog Day, The Manchurian Candidate, The Great Dictator, The Omen, Soylent Green, Rosemary's Baby, Modern Times, The Lion in Winter, Gone in Sixty Seconds, Tesis, Monty Python Live at the Hollywood Bowl, The Meaning of Life, The Night of the Hunter, Mon oncle, Les vacances de Monsieur Hulot.
+
+Associated tags: earth, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Chung Hing sam lam, Trois couleurs: Rouge, Trzy kolory: Bialy, Pather Panchali, Apur Sansar, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Vertigo, Il buono, il brutto, il cattivo., Apocalypse Now, Raging Bull, Annie Hall, Det sjunde inseglet, 8½, Metropolis, Fanny och Alexander, Höstsonaten, Le notti di Cabiria, E la nave va, Crimes and Misdemeanors, La grande illusion, Soy Cuba, Blood Simple., Blowup, Smultronstället, Tôkyô monogatari, Le charme discret de la bourgeoisie, The Jungle Book, Idi i smotri, Aparajito, Amarcord, La strada, Popiól i diament, Persona, En passion, Scener ur ett äktenskap, Jungfrukällan, Skammen, Nattvardsgästerna, La dolce vita, L'avventura, Ugetsu monogatari, Amator, Die Büchse der Pandora, L'eclisse, Andrey Rublyov, Una giornata particolare, Cul-de-sac, Mouchette.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

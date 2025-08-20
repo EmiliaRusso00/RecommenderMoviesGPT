@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, Shichinin no samurai, Jurassic Park, The Godfather, One Flew Over the Cuckoo's Nest, Fried Green Tomatoes, The Neverending Story III, Fatal Attraction, Angela's Ashes, Good Morning, Vietnam, Ice Age, The Ring.
+
+Associated tags: boxing, earth, medieval, painter, police

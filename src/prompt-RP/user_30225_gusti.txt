@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, Rob Roy, The Secret of Roan Inish, The Shawshank Redemption, The Piano, Short Cuts, Wallace and Gromit in A Close Shave, Wallace & Gromit in The Wrong Trousers, One Flew Over the Cuckoo's Nest, Da hong deng long gao gao gua, Field of Dreams, Seven Years in Tibet, The Full Monty, Good Will Hunting, The Gods Must Be Crazy, Waking Ned, Deliverance, A River Runs Through It, The Cider House Rules, The Talented Mr. Ripley, Chicken Run, O Brother, Where Art Thou?, The Milagro Beanfield War, The Man from Snowy River, The Last Wave, Le fabuleux destin d'Amélie Poulain, MASH, Rabbit-Proof Fence, Cannery Row, The Lord of the Rings: The Two Towers, Whale Rider, Babettes gæstebud, The Lord of the Rings: The Return of the King, The Power of One, Primer, The World's Fastest Indian.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

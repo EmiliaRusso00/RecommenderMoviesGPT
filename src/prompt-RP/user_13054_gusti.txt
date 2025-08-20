@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Taxi Driver, The Age of Innocence, The Silence of the Lambs, Primal Fear, Trainspotting, Citizen Kane, 2001: A Space Odyssey, Monty Python and the Holy Grail, The Godfather: Part II, Full Metal Jacket, Dead Poets Society, The Shining, Paris, Texas, Saving Private Ryan, La vita è bella, American History X, The Blair Witch Project, And Now for Something Completely Different, Fight Club, The Straight Story, Per qualche dollaro in più, Memento, Amores perros, Mulholland Dr., La pianiste, The Pianist, Cidade de Deus, Finding Nemo, The Pink Panther, Les triplettes de Belleville, Funny Games U.S., Ultimo tango a Parigi, Dogville, Million Dollar Baby, Der Untergang, Brokeback Mountain, Das Leben der Anderen, The Simpsons Movie.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, whale

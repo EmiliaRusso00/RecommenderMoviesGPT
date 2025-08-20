@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Twelve Monkeys, Braveheart, Apollo 13, Star Wars, Pulp Fiction, Forrest Gump, Schindler's List, Terminator 2: Judgment Day, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Alien, Terminator Salvation, Shine, The Breakfast Club, Indiana Jones and the Temple of Doom, American History X, Shakespeare in Love, The Matrix, Le violon rouge, The Sixth Sense, American Beauty, Toy Story, The Cider House Rules, Gladiator, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, Big Fish, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, The Bourne Supremacy, The Incredibles, Sin City, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

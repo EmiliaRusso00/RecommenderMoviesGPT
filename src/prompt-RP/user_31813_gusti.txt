@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, Nuovo Cinema Paradiso, One Flew Over the Cuckoo's Nest, 12 Angry Men, Stand by Me, Groundhog Day, The Truman Show, Good Will Hunting, Ma vie en rose, Rain Man, My Cousin Vinny, La vita è bella, Central do Brasil, American Beauty, Being John Malkovich, Dog Day Afternoon, Memento, Torch Song Trilogy, Elling, Xi yan, Good Bye Lenin!.
+
+Associated tags: boxing, earth, police

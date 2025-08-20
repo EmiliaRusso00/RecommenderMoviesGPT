@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Pulp Fiction, The Lion King, The Nightmare Before Christmas, Snow White and the Seven Dwarfs, Pinocchio, Wallace & Gromit: The Best of Aardman Animation, The Philadelphia Story, Singin' in the Rain, Gone with the Wind, All About Eve, Gigi, The Thin Man, Cat on a Hot Tin Roof, Alice in Wonderland, Amadeus, The Little Mermaid, The Sixth Sense, Who Framed Roger Rabbit, Dancer in the Dark, Best in Show, Hedwig and the Angry Inch, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Bad and the Beautiful, Bowling for Columbine, Hotaru no haka, The Lord of the Rings: The Two Towers, Chicago, The Pianist, Kiss Me Kate, Finding Nemo, Eternal Sunshine of the Spotless Mind, Show Boat, Into the Woods, Shaun of the Dead, A Star Is Born, Half Nelson, Once, Sweeney Todd: The Demon Barber of Fleet Street.
+
+Associated tags: boxing, brothers quay, earth, excellent characters, finnish, funny, medieval, painter, police, whale

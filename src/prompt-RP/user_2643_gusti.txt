@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Mallrats, Clerks., The Shawshank Redemption, Schindler's List, Life of Brian, Platoon, Monty Python and the Holy Grail, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, A Clockwork Orange, Patton, This Is Spinal Tap, Chasing Amy, Good Will Hunting, La vita è bella, And Now for Something Completely Different, American Beauty, Fight Club, Dogma, The Boondock Saints, Requiem for a Dream, Donnie Darko, Super Troopers, Adaptation., The Meaning of Life, Bad Santa, Dawn of the Dead, Eternal Sunshine of the Spotless Mind, Shaun of the Dead, Team America: World Police, Sideways, Sin City, Crash, Final Fantasy VII: Advent Children, Silent Hill, Little Miss Sunshine, Stranger Than Fiction, The Illusionist, The Departed, Superbad, The Dark Knight.
+
+Associated tags: boxing, earth, painter, police

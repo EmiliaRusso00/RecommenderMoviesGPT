@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Forrest Gump, Dances with Wolves, The Hunchback of Notre Dame, The Long Kiss Goodnight, Shine, Hamlet, The Rainmaker, Deep Impact, The X Files, Le fabuleux destin d'Amélie Poulain.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

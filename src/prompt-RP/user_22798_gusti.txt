@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Hung fan kui, Mighty Morphin Power Rangers: The Movie, Star Wars, The Shawshank Redemption, Forrest Gump, Speed, Addams Family Values, Raiders of the Lost Ark, Stand by Me, Back to the Future, Indiana Jones and the Last Crusade, The Amityville Horror, Poltergeist, The Exorcist, Saving Private Ryan, The Neverending Story III, Beetle Juice, Willow, The Karate Kid, The Matrix, Ghostbusters II, A Christmas Story, Fight Club, White Men Can't Jump, The Wizard, Black Hawk Down, Anger Management, The Matrix Reloaded, 2 Fast 2 Furious, Kill Bill: Vol. 2, Starsky & Hutch, Escape from Alcatraz.
+
+Associated tags: boxing, brothers quay, earth, painter, police

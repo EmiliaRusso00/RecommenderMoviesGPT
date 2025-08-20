@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Raiders of the Lost Ark, Alien, Psycho, Groundhog Day, Indiana Jones and the Last Crusade, Pink Floyd The Wall, Forbidden Planet, Jaws, The Fifth Element, Alien³, Titanic, The Big Lebowski, Back to the Future Part III, The Secret of NIMH, Edward Scissorhands, The Matrix, The Rocky Horror Picture Show, Lola rennt, Per un pugno di dollari, Who Framed Roger Rabbit, The Adventures of Buckaroo Banzai Across the 8th Dimension, Close Encounters of the Third Kind, Wo hu cang long, Harry Potter and the Sorcerer's Stone, Le fabuleux destin d'Amélie Poulain, Tonari no Totoro, Le père Noël est une ordure, Ringu, Pirates of the Caribbean: The Curse of the Black Pearl, The Mists of Avalon, Ying xiong, Eternal Sunshine of the Spotless Mind, Freaks, Spider-Man, Shaun of the Dead, Un chien andalou, Duel, Kung fu, The Hitch Hikers Guide to the Galaxy, Serenity, 28 Weeks Later, Superbad, Wanted, FLCL.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

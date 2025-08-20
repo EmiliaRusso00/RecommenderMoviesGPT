@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Braveheart, Apollo 13, Léon, The Shawshank Redemption, Schindler's List, Terminator 2: Judgment Day, Terminator Salvation, Indiana Jones and the Last Crusade, The Matrix, American Beauty, The Green Mile, Ocean's Eleven, A Beautiful Mind, The Pianist, Kill Bill: Vol. 2, Walk the Line, Little Miss Sunshine, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, earth, painter, police

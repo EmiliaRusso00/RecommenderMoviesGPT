@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Nightmare Before Christmas, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, The Shining, Shichinin no samurai, The Sixth Sense, Wo hu cang long, Memento, The Lord of the Rings: The Fellowship of the Ring, Metropolis, Ice Age, Sen to Chihiro no kamikakushi, Tonari no Totoro, Kill Bill: Vol. 2, Elephant, Love Actually, Ying xiong, Dogville, Kill Bill: Vol. 2, Kiss Kiss Bang Bang, Inside Man, Lady in the Water, Scoop, A Good Year.
+
+Associated tags: boxing, earth, police

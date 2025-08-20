@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Stargate, The Shawshank Redemption, Speed, Mrs. Doubtfire, Home Alone, Pretty Woman, Twister, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, The Fifth Element, Titanic, Armageddon, Ever After, The Matrix, Star Wars: Episode I - The Phantom Menace, The Sixth Sense, Erin Brockovich, Mission: Impossible, Billy Elliot, Chocolat, What Women Want, Save the Last Dance, Bridget Jones's Diary, Shrek, Legally Blonde, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Ice Age, My Big Fat Greek Wedding, About a Boy, Star Wars: Episode II - Attack of the Clones, Minority Report, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Love Actually, The Lord of the Rings: The Return of the King, Shrek 2, The Day After Tomorrow, Finding Neverland, Mr. & Mrs. Smith, Harry Potter and the Goblet of Fire.
+
+Associated tags: earth, police

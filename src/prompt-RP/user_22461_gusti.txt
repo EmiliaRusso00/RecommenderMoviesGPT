@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Craft, Willy Wonka & the Chocolate Factory, The Shining, Heathers, Carrie, Disturbing Behavior, Pet Sematary, The Bad Seed, What Ever Happened to Baby Jane?, The Watcher in the Woods, Witchboard.
+
+Associated tags: boxing, earth, police

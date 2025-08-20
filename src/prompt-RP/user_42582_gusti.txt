@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Shichinin no samurai, The Usual Suspects, Braveheart, Natural Born Killers, Pulp Fiction, The Shawshank Redemption, Schindler's List, Terminator 2: Judgment Day, Dances with Wolves, The Silence of the Lambs, Pretty Woman, Die Hard, Reservoir Dogs, Platoon, The People vs. Larry Flynt, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Goodfellas, Glory, Back to the Future, Cape Fear, Titanic, As Good as It Gets, Rain Man, Saving Private Ryan, American History X, American Beauty, Gladiator, Eddie Murphy Raw, Scarface, Sideways, Star Wars: Episode III - Revenge of the Sith, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

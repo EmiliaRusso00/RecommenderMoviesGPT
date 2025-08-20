@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Outbreak, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Fugitive, Jurassic Park, The Silence of the Lambs, Sleepers, To Kill a Mockingbird, Terminator Salvation, Good Will Hunting, Saving Private Ryan, The Matrix, Arlington Road, Awakenings, Gladiator, Nine 1/2 Weeks, The Cell, Little Man Tate, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Pride & Prejudice, Cinderella Man, North Country.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

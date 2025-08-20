@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Der Himmel über Berlin, This Is Spinal Tap, Wo hu cang long, Eternal Sunshine of the Spotless Mind, Super Size Me, Sin City, Serenity.
+
+Associated tags: earth, police

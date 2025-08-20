@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Silence of the Lambs, The Godfather, The Godfather: Part II, The Omen, Austin Powers: International Man of Mystery, The Exorcist, TRON, Orgazmo, Office Space, The Matrix, Austin Powers: The Spy Who Shagged Me, South Park: Bigger Longer & Uncut, American Pie, Shrek, Donnie Darko, The Matrix Reloaded, Revolution OS, The Matrix Revolutions, The Last Samurai, The Butterfly Effect, The Girl Next Door, Team America: World Police, The Sleeping Dictionary, Constantine, Sin City, The Quiet, Grindhouse.
+
+Associated tags: boxing, earth, funny, painter, police, whale

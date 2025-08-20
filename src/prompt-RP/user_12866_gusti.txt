@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Angela's Ashes, Pulp Fiction, Trois couleurs: Rouge, Trois couleurs: Bleu, Trzy kolory: Bialy, Forrest Gump, Four Weddings and a Funeral, The Firm, Schindler's List, The Silence of the Lambs, Pretty Woman, Roman Holiday, Sex, Lies, and Videotape, One Flew Over the Cuckoo's Nest, Wag the Dog, Shakespeare in Love, The Matrix, Crna macka, beli macor, American Beauty, Romance, Cast Away, O Brother, Where Art Thou?, Shrek, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, Maria's Lovers, The Bourne Identity, Catch Me If You Can, The Matrix Reloaded, Finding Nemo, Kill Bill: Vol. 2, The Matrix Revolutions, Kill Bill: Vol. 2, Shrek 2, Brève traversée, The Bourne Supremacy, Sin City, Crash, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Ratatouille, The Simpsons Movie, The Bourne Ultimatum, WALL·E, Vicky Cristina Barcelona.
+
+Associated tags: boxing, brothers quay, earth, funny, medieval, painter, police, satoshi kon, whale

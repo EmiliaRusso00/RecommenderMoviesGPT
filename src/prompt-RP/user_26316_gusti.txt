@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Net, Nell, Schindler's List, Home Alone, Pretty Woman, The Sound of Music, Dirty Dancing, E.T.: The Extra-Terrestrial, A Nightmare on Elm Street, Benny & Joon, Urban Legend, La vita è bella, Message in a Bottle, Just the Ticket, The Blair Witch Project, The Bone Collector, Autumn in New York, Dancer in the Dark, Annie, The Others, Ocean's Eleven, A Beautiful Mind, The Ring, Lost in Translation, Eternal Sunshine of the Spotless Mind.
+
+Associated tags: boxing, earth, police

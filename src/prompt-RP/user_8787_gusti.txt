@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Kôkaku kidôtai, Tian guo ni zi, Star Wars: Episode V - The Empire Strikes Back, Ran, Terminator Salvation, Shichinin no samurai, The Fly, Perfect Blue, Jui kuen II, Mononoke-hime, Yôjinbô, Lat sau san taam, Yi ge dou bu neng shao, Rashômon, Akahige, Sen to Chihiro no kamikakushi, Hotaru no haka, Tonari no Totoro, Tenkû no shiro Rapyuta, Tôkyô monogatari, Wong Fei Hung, Kaze no tani no Naushika, Ôritsu uchûgun Oneamisu no tsubasa, Fong Sai Yuk, Janghwa, Hongryeon, Kikujirô no natsu, Bom yeoreum gaeul gyeoul geurigo bom, Sanshô dayû, Ugetsu monogatari, Saikaku ichidai onna, Warui yatsu hodo yoku nemuru, Seppuku, Dodesukaden, Sien nui yau wan, Majo no takkyûbin, Tai ji: Zhang San Feng, 2046, Tasogare Seibei, Bin-jip, Kung fu, Jôi-uchi: Hairyô tsuma shimatsu, Huo Yuan Jia.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police

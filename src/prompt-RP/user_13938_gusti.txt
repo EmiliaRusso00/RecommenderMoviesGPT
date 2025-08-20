@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Léon, The Shawshank Redemption, Forrest Gump, The Mask, Terminator 2: Judgment Day, Groundhog Day, George of the Jungle, Amistad, Rush Hour, La vita è bella, Enemy of the State, Blast from the Past, 8MM, Fight Club, The Green Mile, The Road to El Dorado, Frequency, Gladiator, Men of Honor, The Family Man, Memento, Scary Movie 2, The Others, Monsters, Inc., Ocean's Eleven, I Am Sam, Resident Evil, Lilo & Stitch, Road to Perdition, Cidade de Deus, Mystic River, Scary Movie 3, Saw, La marche de l'empereur, Saw II, Happy Feet, 300, Ocean's Thirteen, Saw IV, American Gangster, The Dark Knight.
+
+Associated tags: boxing, earth, painter, police

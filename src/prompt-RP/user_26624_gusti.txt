@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Okno v Parizh, Dead Man, My Fair Lady, Roman Holiday, Amadeus, Once Upon a Time in America, Stalker, Rosencrantz & Guildenstern Are Dead, Mononoke-hime, Kagemusha, Dersu Uzala, Solyaris, The Man Who Wasn't There, Rashômon, Letyat zhuravli, Sen to Chihiro no kamikakushi, Hotaru no haka, Tonari no Totoro, Przypadek, Tenkû no shiro Rapyuta, Jesus Christ Superstar, Kaze no tani no Naushika, Bom yeoreum gaeul gyeoul geurigo bom, Vor, Andrey Rublyov, Hauru no ugoku shiro.
+
+Associated tags: boxing, earth, painter, police, satoshi kon

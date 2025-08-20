@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Braveheart, The Net, The Shawshank Redemption, Forrest Gump, Schindler's List, Trainspotting, The Great Escape, Sneakers, Scream, The Truman Show, Cube, La vita è bella, American History X, Analyze This, Lock, Stock and Two Smoking Barrels, The Matrix, Austin Powers: The Spy Who Shagged Me, The Sixth Sense, The Green Mile, Every Thing You Always Wanted to Know About Sex * But Were Afraid to Ask, Memento, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Ice Age, Das Experiment, The Ring, Monty Python Live at the Hollywood Bowl, The Butterfly Effect, The Notebook, Fahrenheit 9/11, Diarios de motocicleta, Saw, The Ring Two, Saw II, Ice Age: The Meltdown, V for Vendetta, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, The Departed, Saw III, American Gangster, The Dark Knight, Hancock.
+
+Associated tags: almodovar, boxing, earth, painter, police

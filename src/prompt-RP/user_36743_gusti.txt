@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, Pulp Fiction, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Army of Darkness, Full Metal Jacket, Amadeus, Terminator Salvation, Cool Hand Luke, Star Trek: First Contact, Conan the Barbarian, The Truman Show, The Goonies, The Jerk, The Matrix, The Iron Giant, Goldfinger, Fight Club, The Straight Story, RoboCop, Drugstore Cowboy, Hoosiers, Animal House, Jui kuen II, Unbreakable, Revenge of the Nerds, Memento, Bully, Mulholland Dr., The Lord of the Rings: The Fellowship of the Ring, Bad News Bears, Tremors, Ikiru, Rupan sansei: Kariosutoro no shiro, Spider-Man, Garden State, Sideways, The Incredibles, Closer, Kung fu, Sin City, The 40 Year Old Virgin, Thank You for Smoking, Jackass Number Two, The Departed, Ratatouille, Breach, Hot Fuzz, Superbad.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

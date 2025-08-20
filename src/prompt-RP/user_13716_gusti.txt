@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Usual Suspects, Braveheart, Star Wars, The Shawshank Redemption, The Lion King, The Silence of the Lambs, Beauty and the Beast, The Godfather, The Philadelphia Story, Singin' in the Rain, North by Northwest, Charade, Casablanca, Citizen Kane, Bringing Up Baby, The English Patient, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, The Matrix, Mononoke-hime, The Boondock Saints, Wo hu cang long, Finding Nemo, La belle et la bête, The Incredibles.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

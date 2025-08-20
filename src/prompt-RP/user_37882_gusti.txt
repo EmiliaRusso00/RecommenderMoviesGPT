@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Apollo 13, Batman Forever, Dumb & Dumber, Star Wars, Pulp Fiction, Ace Ventura: Pet Detective, Forrest Gump, The Jungle Book, Terminator 2: Judgment Day, The Silence of the Lambs, Hellraiser: Bloodline, Mission: Impossible III, Spy Hard, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Alien, Back to the Future, The Goonies, The Muppet Christmas Carol, The Matrix, Star Wars: Episode I - The Phantom Menace, Ghost Busters, Ghostbusters II, RoboCop, Of Mice and Men, Creature Comforts, Shaft, X-Men, Eddie Murphy Raw, Monsters, Inc., Ocean's Eleven, Resident Evil, Spider-Man, Star Wars: Episode II - Attack of the Clones, The Matrix Revolutions, Spider-Man, Sin City, Star Wars: Episode III - Revenge of the Sith, Batman Begins, V for Vendetta, The Departed, 300.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Pulp Fiction, Stargate, The Shawshank Redemption, Star Trek: Generations, Forrest Gump, The Lion King, The Mask, Mrs. Doubtfire, Schindler's List, Dances with Wolves, Mission: Impossible III, The Godfather, E.T.: The Extra-Terrestrial, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, 12 Angry Men, Star Wars: Episode VI - Return of the Jedi, The Right Stuff, Terminator Salvation, Men in Black, Stripes, Saving Private Ryan, Broadcast News, La vita è bella, The Matrix, Star Wars: Episode I - The Phantom Menace, The Sixth Sense, The Dirty Dozen, Fight Club, Breaking Away, Bull Durham, Inherit the Wind, Tootsie, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Chicago, All the President's Men, That's Entertainment!, That's Entertainment, Part II, Advise & Consent, Capote, Good Night, and Good Luck., The Queen, Juno.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

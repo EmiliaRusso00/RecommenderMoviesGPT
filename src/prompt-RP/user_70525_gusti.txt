@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Shawshank Redemption, Forrest Gump, Jurassic Park, Schindler's List, The Nightmare Before Christmas, Trainspotting, The Godfather, Platoon, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Goodfellas, Full Metal Jacket, Amadeus, Back to the Future, Field of Dreams, Butch Cassidy and the Sundance Kid, Contact, The Truman Show, The Breakfast Club, Edward Scissorhands, Office Space, Ferris Bueller's Day Off, Fight Club, Being John Malkovich, Fast Times at Ridgemont High, Animal House, High Fidelity, Almost Famous, Wo hu cang long, Traffic, Ghost World, Waking Life, The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, Cidade de Deus, Boyz n the Hood, Diarios de motocicleta.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

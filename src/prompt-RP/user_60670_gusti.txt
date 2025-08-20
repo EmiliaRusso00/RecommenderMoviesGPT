@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Lion King, Beauty and the Beast, Willy Wonka & the Chocolate Factory, Dirty Dancing, The Breakfast Club, Edward Scissorhands, The Matrix, The Rocky Horror Picture Show, American Beauty, Fight Club, Girl, Interrupted, Bridget Jones's Diary, Moulin Rouge!, Mulholland Dr., K-PAX, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Kill Bill: Vol. 2, Love Actually, Kill Bill: Vol. 2, Charlie and the Chocolate Factory, Brokeback Mountain, Memoirs of a Geisha, Little Miss Sunshine.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

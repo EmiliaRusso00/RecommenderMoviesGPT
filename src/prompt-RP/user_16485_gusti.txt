@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Sense and Sensibility, Clueless, The Usual Suspects, The Shawshank Redemption, Philadelphia, Beauty and the Beast, Singin' in the Rain, Breakfast at Tiffany's, My Fair Lady, Sabrina, Gone with the Wind, Spellbound, Mary Poppins, The Sound of Music, Strictly Ballroom, The Princess Bride, Dead Poets Society, Fried Green Tomatoes, Gandhi, The Game, Good Will Hunting, As Good as It Gets, American History X, Miracle on 34th Street, Lola rennt, American Beauty, The Muppet Movie, Auntie Mame, Billy Elliot, Memento, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, Chicago, Love Actually, Big Fish, Into the Woods, The Incredibles, Finding Neverland, Hotel Rwanda, Murderball, Brokeback Mountain, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

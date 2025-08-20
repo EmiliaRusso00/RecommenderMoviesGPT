@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, The Shawshank Redemption, Forrest Gump, Philadelphia, Schindler's List, Dances with Wolves, The Silence of the Lambs, Pretty Woman, Saving Private Ryan, Erin Brockovich, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, I Am Sam, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Power of One.
+
+Associated tags: almodovar, boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Now and Then, Braveheart, The Madness of King George, The Godfather, Cool Runnings, Monty Python and the Holy Grail, The Godfather: Part II, The Matrix, Notting Hill, And Now for Something Completely Different, A Beautiful Mind, We Were Soldiers, Monty Python Live at the Hollywood Bowl, Ying xiong, The Passion of the Christ, The Girl Next Door, The Notebook, Wicker Park, Thank You for Smoking.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, whale

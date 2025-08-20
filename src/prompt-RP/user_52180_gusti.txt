@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: First Knight, La double vie de Véronique, One Hundred and One Dalmatians, Lost in Space, Wild Man Blues, Antz, X2, Finding Nemo, The Lord of the Rings: The Return of the King, Tsotsi, Blood Diamond.
+
+Associated tags: boxing, earth, painter, police

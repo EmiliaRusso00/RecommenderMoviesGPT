@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Little Women, Breakfast at Tiffany's, The Wizard of Oz, The Rocky Horror Picture Show, Notting Hill, Chocolat, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Chicago, Kill Bill: Vol. 2, Big Fish, Dogville, Cry-Baby, Sin City, Corpse Bride, Volver.
+
+Associated tags: almodovar, boxing, dreamdontcatch, earth, excellent characters, funny, police, robots, whale

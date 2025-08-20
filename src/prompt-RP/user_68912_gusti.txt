@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Copycat, Shichinin no samurai, Braveheart, Sleepless in Seattle, The Silence of the Lambs, Pretty Woman, Emma, Rear Window, Casablanca, Insomnia, Halloween, Ever After, Ronin, Office Space, The Matrix, The 13th Warrior, Mansfield Park, Patriot Games, The Others, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Road to Perdition, The Lord of the Rings: The Two Towers, 28 Days Later..., The Lord of the Rings: The Return of the King, Pride & Prejudice, The Bourne Supremacy, Pride & Prejudice, The Departed, The Prestige, Casino Royale, Zodiac, Disturbia, The Simpsons Movie, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, earth, painter, police

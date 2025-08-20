@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Taxi Driver, Star Wars, The Wild Bunch, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Vertigo, North by Northwest, Casablanca, Rebecca, Notorious, It's a Wonderful Life, The 39 Steps, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Goodfellas, Raging Bull, Miller's Crossing, Chinatown, The Birds, Shichinin no samurai, Blue Velvet, Strangers on a Train, Les quatre cents coups, Days of Heaven, The Searchers, Double Indemnity, You Can Count on Me, Wo hu cang long, Mulholland Dr., Children of Men.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

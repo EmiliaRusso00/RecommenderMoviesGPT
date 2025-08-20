@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, The Silence of the Lambs, Kôkaku kidôtai, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, Monty Python and the Holy Grail, Brazil, A Clockwork Orange, The Big Lebowski, Nineteen Eighty-Four, The Matrix, American Beauty, Fight Club, The Fisher King, O Brother, Where Art Thou?, Memento, Waking Life, Le fabuleux destin d'Amélie Poulain, Otesánek, Sen to Chihiro no kamikakushi, Hable con ella, Barton Fink, The Meaning of Life, Persona, Dogville, Bom yeoreum gaeul gyeoul geurigo bom, Reconstruction, The Machinist, 2046, Boksuneun naui geot, Bin-jip, The Life Aquatic with Steve Zissou, Das Leben der Anderen, Babel, La science des rêves, Den brysomme mannen, Papurika, Control, Obsluhoval jsem anglického krále.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

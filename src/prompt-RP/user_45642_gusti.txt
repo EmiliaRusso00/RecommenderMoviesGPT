@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ed Wood, Higher Learning, The Princess Bride, Alien, Ma vie en rose, Naturally Native, Donnie Darko, The Business of Fancydancing, Powwow Highway, El laberinto del fauno.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

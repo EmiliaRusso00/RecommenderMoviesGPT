@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Babe, The Usual Suspects, Léon, The Shawshank Redemption, Forrest Gump, Carlito's Way, Schindler's List, Dances with Wolves, Fargo, Rear Window, E.T.: The Extra-Terrestrial, The Princess Bride, Raiders of the Lost Ark, Terminator Salvation, Groundhog Day, Back to the Future, Shine, Men in Black, Good Will Hunting, Rain Man, Saving Private Ryan, Blue Velvet, The Sixth Sense, The Green Mile, Scent of a Woman, Gladiator, No Country for Old Men, In Bruges.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

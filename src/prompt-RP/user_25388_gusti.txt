@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Rear Window, North by Northwest, Casablanca, Chinatown, Tootsie, Witness for the Prosecution, The Life and Death of Colonel Blimp, Bad Day at Black Rock, The Caine Mutiny, A Matter of Life and Death, Good Night, and Good Luck..
+
+Associated tags: boxing, earth, funny, painter, police

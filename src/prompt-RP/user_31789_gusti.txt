@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Highlander, The Hunt for Red October, Office Space, Enemy at the Gates, The Lord of the Rings: The Two Towers.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

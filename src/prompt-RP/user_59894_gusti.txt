@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, The Shawshank Redemption, Men in Black, Chasing Amy, The Matrix, The Mummy, Dogma, Gladiator, Shrek, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Count of Monte Cristo, Spider-Man, The Bourne Identity, Minority Report, The Lord of the Rings: The Two Towers, Catch Me If You Can, X2, Pirates of the Caribbean: The Curse of the Black Pearl, The Rundown, The Lord of the Rings: The Return of the King, Shrek 2, Spider-Man, The Bourne Supremacy, Cinderella Man, Batman Begins, Wedding Crashers, Final Fantasy VII: Advent Children, V for Vendetta, Pirates of the Caribbean: Dead Man's Chest, Superman Returns.
+
+Associated tags: almodovar, boxing, earth, painter, police

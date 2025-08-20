@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Clerks., Pulp Fiction, The Shawshank Redemption, The Silence of the Lambs, Fargo, The Godfather, Citizen Kane, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, 12 Angry Men, Goodfellas, Army of Darkness, Raging Bull, Indiana Jones and the Last Crusade, L.A. Confidential, Pi, Rushmore, Office Space, The Matrix, Election, American Beauty, Goldfinger, Fight Club, Being John Malkovich, Dogma, Wonder Boys, High Fidelity, Requiem for a Dream, Unbreakable, Enemy at the Gates, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, The Incredibles, The Aviator, Sin City, Batman Begins, Hustle & Flow, Serenity, The Constant Gardener, Munich, Little Miss Sunshine, The Departed, Children of Men, The Prestige.
+
+Associated tags: boxing, earth, funny, painter, police, whale

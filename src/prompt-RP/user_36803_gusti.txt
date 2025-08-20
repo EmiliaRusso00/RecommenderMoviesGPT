@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, Night of the Living Dead, 20000 Leagues Under the Sea, Army of Darkness, Star Trek IV: The Voyage Home, Poltergeist, The Poseidon Adventure, October Sky, The Matrix, American Beauty, Three Kings, Fight Club, Awakenings, Erin Brockovich, The Others, The Lord of the Rings: The Fellowship of the Ring, The Ring, The Lord of the Rings: The Two Towers, Bend It Like Beckham, Little Miss Sunshine, Juno, The Great Debaters.
+
+Associated tags: boxing, earth, painter, police

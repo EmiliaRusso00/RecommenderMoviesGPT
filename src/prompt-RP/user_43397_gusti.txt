@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Shawshank Redemption, Le grand bleu, Full Metal Jacket, Indiana Jones and the Last Crusade, Bacheha-Ye aseman, Saving Private Ryan, La leggenda del pianista sull'oceano, The Bone Collector, The Green Mile, Malèna, The Fast and the Furious, The Others, A Beautiful Mind, Kill Bill: Vol. 2, Janghwa, Hongryeon, Highwaymen, The Forgotten, The Grudge, Saw, The Incredibles, Saw II, Harry Potter and the Goblet of Fire, Running Scared, Lucky Number Slevin, An American Haunting, The Omen, The Fast and the Furious: Tokyo Drift, Crank, Apocalypto, Blood Diamond, Fracture, The Condemned, 1408, I Am Legend.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

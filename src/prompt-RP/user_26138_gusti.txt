@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Searching for Bobby Fischer, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Casablanca, The Maltese Falcon, The African Queen, A Fish Called Wanda, Det sjunde inseglet, The Treasure of the Sierra Madre, The Great Dictator, High Noon, The Pillow Book, Lola rennt, Jules et Jim, The Iron Giant, Being John Malkovich, How I Won the War, Modern Times, House of Games, Du rififi chez les hommes, Rashômon, Atanarjuat, The Horse's Mouth, The Ladykillers, The Lavender Hill Mob, Le professionnel, Analyze That, Starstruck, Orfeu Negro, The Maltese Falcon, Fahrenheit 9/11, Die Büchse der Pandora, Sicko, The Golden Compass.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

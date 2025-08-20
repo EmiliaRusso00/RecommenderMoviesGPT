@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Apollo 13, The Shawshank Redemption, Blade Runner, Citizen Kane, 2001: A Space Odyssey, Die Hard, Chinatown, Butch Cassidy and the Sundance Kid, Benny & Joon, The Big Lebowski, The Last Emperor, Doctor Zhivago, Dog Day Afternoon, Blazing Saddles, A Beautiful Mind.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

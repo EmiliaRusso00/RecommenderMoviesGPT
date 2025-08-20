@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, Dave, Schindler's List, Terminator 2: Judgment Day, The Silence of the Lambs, Lone Star State of Mind, Amadeus, Terminator Salvation, The Day the Earth Stood Still, Arsenic and Old Lace, Forbidden Planet, When Harry Met Sally..., Star Trek: The Motion Picture, Contact, The Hunt for Red October, The Game, City of Angels, Deep Impact, There's Something About Mary, The Breakfast Club, The Dark Crystal, Pleasantville, Office Space, Logan's Run, Planet of the Apes, The Matrix, The Sixth Sense, Toy Story, Wayne's World, Almost Famous, Snatch., Finding Forrester, Shrek, The Others, Monsters, Inc., The Ring, The Lord of the Rings: The Two Towers, Identity, The Matrix Reloaded, WarGames, The Lord of the Rings: The Return of the King, The Butterfly Effect, Saw, Star Wars: Episode III - Revenge of the Sith, Iron Man.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

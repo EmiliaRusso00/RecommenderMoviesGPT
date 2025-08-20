@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Schindler's List, The Big Lebowski, Fear and Loathing in Las Vegas, Lock, Stock and Two Smoking Barrels, Fight Club, High Fidelity, Gladiator, Snatch., Traffic, Blow, Vanilla Sky, Equilibrium, 25th Hour, Cidade de Deus, Layer Cake, Hotel Rwanda, Sin City, Revolver, V for Vendetta.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Trzy kolory: Bialy, Monty Python and the Holy Grail, One Flew Over the Cuckoo's Nest, Pink Floyd The Wall, Dune, The Matrix, American Beauty, Fight Club, Memento, Le fabuleux destin d'Amélie Poulain, Good Bye Lenin!, Eternal Sunshine of the Spotless Mind, Children of Men, Casino Royale.
+
+Associated tags: boxing, earth, painter, police

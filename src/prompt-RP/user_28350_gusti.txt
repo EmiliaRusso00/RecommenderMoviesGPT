@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: French Kiss, The Shawshank Redemption, Jurassic Park, Much Ado About Nothing, Dances with Wolves, The Princess Bride, George of the Jungle, Titanic, Antz, The Prince of Egypt, October Sky, The Thomas Crown Affair, Medicine Man, Toy Story, Pay It Forward, Finding Forrester, Shrek, The Count of Monte Cristo, Spider-Man, Sen to Chihiro no kamikakushi, The Matrix Reloaded, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Regarding Henry, Harry Potter and the Prisoner of Azkaban, Star Wars: Episode III - Revenge of the Sith.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

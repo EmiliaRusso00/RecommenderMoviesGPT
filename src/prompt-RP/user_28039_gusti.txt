@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, The Usual Suspects, Interview with the Vampire: The Vampire Chronicles, Léon, Blade Runner, Terminator 2: Judgment Day, The Godfather, Il buono, il brutto, il cattivo., Goodfellas, Alien, The Godfather: Part II, Terminator Salvation, Austin Powers: International Man of Mystery, Alien³, The Big Lebowski, Cube, Edward Scissorhands, American History X, Lock, Stock and Two Smoking Barrels, The Matrix, eXistenZ, Austin Powers: The Spy Who Shagged Me, The Sixth Sense, American Beauty, Fight Club, Sleepy Hollow, Snatch., Dude, Where's My Car?, Memento, Scarface, Mulholland Dr., A Beautiful Mind, Das Experiment, Phone Booth, Sin City, Thank You for Smoking, Inside Man, Lucky Number Slevin, The Prestige, Eastern Promises, RocknRolla.
+
+Associated tags: boxing, earth, painter, police, whale

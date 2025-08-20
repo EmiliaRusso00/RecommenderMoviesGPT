@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: All About Eve, Fight Club, Zoolander, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Igby Goes Down, The Hours, Eternal Sunshine of the Spotless Mind, I Heart Huckabees, The Darjeeling Limited, Sweeney Todd: The Demon Barber of Fleet Street, The Fall, Låt den rätte komma in.
+
+Associated tags: earth, painter, police

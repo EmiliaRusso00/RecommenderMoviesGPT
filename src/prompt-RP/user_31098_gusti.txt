@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ed Wood, The Shawshank Redemption, Rear Window, Monty Python and the Holy Grail, The Birds, The Acid House, American Beauty, Misery, Amores perros, Moulin Rouge!, Obchod na korze, Mulholland Dr., Ko to tamo peva, The Pianist, The Meaning of Life, Amarcord.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

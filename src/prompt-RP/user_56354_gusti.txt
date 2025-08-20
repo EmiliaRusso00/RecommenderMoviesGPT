@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Happy Gilmore, Dumb & Dumber, Pulp Fiction, Ace Ventura: Pet Detective, The Mask, Speed, True Lies, Ransom, Top Gun, Monty Python and the Holy Grail, Jerry Maguire, The Truman Show, As Good as It Gets, Can't Hardly Wait, Armageddon, Enemy of the State, Austin Powers: The Spy Who Shagged Me, The Sixth Sense, Fight Club, Gladiator, Me, Myself & Irene, Almost Famous, Snatch., Cast Away, Swordfish, The Bourne Identity, Minority Report, Old School, The Matrix Reloaded, Evan Almighty, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, S.W.A.T., The Bourne Supremacy, Collateral, Ladder 49, Crash, Batman Begins, The 40 Year Old Virgin, Little Miss Sunshine, The Departed, Casino Royale, Hot Fuzz, The Bourne Ultimatum, Superbad, Into the Wild, Juno, Run Fatboy Run, What Happens in Vegas.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, satoshi kon, whale

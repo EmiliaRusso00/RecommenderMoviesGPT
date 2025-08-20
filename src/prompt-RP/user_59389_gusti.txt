@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Desperado, Heavy Metal, 2001: A Space Odyssey, Aliens, Alien, Alien³, A Nightmare on Elm Street, Star Trek VI: The Undiscovered Country, Star Trek IV: The Voyage Home, Alien³, TRON, American History X, Pitch Black, Brainstorm, 28 Days Later..., Dawn of the Dead, Crank, Feast, 30 Days of Night, Battlestar Galactica: Razor, Rambo, The Incredible Hulk, Farscape: The Peacekeeper Wars.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, robots

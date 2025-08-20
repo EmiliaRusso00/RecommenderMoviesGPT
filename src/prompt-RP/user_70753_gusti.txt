@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, The Hudsucker Proxy, Blade Runner, Delicatessen, Lost Highway, Dark City, Big, Pi, Metropolis, Roger & Me, Edward Scissorhands, The Matrix, The Sixth Sense, Crna macka, beli macor, Being John Malkovich, Dancer in the Dark, Snatch., Memento, O Brother, Where Art Thou?, Mulholland Dr., Le fabuleux destin d'Amélie Poulain, Elephant, Ying xiong, Big Fish, The Ladykillers, Kikujirô no natsu, Bom yeoreum gaeul gyeoul geurigo bom, Fahrenheit 9/11.
+
+Associated tags: boxing, earth, funny, painter, police, whale

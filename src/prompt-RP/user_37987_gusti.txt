@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, The Truman Show, Edward Scissorhands, The Matrix, Le dîner de cons, Gladiator, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Pirates of the Caribbean: The Curse of the Black Pearl, Big Fish, Eternal Sunshine of the Spotless Mind, Dogville, Lemony Snicket's A Series of Unfortunate Events, Sin City, Cinderella Man, V for Vendetta, An Inconvenient Truth, El laberinto del fauno, Ratatouille, Sweeney Todd: The Demon Barber of Fleet Street, The Dark Knight, The Fall.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

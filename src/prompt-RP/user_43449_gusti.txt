@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, Schindler's List, Primal Fear, The Godfather, 12 Angry Men, When Harry Met Sally..., The Game, La vita è bella, The Matrix, Inside Man, Ocean's Eleven.
+
+Associated tags: almodovar, boxing, earth, painter, police

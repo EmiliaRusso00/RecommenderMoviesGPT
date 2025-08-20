@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Como agua para chocolate, Trois couleurs: Bleu, What's Eating Gilbert Grape, The Hudsucker Proxy, Monty Python and the Holy Grail, Delicatessen, Alien, Out of Africa, The Last Emperor, Hilary and Jackie, Crna macka, beli macor, Being John Malkovich, Mujeres al borde de un ataque de nervios, Pee-wee's Big Adventure, Fa yeung nin wa, Memento, Amores perros, The Royal Tenenbaums, Sen to Chihiro no kamikakushi, Cidade de Deus, Dirty Pretty Things, Lost in Translation, Kiss of the Spider Woman, Eternal Sunshine of the Spotless Mind, Die Ehe der Maria Braun, Me and You and Everyone We Know, Brokeback Mountain, Das Leben der Anderen, Little Miss Sunshine, La science des rêves, Taxidermia, El laberinto del fauno, Children of Men, The Prestige, Once, Eastern Promises.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, tim allen, whale

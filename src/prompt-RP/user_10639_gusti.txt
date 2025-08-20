@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: North by Northwest, Butch Cassidy and the Sundance Kid, Star Trek: The Wrath of Khan, Gattaca, Almost Famous.
+
+Associated tags: boxing, earth, funny, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Braveheart, The Shawshank Redemption, True Lies, Terminator 2: Judgment Day, Space Jam, Ransom, Die Hard, Indiana Jones and the Last Crusade, Jerry Maguire, Con Air, The Untouchables, Lock, Stock and Two Smoking Barrels, Superman, Ghost Busters, Big, Ferris Bueller's Day Off, Fight Club, Predator, Cast Away, Shrek, Road to Perdition, The Lord of the Rings: The Return of the King, It's All Gone Pete Tong.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Philadelphia, Dead Poets Society, Pleasantville, Fight Club, Y tu mamá también, Lost in Translation, Love Actually, The Notebook, Garden State, Pride & Prejudice, Brick, Half Nelson, The Last Kiss, La science des rêves.
+
+Associated tags: earth, painter

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Pulp Fiction, The Shawshank Redemption, Terminator 2: Judgment Day, Fargo, Wallace & Gromit: The Best of Aardman Animation, Wallace and Gromit in A Close Shave, The Godfather, Casablanca, Die Hard, Reservoir Dogs, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, The Princess Bride, Il buono, il brutto, il cattivo., Goodfellas, Dip huet seung hung, The Godfather: Part II, The Sting, The Great Escape, The Last of the Mohicans, Grosse Pointe Blank, The Big Lebowski, Shichinin no samurai, Lock, Stock and Two Smoking Barrels, The Matrix, RoboCop, Mononoke-hime, Creature Comforts, The Outlaw Josey Wales, Blazing Saddles, Wo hu cang long, Snatch., Scarface, Boyz n the Hood, Eternal Sunshine of the Spotless Mind, The Incredibles, Oldeuboi, Layer Cake.
+
+Associated tags: boxing, earth, funny, painter, police, whale

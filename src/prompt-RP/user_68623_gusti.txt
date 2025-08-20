@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, The Shawshank Redemption, While You Were Sleeping, Forrest Gump, In the Name of the Father, Philadelphia, True Romance, Primal Fear, The Godfather, Singin' in the Rain, Casablanca, Sabrina, Nuovo Cinema Paradiso, Back to the Future, The Truman Show, Good Will Hunting, Saving Private Ryan, The Jungle Book, American History X, American Beauty, Fight Club, Gladiator, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Two Towers, 25th Hour, Antwone Fisher, Down with Love, Eternal Sunshine of the Spotless Mind, Dear Frankie, The Notebook, Before Sunset, Taegukgi hwinalrimyeo, Hauru no ugoku shiro, Chinjeolhan geumjassi, V for Vendetta, Little Miss Sunshine, The Pursuit of Happyness, The Departed, Hot Fuzz, Hors de prix, Across the Universe, Stardust, Gone Baby Gone, Enchanted, Sweeney Todd: The Demon Barber of Fleet Street.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

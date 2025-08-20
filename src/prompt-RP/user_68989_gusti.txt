@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, Ever After, Bridget Jones's Diary, Serendipity, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, A Walk to Remember, Star Wars: Episode II - Attack of the Clones, Sweet Home Alabama, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, Along Came Polly, Mean Girls, Troy, The Terminal, Just Like Heaven, In Her Shoes, Pride & Prejudice, X-Men: The Last Stand, The Lake House, Pirates of the Caribbean: Dead Man's Chest, Little Miss Sunshine, Stranger Than Fiction, John Tucker Must Die, The Holiday, Freedom Writers, Because I Said So, Music and Lyrics, Spider-Man 3, Hairspray, Pirates of the Caribbean: At World's End, 4: Rise of the Silver Surfer, Harry Potter and the Order of the Phoenix.
+
+Associated tags: earth, police

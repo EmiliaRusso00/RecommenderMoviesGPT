@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Shawshank Redemption, Forrest Gump, Schindler's List, The Silence of the Lambs, Fargo, One Flew Over the Cuckoo's Nest, C'era una volta il West, The Matrix, American Beauty, Fight Club, The Green Mile, Requiem for a Dream, Memento, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Das Experiment, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, The Machinist, Crash, Das Leben der Anderen, The Departed, Slumdog Millionaire.
+
+Associated tags: boxing, earth, funny, painter, police

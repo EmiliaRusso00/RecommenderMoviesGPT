@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Quick and the Dead, The Remains of the Day, Dances with Wolves, Vertigo, Platoon, E.T.: The Extra-Terrestrial, Raiders of the Lost Ark, Apocalypse Now, Ran, Amadeus, The Right Stuff, Das Boot, The Bridge on the River Kwai, The Deer Hunter, Patton, Akira, Indiana Jones and the Last Crusade, Gandhi, Waiting for Guffman, The Hunt for Red October, The Ice Storm, West Side Story, Midnight Cowboy, Chariots of Fire, Out of Africa, The Last Emperor, The Last Temptation of Christ, Doctor Zhivago, Edward Scissorhands, Der Name der Rose, The King and I, Deliverance, Papillon, Good Morning, Vietnam, Cry Freedom, The Lion in Winter, Exodus, The Tempest, Silverado, Zodiac.
+
+Associated tags: boxing, earth, medieval, police

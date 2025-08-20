@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Shichinin no samurai, Star Wars, Pulp Fiction, The Nightmare Before Christmas, Wallace and Gromit in A Close Shave, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Aliens, Alien, Young Frankenstein, Dangerous Liaisons, Tarzan, Being John Malkovich, The Fisher King, Memento, Changeling, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Spider-Man, Sen to Chihiro no kamikakushi, The Ring, Tonari no Totoro, Ringu, Tenkû no shiro Rapyuta, Pirates of the Caribbean: The Curse of the Black Pearl, Kaze no tani no Naushika, Eternal Sunshine of the Spotless Mind, The Incredibles, Majo no takkyûbin, Batman Begins, Casino Royale.
+
+Associated tags: boxing, earth, funny, painter, police, whale

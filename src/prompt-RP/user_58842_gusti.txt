@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, It's a Wonderful Life, One Flew Over the Cuckoo's Nest, To Kill a Mockingbird, Apocalypse Now, The Blues Brothers, The Godfather: Part II, Glory, Butch Cassidy and the Sundance Kid, The Godfather: Part III, Spaceballs, Scent of a Woman, The Outlaw Josey Wales, O Brother, Where Art Thou?.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

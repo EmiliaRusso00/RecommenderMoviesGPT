@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Hung fan kui, Judge Dredd, Naked Gun 33 1/3: The Final Insult, Beverly Hills Cop III, Demolition Man, Hot Shots! Part Deux, Terminator 2: Judgment Day, North by Northwest, Top Gun, Star Wars: Episode VI - Return of the Jedi, La Femme Nikita, Liar Liar, Back to the Future Part II, Rush Hour, Police Academy, Police Academy 2: Their First Assignment, Police Academy 3: Back in Training, Police Academy 4: Citizens on Patrol, Police Academy 5: Assignment: Miami Beach, Police Academy 6: City Under Siege, Rambo: First Blood Part II, Office Space, Airplane!, Deuce Bigalow: Male Gigolo, Meet the Parents, Atlantis: The Lost Empire, American Pie, Jay and Silent Bob Strike Back, MASH, Harry Potter and the Chamber of Secrets, X2, Pirates of the Caribbean: The Curse of the Black Pearl, The School of Rock, The Chronicles of Riddick, Dodgeball: A True Underdog Story, Ong-bak.
+
+Associated tags: boxing, earth, funny, painter, police, whale

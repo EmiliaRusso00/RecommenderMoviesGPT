@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Down by Law, Festen, Fight Club, Jesus' Son, The Royal Tenenbaums, Confessions of a Dangerous Mind, The Secret Lives of Dentists, Eternal Sunshine of the Spotless Mind, Before Sunset, V for Vendetta, Volver.
+
+Associated tags: earth, painter, police

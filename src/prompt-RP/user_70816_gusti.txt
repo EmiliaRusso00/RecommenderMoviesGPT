@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Taxi Driver, The Shawshank Redemption, Mirage, A Bronx Tale, The Silence of the Lambs, The Godfather, Vertigo, Rear Window, North by Northwest, 2001: A Space Odyssey, Sleepers, Dial M for Murder, One Flew Over the Cuckoo's Nest, Il buono, il brutto, il cattivo., 12 Angry Men, C'era una volta il West, Army of Darkness, The Godfather: Part II, Once Upon a Time in America, The Great Escape, Back to the Future, Down by Law, The Man Who Would Be King, The Devil's Advocate, Hana-bi, Rope, Frenzy, Les quatre cents coups, Big, Papillon, C'est arrivé près de chez vous, The Boondock Saints, Creature Comforts, Scarface, The Lord of the Rings: The Fellowship of the Ring, Mies vailla menneisyyttä, Koroshiya 1, Monsieur Ibrahim et les fleurs du Coran, I Kina spiser de hunde, Pickpocket, Oldeuboi, Das Leben der Anderen, Direktøren for det hele, The Simpsons Movie, In Bruges, Slumdog Millionaire.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

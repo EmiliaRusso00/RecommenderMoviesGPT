@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Jumanji, Forrest Gump, Pretty Woman, The First Wives Club, Back to the Future, Crash, Rain Man, La vita è bella, Stepmom, The Matrix, La leggenda del pianista sull'oceano, Miss Congeniality, Hard Ball, Kate & Leopold, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Lord of the Rings: The Two Towers, The Matrix Reloaded, The Lord of the Rings: The Return of the King, Mona Lisa Smile, Doctor Who, Les choristes.
+
+Associated tags: boxing, earth, police

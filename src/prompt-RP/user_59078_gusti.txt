@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, The Usual Suspects, The Shawshank Redemption, Fresa y chocolate, Schindler's List, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Princess Bride, Apocalypse Now, Glory, The Man Who Would Be King, The Last Emperor, Roger & Me, Lola rennt, American Beauty, Fight Club, Jacob's Ladder, Memento, Donnie Darko, Monsoon Wedding, Bowling for Columbine, Bin-jip, Lakposhtha parvaz mikonand, The Last King of Scotland, Amazing Grace.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

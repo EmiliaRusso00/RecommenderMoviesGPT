@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Pulp Fiction, Blade Runner, Kôkaku kidôtai, Trainspotting, The Wizard of Oz, Alice in Wonderland, Life of Brian, Monty Python and the Holy Grail, The Princess Bride, A Clockwork Orange, The Shining, Groundhog Day, Akira, The Fifth Element, The Hunt for Red October, Chasing Amy, The Breakfast Club, TRON, American History X, The Matrix, Lola rennt, The Sixth Sense, Yellow Submarine, American Beauty, Ferris Bueller's Day Off, Fight Club, Mononoke-hime, Dogma, Girl, Interrupted, Wo hu cang long, Memento, Donnie Darko, Sen to Chihiro no kamikakushi, Tonari no Totoro, Ying xiong, Kaze no tani no Naushika, The Last Samurai, Man on Fire, Majo no takkyûbin, Kurenai no buta, The Animatrix, Neko no ongaeshi, Ong-bak, The Corporation, A Scanner Darkly, Hauru no ugoku shiro, The Hitch Hikers Guide to the Galaxy, Why We Fight, V for Vendetta, Peaceful Warrior, Who Killed the Electric Car?.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

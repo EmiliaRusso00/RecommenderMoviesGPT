@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Pulp Fiction, Dazed and Confused, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Wizard of Oz, 2001: A Space Odyssey, Willy Wonka & the Chocolate Factory, A Clockwork Orange, Apocalypse Now, The Shining, Metropolis, Say Anything..., Fight Club, Le fabuleux destin d'Amélie Poulain, American Splendor, Zazie dans le métro, Garden State.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

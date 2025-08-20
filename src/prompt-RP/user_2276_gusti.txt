@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Happy Gilmore, Billy Madison, Dumb & Dumber, The Shawshank Redemption, Tommy Boy, Aladdin, Cool Runnings, Swingers, Reservoir Dogs, Monty Python and the Holy Grail, The Princess Bride, Dead Poets Society, Groundhog Day, Back to the Future, Raising Arizona, Face/Off, The Truman Show, Titanic, The Big Lebowski, Where the Wild Things Are, Office Space, The General's Daughter, Lola rennt, Big Daddy, A Christmas Story, American Beauty, White Men Can't Jump, Cast Away, O Brother, Where Art Thou?, Monsters, Inc., Super Troopers, Dodgeball: A True Underdog Story, Garden State, Batman Begins, Talladega Nights: The Ballad of Ricky Bobby, Beerfest.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, satoshi kon

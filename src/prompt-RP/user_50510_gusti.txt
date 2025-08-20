@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Pulp Fiction, Carlito's Way, The Godfather, Reservoir Dogs, Goodfellas, Raging Bull, The Thin Red Line, Training Day, Mulholland Dr., Cidade de Deus.
+
+Associated tags: boxing, earth, funny, painter, police, whale

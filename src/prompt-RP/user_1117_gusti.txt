@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, A Little Princess, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Notorious, Bedknobs and Broomsticks, Life of Brian, The Shining, Wo hu cang long, The Royal Tenenbaums, The Hours, Mysterious Skin, The Squid and the Whale, Brick, Little Miss Sunshine, La science des rêves.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Ed Wood, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Life of Brian, Reservoir Dogs, Miller's Crossing, Grosse Pointe Blank, The Big Lebowski, Beetle Juice, South Park: Bigger Longer & Uncut, And Now for Something Completely Different, Fight Club, X-Men, O Brother, Where Art Thou?, Donnie Darko, The Lord of the Rings: The Two Towers, Barton Fink, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Shaun of the Dead, Batman Begins, Serenity.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

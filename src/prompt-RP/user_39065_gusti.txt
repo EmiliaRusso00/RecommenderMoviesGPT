@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Much Ado About Nothing, The Piano, Singin' in the Rain, Dirty Dancing, Groundhog Day, Fried Green Tomatoes, When Harry Met Sally..., The Truman Show, Pleasantville, Rushmore, The Color Purple, American Beauty, Best in Show, Wo hu cang long, Chocolat, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Monsoon Wedding, Adaptation., The Hours, A Mighty Wind, Down with Love, Big Fish, Eternal Sunshine of the Spotless Mind, Into the Woods, Garden State, I Heart Huckabees, The Times of Harvey Milk, What the #$*! Do We (K)now!?, Rent, Mamma Mia!.
+
+Associated tags: almodovar, boxing, earth, medieval, police

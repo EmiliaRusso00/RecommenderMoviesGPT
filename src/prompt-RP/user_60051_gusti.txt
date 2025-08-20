@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars: Episode V - The Empire Strikes Back, To Kill a Mockingbird, Star Wars: Episode VI - Return of the Jedi, Star Trek: First Contact, Contact, There's Something About Mary, Beetle Juice, A Bug's Life, The Matrix, The Blair Witch Project, The Iron Giant, Toy Story, Wo hu cang long, Sen to Chihiro no kamikakushi, Tonari no Totoro, The Life Aquatic with Steve Zissou, Kakushi-toride no san-akunin, The Animatrix, Léon, Batman Begins, Monster House.
+
+Associated tags: earth, police

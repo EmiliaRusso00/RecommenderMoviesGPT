@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Fargo, Some Like It Hot, To Kill a Mockingbird, Amadeus, American Beauty, The Conversation, Almost Famous, Le fabuleux destin d'Amélie Poulain, Seabiscuit, Matchstick Men, Runaway Jury, Love Actually, Dear Frankie, Sergeant York, Crash.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

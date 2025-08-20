@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Star Wars, Life of Brian, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Fanny och Alexander, Sällskapsresan eller Finns det svenskt kaffe på grisfesten, Monty Python Live at the Hollywood Bowl, Pirates of the Caribbean: The Curse of the Black Pearl, Lost in Translation.
+
+Associated tags: almodovar, boxing, earth, painter, police

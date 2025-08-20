@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Get Shorty, Live Free or Die Hard, Living in Oblivion, Hoop Dreams, Pulp Fiction, Fargo, Lone Star State of Mind, Matilda, The Godfather, The Maltese Falcon, The Wizard of Oz, Annie Hall, Jackie Brown, The Big Lebowski, Primary Colors, Out of Sight, L.A. Story, Babe: Pig in the City, Rushmore, Shakespeare in Love, Drugstore Cowboy, Blood Simple., Before Night Falls, Memento, Roozi ke zan shodam, Dayereh, Ghost World, The Man Who Wasn't There, The Royal Tenenbaums, Gosford Park, Death to Smoochy, About a Boy, Sweet Home Alabama, Hable con ella, Laurel Canyon, In the Cut, Monster, Osama, Eternal Sunshine of the Spotless Mind, Collateral.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, time travel, whale

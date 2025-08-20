@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Beauty and the Beast, American History X, October Sky, Lola rennt, American Beauty, Being John Malkovich, The End of the Affair, X-Men, Dancer in the Dark, Bridget Jones's Diary, The Beach, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, About a Boy, Hotaru no haka, Far from Heaven, The Lord of the Rings: The Two Towers, The Hours, X2, Tenkû no shiro Rapyuta, 21 Grams, Xi yan, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, The Incredibles, Bridget Jones: The Edge of Reason, Closer, Shi mian mai fu, Un long dimanche de fiançailles, Million Dollar Baby, The Constant Gardener, A History of Violence, Brokeback Mountain, Movie Crazy, King Kong, V for Vendetta, X-Men: The Last Stand, Little Miss Sunshine, Children of Men, Ratatouille, Knocked Up, Once, The Bourne Ultimatum, Superbad, Eastern Promises, Se, jie, Dan in Real Life, No Country for Old Men, The Savages, Juno.
+
+Associated tags: boxing, earth, painter, police

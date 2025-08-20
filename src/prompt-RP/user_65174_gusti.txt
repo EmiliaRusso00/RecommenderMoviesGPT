@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, In the Line of Fire, Schindler's List, Wallace and Gromit in A Close Shave, Rear Window, Wallace & Gromit in The Wrong Trousers, To Kill a Mockingbird, The Matrix, The Shop Around the Corner, Robinson Crusoe.
+
+Associated tags: boxing, earth, painter, police

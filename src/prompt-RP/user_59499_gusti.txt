@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, Raiders of the Lost Ark, Back to the Future, Gattaca, The Big Lebowski, Back to the Future Part II, Rounders, A Few Good Men, Lock, Stock and Two Smoking Barrels, The Matrix, American Beauty, Fight Club, Wo hu cang long, Memento, The Bourne Identity, Minority Report, Bowling for Columbine, Equilibrium, Cidade de Deus, The Bourne Supremacy, V for Vendetta, The Departed, Harry Potter and the Order of the Phoenix, The Bourne Ultimatum, Into the Wild, The Assassination of Jesse James by the Coward Robert Ford, Taxi to the Dark Side, Forgetting Sarah Marshall, Bigger Stronger Faster*.
+
+Associated tags: boxing, earth, funny, painter, police, whale

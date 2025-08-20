@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: In the Name of the Father, Vertigo, Some Like It Hot, The African Queen, The Right Stuff, Out of the Past, Ratatouille, The Bourne Ultimatum, No Country for Old Men.
+
+Associated tags: boxing, earth, medieval, painter, police

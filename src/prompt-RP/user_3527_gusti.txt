@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Taxi Driver, Pulp Fiction, The Shawshank Redemption, Schindler's List, Blade Runner, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Rear Window, North by Northwest, Casablanca, The Maltese Falcon, Citizen Kane, 2001: A Space Odyssey, 2 Days in the Valley, Raiders of the Lost Ark, 12 Angry Men, Lawrence of Arabia, Apocalypse Now, Alien, Ran, The Godfather: Part II, Amadeus, Annie Hall, Manhattan, The Graduate, The Bridge on the River Kwai, Chinatown, The Manchurian Candidate, Akira, Cool Hand Luke, The Big Sleep, The Big Lebowski, Shichinin no samurai, Rosemary's Baby, Waking Ned, American Beauty, Per un pugno di dollari, Adaptation., Cidade de Deus, Aguirre, der Zorn Gottes, The Maltese Falcon, The Animatrix, The 40 Year Old Virgin, Apocalypto.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, whale

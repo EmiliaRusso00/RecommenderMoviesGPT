@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Death and the Maiden, Pulp Fiction, Trois couleurs: Rouge, Forrest Gump, Short Cuts, Reservoir Dogs, Monty Python and the Holy Grail, The Cook the Thief His Wife & Her Lover, Delicatessen, The English Patient, Brazil, Aliens, A Clockwork Orange, The Godfather: Part II, Annie Hall, Breaking the Waves, L.A. Confidential, Chinese Box, Buffalo '66, Höstsonaten, Stardust Memories, Festen, Rushmore, Radio Days, And Now for Something Completely Different, Fight Club, Crimes and Misdemeanors, The Draughtsman's Contract, A Zed & Two Noughts, Dancer in the Dark, Requiem for a Dream, Memento, Shadows and Fog, Drowning by Numbers, Training Day, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, Le locataire, The Meaning of Life, 21 Grams, Europa, Eternal Sunshine of the Spotless Mind, Broadway Danny Rose, Shaun of the Dead, Match Point, La science des rêves, The Prestige, No Country for Old Men, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

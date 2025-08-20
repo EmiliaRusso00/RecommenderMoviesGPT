@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mr. Holland's Opus, From Dusk Till Dawn, Muppet Treasure Island, Hackers, The Crow, Wallace & Gromit in The Wrong Trousers, The Princess Bride, Labyrinth, The Breakfast Club, The Goonies, The Muppet Christmas Carol, The Dark Crystal, Willow, The Rugrats Movie, 10 Things I Hate About You, South Park: Bigger Longer & Uncut, Spaceballs, A League of Their Own, Snatch., The Lost Boys, A Knight's Tale, Shrek, The Adventures of Baron Munchausen, Van Wilder, xXx, Rugrats Go Wild, Pirates of the Caribbean: The Curse of the Black Pearl, Harry Potter and the Prisoner of Azkaban, The Last Starfighter, Constantine, Sin City, Crackerjack, The Longest Yard, Batman Begins, Wallace & Gromit in The Curse of the Were-Rabbit, Kiss Kiss Bang Bang, Hoodwinked!, The Covenant.
+
+Associated tags: boxing, brothers quay, earth, funny, medieval, painter, police

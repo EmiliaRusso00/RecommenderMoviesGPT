@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Once Upon a Time... When We Were Colored, The Birdcage, Léon, The Shawshank Redemption, Schindler's List, The Silence of the Lambs, Lone Star State of Mind, Glengarry Glen Ross, Il buono, il brutto, il cattivo., Harold and Maude, She's So Lovely, Sleeping Beauty, An American Tail, The Producers, American History X, Cookie's Fortune, Fight Club, The General, Fantasia/2000, Gladiator, Almost Famous, Requiem for a Dream, The Royal Tenenbaums, Believers, Heaven, Hotaru no haka, Tonari no Totoro, Nirgendwo in Afrika, Finding Nemo, Whale Rider, Ikiru, Matchstick Men, Lost in Translation, Ying xiong, House of Sand and Fog, The Dreamers, 50 First Dates, Kill Bill: Vol. 2, How to Get the Man's Foot Outta Your Ass, Saved!, The Manchurian Candidate, Ray, The Incredibles, Layer Cake, Million Dollar Baby, The Aviator, Der Untergang, Sin City, Crash, Batman Begins, Capote, V for Vendetta, Thank You for Smoking, Cars, The Departed.
+
+Associated tags: boxing, brothers quay, earth, finnish, painter, police

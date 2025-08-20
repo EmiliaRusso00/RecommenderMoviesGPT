@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Four Rooms, The Usual Suspects, Braveheart, Interview with the Vampire: The Vampire Chronicles, Léon, Pulp Fiction, The Shawshank Redemption, Apocalypse Now, Army of Darkness, Full Metal Jacket, As Good as It Gets, The Goonies, Saving Private Ryan, Fanny och Alexander, The Matrix, Falling Down, The Green Mile, O Brother, Where Art Thou?, Eddie Murphy Raw, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Sin City, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

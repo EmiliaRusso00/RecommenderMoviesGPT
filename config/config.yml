@@ -1,0 +1,111 @@
+experiment:
+  backend: pytorch
+  gpu: -1  
+
+  meta:                       
+    external_models_path: "./external_models"
+
+  dataset: movielens_baseline
+  data_config:
+    strategy: fixed
+    train_path: ../data/processed/train.tsv
+    test_path: ../data/processed/test.tsv
+    side_information:
+      - dataloader: ItemAttributes
+        attribute_file: ../data/processed/item_attributes.tsv
+
+  top_k: 50
+
+  evaluation:
+    cutoffs: [10]
+    simple_metrics: [nDCG, Recall, Precision, HR, F1, MAP]
+    paired_ttest: True
+    wilcoxon_test: True
+    save_eval: True
+    results_folder: ../results_metrics
+
+  print_results_as_triplets: True
+
+  models:
+
+    # ---------- Content-Based Filtering ----------
+    VSM:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      similarity: cosine
+      user_profile: tfidf
+      item_profile: tfidf
+      neighbors: 50
+      loader: ItemAttributes
+
+    AttributeItemKNN:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      neighbors: 50
+      similarity: cosine
+      implicit: False
+      loader: ItemAttributes
+
+    AttributeUserKNN:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      neighbors: 50
+      similarity: cosine
+      implicit: False
+      loader: ItemAttributes
+
+    # ---------- Collaborative Filtering ----------
+    EASER:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      l2_norm: 1000
+      neighborhood: 50
+
+    RP3beta:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      neighborhood: 50
+      alpha: 1
+      beta: 0.5
+      normalize_similarity: True
+
+    ItemKNN:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      neighbors: 50
+      similarity: cosine
+      implicit: False
+
+    UserKNN:
+      meta:
+        hyper_max_evals: 1
+        save_recs: True
+        verbose: True
+      neighbors: 50
+      similarity: cosine
+      implicit: False
+      normalize: True
+
+    # ---------- Baseline ----------
+    MostPop:
+      meta:
+        verbose: True
+        save_recs: True
+
+    Random:
+      meta:
+        save_recs: True
+        verbose: True
+      random_seed: 42

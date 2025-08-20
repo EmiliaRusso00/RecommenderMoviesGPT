@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Léon, The Fugitive, Schindler's List, Terminator 2: Judgment Day, Die Hard, Willy Wonka & the Chocolate Factory, Life of Brian, Indiana Jones and the Last Crusade, Shrek, Bowling for Columbine, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, V for Vendetta, Death of a President.
+
+Associated tags: earth, painter, police

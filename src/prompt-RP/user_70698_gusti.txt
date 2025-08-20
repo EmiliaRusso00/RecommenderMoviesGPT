@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, GoldenEye, The Shawshank Redemption, Animal House, Mission: Impossible, Snatch., The Bourne Identity, Who Is Cletis Tout?, Pirates of the Caribbean: The Curse of the Black Pearl, Fahrenheit 9/11, The Bourne Supremacy, The 40 Year Old Virgin.
+
+Associated tags: boxing, earth, painter, police

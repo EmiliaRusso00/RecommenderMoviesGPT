@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, Schindler's List, Blade Runner, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Princess Bride, Goodfellas, Full Metal Jacket, This Is Spinal Tap, Grosse Pointe Blank, Office Space, Lola rennt, Fight Club, Traffic, Memento, Sen to Chihiro no kamikakushi, Eternal Sunshine of the Spotless Mind, V for Vendetta, No Country for Old Men.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

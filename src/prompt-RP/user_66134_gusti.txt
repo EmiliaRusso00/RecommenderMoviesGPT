@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Rob Roy, Ed Wood, Interview with the Vampire: The Vampire Chronicles, Léon, The Crow, Schindler's List, Terminator 2: Judgment Day, Monty Python and the Holy Grail, Raiders of the Lost Ark, Aliens, Goodfellas, Army of Darkness, Full Metal Jacket, Amadeus, Terminator Salvation, Evil Dead II, Back to the Future, Indiana Jones and the Last Crusade, The Fifth Element, Starship Troopers, Saving Private Ryan, The Thing, Fight Club, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Big Fish, The Lord of the Rings: The Return of the King, Sin City, Lord of War, The Illusionist, 300, Planet Terror, 3:10 to Yuma, No Country for Old Men, Rambo, The Dark Knight, Wanted.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

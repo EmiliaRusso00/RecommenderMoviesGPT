@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Rear Window, 2001: A Space Odyssey, One Flew Over the Cuckoo's Nest, Psycho, The Day the Earth Stood Still, Gattaca, The Big Lebowski, Shichinin no samurai, American Beauty, Fight Club, Memento, A Beautiful Mind, House of Sand and Fog, Garden State, Sin City, No Direction Home: Bob Dylan, Good Night, and Good Luck..
+
+Associated tags: boxing, earth, finnish, painter, police, whale

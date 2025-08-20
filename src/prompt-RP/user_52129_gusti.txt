@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Star Wars, Pulp Fiction, Blade Runner, True Romance, Trainspotting, Reservoir Dogs, When We Were Kings, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Il buono, il brutto, il cattivo., Apocalypse Now, C'era una volta il West, Alien, Miller's Crossing, Indiana Jones and the Last Crusade, Butch Cassidy and the Sundance Kid, Le mépris, L.A. Confidential, The Big Lebowski, Out of Sight, Saving Private Ryan, Rounders, The Matrix, Three Kings, Fight Club, Gladiator, Requiem for a Dream, O Brother, Where Art Thou?, The Lord of the Rings: The Fellowship of the Ring, Adaptation., The Lord of the Rings: The Two Towers, The Pianist, Cidade de Deus, Kill Bill: Vol. 2, Before Sunset, Million Dollar Baby, United 93, Children of Men, No Country for Old Men, There Will Be Blood, The Dark Knight, The Wrestler.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, painter, police, robots, whale

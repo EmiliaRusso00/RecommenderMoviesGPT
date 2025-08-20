@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, The Usual Suspects, Pulp Fiction, Dead Man, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Reservoir Dogs, One Flew Over the Cuckoo's Nest, A Clockwork Orange, Apocalypse Now, The Third Man, Full Metal Jacket, Das Boot, Down by Law, Dark City, Hana-bi, Buffalo '66, Pi, Shichinin no samurai, American History X, Festen, Office Space, Wandâfuru raifu, Fight Club, Magnolia, Ghost Dog: The Way of the Samurai, Idioterne, Dancer in the Dark, Memento, Sen to Chihiro no kamikakushi, Les triplettes de Belleville, Tideland.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Crimson Tide, Natural Born Killers, The Shawshank Redemption, Die Hard, The Return of the Pink Panther, Terminator Salvation, The Fifth Element, Contact, The Breakfast Club, Miracle on 34th Street, The Matrix, Ferris Bueller's Day Off, Fight Club, Dogma, Girl, Interrupted, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers, The Matrix Reloaded, The Matrix Revolutions, The Lord of the Rings: The Return of the King, The Bourne Supremacy, V for Vendetta.
+
+Associated tags: boxing, earth, funny, painter, police, seriously scary, whale

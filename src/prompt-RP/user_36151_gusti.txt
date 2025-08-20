@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Taxi Driver, Pulp Fiction, Forrest Gump, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Casablanca, Sunset Blvd., Life of Brian, Monty Python and the Holy Grail, Nuovo Cinema Paradiso, Apocalypse Now, The Godfather: Part II, Manhattan, Back to the Future, Fantasia, Indiana Jones and the Last Crusade, Shichinin no samurai, The Matrix, Fight Club, Toy Story, Dancer in the Dark, Memento, Donnie Darko, All the President's Men, The Meaning of Life, Eternal Sunshine of the Spotless Mind, Shrek 2, The Incredibles, Batman Begins, Ratatouille.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

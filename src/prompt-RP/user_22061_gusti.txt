@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Stargate, The Shawshank Redemption, 2001: A Space Odyssey, E.T.: The Extra-Terrestrial, Monty Python and the Holy Grail, Apocalypse Now, Det sjunde inseglet, Pink Floyd The Wall, Hamlet, Contact, Titanic, Primary Colors, Driving Miss Daisy, Dune, Fanny och Alexander, The Matrix, The Rocky Horror Picture Show, The Blair Witch Project, American Beauty, Boys Don't Cry, Dogma, Last Chance Harvey, Galaxy Quest, Cabaret, Dancer in the Dark, Moulin Rouge!, Hedwig and the Angry Inch, The Wicker Man, Smultronstället, The Hours, Monty Python Live at the Hollywood Bowl, The Meaning of Life, Elephant, Jesus Christ Superstar, The Birth of a Nation, Ying xiong, Latter Days, The Passion of the Christ, Dogville, Scener ur ett äktenskap, Shrek 2, Fahrenheit 9/11, La mala educación, Brokeback Mountain, Das Leben der Anderen, 300.
+
+Associated tags: boxing, earth, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, Pulp Fiction, Jackie Brown, The Matrix, The Sixth Sense, American Beauty, Fight Club, Billy Elliot, Le fabuleux destin d'Amélie Poulain, Love Actually, Good Bye Lenin!, Little Miss Sunshine.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Pulp Fiction, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Casablanca, 2001: A Space Odyssey, Mr. Smith Goes to Washington, Star Wars: Episode V - The Empire Strikes Back, A Clockwork Orange, Annie Hall, Harold and Maude, Manhattan, The Deer Hunter, Breaking the Waves, American Beauty, Inside Man, Dancer in the Dark, Monsoon Wedding, Lucía y el sexo, Kill Bill: Vol. 2, Slackers, Hannah and Her Sisters, Dogville, Kill Bill: Vol. 2, Woodstock, Super Size Me, Before Sunset, I Heart Huckabees, Stage Beauty, Tasogare Seibei, The Corporation, Million Dollar Baby, Walk the Line.
+
+Associated tags: boxing, earth, funny, painter, police, whale

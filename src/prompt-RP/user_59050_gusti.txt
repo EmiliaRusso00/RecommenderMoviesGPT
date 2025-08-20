@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Schindler's List, One Flew Over the Cuckoo's Nest, The Breakfast Club, Festen, Lola rennt, Shrek, Le fabuleux destin d'Amélie Poulain, Lost in Translation.
+
+Associated tags: earth, police

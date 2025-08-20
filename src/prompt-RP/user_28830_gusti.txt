@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: From Dusk Till Dawn, Pulp Fiction, Beverly Hills Cop III, Schindler's List, Star Wars: Episode VI - Return of the Jedi, The Shining, Scream, The X Files, Armageddon, The Exorcist, American History X, Cruel Intentions, The Matrix, House on Haunted Hill, The Talented Mr. Ripley, The Others, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Das Experiment, Red Dragon, The Ring, The Lord of the Rings: The Two Towers, Ringu, The Lord of the Rings: The Return of the King, Ocean's Thirteen, 50 First Dates, The Bourne Supremacy, Harold & Kumar Go to White Castle, Shaun of the Dead, Jalla! Jalla!, Sin City, Star Wars: Episode III - Revenge of the Sith, Serenity, The Exorcism of Emily Rose.
+
+Associated tags: boxing, earth, funny, painter, police, whale

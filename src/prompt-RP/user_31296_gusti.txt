@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Pulp Fiction, The Shawshank Redemption, Schindler's List, Blade Runner, The Silence of the Lambs, Night of the Living Dead, One Flew Over the Cuckoo's Nest, Aliens, Alien, Full Metal Jacket, The Shining, Edward Scissorhands, The Matrix, Fight Club, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Day of the Dead, Dawn of the Dead, 28 Weeks Later.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

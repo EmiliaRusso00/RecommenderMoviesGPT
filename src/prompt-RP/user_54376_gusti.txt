@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Braveheart, Fargo, Il buono, il brutto, il cattivo., Groundhog Day, Gattaca, The Big Lebowski, The Thin Red Line, The Hard Word, Master and Commander: The Far Side of the World, Salinui chueok, The Fountain, El laberinto del fauno, Children of Men, Gwoemul, Sunshine, Dnevnoy dozor, Sicko, The Assassination of Jesse James by the Coward Robert Ford, No Country for Old Men, The Man from Earth, In Bruges, The Dark Knight, Man on Wire.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police

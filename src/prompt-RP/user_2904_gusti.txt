@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ed Wood, Star Wars, Pulp Fiction, The Shawshank Redemption, What's Eating Gilbert Grape, Much Ado About Nothing, Blade Runner, Terminator 2: Judgment Day, The Silence of the Lambs, Kôkaku kidôtai, Bound, The Maltese Falcon, Die Hard, A Fish Called Wanda, The Princess Bride, Aliens, C'era una volta il West, Alien, Dip huet seung hung, Terminator Salvation, La Femme Nikita, Groundhog Day, Young Frankenstein, Heathers, When Harry Met Sally..., Wag the Dog, Lethal Weapon, Cube, The Thing, The Matrix, Lola rennt, The Sixth Sense, Per un pugno di dollari, RoboCop, Last Chance Harvey, Top Secret!, Dog Soldiers, Interstate 60: Episodes of the Road, Charlie and the Chocolate Factory, Sin City, Crash, Wallace & Gromit in The Curse of the Were-Rabbit, Stardust, Planet Terror, Atonement, No Country for Old Men, Cloverfield.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

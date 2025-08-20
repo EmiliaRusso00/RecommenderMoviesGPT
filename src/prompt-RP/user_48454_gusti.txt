@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Ba wang bie ji, Fargo, Trainspotting, Everyone Says I Love You, Dirty Dancing, The Bridge on the River Kwai, The Full Monty, O Que É Isso, Companheiro?, Il portiere di notte, Happiness, The Karate Kid, The Rocky Horror Picture Show, Flashdance, Mononoke-hime, Ghost Dog: The Way of the Samurai, Storytelling, La pianiste, Saturday Night Fever, The Pianist, Cidade de Deus, The Harder They Come, Journey to the Center of the Earth, Lilja 4-ever, Swimming Pool, Kaze no tani no Naushika, The Dreamers, Chun gwong cha sit, SF: Episode One, Bom yeoreum gaeul gyeoul geurigo bom, Oldeuboi, Hostel.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Birdcage, Apollo 13, Pulp Fiction, Forrest Gump, The Wizard of Oz, Willy Wonka & the Chocolate Factory, The Truman Show, Lady and the Tramp, La vita è bella, American History X, Patch Adams, Office Space, SLC Punk!, Yellow Submarine, The Green Mile, High Fidelity, Hook, But I'm a Cheerleader, Remember the Titans, Requiem for a Dream, Traffic, Memento, Blow, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, The Count of Monte Cristo, Chicago, Les triplettes de Belleville, Love Actually, Big Fish, Dogville, The United States of Leland, Garden State, Sideways, Hotel Rwanda, Crash, Everything Is Illuminated, Elizabethtown, V for Vendetta, Little Miss Sunshine, The Departed.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

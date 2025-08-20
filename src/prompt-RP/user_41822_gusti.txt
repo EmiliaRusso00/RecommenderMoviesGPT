@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, The Nightmare Before Christmas, Dances with Wolves, Dead Poets Society, The Last of the Mohicans, Message to Love: The Isle of Wight Festival, Rope, Edward Scissorhands, What Dreams May Come, The Sixth Sense, Scent of a Woman, Modern Times, Chocolat, The Others, Le fabuleux destin d'Amélie Poulain, Igby Goes Down, Sen to Chihiro no kamikakushi, After Hours, Mar adentro, Hauru no ugoku shiro.
+
+Associated tags: earth, police, whale

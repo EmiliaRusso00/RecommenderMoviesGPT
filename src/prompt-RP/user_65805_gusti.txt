@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Ed Wood, Star Wars, Pulp Fiction, The Shawshank Redemption, The Fugitive, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Gone with the Wind, Amadeus, Butch Cassidy and the Sundance Kid, Star Trek: The Wrath of Khan, All the President's Men.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

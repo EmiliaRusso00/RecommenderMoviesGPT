@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Twelve Monkeys, Exotica, Fargo, Primal Fear, Dellamorte Dellamore, Delicatessen, A Clockwork Orange, Apocalypse Now, Psycho, Touch of Evil, Koyaanisqatsi, Starship Troopers, The Sweet Hereafter, Hana-bi, The Spanish Prisoner, Metropolis, Who's Afraid of Virginia Woolf?, Rosemary's Baby, Il conformista, Fight Club, Fitzcarraldo, Dogma, Magnolia, Scent of a Woman, Solyaris, Der Krieger und die Kaiserin, Marat/Sade, Mulholland Dr., Donnie Darko, À bout de souffle, Death to Smoochy, Nosferatu: Phantom der Nacht, Punch-Drunk Love, Le charme discret de la bourgeoisie, Les triplettes de Belleville, 21 Grams, Eternal Sunshine of the Spotless Mind, La dolce vita, L'avventura, Viridiana, I Heart Huckabees, Le fantôme de la liberté, Oldeuboi, Kontroll, Why We Fight, Das Leben der Anderen, La science des rêves, Casino Royale, Grindhouse, No Country for Old Men, There Will Be Blood, The Dark Knight, Låt den rätte komma in.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police

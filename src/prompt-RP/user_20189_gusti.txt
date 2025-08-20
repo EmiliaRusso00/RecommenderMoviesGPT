@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Star Wars: Episode V - The Empire Strikes Back, Lawrence of Arabia, The Lord of the Rings: The Fellowship of the Ring.
+
+Associated tags: earth

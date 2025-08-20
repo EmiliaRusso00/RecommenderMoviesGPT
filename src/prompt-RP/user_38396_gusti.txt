@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Forrest Gump, Mrs. Doubtfire, Home Alone, Pretty Woman, Matilda, Singin' in the Rain, The Parent Trap, Aladdin and the King of Thieves, Monty Python and the Holy Grail, Groundhog Day, Back to the Future, Ging chaat goo si 4: Ji gaan daan yam mo, Liar Liar, Titanic, West Side Story, Back to the Future Part II, Bambi, My Cousin Vinny, Babe: Pig in the City, Ghost Busters, Wayne's World, Road Trip, Me, Myself & Irene, Meet the Parents, Bridget Jones's Diary, Monsters, Inc., Ice Age, My Big Fat Greek Wedding, My Girl, Tonari no Totoro, Evan Almighty, Finding Nemo, La belle et la bête, 50 First Dates, Mou gaan dou, The Incredibles, Kung fu, Madagascar, The 40 Year Old Virgin, Pride & Prejudice, Ice Age: The Meltdown, Candy, American Dreams, Norbit, Ratatouille, Hot Fuzz, The Simpsons Movie.
+
+Associated tags: boxing, brothers quay, earth, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Pulp Fiction, Blade Runner, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, The Godfather, Reservoir Dogs, One Flew Over the Cuckoo's Nest, Brazil, A Clockwork Orange, Apocalypse Now, C'era una volta il West, Goodfellas, Alien, The Godfather: Part II, Full Metal Jacket, Touch of Evil, Duck Soup, The Shining, Duo luo tian shi, Hana-bi, The Thin Red Line, Wandâfuru raifu, Deliverance, Fight Club, Five Easy Pieces, JFK, Modern Times, Dancer in the Dark, Memento, Mulholland Dr., Donnie Darko, Le fabuleux destin d'Amélie Poulain, Gone in Sixty Seconds, Sen to Chihiro no kamikakushi, Hable con ella, Cidade de Deus, Kill Bill: Vol. 2, Batoru rowaiaru, Eternal Sunshine of the Spotless Mind, Bom yeoreum gaeul gyeoul geurigo bom, Bin-jip.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

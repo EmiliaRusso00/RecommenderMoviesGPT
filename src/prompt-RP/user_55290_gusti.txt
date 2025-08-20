@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: She's All That, 10 Things I Hate About You, Boys and Girls, Head Over Heels, Summer Catch, 40 Days and 40 Nights, Boat Trip, EuroTrip, The Girl Next Door, The Girl Next Door, Monster-in-Law, She's the Man, You, Me and Dupree, Accepted, Pirates of the Caribbean: At World's End.
+
+Associated tags: boxing, earth, police

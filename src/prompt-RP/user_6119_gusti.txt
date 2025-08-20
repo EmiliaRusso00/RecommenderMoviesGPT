@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Shichinin no samurai, Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, The Shawshank Redemption, Terminator 2: Judgment Day, The Godfather, Goodfellas, The Godfather: Part II, Saving Private Ryan, American History X, The Matrix, Fight Club, Gladiator, Snatch., Scarface, 300.
+
+Associated tags: boxing, earth, funny, painter, police, whale

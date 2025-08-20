@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Get Shorty, Shichinin no samurai, The Usual Suspects, Clerks., Léon, The Shawshank Redemption, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Monty Python and the Holy Grail, Stand by Me, The Fifth Element, The Breakfast Club, Back to the Future Part II, Back to the Future Part III, American Beauty, Gone in Sixty Seconds, Donnie Darko, The Bourne Identity, Big Fish, Sin City, Superman Returns.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, time travel, whale

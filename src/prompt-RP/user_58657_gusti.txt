@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Léon, Star Trek: First Contact, The Fifth Element, Conspiracy Theory, The Game, Gattaca, Meet Joe Black, Star Trek: Insurrection, You've Got Mail, The Matrix, Notting Hill, Fight Club, Scent of a Woman, Snatch., The Score, Spy Game, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, Vanilla Sky, The Transporter, Lost in Translation, Love Actually, Eternal Sunshine of the Spotless Mind, Garden State, Code 46, Alfie, Million Dollar Baby, A Lot Like Love, Mr. & Mrs. Smith, The Island, Lord of War, The Weather Man, Thank You for Smoking, Lucky Number Slevin, The Bourne Ultimatum, The Dark Knight.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

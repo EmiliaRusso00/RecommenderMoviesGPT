@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Taxi Driver, Kids, Interview with the Vampire: The Vampire Chronicles, Once Were Warriors, Léon, Pulp Fiction, Blade Runner, Terminator 2: Judgment Day, Fargo, Reservoir Dogs, Platoon, One Flew Over the Cuckoo's Nest, Brazil, Aliens, A Clockwork Orange, Apocalypse Now, Alien, Le grand bleu, Full Metal Jacket, Das Boot, Terminator Salvation, Braindead, La Femme Nikita, Bad Taste, Alien³, Gattaca, Starship Troopers, Alien³, Jackie Brown, Fear and Loathing in Las Vegas, Poltergeist, A Simple Plan, The Matrix, Fight Club, Falling Down, Predator, Gladiator, Wo hu cang long, Scarface, The Lord of the Rings: The Fellowship of the Ring, Finding Nemo, Ying xiong, The Lord of the Rings: The Return of the King, Aileen: Life and Death of a Serial Killer, Sin City, Walk the Line, El laberinto del fauno, The Prestige, Casino Royale, This Is England, No Country for Old Men.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

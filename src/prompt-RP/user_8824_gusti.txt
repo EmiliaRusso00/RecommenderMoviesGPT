@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Night of the Living Dead, The Fog, Escape from New York, Stalker, Dead Poets Society, Evil Dead II, Lost Highway, Event Horizon, Halloween, Blue Velvet, The Thing, Christine, The Thing from Another World, The Straight Story, Twin Peaks: Fire Walk with Me, Solyaris, From Dusk Till Dawn, Eraserhead, Starman, Assault on Precinct 13, Big Trouble in Little China, Wo hu cang long, Memento, Suspiria, They Live, Ghosts of Mars, Resident Evil, Phenomenon, Kill Bill: Vol. 2, Wild at Heart, Dawn of the Dead, Serenity.
+
+Associated tags: boxing, earth, painter, police, whale

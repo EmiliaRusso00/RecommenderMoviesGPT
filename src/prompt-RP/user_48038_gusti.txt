@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, That Thing You Do!, Smilla's Sense of Snow, In & Out, Sliding Doors, Rosemary's Baby, 54, Little Voice, 200 Cigarettes, Crna macka, beli macor, Fight Club, Man on the Moon, Where the Heart Is, Moskva slezam ne verit, Hable con ella, In America, Eternal Sunshine of the Spotless Mind, Manderlay, El laberinto del fauno, The Painted Veil, Le scaphandre et le papillon.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

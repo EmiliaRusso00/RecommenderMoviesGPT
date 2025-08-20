@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Reservoir Dogs, Platoon, One Flew Over the Cuckoo's Nest, Il buono, il brutto, il cattivo., The Godfather: Part II, Chinatown, The Devil's Advocate, Midnight Cowboy, The Godfather: Part III, The Untouchables, A Few Good Men, Edtv, Superman, South Park: Bigger Longer & Uncut, American Beauty, Ferris Bueller's Day Off, Fight Club, American Psycho, Traffic, Memento, Monster's Ball, Cidade de Deus, X2, Shrek 2.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Aliens, Alien, Chasing Amy, Fear and Loathing in Las Vegas, Fight Club, Dogma, The Boondock Saints, Snatch., Memento, Donnie Darko, Kiss Kiss Bang Bang, The Dark Knight, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Happy Gilmore, Die Hard: With a Vengeance, The Shawshank Redemption, Forrest Gump, A Time to Kill, Top Gun, Back to the Future, This Is Spinal Tap, Young Guns, Conspiracy Theory, The Game, Bean, The Apostle, Good Will Hunting, There's Something About Mary, Saving Private Ryan, American History X, Christmas Vacation, The Matrix, The Sixth Sense, Pay It Forward, Body of Lies, See No Evil, Hear No Evil, The Others, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, Equilibrium, The Lord of the Rings: The Two Towers, Finding Nemo, Nothing to Lose, The Lord of the Rings: The Return of the King, Cold Mountain, The Butterfly Effect, Secret Window, The United States of Leland, To End All Wars, Cellular, Zathura: A Space Adventure, Inside Man, The Pursuit of Happyness, The Prestige, Reign Over Me.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, satoshi kon

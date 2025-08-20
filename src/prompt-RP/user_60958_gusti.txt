@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Léon, The Shawshank Redemption, What's Eating Gilbert Grape, Forrest Gump, Carlito's Way, Schindler's List, The Silence of the Lambs, Beauty and the Beast, One Flew Over the Cuckoo's Nest, Apocalypse Now, Dead Poets Society, The Shining, L.A. Confidential, The Little Mermaid, Edward Scissorhands, Barry Lyndon, American Beauty, Fight Club, High Fidelity, Requiem for a Dream, Snatch., Memento, Blow, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Pianist, The Butterfly Effect, Secret Window, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Oldeuboi, Sin City, Crash.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

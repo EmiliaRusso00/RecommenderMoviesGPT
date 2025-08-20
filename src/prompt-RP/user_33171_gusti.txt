@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Terminator 2: Judgment Day, Die Hard, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Il buono, il brutto, il cattivo., Star Wars: Episode VI - Return of the Jedi, Das Boot, Back to the Future, Highlander, Indiana Jones and the Last Crusade, Men in Black, The Breakfast Club, The Matrix, Goldfinger, Mononoke-hime, Chicken Run, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Last Unicorn, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, V for Vendetta, Stranger Than Fiction, Casino Royale.
+
+Associated tags: boxing, earth, painter, police

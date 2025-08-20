@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Babe, Clueless, Shichinin no samurai, Star Wars, Pulp Fiction, The Shawshank Redemption, Addams Family Values, The Fugitive, Blade Runner, The Nightmare Before Christmas, Aladdin, The Silence of the Lambs, Beauty and the Beast, Wallace and Gromit in A Close Shave, Rear Window, Wallace & Gromit in The Wrong Trousers, The Princess Bride, Raiders of the Lost Ark, Aliens, Star Wars: Episode VI - Return of the Jedi, Amadeus, Groundhog Day, Men in Black, Lola rennt, Ghost Busters, Double Indemnity, Wo hu cang long, Memento, Donnie Darko, Lilo & Stitch, Sen to Chihiro no kamikakushi, Hotaru no haka, The Lord of the Rings: The Two Towers, Tonari no Totoro, The Thief of Bagdad, The Incredibles, The Quiet Earth, Sien nui yau wan, Hotel Rwanda, Hauru no ugoku shiro, Clerks II.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, painter, police, time travel, whale

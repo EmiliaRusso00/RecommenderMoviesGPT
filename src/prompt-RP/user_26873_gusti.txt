@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Armageddon, Back to the Future Part II, Back to the Future Part III, The Lord of the Rings: The Fellowship of the Ring.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

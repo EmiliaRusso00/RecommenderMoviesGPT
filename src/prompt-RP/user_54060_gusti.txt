@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Harold and Maude, Being John Malkovich, Imagine: John Lennon, Tenacious D in The Pick of Destiny, Ratatouille.
+
+Associated tags: 

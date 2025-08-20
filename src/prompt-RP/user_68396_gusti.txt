@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Casper, The Lion King, Snow White and the Seven Dwarfs, Beauty and the Beast, Cinderella, The Sound of Music, Honey, I Shrunk the Kids, The Little Mermaid, Planet of the Apes, Big, Toy Story, A Beautiful Mind, Minority Report, The Lord of the Rings: The Two Towers, Finding Nemo.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

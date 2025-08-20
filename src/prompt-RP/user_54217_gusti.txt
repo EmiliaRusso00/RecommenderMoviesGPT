@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, The Shawshank Redemption, Dead Man, Trainspotting, Monty Python and the Holy Grail, Stand by Me, The Matrix, Fight Club, Requiem for a Dream, Le fabuleux destin d'Amélie Poulain, The Three Burials of Melquiades Estrada, Little Children.
+
+Associated tags: boxing, earth, funny, painter, police, whale

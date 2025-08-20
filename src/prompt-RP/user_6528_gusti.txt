@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Fear and Loathing in Las Vegas, Savior, American Beauty, Tmavomodrý svet, Cidade de Deus, Pirates of the Caribbean: The Curse of the Black Pearl, Lost in Translation, Diarios de motocicleta, Hotel Rwanda, Lord of War, Pirates of the Caribbean: At World's End, Persepolis.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

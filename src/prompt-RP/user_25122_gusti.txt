@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Crimson Tide, Forrest Gump, Jurassic Park, Die Hard, Platoon, Amadeus, Back to the Future, Rocky, Back to the Future Part II, Rocky III, RoboCop, The First $20 Million Is Always the Hardest, A Beautiful Mind, Minority Report, Finding Nemo, The Butterfly Effect, The Incredibles, Ying hung boon sik, 2046, Sinbad and the Eye of the Tiger, The Constant Gardener.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, seriously scary, whale

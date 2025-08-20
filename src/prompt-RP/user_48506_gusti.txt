@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dumb & Dumber, Forrest Gump, Life of Brian, Monty Python and the Holy Grail, Aliens, Alien, Terminator Salvation, Saving Private Ryan, Payback, The Matrix, Fight Club, Spaceballs, The Green Mile, Ocean's Eleven, Ice Age, The Matrix Reloaded, The Meaning of Life, Kill Bill: Vol. 2, The Matrix Revolutions, Batoru rowaiaru, The Butterfly Effect, Kill Bill: Vol. 2, Talvisota, Tuntematon sotilas, Constantine, Grindhouse.
+
+Associated tags: boxing, earth, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pocahontas, Braveheart, Naked Gun 33 1/3: The Final Insult, Beverly Hills Cop III, Robin Hood: Men in Tights, Schindler's List, Independence Day, The Last of the Mohicans, Volcano, Con Air, Face/Off, Air Force One, Titanic, Tomorrow Never Dies, Armageddon, Lethal Weapon 4, Lethal Weapon, My Cousin Vinny, La vita è bella, American History X, Deep Blue Sea, The Sixth Sense, RoboCop, The World Is Not Enough, The Bodyguard, Mission: Impossible, Gone in Sixty Seconds, Meet the Parents, The 6th Day, Beverly Hills Cop, Scarface, Die Another Day, Cidade de Deus, Bad Boys II, Over the Top.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

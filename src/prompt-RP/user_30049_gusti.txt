@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Back to the Future, Donnie Brasco, Star Wars: Episode I - The Phantom Menace, The Natural, A League of Their Own, Good Morning, Vietnam, Harry Potter and the Sorcerer's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, The Incredibles, Star Wars: Episode III - Revenge of the Sith, Harry Potter and the Goblet of Fire.
+
+Associated tags: earth, painter

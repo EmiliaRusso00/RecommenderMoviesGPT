@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Primal Fear, Citizen Kane, To Kill a Mockingbird, When Harry Met Sally..., Donnie Brasco, Saving Private Ryan, The Sixth Sense, The Green Mile, Hamlet, Requiem for a Dream, Memento, Blow, The Score, Donnie Darko, Vanilla Sky, A Beautiful Mind, Black Hawk Down, The Count of Monte Cristo, The Bourne Identity, Minority Report, Red Dragon, The Life of David Gale, Old School, Identity, Pirates of the Caribbean: The Curse of the Black Pearl, Love Actually, Miracle, Man on Fire, The Notebook, The Bourne Supremacy, Saw, The Jacket, Wedding Crashers, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, The Departed, Fracture, Knocked Up, Mr. Brooks.
+
+Associated tags: almodovar, boxing, earth, painter, police

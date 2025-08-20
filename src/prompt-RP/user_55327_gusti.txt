@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Les misérables, Braveheart, Rob Roy, Star Wars, Forrest Gump, In the Name of the Father, The Silence of the Lambs, Sleepers, Life of Brian, Monty Python and the Holy Grail, La Femme Nikita, Cyrano de Bergerac, L.A. Confidential, There's Something About Mary, Saving Private Ryan, El día de la bestia, Arlington Road, The Sixth Sense, Detroit Rock City, Gladiator, The Karate Kid, Solas, Finding Nemo, The Incredibles.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, whale

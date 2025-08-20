@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Todo sobre mi madre, Magnolia, Sånger från andra våningen, Secretary, Hable con ella, Capturing the Friedmans, Half Nelson, Children of Men, Lars and the Real Girl, Juno, The Dark Knight.
+
+Associated tags: earth

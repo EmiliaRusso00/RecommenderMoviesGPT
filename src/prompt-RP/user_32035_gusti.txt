@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Tombstone, Raiders of the Lost Ark, Terminator Salvation, Say Anything..., The Matrix, Dead Again, The Natural, Defending Your Life, The Final Countdown, The Lord of the Rings: The Fellowship of the Ring, The Count of Monte Cristo, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Seabiscuit, Boyz n the Hood, The Lord of the Rings: The Return of the King, Bang Bang You're Dead, Iron Man.
+
+Associated tags: boxing, earth, police

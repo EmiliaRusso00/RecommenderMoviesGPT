@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, Schindler's List, Fargo, The Godfather, Platoon, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Apocalypse Now, Goodfellas, The Godfather: Part II, Raging Bull, Back to the Future, L.A. Confidential, Saving Private Ryan, Being John Malkovich, Black Hawk Down.
+
+Associated tags: boxing, earth, funny, painter, police, whale

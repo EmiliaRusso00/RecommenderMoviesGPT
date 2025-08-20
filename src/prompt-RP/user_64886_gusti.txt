@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Godfather, Vertigo, Rear Window, North by Northwest, Casablanca, The Maltese Falcon, Reservoir Dogs, Weekend at Bernie's, Rope, The Mummy, And Now for Something Completely Different, The Dirty Dozen, Fight Club, Scrooged, The Bourne Identity, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Maltese Falcon, Shaun of the Dead, Capote, Knocked Up, Ocean's Thirteen.
+
+Associated tags: boxing, earth, funny, painter, police, whale

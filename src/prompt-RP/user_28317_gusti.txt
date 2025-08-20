@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Léon, The Shawshank Redemption, The Fugitive, The Rock, Life of Brian, Reservoir Dogs, The Fifth Element, Per un pugno di dollari, The Boondock Saints, Chocolat, Memento, Shrek, Spy Game, Le fabuleux destin d'Amélie Poulain, The Meaning of Life, V for Vendetta, Stardust.
+
+Associated tags: boxing, earth, painter, police

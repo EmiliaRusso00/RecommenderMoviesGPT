@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Shichinin no samurai, The Shawshank Redemption, Forrest Gump, The Lion King, Jurassic Park, Aladdin, Dances with Wolves, The Silence of the Lambs, The AristoCats, Independence Day, E.T.: The Extra-Terrestrial, Army of Darkness, Back to the Future, Fantasia, Dark City, All Dogs Go to Heaven, Weird Science, Simon Birch, Logan's Run, The Matrix, The Rocky Horror Picture Show, The Iron Giant, The Sixth Sense, A Christmas Story, Fight Club, Robin Hood: Prince of Thieves, But I'm a Cheerleader, A Beautiful Mind, Metropolis, X2, I, Robot, Batman Begins, V for Vendetta, Ratatouille, Transformers, Juno, The Bucket List, Cloverfield, Iron Man, Kung Fu Panda, You Don't Mess with the Zohan, The Incredible Hulk.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

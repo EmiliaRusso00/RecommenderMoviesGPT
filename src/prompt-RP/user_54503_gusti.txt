@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Braveheart, The Shawshank Redemption, What's Eating Gilbert Grape, The Silence of the Lambs, The Godfather, My Fair Lady, Gone with the Wind, The Sound of Music, E.T.: The Extra-Terrestrial, The Princess Bride, The Godfather: Part II, A Grand Day Out with Wallace and Gromit, Fried Green Tomatoes, Grease, Grosse Pointe Blank, As Good as It Gets, Rain Man, Saving Private Ryan, Doctor Zhivago, Never Been Kissed, American Beauty, Fast Times at Ridgemont High, A Beautiful Mind, Harry Potter and the Chamber of Secrets, Gangs of New York, Pirates of the Caribbean: The Curse of the Black Pearl, Love Actually, Master and Commander: The Far Side of the World, Harry Potter and the Prisoner of Azkaban, Napoleon Dynamite, Garden State, Harry Potter and the Goblet of Fire, Walk the Line, V for Vendetta, Cinderella, Twilight.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

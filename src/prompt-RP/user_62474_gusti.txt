@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, The Godfather, Vertigo, Casablanca, Gone with the Wind, It's a Wonderful Life, Nuovo Cinema Paradiso, Star Wars: Episode V - The Empire Strikes Back, Il buono, il brutto, il cattivo., Goodfellas, Psycho, The Godfather: Part II, Once Upon a Time in America, Annie Hall, The Shining, West Side Story, La vita è bella, Lolita, American Beauty, Fight Club, Toy Story, Amores perros, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, La strada, Das Leben der Anderen, El laberinto del fauno, Children of Men.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Twelve Monkeys, Léon, Blade Runner, True Romance, Terminator 2: Judgment Day, Batman, Alien, Braindead, Evil Dead II, This Is Spinal Tap, An American Werewolf in London, The Thing, The Fly, The Matrix, The Sixth Sense, Fight Club, RoboCop, Creepshow, Near Dark, Snatch., Memento, Session 9, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Ring, Le professionnel, Scanners, The Lord of the Rings: The Two Towers, Identity, Batoru rowaiaru, The Lord of the Rings: The Return of the King, Dawn of the Dead, Shaun of the Dead, The Machinist, Dead End, Oldeuboi, Sin City, Batman Begins, The 40 Year Old Virgin, A History of Violence, The Descent, Thank You for Smoking, Silent Hill.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, painter, police, robots, whale

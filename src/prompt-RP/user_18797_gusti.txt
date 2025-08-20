@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Englishman Who Went Up a Hill But Came Down a Mountain, The Nightmare Before Christmas, Trainspotting, My Fair Lady, Monty Python and the Holy Grail, The Princess Bride, Amadeus, The Quiet Man, The Graduate, The Shining, Benny & Joon, The Full Monty, Beetle Juice, Waking Ned, Miracle on 34th Street, ¡Three Amigos!, The Rocky Horror Picture Show, Airplane!, Little Big Man, Blazing Saddles, What About Bob?, O Brother, Where Art Thou?, The Milagro Beanfield War, Erik the Viking, Pane e tulipani, It's a Mad Mad Mad Mad World, Le fabuleux destin d'Amélie Poulain, Scotland, Pa., Hopscotch, Bend It Like Beckham, Lagaan: Once Upon a Time in India, Love Actually, Only the Lonely, Wilbur Wants to Kill Himself, Dreamer: Inspired by a True Story, Bill Cosby: Himself, I Heart Huckabees, The Yes Men.
+
+Associated tags: boxing, earth, painter, police, whale

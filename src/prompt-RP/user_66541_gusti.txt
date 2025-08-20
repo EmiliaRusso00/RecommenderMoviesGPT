@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Hackers, Judge Dredd, The Shawshank Redemption, Terminator 2: Judgment Day, Sleepers, Aliens, Alien, The Saint, Spawn, Alien³, Good Will Hunting, Blade, The Matrix, The Green Mile, Cast Away, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Blade II, Spider-Man, The Lord of the Rings: The Two Towers, Spider-Man, Constantine, Batman Begins, Fantastic Four, 300, Spider-Man 3, Jumper, Iron Man.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, whale

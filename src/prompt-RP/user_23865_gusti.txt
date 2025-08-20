@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Sting, Back to the Future, The Rookie, Pirates of the Caribbean: The Curse of the Black Pearl, Miracle, Harry Potter and the Goblet of Fire.
+
+Associated tags: earth, police

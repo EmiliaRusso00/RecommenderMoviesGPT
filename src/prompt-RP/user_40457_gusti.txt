@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Shichinin no samurai, Mallrats, Aladdin, The Godfather, Alice in Wonderland, Life of Brian, The Abyss, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Aliens, The Shining, Back to the Future, Indiana Jones and the Last Crusade, Field of Dreams, The Game, Poltergeist, The Goonies, Back to the Future Part III, The Jerk, Indiana Jones and the Temple of Doom, Beetle Juice, Rounders, Ghost Busters, And Now for Something Completely Different, Big, Goldfinger, Dr. No, Robin Hood: Prince of Thieves, Dogma, Sleepy Hollow, The Green Mile, Wayne's World, Caddyshack, The Lost Boys, Dirty Rotten Scoundrels, Bill & Ted's Excellent Adventure, Donnie Darko, Catch Me If You Can, Pirates of the Caribbean: The Curse of the Black Pearl, You Only Live Twice, Capote.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

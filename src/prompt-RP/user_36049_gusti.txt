@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Pulp Fiction, The Shawshank Redemption, Dazed and Confused, In the Name of the Father, The Silence of the Lambs, The Godfather, Reservoir Dogs, Goodfellas, Full Metal Jacket, Chasing Amy, Ronin, Go, Inside Man, Requiem for a Dream, Cidade de Deus, The Departed, The Bourne Ultimatum.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

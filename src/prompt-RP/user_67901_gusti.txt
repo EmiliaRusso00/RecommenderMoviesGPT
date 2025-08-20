@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Strange Days, The Fugitive, Blade Runner, Trainspotting, Die Hard, The Abyss, Escape from New York, Raiders of the Lost Ark, Aliens, The Man Who Would Be King, The Fifth Element, Saving Private Ryan, Rounders, The Matrix, Fight Club, Bandits, The Lord of the Rings: The Fellowship of the Ring, Zulu, The Lord of the Rings: The Two Towers, 28 Days Later..., Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, Shaun of the Dead, Primer, Hotel Rwanda, The Island, El laberinto del fauno, The Departed, Blood Diamond, Alpha Dog, Ratatouille, Shooter.
+
+Associated tags: boxing, earth, painter, police, whale

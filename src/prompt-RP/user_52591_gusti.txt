@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Clerks., Star Wars, The Shawshank Redemption, Reservoir Dogs, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, The Last of the Mohicans, Saving Private Ryan, American History X, Der Name der Rose, The Matrix, Dogma, Unbreakable, Memento, The One, X2, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Hotel Rwanda, Batman Begins, Syriana, Inside Man, X-Men: The Last Stand, Who Killed the Electric Car?, An Inconvenient Truth, Huo Yuan Jia, Superman Returns, The Prestige, The Bourne Ultimatum.
+
+Associated tags: boxing, earth, painter, police

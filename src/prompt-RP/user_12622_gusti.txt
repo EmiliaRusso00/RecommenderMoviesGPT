@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Jurassic Park, Schindler's List, The Silence of the Lambs, The Godfather, Vertigo, Rear Window, Die Hard, Reservoir Dogs, Wallace & Gromit in The Wrong Trousers, Brazil, A Clockwork Orange, The Blues Brothers, The Godfather: Part II, The Bridge on the River Kwai, Chinatown, Groundhog Day, Face/Off, Boogie Nights, Dark City, The Matrix, Election, Superman, Bowfinger, Fight Club, Dogma, Solyaris, Spellbound, 21 Grams, Collateral, Sin City, Munich.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

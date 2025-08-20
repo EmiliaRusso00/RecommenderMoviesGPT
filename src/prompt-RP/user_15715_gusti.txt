@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Much Ado About Nothing, Wallace and Gromit in A Close Shave, Wallace & Gromit in The Wrong Trousers, The Princess Bride, Raiders of the Lost Ark, Army of Darkness, A Grand Day Out with Wallace and Gromit, Better Off Dead..., Evil Dead II, Pump Up the Volume, Heathers, Scream, Hamlet, Grosse Pointe Blank, L.A. Confidential, Dark City, The Secret of NIMH, The Dark Crystal, History of the World: Part I, Waking Ned, Lock, Stock and Two Smoking Barrels, A Christmas Story, The Muppet Movie, Hamlet, The Evil Dead, Shrek, Finding Nemo, Big Fish, The Incredibles, Sin City, Batman Begins, Serenity, Wallace & Gromit in The Curse of the Were-Rabbit, Harry Potter and the Goblet of Fire.
+
+Associated tags: almodovar, boxing, earth, medieval, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Some Like It Hot, Manhattan, Real Genius, The Adventures of Buckaroo Banzai Across the 8th Dimension, Love and Death, 84 Charing Cross Road.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

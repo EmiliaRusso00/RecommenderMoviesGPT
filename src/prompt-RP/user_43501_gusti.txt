@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Naked Gun 33 1/3: The Final Insult, Robin Hood: Men in Tights, Spy Hard, The Princess Bride, Office Space, 10 Things I Hate About You, Airplane!, Spaceballs, Dogma, Shrek, Zoolander, Monsters, Inc., Harry Potter and the Sorcerer's Stone, Ocean's Eleven, Spider-Man, Harry Potter and the Chamber of Secrets, Finding Nemo, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, Elf, Love Actually, Mean Girls, Shrek 2, Harry Potter and the Prisoner of Azkaban, Dodgeball: A True Underdog Story, Hitch, Mr. & Mrs. Smith, Batman Begins, Wedding Crashers, The 40 Year Old Virgin, Harry Potter and the Goblet of Fire, The Producers, Thank You for Smoking.
+
+Associated tags: boxing, earth, police

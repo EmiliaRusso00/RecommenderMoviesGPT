@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Taxi Driver, Apollo 13, Star Wars, The Client, Forrest Gump, Schindler's List, Blade Runner, Terminator 2: Judgment Day, The Silence of the Lambs, Fargo, Mission: Impossible III, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Vertigo, North by Northwest, Casablanca, Life of Brian, Paths of Glory, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, A Clockwork Orange, The Blues Brothers, The Godfather: Part II, Amadeus, The Graduate, Chinatown, The Shining, Ladri di biciclette, Shrek, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, Star Wars: Episode II - Attack of the Clones, The Bourne Identity, Minority Report, Finding Nemo, La meglio gioventù, The Day of the Jackal, Divorzio all'italiana.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

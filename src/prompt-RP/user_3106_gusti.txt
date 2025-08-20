@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before Sunrise, The Shawshank Redemption, Forrest Gump, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, A Clockwork Orange, Goodfellas, Edward Scissorhands, The Matrix, The Green Mile, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Identity, Kill Bill: Vol. 2, Love Actually, The Lord of the Rings: The Return of the King, The Butterfly Effect, The Terminal, The Notebook, Garden State, A Lot Like Love, Batman Begins, Waiting..., An Inconvenient Truth.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

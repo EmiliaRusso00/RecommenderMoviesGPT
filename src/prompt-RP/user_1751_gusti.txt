@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Pulp Fiction, Blade Runner, Fargo, Rear Window, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Brazil, To Kill a Mockingbird, Terminator Salvation, The Bridge on the River Kwai, The Great Escape, The Manchurian Candidate, L.A. Confidential, Shichinin no samurai, The Matrix, Stop Making Sense, American Graffiti, Animal House, Almost Famous, O Brother, Where Art Thou?, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Hotaru no haka, Tonari no Totoro, Ikiru, Kakushi-toride no san-akunin.
+
+Associated tags: boxing, earth, funny, painter, police, whale

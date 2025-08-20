@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Vertigo, Reservoir Dogs, The Third Man, Goodfellas, Ran, Psycho, The Godfather: Part II, Full Metal Jacket, Annie Hall, Manhattan, Lost Highway, Shichinin no samurai, First Blood, The Matrix, Spaceballs, City Lights, Modern Times, Jacob's Ladder, Predator, Memento, Amores perros, Mulholland Dr., Sen to Chihiro no kamikakushi, Cidade de Deus, The Matrix Reloaded, All the President's Men, Eternal Sunshine of the Spotless Mind, Seppuku, Vozvrashchenie, Der Untergang, Das Leben der Anderen, The Departed.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

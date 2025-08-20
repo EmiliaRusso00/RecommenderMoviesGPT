@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, Schindler's List, Blade Runner, Terminator 2: Judgment Day, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Apocalypse Now, The Godfather: Part II, Glory, La Femme Nikita, American History X, Per un pugno di dollari, Fight Club, Mononoke-hime, Per qualche dollaro in più, Kelly's Heroes, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Collateral, Kung fu, Batman Begins, Hot Fuzz, Stardust, I Am Legend.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

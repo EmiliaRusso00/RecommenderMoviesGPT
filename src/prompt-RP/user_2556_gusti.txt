@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Shichinin no samurai, Pulp Fiction, The Shawshank Redemption, Wallace and Gromit in A Close Shave, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Delicatessen, A Grand Day Out with Wallace and Gromit, Amadeus, The Fifth Element, The Game, Good Will Hunting, The Matrix, Notting Hill, The Sixth Sense, The Green Mile, The Cell, O Brother, Where Art Thou?, Shrek, The Others, Tillsammans, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Lord of the Rings: The Two Towers, Finding Nemo, The Lord of the Rings: The Return of the King, Wallace & Gromit in The Curse of the Were-Rabbit, Once, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

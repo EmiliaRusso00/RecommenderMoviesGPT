@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mr. Holland's Opus, Forrest Gump, Dead Man, Fight Club, Requiem for a Dream, Donnie Darko, Vanilla Sky, Equilibrium, The Passion of the Christ, Crash, Somersault.
+
+Associated tags: boxing, brothers quay, earth, funny, medieval, painter, police

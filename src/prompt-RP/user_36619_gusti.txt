@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Il postino, Once Were Warriors, Pulp Fiction, Trois couleurs: Rouge, In the Name of the Father, Blade Runner, Underground, The Godfather, Casablanca, Citizen Kane, Secrets & Lies, Life of Brian, Monty Python and the Holy Grail, Nuovo Cinema Paradiso, Átame!, A Clockwork Orange, Psycho, Dracula, Fear and Loathing in Las Vegas, Bacheha-Ye aseman, Festen, El día de la bestia, Lock, Stock and Two Smoking Barrels, Crna macka, beli macor, Dom za vesanje, Mujeres al borde de un ataque de nervios, The Filth and the Fury, Snatch., Shrek, Mulholland Dr., The Pianist, Cidade de Deus, Les triplettes de Belleville, La comunidad, The Meaning of Life, Big Fish, Dogville, Bom yeoreum gaeul gyeoul geurigo bom, Muertos de risa, Mar adentro, Les choristes, Movie Crazy, Babel, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

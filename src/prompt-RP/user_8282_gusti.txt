@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Nine Months, The Shawshank Redemption, The Lion King, Sleepless in Seattle, Aladdin, Snow White and the Seven Dwarfs, Beauty and the Beast, Gone with the Wind, Dirty Dancing, Titanic, The Jungle Book, La vita è bella, Office Space, Scent of a Woman, Shrek, A Beautiful Mind, My Big Fat Greek Wedding, Catch Me If You Can, Finding Nemo, Born Into Brothels: Calcutta's Red Light Kids, The Departed.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, whale

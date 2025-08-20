@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Schindler's List, The Godfather, Nuovo Cinema Paradiso, The Princess Bride, Full Metal Jacket, Kolja, As Good as It Gets, The Thin Red Line, Buena Vista Social Club, Traffic, Amores perros, Shrek, Monsters, Inc., Le fabuleux destin d'Amélie Poulain, El hijo de la novia, Sen to Chihiro no kamikakushi, Bowling for Columbine, Elling, Cidade de Deus, Europa Europa, Erleuchtung garantiert, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Shrek 2, Diarios de motocicleta, Mar adentro, At the Circus, Little Miss Sunshine.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

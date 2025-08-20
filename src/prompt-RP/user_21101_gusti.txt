@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, Forrest Gump, Monty Python and the Holy Grail, The Godfather: Part II, Harold and Maude, Good Will Hunting, Fear and Loathing in Las Vegas, The Matrix, American Beauty, Fight Club, Being John Malkovich, The Boondock Saints, Snatch., Chocolat, Waking Life, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Y tu mamá también, Lucía y el sexo, Adaptation., The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Garden State, Diarios de motocicleta, I Heart Huckabees, Kinsey, Million Dollar Baby, Me and You and Everyone We Know, Die fetten Jahre sind vorbei, El laberinto del fauno, Letters from Iwo Jima.
+
+Associated tags: boxing, earth, funny, painter, police, whale

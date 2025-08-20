@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, Wallace and Gromit in A Close Shave, Monty Python and the Holy Grail, Star Trek: First Contact, The Fifth Element, American History X, The Matrix, The Blair Witch Project, The Sixth Sense, American Beauty, Wo hu cang long, Dude, Where's My Car?, Donnie Darko, Le fabuleux destin d'Amélie Poulain, 28 Days Later..., Lost in Translation, Eternal Sunshine of the Spotless Mind, Oldeuboi, Sin City, Broken Flowers, Thumbsucker, Children of Men.
+
+Associated tags: boxing, earth, painter, police

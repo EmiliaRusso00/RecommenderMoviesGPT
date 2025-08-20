@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Twelve Monkeys, The Usual Suspects, Pulp Fiction, Jurassic Park, Dances with Wolves, Fargo, The Godfather, My Fair Lady, Gone with the Wind, L.A. Confidential, Out of the Past, American History X, The King and I, The Matrix, American Beauty, Fight Club, Being John Malkovich, Hoosiers, Memento, Sweet Smell of Success, Donnie Darko, Eternal Sunshine of the Spotless Mind, Garden State, Hotel Rwanda, Sin City, The 40 Year Old Virgin, Syriana, Walk the Line, United 93, Half Nelson, The Queen, Zodiac.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

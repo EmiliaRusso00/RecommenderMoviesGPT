@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Aladdin, The Maltese Falcon, Willy Wonka & the Chocolate Factory, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Indiana Jones and the Last Crusade, The Matrix, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, The Court Jester, The Lord of the Rings: The Return of the King, Captain Blood, Serenity, Ratatouille, Hot Fuzz, Hellboy II: The Golden Army, The Dark Knight.
+
+Associated tags: boxing, earth, painter, police

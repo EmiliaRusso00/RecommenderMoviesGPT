@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Die Hard: With a Vengeance, Pulp Fiction, Jurassic Park, Terminator 2: Judgment Day, One Flew Over the Cuckoo's Nest, Bad Taste, Back to the Future, The X Files, American History X, American Psycho, Chuen jik sat sau, Yeopgijeogin geunyeo, Sin City.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

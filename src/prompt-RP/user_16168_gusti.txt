@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Bonnie and Clyde, Goodfellas, Alien, The Godfather: Part II, Chinatown, The Big Lebowski, The Matrix, Goldfinger, Fight Club, Magnolia, Scarface, Donnie Darko, Cidade de Deus, The Lord of the Rings: The Return of the King, The Departed, There Will Be Blood.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Il postino, Taxi Driver, Como agua para chocolate, Pulp Fiction, Forrest Gump, The Mask, Schindler's List, Home Alone, Pinocchio, Trainspotting, 2001: A Space Odyssey, Mary Poppins, One Flew Over the Cuckoo's Nest, A Clockwork Orange, The Blues Brothers, Amadeus, Back to the Future, Rain Man, Driving Miss Daisy, The Jungle Book, La vita è bella, The Matrix, Who Framed Roger Rabbit, Magnolia, Tootsie, Le fabuleux destin d'Amélie Poulain, Bowling for Columbine, Ricomincio da tre, Cidade de Deus, Finding Nemo, Indagine su un cittadino al di sopra di ogni sospetto, Diarios de motocicleta, Shaun of the Dead, Corpse Bride.
+
+Associated tags: almodovar, boxing, earth, excellent characters, funny, painter, police, satoshi kon, tim allen, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Interview with the Vampire: The Vampire Chronicles, The Cable Guy, Beautiful Thing, An American Werewolf in London, Carrie, Beetle Juice, American History X, Planet of the Apes, Trick, Mononoke-hime, Sleepy Hollow, Session 9, From Hell, 28 Days Later..., Pirates of the Caribbean: The Curse of the Black Pearl, Underworld, Monster, Dawn of the Dead, The Village, Ju-on, Sam gang yi, The Skeleton Key, The Brothers Grimm, Brokeback Mountain, Stay, Saw II, Final Destination 3.
+
+Associated tags: boxing, earth, police

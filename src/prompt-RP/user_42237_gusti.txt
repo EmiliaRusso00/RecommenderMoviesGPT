@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Taxi Driver, Crumb, Dumb & Dumber, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Life of Brian, Monty Python and the Holy Grail, Delicatessen, Brazil, Withnail & I, M, This Is Spinal Tap, The Big Lebowski, Metropolis, The Producers, The Elephant Man, Office Space, Yellow Submarine, American Movie, High Fidelity, C.H.U.D., They Live, UHF, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Class of 1984, Cidade de Deus, American Splendor, The Meaning of Life, Das Cabinet des Dr. Caligari., Batoru rowaiaru, The Warriors, Dark Days, Das Testament des Dr. Mabuse, Pickpocket, No Country for Old Men.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

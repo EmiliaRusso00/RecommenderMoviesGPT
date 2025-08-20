@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Dolores Claiborne, Star Wars, Forrest Gump, Dances with Wolves, The Silence of the Lambs, Bob Roberts, One Flew Over the Cuckoo's Nest, 12 Angry Men, Rain Man, Little Big Man, Finding Nemo, American Splendor.
+
+Associated tags: boxing, earth, painter, police

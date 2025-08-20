@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Trois couleurs: Rouge, Trois couleurs: Bleu, Thirty Two Short Films About Glenn Gould, Singin' in the Rain, Vertigo, Rear Window, North by Northwest, Some Like It Hot, Sunset Blvd., Psycho, The Shining, The Birds, Wandâfuru raifu, Being John Malkovich, McCabe & Mrs. Miller, La grande illusion, Magnolia, Topsy-Turvy, Wo hu cang long, Memento, Gosford Park, My Beautiful Laundrette, Le rayon vert, Babettes gæstebud, The Night of the Hunter, Eternal Sunshine of the Spotless Mind, Nine Lives.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

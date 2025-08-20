@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, Pulp Fiction, One Flew Over the Cuckoo's Nest, Aliens, Alien, Groundhog Day, The Fifth Element, City of Angels, The Neverending Story III, Analyze This, The Matrix, Lola rennt, American Beauty, Mononoke-hime, Dogma, Les maîtres du temps, Nine 1/2 Weeks, The Cell, Vanilla Sky, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Lost in Translation, Ying xiong, The Last Samurai, The Lord of the Rings: The Return of the King, The Butterfly Effect, Hauru no ugoku shiro.
+
+Associated tags: boxing, earth, funny, painter, police, whale

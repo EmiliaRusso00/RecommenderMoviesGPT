@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Star Wars, Pulp Fiction, Shallow Grave, Terminator 2: Judgment Day, Trainspotting, Reservoir Dogs, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, A Clockwork Orange, Goodfellas, Alien, Psycho, The Shining, Akira, Indiana Jones and the Last Crusade, The Truman Show, Fight Club, Misery, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Cidade de Deus, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Babylon 5: In the Beginning, Munich, The Departed.
+
+Associated tags: boxing, brothers quay, earth, funny, painter, police, whale

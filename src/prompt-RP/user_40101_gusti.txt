@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Four Weddings and a Funeral, Mrs. Doubtfire, Home Alone, Breakfast at Tiffany's, Casablanca, Romeo + Juliet, The Return of the Pink Panther, The Princess Bride, Rosencrantz & Guildenstern Are Dead, Dead Poets Society, Gattaca, Amistad, Ever After, Edward Scissorhands, The Thomas Crown Affair, American Beauty, Thirteen Days, Shrek, The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, The Importance of Being Earnest, The Bourne Identity, The Lord of the Rings: The Two Towers, Catch Me If You Can, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, The Bourne Supremacy, Pirates of the Caribbean: Dead Man's Chest, An Inconvenient Truth, The Departed, The Holiday.
+
+Associated tags: boxing, earth, painter, police

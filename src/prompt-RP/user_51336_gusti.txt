@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, From Dusk Till Dawn, Braveheart, Carlito's Way, Tombstone, True Romance, Batman, Life of Brian, Monty Python and the Holy Grail, Indiana Jones and the Last Crusade, Lost Highway, Dark City, American History X, Fight Club, Meet the Parents, Requiem for a Dream, Snatch., The Others, K-PAX, Donnie Darko, Vanilla Sky, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Mothman Prophecies, Ice Age, The Ring, Equilibrium, House of 1000 Corpses, The Matrix Reloaded, Kill Bill: Vol. 2, Big Fish, The Lord of the Rings: The Return of the King, The Butterfly Effect, Kill Bill: Vol. 2, Dodgeball: A True Underdog Story, Spider-Man, The Bourne Supremacy, The Forgotten, Finding Neverland, Charlie and the Chocolate Factory, Constantine, Nochnoy dozor, Sin City, The Amityville Horror, Crash, Batman Begins.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, painter, police, robots, whale

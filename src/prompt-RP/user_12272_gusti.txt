@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Blade Runner, Terminator 2: Judgment Day, Kôkaku kidôtai, C'era una volta il West, Star Wars: Episode VI - Return of the Jedi, Ran, Star Trek: First Contact, Star Trek VI: The Undiscovered Country, Star Trek: The Wrath of Khan, Star Trek IV: The Voyage Home, Shichinin no samurai, The Neverending Story III, The Matrix, Tsubaki Sanjûrô, Mononoke-hime, X-Men, Wo hu cang long, Hotaru no haka, Star Trek: Nemesis, Tenkû no shiro Rapyuta, Pirates of the Caribbean: The Curse of the Black Pearl, Master and Commander: The Far Side of the World, Ying xiong, Kaze no tani no Naushika, Children of Dune, Jin-Rô, Hauru no ugoku shiro.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

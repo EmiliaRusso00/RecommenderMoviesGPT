@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, 2001: A Space Odyssey, The Princess Bride, Brazil, A Clockwork Orange, Army of Darkness, M, The Big Sleep, Repo Man, Following, Memento, Cidade de Deus, Lost in Translation, Eternal Sunshine of the Spotless Mind, Shaun of the Dead, The Incredibles, Kung fu, Sin City.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

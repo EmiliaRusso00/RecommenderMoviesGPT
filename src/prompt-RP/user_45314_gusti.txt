@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Braveheart, Dumb & Dumber, Pulp Fiction, Dances with Wolves, Raiders of the Lost Ark, Titanic, The Matrix, Fight Club, Ice Age: The Meltdown.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

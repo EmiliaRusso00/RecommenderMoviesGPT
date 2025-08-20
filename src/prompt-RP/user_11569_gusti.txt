@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Dumb & Dumber, The Shawshank Redemption, Forrest Gump, The Fugitive, Terminator 2: Judgment Day, A Time to Kill, The Godfather, Vertigo, Die Hard, The Long Kiss Goodnight, Dial M for Murder, Raiders of the Lost Ark, Ben-Hur, Indiana Jones and the Last Crusade, As Good as It Gets, The Mask of Zorro, A Few Good Men, La vita è bella, The Matrix, The Green Mile, Gladiator, The Guns of Navarone, Mackenna's Gold, Remember the Titans, Snatch., Enemy at the Gates, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Catch Me If You Can, Confidence, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, Million Dollar Baby.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

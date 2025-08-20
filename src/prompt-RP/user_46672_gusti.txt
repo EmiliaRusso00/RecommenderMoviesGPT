@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, The Usual Suspects, Legends of the Fall, The Shawshank Redemption, While You Were Sleeping, In the Name of the Father, Philadelphia, The Piano, The Godfather, The English Patient, The Godfather: Part II, Dead Poets Society, Groundhog Day, The Truman Show, Good Will Hunting, The Last Emperor, Rain Man, Edward Scissorhands, Notting Hill, The Green Mile, The Cider House Rules, Magnolia, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Lost in Translation, Big Fish, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, Brokeback Mountain, Match Point, Das Leben der Anderen, Notes on a Scandal, Zwartboek, Atonement.
+
+Associated tags: almodovar, boxing, earth, painter, police

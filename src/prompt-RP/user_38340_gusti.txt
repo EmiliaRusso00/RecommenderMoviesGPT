@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Star Wars, The Shawshank Redemption, Forrest Gump, The Lion King, Mrs. Doubtfire, Schindler's List, The Silence of the Lambs, The Wizard of Oz, Citizen Kane, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Aliens, Lawrence of Arabia, Star Wars: Episode VI - Return of the Jedi, The Godfather: Part II, The Sting, The Great Escape, Groundhog Day, Indiana Jones and the Last Crusade, Good Will Hunting, The Matrix, Spartacus, Wo hu cang long, The Lord of the Rings: The Fellowship of the Ring, The Last Samurai, The Lord of the Rings: The Return of the King, Gladiator, The Departed.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

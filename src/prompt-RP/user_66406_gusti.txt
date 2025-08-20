@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Kids, Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, Batman, Kôkaku kidôtai, Life of Brian, Monty Python and the Holy Grail, Aliens, The Godfather: Part II, Das Boot, Terminator Salvation, Dracula, Cube, American History X, Eyes Wide Shut, Airplane!, Fight Club, Gladiator, Per qualche dollaro in più, Requiem for a Dream, Wo hu cang long, The Lord of the Rings: The Fellowship of the Ring, Blade II, The Lord of the Rings: The Two Towers, Cidade de Deus, Commando, Bad Santa, The Lord of the Rings: The Return of the King, Dawn of the Dead.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

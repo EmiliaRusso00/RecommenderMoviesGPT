@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, The Shawshank Redemption, Speed, Schindler's List, Searching for Bobby Fischer, Terminator 2: Judgment Day, Mission: Impossible III, Stand by Me, The Great Escape, Groundhog Day, Titanic, City of Angels, Armageddon, Rain Man, Back to the Future Part III, Saving Private Ryan, A Few Good Men, La vita è bella, October Sky, The Matrix, The Sixth Sense, Fight Club, The Green Mile, Stalag 17, Gladiator, Mission: Impossible, Men of Honor, Cast Away, Enemy at the Gates, Memento, Serendipity, Ocean's Eleven, A Beautiful Mind, Black Hawk Down, I Am Sam, Minority Report, Catch Me If You Can, The Pianist, Final Destination 2, X2, The Matrix Reloaded, The Italian Job, EuroTrip, The Terminal, King Arthur, Hotel Rwanda, Cinderella Man, The 40 Year Old Virgin, Akeelah and the Bee, The Pursuit of Happyness, The Departed, The Prestige, Rocky Balboa.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

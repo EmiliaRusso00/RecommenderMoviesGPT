@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Reservoir Dogs, Apocalypse Now, C'era una volta il West, Groundhog Day, Unforgiven, Cape Fear, The Big Lebowski, La vita è bella, Pale Rider, Mulholland Dr., The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Team America: World Police, The Life Aquatic with Steve Zissou.
+
+Associated tags: boxing, earth, painter, police, whale

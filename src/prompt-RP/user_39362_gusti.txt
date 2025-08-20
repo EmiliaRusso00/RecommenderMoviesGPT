@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: French Kiss, Clear and Present Danger, Forrest Gump, Dances with Wolves, Fargo, Independence Day, North by Northwest, On Golden Pond, Enchanted April, Back to the Future, Fried Green Tomatoes, Butch Cassidy and the Sundance Kid, As Good as It Gets, Driving Miss Daisy, Saving Private Ryan, The Trip to Bountiful, Hoosiers, Steel Magnolias, Cast Away, Life as a House, Absence of Malice, Miracle.
+
+Associated tags: boxing, earth, funny, painter, police, whale

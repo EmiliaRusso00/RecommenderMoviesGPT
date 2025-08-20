@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ace Ventura: When Nature Calls, Apollo 13, Pulp Fiction, The Shawshank Redemption, What's Eating Gilbert Grape, Forrest Gump, The Lion King, Jurassic Park, Philadelphia, Terminator 2: Judgment Day, The Silence of the Lambs, The Godfather, Casablanca, The Wizard of Oz, Citizen Kane, E.T.: The Extra-Terrestrial, One Flew Over the Cuckoo's Nest, Goodfellas, The Godfather: Part II, Glory, Chinatown, Austin Powers: International Man of Mystery, There's Something About Mary, Saving Private Ryan, Boys Don't Cry, Eddie Murphy Raw, A Beautiful Mind, Richard Pryor... Here and Now, Finding Nemo, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Spider-Man, The Incredibles, Batman Begins.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

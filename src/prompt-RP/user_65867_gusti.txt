@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Much Ado About Nothing, Welcome to the Dollhouse, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Princess Bride, Magnolia, Hedwig and the Angry Inch, The Grass Is Greener, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Lost in Translation, The Lord of the Rings: The Return of the King, Noises Off..., Garden State, I Heart Huckabees, Jeux d'enfants, Little Miss Sunshine.
+
+Associated tags: almodovar, boxing, earth, finnish, medieval, painter, police, whale

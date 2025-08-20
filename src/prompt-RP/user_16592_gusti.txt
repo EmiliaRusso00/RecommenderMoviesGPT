@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Taxi Driver, Pulp Fiction, Carlito's Way, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Reservoir Dogs, One Flew Over the Cuckoo's Nest, The Princess Bride, The Godfather: Part II, Raging Bull, Miller's Crossing, American History X, The Thin Red Line, The Matrix, Fight Club, Serpico, Steel Magnolias, Requiem for a Dream, Memento, Cidade de Deus, Capturing the Friedmans, Mean Streets, La battaglia di Algeri, Why We Fight, The Three Burials of Melquiades Estrada, Lucky Number Slevin.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

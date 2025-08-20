@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, Romeo + Juliet, Willy Wonka & the Chocolate Factory, Austin Powers: International Man of Mystery, The Truman Show, A Bug's Life, Go, Election, Austin Powers: The Spy Who Shagged Me, Lola rennt, American Beauty, Ferris Bueller's Day Off, Fight Club, Being John Malkovich, Snatch., Memento, Bridget Jones's Diary, Shrek, Moulin Rouge!, Zoolander, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Bowling for Columbine, Finding Nemo, Whale Rider, Kill Bill: Vol. 2, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Super Size Me, Moulin Rouge!, Closer, Million Dollar Baby, Charlie and the Chocolate Factory, In Her Shoes, Harry Potter and the Goblet of Fire.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Mission: Impossible III, The Godfather, Star Wars: Episode V - The Empire Strikes Back, Aliens, A Clockwork Orange, Apocalypse Now, Groundhog Day, The Fifth Element, American History X, The Matrix, Fight Club, The Green Mile, Gladiator, Bound by Honor, Requiem for a Dream, Training Day, Hotaru no haka, The Lord of the Rings: The Two Towers, The Butterfly Effect, Constantine, Sin City, Kiss Kiss Bang Bang, V for Vendetta, Lucky Number Slevin, The Departed, No Country for Old Men, The Mist, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

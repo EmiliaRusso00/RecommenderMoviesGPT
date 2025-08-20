@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Interview with the Vampire: The Vampire Chronicles, Top Gun, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, The Matrix, Fight Club, The Ninth Gate, Gladiator, Mulholland Dr., Blade: Trinity, Tuntematon sotilas, Hitch, Sin City, V for Vendetta.
+
+Associated tags: boxing, earth, painter, police

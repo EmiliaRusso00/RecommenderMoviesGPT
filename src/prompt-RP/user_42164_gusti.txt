@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Ed Wood, Schindler's List, Blade Runner, The Nightmare Before Christmas, Kôkaku kidôtai, La Femme Nikita, The Shining, Akira, Lost Highway, Gattaca, Dark City, Dune, Indiana Jones and the Temple of Doom, Next Stop Wonderland, Beetle Juice, Festen, Sleepy Hollow, Twin Peaks: Fire Walk with Me, X-Men, From Hell, Hotaru no haka, The Pianist, Wonderful Days, Shrek 2, It's All About Love... og Thomas Vinterberg, V for Vendetta.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

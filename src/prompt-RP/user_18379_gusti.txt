@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Smoke, The Piano, Blade Runner, The Godfather, Die Blechtrommel, The Cook the Thief His Wife & Her Lover, Sex, Lies, and Videotape, A Clockwork Orange, The Godfather: Part II, Breaking the Waves, Rosemary's Baby, Happiness, Barry Lyndon, Les quatre cents coups, Fight Club, Being John Malkovich, Magnolia, Man on the Moon, City Lights, The Virgin Suicides, Stranger Than Paradise, Amores perros, The Others, The Man Who Wasn't There, À bout de souffle, Irréversible, Lilja 4-ever, Fahrenheit 451, Angst essen Seele auf, The Station Agent, Baisers volés, Good Bye Lenin!, Dogville, Me and You and Everyone We Know, Volver.
+
+Associated tags: boxing, brothers quay, earth, funny, medieval, painter, police, whale

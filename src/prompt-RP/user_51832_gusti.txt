@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, The Usual Suspects, Little Women, Priest, What's Eating Gilbert Grape, Kika, La flor de mi secreto, Trainspotting, Bound, Dead Poets Society, Titanic, As Good as It Gets, Saving Private Ryan, Elizabeth, Velvet Goldmine, A Bug's Life, Shakespeare in Love, Better Than Chocolate, Awakenings, Girl, Interrupted, Erin Brockovich, Human Traffic, Almost Famous, Bridget Jones's Diary, Tillsammans, Le fabuleux destin d'Amélie Poulain, About a Boy, Bowling for Columbine, Catch Me If You Can, The Hours, 101 Reykjavík, Man on Fire, Fucking Åmål, Intermission, Rukajärven tie, Super Size Me, Fahrenheit 9/11, Sideways, Wallace & Gromit in The Curse of the Were-Rabbit, Brokeback Mountain, Volver, Auf der anderen Seite.
+
+Associated tags: almodovar, boxing, brothers quay, dreamdontcatch, earth, excellent characters, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

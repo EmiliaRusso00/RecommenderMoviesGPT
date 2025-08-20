@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars: Episode I - The Phantom Menace, Romeo + Juliet, La vita è bella, Mononoke-hime, Titanic, Frequency, Le fabuleux destin d'Amélie Poulain, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, Radio, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Mar adentro.
+
+Associated tags: boxing, earth, painter, police, whale

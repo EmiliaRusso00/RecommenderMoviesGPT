@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: From Dusk Till Dawn, Desperado, The Specialist, The Crow, Tombstone, Life of Brian, Braindead, Mars Attacks!, Con Air, Blade, American History X, The Matrix, Fight Club, Gladiator, Hellraiser, The One, Le professionnel, Dawn of the Dead.
+
+Associated tags: boxing, earth, painter, police

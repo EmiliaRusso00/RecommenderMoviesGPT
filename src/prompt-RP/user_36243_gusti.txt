@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Night of the Living Dead, Raiders of the Lost Ark, 12 Angry Men, Star Wars: Episode VI - Return of the Jedi, Indiana Jones and the Last Crusade, Dante's Peak, The Matrix, Fight Club, Live and Let Die, Scent of a Woman, Donnie Darko, The Lord of the Rings: The Return of the King, Batman Begins, The Prestige, Iron Man.
+
+Associated tags: earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Jeffrey, Como agua para chocolate, The Adventures of Priscilla, Queen of the Desert, Four Weddings and a Funeral, Philadelphia, Blade Runner, The Silence of the Lambs, Casablanca, Citizen Kane, Beautiful Thing, Raiders of the Lost Ark, Brazil, A Clockwork Orange, Alien, La Femme Nikita, Young Frankenstein, Men in Black, Chasing Amy, Gods and Monsters, The Matrix, The Rocky Horror Picture Show, Lola rennt, American Beauty, Animal House, Moulin Rouge!, Le fabuleux destin d'Amélie Poulain, Secretary, The Matrix Reloaded, Pirates of the Caribbean: The Curse of the Black Pearl, The Pink Panther, Xi yan, The Incredibles, Brokeback Mountain, Transamerica.
+
+Associated tags: boxing, earth, painter, police, satoshi kon, tim allen, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Taxi Driver, Pulp Fiction, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 12 Angry Men, To Kill a Mockingbird, The Ice Storm, Boogie Nights, Edward Scissorhands, Rushmore, Following, American Beauty, Fight Club, Magnolia, The Boondock Saints, Wonder Boys, High Fidelity, Almost Famous, Best in Show, Requiem for a Dream, Snatch., O Brother, Where Art Thou?, Traffic, Memento, The Man Who Wasn't There, À bout de souffle, Le fabuleux destin d'Amélie Poulain, Road to Perdition, Adaptation., Confessions of a Dangerous Mind, Eternal Sunshine of the Spotless Mind, Hotel Rwanda, Crash, Good Night, and Good Luck., Babel, Stranger Than Fiction, The Fountain, El laberinto del fauno, The Departed, The Prestige, Grindhouse.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, It's a Wonderful Life, Wallace & Gromit in The Wrong Trousers, Unforgiven, Young Frankenstein, L.A. Confidential, Blazing Saddles, O Brother, Where Art Thou?, Horse Feathers, Batman Begins.
+
+Associated tags: boxing, earth, painter, police

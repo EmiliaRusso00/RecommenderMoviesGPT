@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, The Godfather, A Clockwork Orange, Full Metal Jacket, This Is Spinal Tap, Pink Floyd The Wall, Fear and Loathing in Las Vegas, Saving Private Ryan, Rushmore, Magnolia, American Psycho, The Boys of Baraka, Donnie Darko, The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, Punch-Drunk Love, Adaptation., The Lord of the Rings: The Two Towers, Gangs of New York, Cidade de Deus, Barton Fink, Lost in Translation, Kill Bill: Vol. 2, Big Fish, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Napoleon Dynamite, Shaun of the Dead, Primer, A Scanner Darkly, The Life Aquatic with Steve Zissou, In the Realms of the Unreal, Sin City, Mysterious Skin, Batman Begins, Thumbsucker, Da Block Party, Brick, The Fountain, The Departed, Sunshine, No Country for Old Men, There Will Be Blood, The Dark Knight.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

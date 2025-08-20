@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, The Hudsucker Proxy, Casablanca, Le grand bleu, La vita è bella, Lock, Stock and Two Smoking Barrels, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Tenkû no shiro Rapyuta, Pirates of the Caribbean: The Curse of the Black Pearl, Pieces of April, The Lord of the Rings: The Return of the King, Finding Neverland, Hauru no ugoku shiro, La marche de l'empereur, Match Point, V for Vendetta, Thank You for Smoking, Volver, Cars, Pirates of the Caribbean: Dead Man's Chest, Babel, Scoop, La science des rêves, The Departed, Children of Men, The Prestige, Casino Royale, The Simpsons Movie, The Bourne Ultimatum.
+
+Associated tags: earth, police

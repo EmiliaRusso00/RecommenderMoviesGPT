@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Blade Runner, Kôkaku kidôtai, Trainspotting, 2001: A Space Odyssey, Il buono, il brutto, il cattivo., A Clockwork Orange, Apocalypse Now, C'era una volta il West, Alien, Stalker, Das Boot, Akira, Shichinin no samurai, Fight Club, Magnolia, Double Indemnity, Solyaris, Mad Max 2, Requiem for a Dream, Memento, Amores perros, Mulholland Dr., Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Adaptation., Cidade de Deus, La casa dalle finestre che ridono, Tôkyô monogatari, Wong Fei Hung, L'appartement, Kill Bill: Vol. 2, Profondo rosso, Le samouraï, Weekend at Bernie's, Du bi quan wang da po xue di zi, Janghwa, Hongryeon, Collateral, Cannibal Holocaust, Primer, Seppuku, Andrey Rublyov, Professione: reporter, Sin City.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

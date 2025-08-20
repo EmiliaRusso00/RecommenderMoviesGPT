@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: First Knight, Il buono, il brutto, il cattivo., Planet of the Apes, American Beauty, X-Men, The Bourne Identity, Bend It Like Beckham, X2, Batoru rowaiaru, War of the Worlds, Serenity, X-Men: The Last Stand, The Simpsons Movie.
+
+Associated tags: boxing, earth, painter, police, whale

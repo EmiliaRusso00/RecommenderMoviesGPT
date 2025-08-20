@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Immortal Beloved, The Shawshank Redemption, Muriel's Wedding, Four Weddings and a Funeral, True Lies, Ghost, Pretty Woman, Vertigo, Casablanca, The Wizard of Oz, Wallace & Gromit in The Wrong Trousers, Lawrence of Arabia, The Sting, Back to the Future, The Hunt for Red October, Witness, Driving Miss Daisy, Back to the Future Part III, Indiana Jones and the Temple of Doom, Shakespeare in Love, The Talented Mr. Ripley, Wo hu cang long, Chocolat, A Beautiful Mind, Sky Captain and the World of Tomorrow, The Incredibles, Heaven Can Wait, Memoirs of a Geisha.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

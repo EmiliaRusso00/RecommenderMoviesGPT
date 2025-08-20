@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Microcosmos: Le peuple de l'herbe, Koyaanisqatsi, Bis ans Ende der Welt, Dark City, Dune, The Matrix, Abre los ojos, The Thirteenth Floor, Being John Malkovich, Waking Life, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Kaze no tani no Naushika, Eternal Sunshine of the Spotless Mind, Genghis Blues, Once.
+
+Associated tags: boxing, earth, painter, police, whale

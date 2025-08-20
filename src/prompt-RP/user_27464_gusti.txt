@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Big, The Matrix, The Mission, The Matrix Reloaded, Chavez: Inside the Coup, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara, Diarios de motocicleta, The Corporation, Enron: The Smartest Guys in the Room, Die fetten Jahre sind vorbei, The Constant Gardener, Lord of War, Syriana, Match Point, V for Vendetta, An Inconvenient Truth.
+
+Associated tags: earth, police

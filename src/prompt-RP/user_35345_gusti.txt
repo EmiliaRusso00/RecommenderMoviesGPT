@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Babe, Apollo 13, Stargate, The Hudsucker Proxy, Terminator 2: Judgment Day, Die Hard, Reservoir Dogs, Top Gun, Raiders of the Lost Ark, Aliens, Apocalypse Now, Das Boot, Stand by Me, Back to the Future, Sneakers, Dune, Cube, The Matrix, Ghost Busters, The Sixth Sense, Ferris Bueller's Day Off, Wayne's World, The Time Machine, Wo hu cang long, O Brother, Where Art Thou?, Shrek, My Big Fat Greek Wedding, WarGames, I, Robot, Primer, Stardust, The Man from Earth.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, time travel, whale

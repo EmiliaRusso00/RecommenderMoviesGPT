@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, The Shawshank Redemption, Terminator 2: Judgment Day, Die Hard, Monty Python and the Holy Grail, The Blues Brothers, Back to the Future, Field of Dreams, A Night at the Roxbury, Stand and Deliver, JFK, Kelly's Heroes, Memento, UHF, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, I Am Sam, Ice Age, Equilibrium, Finding Nemo, Mystic River, The Lord of the Rings: The Return of the King, Gladiator, The Incredibles, Brokeback Mountain, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan.
+
+Associated tags: boxing, earth, painter, police

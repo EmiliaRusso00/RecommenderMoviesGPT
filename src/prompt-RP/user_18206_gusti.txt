@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Star Wars, Pulp Fiction, The Shawshank Redemption, Jurassic Park, Blade Runner, Terminator 2: Judgment Day, The Silence of the Lambs, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, The Day the Earth Stood Still, The Great Escape, Unforgiven, Dark City, Shichinin no samurai, La vita è bella, The Matrix, The Green Mile, Gladiator, A Beautiful Mind, Vampire Hunter D: Bloodlust, Nosferatu: Phantom der Nacht, The Lord of the Rings: The Two Towers, The Pianist, Underworld, WarGames, The Lord of the Rings: The Return of the King, Cypher, Sin City, Star Wars: Episode III - Revenge of the Sith, The World's Fastest Indian, V for Vendetta, Sunshine, Transformers, Hellboy II: The Golden Army, Die Fälscher, The Dark Knight, Låt den rätte komma in, Traitor.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

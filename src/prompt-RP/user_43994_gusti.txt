@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Silence of the Lambs, Casablanca, The Wizard of Oz, Return to Oz, The Adventures of Sherlock Holmes, A Good Year, Sweeney Todd: The Demon Barber of Fleet Street.
+
+Associated tags: earth, police

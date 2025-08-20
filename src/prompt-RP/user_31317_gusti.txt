@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Bad Boys, Die Hard: With a Vengeance, The Rock, Die Hard, Die Hard, Prefontaine, Chariots of Fire, Without Limits, The Boondock Saints, Good Morning, Vietnam, The Patriot, Snatch., The Emperor's New Groove, Enemy at the Gates, Shrek, The Lord of the Rings: The Fellowship of the Ring, Black Hawk Down, Ice Age, The Lord of the Rings: The Two Towers, X2, Evan Almighty, Terminator 3: Rise of the Machines, Pirates of the Caribbean: The Curse of the Black Pearl, Bad Boys II, The Lord of the Rings: The Return of the King, Man on Fire, Troy, Shrek 2, Spider-Man, King Arthur, Hitch, Mr. & Mrs. Smith, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.
+
+Associated tags: almodovar, boxing, earth, frightfully accurate political commentary, funny, painter, police, robots, satoshi kon, whale

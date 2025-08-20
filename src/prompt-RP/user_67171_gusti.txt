@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Huo Yuan Jia, Orlando, Terminator 2: Judgment Day, Vertigo, 2001: A Space Odyssey, Sleeper, Star Wars: Episode V - The Empire Strikes Back, Das Boot, The Sting, The Treasure of the Sierra Madre, Gandhi, Star Trek IV: The Voyage Home, The Fifth Element, Contact, Kundun, Lost in Space, Pi, Soylent Green, The Last Temptation of Christ, Doctor Zhivago, 2010, Der Name der Rose, Planet of the Apes, The Last Detail, Never Cry Wolf, Creature Comforts, Close Encounters of the Third Kind, The Perfect Storm, Requiem for a Dream, The Time Machine, Cast Away, Planet of the Apes, Silent Running, Solyaris, THX 1138, Touching the Void, Primer, Charlie and the Chocolate Factory, The Fountain.
+
+Associated tags: boxing, earth, police, satoshi kon

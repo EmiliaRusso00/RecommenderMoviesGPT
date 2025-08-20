@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Braveheart, Dumb & Dumber, Pulp Fiction, Forrest Gump, Schindler's List, Terminator 2: Judgment Day, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Platoon, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, Aliens, Goodfellas, Alien, The Godfather: Part II, Das Boot, Bad Taste, Stand by Me, Back to the Future, Jaws, Saving Private Ryan, The Thing, Festen, Airplane!, American Graffiti, Mad Max 2, Cast Away, Memento, The Sandlot, Cidade de Deus, Interstate 60: Episodes of the Road, Duel, Der Untergang, The Departed.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, painter, police, whale

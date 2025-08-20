@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Leaving Las Vegas, Apollo 13, Pulp Fiction, The Shawshank Redemption, What's Eating Gilbert Grape, Forrest Gump, Philadelphia, Dances with Wolves, The Silence of the Lambs, Fargo, The Godfather, Rear Window, One Flew Over the Cuckoo's Nest, Goodfellas, Das Boot, Unforgiven, This Is Spinal Tap, Sling Blade, Rain Man, Driving Miss Daisy, A Few Good Men, My Cousin Vinny, Pale Rider, The Color Purple, American Beauty, Toy Story, A League of Their Own, High Fidelity, Planes, Trains & Automobiles, Chocolat, Cast Away, Mississippi Burning, A Beautiful Mind, The Bourne Identity, The Pink Panther, The Station Agent, Woodstock, The Incredibles, The Bourne Identity, Million Dollar Baby, Hotel Rwanda, Tsotsi, The Pursuit of Happyness, The Departed, There Will Be Blood, P.S. I Love You.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

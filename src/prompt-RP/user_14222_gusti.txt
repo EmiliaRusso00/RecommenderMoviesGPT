@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Stargate, Gattaca, The Truman Show, The Matrix, American Beauty, Fight Club, Memento, Equilibrium, Eternal Sunshine of the Spotless Mind, The Notebook, Primer, National Treasure: Book of Secrets, A Scanner Darkly, Sin City, Batman Begins, Wedding Crashers, Lord of War, Thank You for Smoking, The Prestige, 300.
+
+Associated tags: boxing, earth, painter, police

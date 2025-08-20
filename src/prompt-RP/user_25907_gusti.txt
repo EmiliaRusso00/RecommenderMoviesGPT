@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Interview with the Vampire: The Vampire Chronicles, Star Wars, The Shawshank Redemption, Terminator 2: Judgment Day, Indiana Jones and the Last Crusade, Gattaca, Alien³, The Matrix, Man on the Moon, X-Men, Dirty Rotten Scoundrels, The Lord of the Rings: The Fellowship of the Ring, Lilo & Stitch, The Ring, Treasure Planet, The Lord of the Rings: The Two Towers, X2, Pirates of the Caribbean: The Curse of the Black Pearl, Underworld, The Lord of the Rings: The Return of the King, Dogville, Harry Potter and the Prisoner of Azkaban, V for Vendetta, The Bourne Ultimatum, The Dark Knight.
+
+Associated tags: boxing, earth, painter, police

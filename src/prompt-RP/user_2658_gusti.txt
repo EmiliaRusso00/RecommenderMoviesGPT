@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Snow White and the Seven Dwarfs, Wallace and Gromit in A Close Shave, Casablanca, Wallace & Gromit in The Wrong Trousers, A Grand Day Out with Wallace and Gromit, Amadeus, Der Name der Rose, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Million Dollar Baby, The Aviator.
+
+Associated tags: earth, police, whale

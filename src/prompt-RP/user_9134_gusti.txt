@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blue Velvet, Double Indemnity, Eraserhead, Rashômon, The Night of the Hunter, Journal d'un curé de campagne, Le samouraï, The Maltese Falcon, I vitelloni, Sherlock Jr..
+
+Associated tags: earth

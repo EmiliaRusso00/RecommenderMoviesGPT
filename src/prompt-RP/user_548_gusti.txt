@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Shawshank Redemption, The Fugitive, Sleepless in Seattle, Breakfast at Tiffany's, Sabrina, Roman Holiday, Swingers, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Fried Green Tomatoes, Field of Dreams, When Harry Met Sally..., Contact, Office Space, Vacation, Ferris Bueller's Day Off, A River Runs Through It, Bull Durham, Harry Potter and the Sorcerer's Stone.
+
+Associated tags: boxing, earth, painter, police, satoshi kon

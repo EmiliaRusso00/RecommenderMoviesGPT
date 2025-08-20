@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, One Flew Over the Cuckoo's Nest, Fight Club, Knockin' on Heaven's Door, Atonement.
+
+Associated tags: earth, painter

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Trois couleurs: Rouge, Vanya on 42nd Street, Naked, Welcome to the Dollhouse, Aladdin, Fargo, Life of Brian, Der Himmel über Berlin, Rosencrantz & Guildenstern Are Dead, Miller's Crossing, Bis ans Ende der Welt, Slumdog Millionaire, Love Is the Devil: Study for a Portrait of Francis Bacon, Los amantes del Círculo Polar, American Beauty, Fight Club, Ladri di biciclette, Forgotten Silver, Waking Life, Donnie Darko, Elsker dig for evigt, Fucking Åmål, Ying xiong, Sin City.
+
+Associated tags: boxing, earth, funny, painter, police, whale

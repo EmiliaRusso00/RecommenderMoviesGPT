@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, Star Wars, Pulp Fiction, The Shawshank Redemption, Schindler's List, The Silence of the Lambs, Fargo, Trainspotting, The Godfather, Reservoir Dogs, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Goodfellas, Alien, The Godfather: Part II, Full Metal Jacket, The Shining, Good Will Hunting, Jackie Brown, Saving Private Ryan, Edward Scissorhands, American History X, The Matrix, American Beauty, Fight Club, Magnolia, JFK, Memento, The Lord of the Rings: The Fellowship of the Ring, Punch-Drunk Love, The Lord of the Rings: The Two Towers, Batoru rowaiaru, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Batman Begins, King Kong.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Persuasion, Twelve Monkeys, Four Weddings and a Funeral, Much Ado About Nothing, The Piano, The Remains of the Day, Blade Runner, The Godfather, Singin' in the Rain, Breakfast at Tiffany's, Vertigo, Life of Brian, Monty Python and the Holy Grail, Raiders of the Lost Ark, The Blues Brothers, Henry V, Amadeus, The Sting, Dead Poets Society, Chinatown, Groundhog Day, Dracula, Jaws, Hamlet, L.A. Confidential, Witness, Dangerous Liaisons, Rosemary's Baby, Shakespeare in Love, Lock, Stock and Two Smoking Barrels, The Sixth Sense, The Dirty Dozen, Dead Again, Moonstruck, Sleepy Hollow, Jacob's Ladder, High Fidelity, Bridget Jones's Diary, The Others, Donnie Darko, Gosford Park, Phone Booth, Straw Dogs, Pirates of the Caribbean: The Curse of the Black Pearl, Xi yan, Vera Drake.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, whale

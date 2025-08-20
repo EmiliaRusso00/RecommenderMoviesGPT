@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, Aladdin, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, The Wizard of Oz, Citizen Kane, 2001: A Space Odyssey, Psycho, This Is Spinal Tap, Titanic, Election, Almost Famous, Memento, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

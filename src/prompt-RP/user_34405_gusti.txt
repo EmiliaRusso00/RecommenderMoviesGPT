@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Forrest Gump, Jurassic Park, Schindler's List, The Godfather, The Wizard of Oz, Goodfellas, Full Metal Jacket, Highlander, Saving Private Ryan, The Matrix, Ferris Bueller's Day Off, Fast Times at Ridgemont High, Caddyshack, Gladiator, Gone in Sixty Seconds, Enemy at the Gates, The Fast and the Furious, The Lord of the Rings: The Fellowship of the Ring, Black Hawk Down, Harry Potter and the Prisoner of Azkaban, I, Robot, Star Wars: Episode III - Revenge of the Sith, Harry Potter and the Goblet of Fire.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

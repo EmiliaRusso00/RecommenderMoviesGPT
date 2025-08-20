@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, True Lies, Jurassic Park, The Rock, Casablanca, The Ghost and the Darkness, Raiders of the Lost Ark, Terminator Salvation, Groundhog Day, Pump Up the Volume, Indiana Jones and the Last Crusade, Star Trek IV: The Voyage Home, Jaws, Titanic, City of Angels, The Mummy, Notting Hill, The Thomas Crown Affair, Airplane!, A Christmas Story, Grumpy Old Men, Cast Away, A Beautiful Mind, The Count of Monte Cristo, The Mothman Prophecies, The Italian Job, Runaway Jury, The Passion of the Christ, Harry Potter and the Prisoner of Azkaban, National Treasure: Book of Secrets, Crash, Madagascar, La marche de l'empereur, The Queen, Casino Royale, Blood Diamond.
+
+Associated tags: boxing, earth, medieval, police, whale

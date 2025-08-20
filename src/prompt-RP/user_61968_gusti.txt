@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Waterworld, The Lion King, DragonHeart, E.T.: The Extra-Terrestrial, Aliens, Alien, Indiana Jones and the Last Crusade, Gremlins, The Neverending Story III, Edward Scissorhands, American History X, The Green Mile, Fantasia/2000, The Ninth Gate, Chicken Run, Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Ice Age, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Big Fish, The Lord of the Rings: The Return of the King, Man on Fire, The Ring Two, Danny the Dog, Star Wars: Episode III - Revenge of the Sith, Corpse Bride, Harry Potter and the Goblet of Fire, Brick, El laberinto del fauno, Children of Men, Happy Feet, Ratatouille, Zwartboek, This Is England, Harry Potter and the Order of the Phoenix, Into the Wild, Untraceable.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

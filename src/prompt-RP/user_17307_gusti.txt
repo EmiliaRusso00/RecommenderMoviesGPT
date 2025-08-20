@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Ace Ventura: When Nature Calls, Dumb & Dumber, Léon, Pulp Fiction, The Shawshank Redemption, The Mask, Speed, Carlito's Way, A Perfect World, True Romance, Terminator 2: Judgment Day, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, 2001: A Space Odyssey, That Thing You Do!, Reservoir Dogs, Goodfellas, Anaconda, Gattaca, The Truman Show, The Exorcist, Rosemary's Baby, Return to Paradise, Edward Scissorhands, City Lights, Dog Day Afternoon, Modern Times, Unbreakable, Memento, Mulholland Dr., Monsters, Inc., Lantana, The King of Comedy, Finding Nemo, 21 Grams, Knafayim Shvurot, Eternal Sunshine of the Spotless Mind, Kiss Kiss Bang Bang, Running Scared, Inside Man, The Departed, The Prestige, The Bourne Ultimatum, Sweeney Todd: The Demon Barber of Fleet Street.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, painter, police, robots, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Blade Runner, Kôkaku kidôtai, Trainspotting, The Godfather, One Flew Over the Cuckoo's Nest, The Princess Bride, Alien, Army of Darkness, Das Boot, Chinatown, Back to the Future, Donnie Brasco, L.A. Confidential, Good Will Hunting, The Big Lebowski, Rushmore, The Karate Kid, Office Space, Lolita, Boys Don't Cry, Fight Club, Drugstore Cowboy, Ghost World, Donnie Darko, The Royal Tenenbaums, Adaptation., Cidade de Deus, Lost in Translation, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Garden State, Gegen die Wand, Oldeuboi, A Scanner Darkly, Der Untergang, Mysterious Skin, Batman Begins, Hustle & Flow, Grizzly Man, A History of Violence, The Devil and Daniel Johnston, The Illusionist, The Departed, Death Proof, Ne le dis à personne, Eastern Promises, Into the Wild, No Country for Old Men, The Dark Knight, FLCL.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

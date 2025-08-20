@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, Forrest Gump, Fargo, The Godfather, Rear Window, The Sting, Saving Private Ryan, La vita è bella, The Matrix, American Beauty, Memento, Shrek, Pirates of the Caribbean: The Curse of the Black Pearl, Million Dollar Baby.
+
+Associated tags: boxing, earth, funny, painter, police, whale

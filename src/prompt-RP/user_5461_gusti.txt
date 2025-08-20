@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Apollo 13, Clerks., Pulp Fiction, Stargate, The Shawshank Redemption, The Fugitive, Schindler's List, Batman, The Silence of the Lambs, A Time to Kill, The Ghost and the Darkness, Willy Wonka & the Chocolate Factory, Star Wars: Episode V - The Empire Strikes Back, Aliens, Goodfellas, Young Frankenstein, Contact, The Hunt for Red October, The Poseidon Adventure, Christmas Vacation, Office Space, The Matrix, Superman, Ghost Busters, Fight Club, Gladiator, The Patriot, The Matrix Reloaded, Kill Bill: Vol. 2, Big Fish, The Lord of the Rings: The Return of the King, Sin City, Star Wars: Episode III - Revenge of the Sith, Batman Begins, Lord of War, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Thank You for Smoking, Transformers, Harry Potter and the Order of the Phoenix, Iron Man.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

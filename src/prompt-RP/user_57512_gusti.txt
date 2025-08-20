@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: From Dusk Till Dawn, What's Eating Gilbert Grape, Schindler's List, The Silence of the Lambs, Fargo, Full Metal Jacket, A Grand Day Out with Wallace and Gromit, Dead Poets Society, Back to the Future, Fried Green Tomatoes, Sneakers, Good Will Hunting, The Big Lebowski, Rain Man, Der Name der Rose, American Beauty, Dead Again, Memento, Monsters, Inc., Witness for the Prosecution, Minority Report, The Andromeda Strain, Identity.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Natural Born Killers, Pulp Fiction, Sleepers, Life of Brian, Jean de Florette, One Flew Over the Cuckoo's Nest, Sling Blade, Apt Pupil, American History X, Fight Club, The Green Mile, Magnolia, The Boondock Saints, Thelma & Louise, Requiem for a Dream, 8 femmes, Ocean's Thirteen, Mar adentro, Sin City.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

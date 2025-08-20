@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Don Juan DeMarco, Interview with the Vampire: The Vampire Chronicles, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, In the Name of the Father, The Silence of the Lambs, Trainspotting, Independence Day, Brazil, The Game, The Devil's Advocate, Dark City, Lock, Stock and Two Smoking Barrels, The Matrix, The 13th Warrior, Crna macka, beli macor, Fight Club, The Beach, Ghost Dog: The Way of the Samurai, Gladiator, Wo hu cang long, Shogun Assassin, Catch Me If You Can, Ying xiong, The Last Samurai, Dogville, How to Steal a Million, Keeping Mum, Pirates of the Caribbean: At World's End, Nineteen Eighty-Four.
+
+Associated tags: boxing, earth, funny, painter, police, whale

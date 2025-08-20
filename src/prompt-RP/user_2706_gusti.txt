@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, The Shawshank Redemption, Monty Python and the Holy Grail, Dead Poets Society, The Fifth Element, Office Space, Fight Club, Toy Story, The Green Mile, Unbreakable, Memento, The Bourne Identity, The Lord of the Rings: The Two Towers, Catch Me If You Can, X2, Finding Nemo, The Last Samurai, Spider-Man, Million Dollar Baby, Sin City, Crash, Inside Man, Lucky Number Slevin, X-Men: The Last Stand, The Departed, Flags of Our Fathers.
+
+Associated tags: almodovar, boxing, earth, painter, police

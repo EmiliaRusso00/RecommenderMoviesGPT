@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Twelve Monkeys, Dead Man Walking, Shichinin no samurai, The Usual Suspects, Strange Days, Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, The Shawshank Redemption, Schindler's List, Blade Runner, The Silence of the Lambs, Mission: Impossible III, The Godfather, 2001: A Space Odyssey, Reservoir Dogs, Raiders of the Lost Ark, Aliens, Goodfellas, Alien, Psycho, The Godfather: Part II, Full Metal Jacket, Back to the Future, Gattaca, Pi, Lethal Weapon, Metropolis, Saving Private Ryan, Indiana Jones and the Temple of Doom, The Untouchables, Planet of the Apes, The Matrix, American Beauty, Total Recall, Fight Club, Gladiator, Blood Simple., The Time Machine, Memento, Artificial Intelligence: AI, Mulholland Dr., Donnie Darko, Vanilla Sky, The Matrix Reloaded, Eternal Sunshine of the Spotless Mind, The Incredibles, Una pura formalità, Sin City, Crash, War of the Worlds.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Taxi Driver, Flirting with Disaster, Crumb, Blade Runner, The Silence of the Lambs, Fargo, Dead Man, Wallace and Gromit in A Close Shave, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, 2001: A Space Odyssey, The Princess Bride, Raiders of the Lost Ark, Brazil, Raging Bull, Chinatown, Heathers, Raising Arizona, The Big Lebowski, Fear and Loathing in Las Vegas, The Breakfast Club, Blue Velvet, Rushmore, Office Space, The Matrix, Being John Malkovich, Memento, Waking Life, Thirteen Conversations About One Thing, Atanarjuat, Sen to Chihiro no kamikakushi.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

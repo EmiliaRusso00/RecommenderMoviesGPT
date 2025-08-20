@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Braveheart, Aladdin, Terminator 2: Judgment Day, The Silence of the Lambs, The Godfather, The Da Vinci Code, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Die Hard: With a Vengeance, Interview with the Vampire: The Vampire Chronicles, Stargate, The Shawshank Redemption, Mission: Impossible III, Monty Python and the Holy Grail, A Clockwork Orange, Star Wars: Episode VI - Return of the Jedi, The Sting, Back to the Future, Benny & Joon, The Jackal, Good Will Hunting, Back to the Future Part II, The Mighty Ducks, La vita è bella, The Matrix, Fight Club, The Green Mile, The Boondock Saints, Snatch., Blow, Catch Me If You Can, Pirates of the Caribbean: The Curse of the Black Pearl, Dodgeball: A True Underdog Story, The Incredibles, A Scanner Darkly, Meet the Fockers, Sin City, Wedding Crashers, Thank You for Smoking, Lucky Number Slevin, This Film Is Not Yet Rated, The Prestige, Grindhouse.
+
+Associated tags: boxing, earth, painter, police

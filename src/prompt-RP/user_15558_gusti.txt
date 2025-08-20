@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pocahontas, Pulp Fiction, The Shawshank Redemption, Jurassic Park, Beauty and the Beast, Some Like It Hot, Casablanca, Roman Holiday, The Sound of Music, To Kill a Mockingbird, Ran, The Day the Earth Stood Still, Patton, Field of Dreams, Jaws, The Joy Luck Club, Rocky, The Exorcist, Shichinin no samurai, Ils, Gojira, Narayama-bushi kô, Trading Places, The Natural, Suna no onna, Animal House, Close Encounters of the Third Kind, White Christmas, Tampopo, Taps, Rashômon, Spider-Man, Tenkû no shiro Rapyuta, Pirates of the Caribbean: The Curse of the Black Pearl, Tôkyô monogatari, Ikiru, Lost in Translation, War of the Worlds.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, satoshi kon, whale

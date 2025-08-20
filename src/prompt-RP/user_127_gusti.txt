@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Adventures of Pluto Nash, The Fog, When a Stranger Calls, 16 Blocks, The Hills Have Eyes, Silent Hill, The Devil Wears Prada, You, Me and Dupree, 300.
+
+Associated tags: 

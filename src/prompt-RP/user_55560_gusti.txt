@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Pulp Fiction, The Shawshank Redemption, The Lion King, Dances with Wolves, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Vertigo, Rear Window, Sunset Blvd., 2001: A Space Odyssey, The Abyss, Lawrence of Arabia, A Clockwork Orange, The Third Man, Ran, Shichinin no samurai, Yôjinbô, Double Indemnity, Close Encounters of the Third Kind, Angel Heart, Big Trouble, Cidade de Deus, Il vangelo secondo Matteo, 21 Grams, The Night of the Hunter, Ratatouille, The Dark Knight, WALL·E, A Tale of Two Cities, Milk.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

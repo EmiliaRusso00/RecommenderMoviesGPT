@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, The Client, Terminator 2: Judgment Day, Casablanca, 2001: A Space Odyssey, Raiders of the Lost Ark, Das Boot, Gandhi, MASH, The Bourne Identity, The Pink Panther, All the President's Men, Master and Commander: The Far Side of the World, A Shot in the Dark, The Bourne Supremacy, Capote.
+
+Associated tags: earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Taxi Driver, Natural Born Killers, Pulp Fiction, Schindler's List, The Godfather, Reservoir Dogs, Delicatessen, A Clockwork Orange, Apocalypse Now, Goodfellas, The Godfather: Part II, Raging Bull, The Shining, The Deer Hunter, Paris, Texas, Central do Brasil, The Matrix, Besieged, Lola rennt, American Beauty, Fight Club, Requiem for a Dream, Memento, Y tu mamá también, Hable con ella, 25th Hour, The Pianist, Cidade de Deus, Irréversible, Madame Satã, Lost in Translation, Elephant, 21 Grams, Ultimo tango a Parigi, Eternal Sunshine of the Spotless Mind, Dogville, Diarios de motocicleta, The Machinist, The Incredibles, Closer, The Woodsman, Sin City, The Proposition, Manderlay, Thank You for Smoking, Inside Man, El laberinto del fauno, The Departed, Into the Wild.
+
+Associated tags: boxing, earth, funny, painter, police, whale

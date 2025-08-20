@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, Star Wars: Episode V - The Empire Strikes Back, Dogma, The Green Mile, X-Men, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, The Incredibles, Hotel Rwanda, V for Vendetta, X-Men: The Last Stand, The Dark Knight.
+
+Associated tags: earth, painter, police

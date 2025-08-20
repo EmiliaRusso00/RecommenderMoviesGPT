@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Speed, Terminator 2: Judgment Day, The Silence of the Lambs, Die Hard, Raiders of the Lost Ark, Aliens, The Third Man, Alien, Psycho, Poltergeist, Animal House, The Others, The Lord of the Rings: The Return of the King, The Dark Knight.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shallow Grave, Forrest Gump, Batman, The Silence of the Lambs, 2001: A Space Odyssey, The Princess Bride, A Clockwork Orange, Unforgiven, The Exorcist, Cube, The Matrix, American Beauty, The Whole Nine Yards, Wo hu cang long, A Beautiful Mind, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Ying xiong, The Last Samurai, The Incredibles, Wallace & Gromit in The Curse of the Were-Rabbit, Lucky Number Slevin, United 93, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, El laberinto del fauno, Pirates of the Caribbean: At World's End, The Simpsons Movie.
+
+Associated tags: brothers quay, earth, painter, police, whale

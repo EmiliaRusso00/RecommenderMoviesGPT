@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clear and Present Danger, Forrest Gump, Rudy, Schindler's List, Pretty Woman, The Spitfire Grill, My Fair Lady, The Sound of Music, To Kill a Mockingbird, Gandhi, Titanic, As Good as It Gets, Les misérables, Chariots of Fire, Saving Private Ryan, October Sky, Inside Man, Anna and the King, The Hurricane, Scent of a Woman, Erin Brockovich, The Legend of Bagger Vance, Finding Forrester, Thirteen Days, Angel Eyes, Pearl Harbor, Life as a House, Spy Game, A Beautiful Mind, A Walk to Remember, The Emperor's Club, Chicago, Seabiscuit, Secondhand Lions, Luther, Runaway Jury, The Human Stain, The Last Samurai, Something's Gotta Give, Cold Mountain, Miracle, Shall We Dance, Spanglish, The Interpreter, The Phantom of the Opera, Hitch, Cinderella Man, The Bucket List.
+
+Associated tags: boxing, earth, funny, police, satoshi kon, whale

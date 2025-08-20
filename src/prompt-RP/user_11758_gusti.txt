@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Taxi Driver, The Shawshank Redemption, Blade Runner, The Godfather, Aliens, Apocalypse Now, Alien, Breaking the Waves, Dark City, Boys Don't Cry, Ladri di biciclette, Dancer in the Dark, Requiem for a Dream, Le fabuleux destin d'Amélie Poulain, I Am Sam, The Lord of the Rings: The Two Towers, The Hours, Cidade de Deus, L'homme du train, Brødre.
+
+Associated tags: earth, painter, police, whale

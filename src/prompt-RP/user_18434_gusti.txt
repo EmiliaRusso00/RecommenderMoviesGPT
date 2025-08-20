@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Schindler's List, Blade Runner, The Three Musketeers, Trainspotting, Singin' in the Rain, Breakfast at Tiffany's, Vertigo, Some Like It Hot, Roman Holiday, Citizen Kane, 2001: A Space Odyssey, Life of Brian, E.T.: The Extra-Terrestrial, Monty Python and the Holy Grail, One Flew Over the Cuckoo's Nest, A Clockwork Orange, Goodfellas, Psycho, The Great Escape, The Last of the Mohicans, Con Air, Men in Black, Boogie Nights, The Producers, Lock, Stock and Two Smoking Barrels, The Rocky Horror Picture Show, American Beauty, The Dirty Dozen, Being John Malkovich, Diamonds Are Forever, Scarface, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Woodstock, Ray, The Incredibles, Sin City.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, satoshi kon, whale

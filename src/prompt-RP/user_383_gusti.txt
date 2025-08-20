@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Birdcage, Yin shi nan nu, The Shawshank Redemption, The Fugitive, Philadelphia, The Piano, Blade Runner, 2001: A Space Odyssey, A Fish Called Wanda, One Flew Over the Cuckoo's Nest, Apocalypse Now, Amadeus, Night on Earth, La vita è bella, The Sixth Sense, Fitzcarraldo, Toy Story, Ghost Dog: The Way of the Samurai, Memento, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Ikiru, Lost in Translation, The Station Agent, Xi yan, Aguirre, der Zorn Gottes, The Lord of the Rings: The Return of the King, Bad ma ra khahad bord, Tasogare Seibei, Broken Flowers, Brokeback Mountain.
+
+Associated tags: boxing, earth, painter, police, seriously scary, whale

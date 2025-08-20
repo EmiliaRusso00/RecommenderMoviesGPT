@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Léon, Pulp Fiction, The Piano, Mission: Impossible III, The Godfather, Life of Brian, Platoon, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, A Clockwork Orange, Star Wars: Episode VI - Return of the Jedi, The Godfather: Part II, Heathers, Cube, The Matrix, Lola rennt, Goldfinger, From Russia with Love, Dr. No, Fight Club, The Virgin Suicides, Memento, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Insomnia, Sen to Chihiro no kamikakushi, Hotaru no haka, Tonari no Totoro, Finding Nemo, The Meaning of Life, Kill Bill: Vol. 2, Girl with a Pearl Earring, Kill Bill: Vol. 2, You Only Live Twice, Un long dimanche de fiançailles, Million Dollar Baby, Sin City, Lord of War, Munich, V for Vendetta, Blood Diamond, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

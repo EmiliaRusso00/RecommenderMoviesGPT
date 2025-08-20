@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Heat, Apollo 13, Star Wars, Stargate, Forrest Gump, Wyatt Earp, Jurassic Park, Schindler's List, Tombstone, The Rock, Wallace and Gromit in A Close Shave, Independence Day, The Godfather, The Wizard of Oz, 20000 Leagues Under the Sea, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, A Grand Day Out with Wallace and Gromit, Back to the Future, Indiana Jones and the Last Crusade, The Matrix, Deep Blue Sea, The Sixth Sense, Stir of Echoes, Fight Club, Gladiator, X-Men, Shrek, Swordfish, Monsters, Inc., Spy Game, The Recruit, X2, S.W.A.T., The Matrix Revolutions, Shrek 2, I, Robot, The Incredibles, Batman Begins, The Prestige, Casino Royale, Shooter.
+
+Associated tags: boxing, earth, medieval, painter, police

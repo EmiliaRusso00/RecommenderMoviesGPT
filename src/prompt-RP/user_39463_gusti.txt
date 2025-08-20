@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Birdcage, Natural Born Killers, The Silence of the Lambs, Good Will Hunting, Saving Private Ryan, The Sixth Sense, Gladiator, Wo hu cang long, Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Cidade de Deus, Finding Nemo, Boyz n the Hood, The Lord of the Rings: The Return of the King, Spider-Man, The Da Vinci Code.
+
+Associated tags: boxing, earth

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Shawshank Redemption, What's Eating Gilbert Grape, Terminator 2: Judgment Day, The Silence of the Lambs, Fargo, The Godfather, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Paths of Glory, One Flew Over the Cuckoo's Nest, Ran, Stalker, Shichinin no samurai, Barry Lyndon, Yôjinbô, Solyaris, Memento, No Man's Land, The Lord of the Rings: The Fellowship of the Ring, Mies vailla menneisyyttä, The Incredibles, Inland Empire.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

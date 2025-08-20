@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Maverick, The Island of Dr. Moreau, Cool Runnings, Akira, Dark City, The Gods Must Be Crazy, The Gods Must Be Crazy II, Airplane!, The Mating Habits of the Earthbound Human, Ferris Bueller's Day Off, Falling Down, Loaded Weapon 1, White Men Can't Jump, Gone in Sixty Seconds, X-Men, Shrek, Rat Race, K-PAX, Kung Pow: Enter the Fist, Ice Age, Spider-Man, The Animatrix, Constantine, Sin City, Madagascar, Wallace & Gromit in The Curse of the Were-Rabbit, Miami Vice, Deja Vu, Blood Diamond, 300, Aqua Teen Hunger Force Colon Movie Film for Theaters, Transformers, Indiana Jones and the Kingdom of the Crystal Skull.
+
+Associated tags: boxing, earth, police

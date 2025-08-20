@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Pulp Fiction, The Shawshank Redemption, What's Eating Gilbert Grape, Schindler's List, The Godfather, Sleepers, Star Wars: Episode V - The Empire Strikes Back, Seven Years in Tibet, The Godfather: Part III, Elizabeth, Thelma & Louise, Almost Famous, Snatch., Donnie Darko, Das Experiment, Catch Me If You Can, Phone Booth, Pirates of the Caribbean: The Curse of the Black Pearl, The Butterfly Effect, Bin-jip, Star Wars: Episode III - Revenge of the Sith, V for Vendetta, Babel, El laberinto del fauno, Casino Royale, Blood Diamond, Ratatouille, Fracture, Once, Elizabeth: The Golden Age, In Bruges, The Other Boleyn Girl, Vicky Cristina Barcelona.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

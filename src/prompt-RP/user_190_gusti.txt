@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Apollo 13, Star Wars, Star Trek: Generations, Jurassic Park, Terminator 2: Judgment Day, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Raiders of the Lost Ark, Terminator Salvation, Star Trek: The Wrath of Khan, Labyrinth, Return to Oz, TRON, Willow, The Matrix, The Iron Giant, Mononoke-hime, Galaxy Quest, X-Men, Cast Away, Shrek, Harry Potter and the Sorcerer's Stone, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, The Last Unicorn, Pirates of the Caribbean: The Curse of the Black Pearl, Kaze no tani no Naushika, The Lord of the Rings: The Return of the King, Harry Potter and the Prisoner of Azkaban, The Incredibles, Battlestar Galactica, Batman Begins, Serenity, Pirates of the Caribbean: Dead Man's Chest, Harry Potter and the Order of the Phoenix, The Dark Knight.
+
+Associated tags: boxing, earth, medieval, painter, police

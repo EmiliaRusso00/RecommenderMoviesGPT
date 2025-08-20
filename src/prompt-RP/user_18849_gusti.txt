@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Get Shorty, The Usual Suspects, The Godfather, Apocalypse Now, The Big Lebowski, As Good as It Gets, A Few Good Men, Ronin, Enemy of the State, Festen, Eyes Wide Shut, Memento, The Royal Tenenbaums, 25th Hour, Lost in Translation, Crash, Das Leben der Anderen.
+
+Associated tags: almodovar, boxing, earth, finnish, medieval, painter, police, time travel

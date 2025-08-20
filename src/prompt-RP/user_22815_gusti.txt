@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, The Nightmare Before Christmas, It's a Wonderful Life, That Thing You Do!, Brazil, Benny & Joon, Flight of the Navigator, An American Tail, Miracle on 34th Street, Clue, A Christmas Story, Liberty Heights, Last Chance Harvey, The Muppets Take Manhattan, Creature Comforts, Whatever Happened to Harold Smith?, Hedwig and the Angry Inch, My First Mister, Waking Life, The Royal Tenenbaums, A Beautiful Mind, Secretary, Das Cabinet des Dr. Caligari., Chitty Chitty Bang Bang, Eternal Sunshine of the Spotless Mind, Super Size Me, Lemony Snicket's A Series of Unfortunate Events, Murderball, Wallace & Gromit in The Curse of the Were-Rabbit, For Your Consideration, Happy Feet.
+
+Associated tags: boxing, earth, painter, police

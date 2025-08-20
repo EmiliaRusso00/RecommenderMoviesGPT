@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Star Trek: Generations, The AristoCats, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Star Trek: The Wrath of Khan, Star Trek IV: The Voyage Home, The Hunt for Red October, Seven Years in Tibet, Starship Troopers, Labyrinth, Bambi, The Secret of NIMH, King Kong, Star Trek: Insurrection, Miracle on 34th Street, Office Space, The 13th Warrior, Excalibur, Bicentennial Man, Unbreakable, Final Fantasy: The Spirits Within, K-19: The Widowmaker, Terminator 3: Rise of the Machines, Hauru no ugoku shiro, Constantine, Thank You for Smoking, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

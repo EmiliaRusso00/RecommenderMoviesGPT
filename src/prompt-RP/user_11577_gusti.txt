@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Taxi Driver, Star Wars, The Fugitive, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Snow White and the Seven Dwarfs, Fargo, Kingpin, Casablanca, Citizen Kane, Life of Brian, Wallace & Gromit in The Wrong Trousers, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, To Kill a Mockingbird, Terminator Salvation, Manhattan, Chinatown, The Great Escape, Groundhog Day, Young Frankenstein, This Is Spinal Tap, When Harry Met Sally..., Jaws, Raising Arizona, Witness, The Big Lebowski, Saving Private Ryan, The Matrix, Ghost Busters, Airplane!, Hombre mirando al sudeste, Being John Malkovich, The Goodbye Girl, High Fidelity, The Odd Couple, Almost Famous, Billy Elliot, Wo hu cang long, The Emperor's New Groove, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Shoot the Moon, The Maltese Falcon, The Caine Mutiny, In Good Company.
+
+Associated tags: boxing, earth, funny, painter, police

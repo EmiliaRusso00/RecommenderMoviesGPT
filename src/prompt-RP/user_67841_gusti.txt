@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Truth About Cats & Dogs, One Flew Over the Cuckoo's Nest, Amadeus, Stand by Me, American Beauty, Being John Malkovich, Toy Story, Monsters, Inc., The Royal Tenenbaums, Spider-Man, Lost in Translation, Love Actually, The Incredibles, La battaglia di Algeri, The Life Aquatic with Steve Zissou, Broken Flowers, V for Vendetta, Thank You for Smoking.
+
+Associated tags: boxing, earth, police

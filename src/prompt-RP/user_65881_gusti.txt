@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: In the Bleak Midwinter, Bottle Rocket, Bullets Over Broadway, Dazed and Confused, Much Ado About Nothing, Looking for Richard, A Fish Called Wanda, A Streetcar Named Desire, Strictly Ballroom, The Princess Bride, Rosencrantz & Guildenstern Are Dead, Young Frankenstein, This Is Spinal Tap, Raising Arizona, Waiting for Guffman, Grosse Pointe Blank, The Producers, Rushmore, Office Space, The Color Purple, 'night, Mother, Almost Famous, Best in Show, O Brother, Where Art Thou?, Ghost World, The Independent, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Scotland, Pa., The Sandlot, Monsoon Wedding, Frida, Chicago, Lost in Translation, Garden State, Bill Cosby: Himself, The Life Aquatic with Steve Zissou, La marche de l'empereur, The 40 Year Old Virgin, Half Nelson, Knocked Up, Once.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, police

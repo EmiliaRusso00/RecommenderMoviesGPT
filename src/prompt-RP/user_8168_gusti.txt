@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Leaving Las Vegas, The Usual Suspects, Braveheart, Clerks., Ed Wood, Interview with the Vampire: The Vampire Chronicles, Natural Born Killers, Pulp Fiction, Manhattan Murder Mystery, Blade Runner, Kôkaku kidôtai, Trainspotting, The Godfather, Reservoir Dogs, Escape from New York, A Clockwork Orange, Alien, Psycho, The Godfather: Part II, Amadeus, Annie Hall, Braindead, Manhattan, The Shining, Back to the Future, Young Frankenstein, Dracula, Donnie Brasco, The Game, Deconstructing Harry, Jackie Brown, Back to the Future Part II, Stardust Memories, Sid and Nancy, The Matrix, Crimes and Misdemeanors, Misery, American Psycho, The Virgin Suicides, Memento, Scarface, Husbands and Wives, Hannah and Her Sisters, Play It Again, Sam, Profondo rosso, The Warriors, Zelig, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, whale

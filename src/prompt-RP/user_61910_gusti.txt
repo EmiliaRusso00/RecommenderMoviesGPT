@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: La cité des enfants perdus, Léon, Pulp Fiction, The Shawshank Redemption, Blade Runner, Face/Off, The Godfather, Meet John Doe, Monty Python and the Holy Grail, Delicatessen, A Clockwork Orange, The Godfather: Part II, The Shining, Pink Floyd The Wall, Fear and Loathing in Las Vegas, Höstsonaten, Edward Scissorhands, American Beauty, Fight Club, Being John Malkovich, Magnolia, Idioterne, Dancer in the Dark, Requiem for a Dream, The Lord of the Rings: The Fellowship of the Ring, Das Experiment, Le professionnel, Cidade de Deus, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Woodstock, Diarios de motocicleta, El laberinto del fauno.
+
+Associated tags: boxing, earth, funny, painter, police, whale

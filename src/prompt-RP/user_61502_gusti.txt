@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Chung Hing sam lam, Léon, The Shawshank Redemption, The Nightmare Before Christmas, Duo luo tian shi, Edward Scissorhands, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Hotaru no haka, Cidade de Deus, Sennen joyû, Chun gwong cha sit, Tokyo Godfathers, Before Sunset, La mala educación, 2046, Ruang rak noi nid mahasan, Hauru no ugoku shiro, Brokeback Mountain, Chinjeolhan geumjassi, El laberinto del fauno, Grindhouse.
+
+Associated tags: earth, police

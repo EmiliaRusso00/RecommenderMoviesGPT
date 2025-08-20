@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Pulp Fiction, Forrest Gump, The Lion King, Schindler's List, Blade Runner, Casablanca, 2001: A Space Odyssey, Reservoir Dogs, Paths of Glory, Il buono, il brutto, il cattivo., A Clockwork Orange, Apocalypse Now, Psycho, Full Metal Jacket, The Shining, Back to the Future, Saving Private Ryan, La vita è bella, American History X, Festen, The Matrix, The Sixth Sense, Per un pugno di dollari, Fight Club, Per qualche dollaro in più, Memento, The Pianist, Kill Bill: Vol. 2, 21 Grams, Kill Bill: Vol. 2, Crash, La tigre e la neve, The Departed, The Prestige, No Country for Old Men.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

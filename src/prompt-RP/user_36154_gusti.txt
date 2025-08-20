@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, The Usual Suspects, Fear, Good Will Hunting, American History X, Pushing Tin, The Sixth Sense, American Beauty, Fight Club, High Fidelity, Memento, Donnie Darko, A Beautiful Mind, The Italian Job, Big Fish, Eternal Sunshine of the Spotless Mind, Batman Begins, Walk the Line.
+
+Associated tags: boxing, earth, painter, police

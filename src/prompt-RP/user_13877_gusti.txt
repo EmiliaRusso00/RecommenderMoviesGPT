@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Yin shi nan nu, Ba wang bie ji, Da hong deng long gao gao gua, The Last Emperor, The Gods Must Be Crazy, Elizabeth, Wo de fu qin mu qin, Xi yan, Sien nui yau wan, Kung fu, Elizabethtown, Se, jie.
+
+Associated tags: boxing, earth, police, seriously scary, whale

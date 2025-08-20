@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, The Shawshank Redemption, Demolition Man, Lock, Stock and Two Smoking Barrels, The Matrix, Fight Club, Gone in Sixty Seconds, Meet the Parents, Snatch., Training Day, Ocean's Eleven, The Bourne Identity, Minority Report, Catch Me If You Can, Bulletproof Monk, Identity, Man on Fire, I, Robot, The Bourne Supremacy, Saw, Blade: Trinity, Layer Cake, Assault on Precinct 13, Crash, Saw II, Inside Man, The Da Vinci Code, Pirates of the Caribbean: Dead Man's Chest, Apocalypto, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, The Departed, The Last King of Scotland, Saw III, Blood Diamond, Hot Fuzz, Fracture, Ocean's Thirteen, The Bourne Ultimatum, Superbad, Eastern Promises.
+
+Associated tags: earth, painter, police

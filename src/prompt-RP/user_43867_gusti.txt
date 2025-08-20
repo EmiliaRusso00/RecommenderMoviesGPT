@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Silence of the Lambs, Fargo, The Godfather, A Few Good Men, The Sixth Sense, Fight Club, From Hell, Ocean's Eleven, About a Boy, Juno.
+
+Associated tags: boxing, earth, funny, painter, police

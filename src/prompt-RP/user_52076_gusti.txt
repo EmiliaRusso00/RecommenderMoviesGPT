@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dumb & Dumber, Star Wars, Star Trek: Generations, True Lies, Jurassic Park, Mrs. Doubtfire, Terminator 2: Judgment Day, The Rock, Willy Wonka & the Chocolate Factory, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, Indiana Jones and the Last Crusade, Star Trek: First Contact, Air Force One, Gattaca, The Goonies, Beetle Juice, The Matrix, Moulin Rouge!, Artificial Intelligence: AI, The Lord of the Rings: The Fellowship of the Ring, Panic Room, One Hour Photo, X2, The Lord of the Rings: The Return of the King, Sin City, The Island, The 40 Year Old Virgin, Hard Candy.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

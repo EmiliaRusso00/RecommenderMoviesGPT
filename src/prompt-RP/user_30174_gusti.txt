@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, A Time to Kill, The Wizard of Oz, Aliens, Alien, The Blues Brothers, The Graduate, Evil Dead II, The Great Escape, Unforgiven, Pink Floyd The Wall, Ma vie en rose, The Jerk, The Matrix, Stop Making Sense, Galaxy Quest, Good Morning, Vietnam, Close Encounters of the Third Kind, Predator, Snatch., Donnie Darko, Monsters, Inc., Ocean's Eleven, Ringu, Chitty Chitty Bang Bang, Miracle, Napoleon Dynamite, Super Size Me, The Notebook, Eulogy, Ray, The Incredibles, I Am David, Riding Giants, La marche de l'empereur, Duma, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, V for Vendetta, Thank You for Smoking, Akeelah and the Bee, Who Killed the Electric Car?, El laberinto del fauno, Live Free or Die Hard, American Gangster, No Country for Old Men, Iron Man.
+
+Associated tags: boxing, earth, funny, painter, police, whale

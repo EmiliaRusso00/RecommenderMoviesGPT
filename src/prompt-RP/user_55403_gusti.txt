@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Twelve Monkeys, Pulp Fiction, The Nightmare Before Christmas, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, 2001: A Space Odyssey, Reservoir Dogs, A Clockwork Orange, Psycho, The Shining, Dracula, Lost Highway, Gattaca, The Big Lebowski, American History X, Eyes Wide Shut, Fight Club, Being John Malkovich, Twin Peaks: Fire Walk with Me, The Virgin Suicides, Amores perros, O Brother, Where Art Thou?, Mulholland Dr., Monsters, Inc., Lost in Translation, Kill Bill: Vol. 2, Kill Bill: Vol. 2, Dolls, Boksuneun naui geot, Oldeuboi, The Brothers Grimm, Corpse Bride, Syriana, Chinjeolhan geumjassi, Volver, Babel, Inland Empire, Grindhouse, Saibogujiman kwenchana, Death Proof.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

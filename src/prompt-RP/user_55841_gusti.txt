@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ace Ventura: When Nature Calls, The Usual Suspects, Braveheart, The Shawshank Redemption, Forrest Gump, Jurassic Park, Aladdin, Ben-Hur, When Harry Met Sally..., Jerry Maguire, The Game, A Few Good Men, My Cousin Vinny, La vita è bella, Office Space, The Matrix, The Sixth Sense, The Hurricane, To Sir, with Love, Me, Myself & Irene, X-Men, Shrek, Monsters, Inc., Ocean's Eleven, A Beautiful Mind, I Am Sam, Minority Report, X2, Miracle, Shrek 2, Wimbledon, Ray, Million Dollar Baby, Cinderella Man, The Greatest Game Ever Played.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

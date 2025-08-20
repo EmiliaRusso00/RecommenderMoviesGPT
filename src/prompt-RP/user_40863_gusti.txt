@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, The Birds, Chasing Amy, Gattaca, American History X, The Matrix, Fight Club, Mononoke-hime, A Beautiful Mind, Sen to Chihiro no kamikakushi, Le professionnel, Eternal Sunshine of the Spotless Mind, Hauru no ugoku shiro, Final Fantasy VII: Advent Children, V for Vendetta, El laberinto del fauno, Children of Men, Bridge to Terabithia, 300, Grindhouse.
+
+Associated tags: boxing, earth, funny, painter, police, whale

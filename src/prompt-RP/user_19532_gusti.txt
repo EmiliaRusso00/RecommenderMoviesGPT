@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Dances with Wolves, Life of Brian, Pink Floyd The Wall, The Hunt for Red October, The Devil's Advocate, Yellow Submarine, Fight Club, Being John Malkovich, Mononoke-hime, The Lord of the Rings: The Two Towers, Master and Commander: The Far Side of the World, The Bourne Supremacy, The Incredibles.
+
+Associated tags: earth, medieval, painter, police

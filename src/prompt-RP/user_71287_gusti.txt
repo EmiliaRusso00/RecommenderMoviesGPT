@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Schindler's List, Trainspotting, Reservoir Dogs, 8MM, Toy Story, Requiem for a Dream, Amores perros, Zoolander, Le fabuleux destin d'Amélie Poulain, Toy Soldiers, L'âge d'or, 300.
+
+Associated tags: earth, painter, police

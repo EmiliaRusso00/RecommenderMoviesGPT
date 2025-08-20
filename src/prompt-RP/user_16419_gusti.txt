@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Natural Born Killers, Pulp Fiction, The Silence of the Lambs, The Godfather, A Clockwork Orange, The Devil's Advocate, The Truman Show, Good Will Hunting, Payback, Cruel Intentions, The Matrix, South Park: Bigger Longer & Uncut, Eyes Wide Shut, American Beauty, Fight Club, Sleepy Hollow, The Talented Mr. Ripley, Gone in Sixty Seconds, Me, Myself & Irene, Grey's Anatomy, Wo hu cang long, Snatch., What Women Want, Memento, Scarface, Artificial Intelligence: AI, From Hell, Donnie Darko, Vanilla Sky, Ali, Road to Perdition, Red Dragon, Frida, Confessions of a Dangerous Mind, The Butterfly Effect, Shrek 2, Diarios de motocicleta, Oldeuboi, The Corporation, Million Dollar Baby, Sin City, Lord of War, Kiss Kiss Bang Bang.
+
+Associated tags: boxing, earth, funny, painter, police, whale

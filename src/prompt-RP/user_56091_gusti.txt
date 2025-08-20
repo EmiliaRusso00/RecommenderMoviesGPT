@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Terminator 2: Judgment Day, Aliens, Alien, Le grand bleu, Terminator Salvation, Groundhog Day, Halloween, Saving Private Ryan, St. Elmo's Fire, Last Night, Nine 1/2 Weeks, Croupier, Better Than Sex, Life as a House, Unfaithful, The Bourne Identity, Summer Lovers, Under the Tuscan Sun, The Bourne Identity, Death Proof, The Bank Job, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, painter, police

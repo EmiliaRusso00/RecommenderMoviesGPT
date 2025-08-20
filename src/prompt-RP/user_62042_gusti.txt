@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Birdcage, The Shawshank Redemption, What's Eating Gilbert Grape, Forrest Gump, The Sound of Music, Willy Wonka & the Chocolate Factory, Amadeus, Dead Poets Society, Fried Green Tomatoes, Good Will Hunting, Rain Man, My Cousin Vinny, Waking Ned, Get Real, Scent of a Woman, Almost Famous, Billy Elliot, Big Eden, The Importance of Being Earnest, Brokeback Mountain, Pride & Prejudice, Little Miss Sunshine, The History Boys.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

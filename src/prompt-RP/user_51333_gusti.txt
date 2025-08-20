@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Léon, Pulp Fiction, The Shawshank Redemption, The Silence of the Lambs, Fargo, The Wizard of Oz, Reservoir Dogs, The Princess Bride, Harold and Maude, The Shining, Groundhog Day, Cool Hand Luke, Ben-Hur, The Fifth Element, There's Something About Mary, Saving Private Ryan, Office Space, The Rocky Horror Picture Show, Ghost Busters, American Beauty, Fight Club, Good Morning, Vietnam, Best in Show, O Brother, Where Art Thou?, Donnie Darko, Punch-Drunk Love, Catch Me If You Can, The Fog of War: Eleven Lessons from the Life of Robert S. McNamara, Napoleon Dynamite, Garden State, Das Leben der Anderen, Little Miss Sunshine, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, El laberinto del fauno, Children of Men.
+
+Associated tags: boxing, earth, funny, painter, police, whale

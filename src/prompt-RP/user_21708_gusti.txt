@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, Braveheart, The Shawshank Redemption, Schindler's List, Blade Runner, Dances with Wolves, The Silence of the Lambs, Fargo, Casablanca, Sophie's Choice, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, 12 Angry Men, To Kill a Mockingbird, Apocalypse Now, Alien, Terminator Salvation, Jaws, The Fifth Element, The Truman Show, Saving Private Ryan, Spartacus, Little Big Man, The Grapes of Wrath, Close Encounters of the Third Kind, Gladiator, Traffic, A Beautiful Mind, The Bourne Identity, Bowling for Columbine, Master and Commander: The Far Side of the World, The Lord of the Rings: The Return of the King, Fahrenheit 9/11, Collateral, Sideways, Finding Neverland, Million Dollar Baby, Batman Begins, The Constant Gardener, Good Night, and Good Luck., V for Vendetta, An Inconvenient Truth, Blood Diamond.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Forrest Gump, The Abyss, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Shichinin no samurai, Lock, Stock and Two Smoking Barrels, The Matrix, The Lord of the Rings: The Return of the King, The Butterfly Effect, The Power of One, Gladiator, Sin City, 300, Ocean's Thirteen, Live Free or Die Hard, Transformers, Harry Potter and the Order of the Phoenix, The Simpsons Movie.
+
+Associated tags: earth, police

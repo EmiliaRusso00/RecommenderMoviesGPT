@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Fargo, Rear Window, A Christmas Carol, Wallace & Gromit in The Wrong Trousers, A Grand Day Out with Wallace and Gromit, The Day the Earth Stood Still, Nosferatu, eine Symphonie des Grauens, The Sixth Sense, A Hard Day's Night, The Limey, Mystery Train, L.I.E., Coffee and Cigarettes, The Mask of Fu Manchu, Broken Flowers, No Direction Home: Bob Dylan, Little Miss Sunshine.
+
+Associated tags: boxing, earth, funny, painter, police

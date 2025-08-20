@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Mr. Holland's Opus, Taxi Driver, French Kiss, What's Eating Gilbert Grape, Muriel's Wedding, Four Weddings and a Funeral, Philadelphia, The Piano, Schindler's List, Pinocchio, Pane e cioccolata, Tin Cup, Rear Window, North by Northwest, Casablanca, The Wizard of Oz, 2001: A Space Odyssey, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, Brazil, A Clockwork Orange, The Blues Brothers, Annie Hall, The Sting, Cool Hand Luke, Raising Arizona, Sneakers, Benny & Joon, La vita è bella, Jules et Jim, Yellow Submarine, Help!, A League of Their Own, Thelma & Louise, What About Bob?, Every Thing You Always Wanted to Know About Sex * But Were Afraid to Ask, Chocolat, Polyester, The Red Shoes, Trollflöjten, La marche de l'empereur.
+
+Associated tags: almodovar, boxing, brothers quay, earth, excellent characters, funny, medieval, painter, police, robots, satoshi kon, seriously scary, whale

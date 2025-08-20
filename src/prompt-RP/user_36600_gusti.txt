@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, Jurassic Park, Singin' in the Rain, Some Like It Hot, My Fair Lady, Gone with the Wind, The Adventures of Robin Hood, Glory, A Man for All Seasons, Artificial Intelligence: AI, The Adventures of Baron Munchausen, Ocean's Eleven, 1776, Pirates of the Caribbean: The Curse of the Black Pearl, A Bridge Too Far, Henry V, Becket, Pride & Prejudice, Inside Man, 3:10 to Yuma.
+
+Associated tags: boxing, earth, medieval, painter, police

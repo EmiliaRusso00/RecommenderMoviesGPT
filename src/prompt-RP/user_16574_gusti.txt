@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Casino, Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Taxi Driver, Clerks., Pulp Fiction, Shallow Grave, Blade Runner, True Romance, The Silence of the Lambs, Fargo, Trainspotting, The Godfather, Swingers, Life of Brian, Reservoir Dogs, Platoon, One Flew Over the Cuckoo's Nest, Brazil, Apocalypse Now, Goodfellas, Alien, The Godfather: Part II, Full Metal Jacket, Raging Bull, The Shining, The Deer Hunter, Donnie Brasco, L.A. Confidential, The Big Lebowski, American History X, The Matrix, American Beauty, Fight Club, Papillon, Misery, Marathon Man, Blood Simple., Memento, Scarface, Donnie Darko, Bowling for Columbine, The Lord of the Rings: The Two Towers, The Meaning of Life, Man on Fire, Mean Streets, Tasogare Seibei, Sin City.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

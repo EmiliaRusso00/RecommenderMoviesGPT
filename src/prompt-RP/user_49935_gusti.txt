@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: From Dusk Till Dawn, Bottle Rocket, Clerks., Pulp Fiction, The Shawshank Redemption, Snow White and the Seven Dwarfs, Fargo, North by Northwest, Night of the Living Dead, Heathers, Grosse Pointe Blank, Gattaca, Jackie Brown, Fear and Loathing in Las Vegas, Pi, Beetle Juice, Lock, Stock and Two Smoking Barrels, Election, Mystery Men, The Sixth Sense, Fight Club, Spaceballs, Close Encounters of the Third Kind, Chocolat, The Emperor's New Groove, Le pacte des loups, Death to Smoochy, Sen to Chihiro no kamikakushi, Le professionnel, The Italian Job, Les triplettes de Belleville, The Station Agent, Kill Bill: Vol. 2, Gothika, Invasion of the Body Snatchers, The Last Samurai, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Gladiator, Night of the Living Dead, Harold & Kumar Go to White Castle, Diarios de motocicleta, Shaun of the Dead, Wallace & Gromit in The Curse of the Were-Rabbit.
+
+Associated tags: boxing, earth, funny, painter, police, whale

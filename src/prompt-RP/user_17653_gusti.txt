@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, La cité des enfants perdus, Twelve Monkeys, Shichinin no samurai, The Usual Suspects, The Shawshank Redemption, The Hudsucker Proxy, Citizen Kane, Die Hard, Brazil, Indiana Jones and the Last Crusade, Hercules, The Matrix, American Beauty, Fight Club, Requiem for a Dream, Memento, Serendipity, Donnie Darko, Monsters, Inc., The Lord of the Rings: The Fellowship of the Ring, About a Boy, Cidade de Deus, Finding Nemo, Le procès, Eternal Sunshine of the Spotless Mind, Io non ho paura, Dear Frankie, Garden State, Finding Neverland, Un long dimanche de fiançailles, 20 Million Miles to Earth, A Scanner Darkly, Cinderella Man, Serenity, Wallace & Gromit in The Curse of the Were-Rabbit, King Kong, United 93, Cars, Clerks II, Superman Returns, La science des rêves, El laberinto del fauno, The Prestige, Ratatouille, The Simpsons Movie, Atonement, WALL·E.
+
+Associated tags: boxing, earth, medieval, painter, police

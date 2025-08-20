@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Shawshank Redemption, Blade Runner, Wallace and Gromit in A Close Shave, Life of Brian, Wallace & Gromit in The Wrong Trousers, Aliens, Sneakers, Le fabuleux destin d'Amélie Poulain.
+
+Associated tags: earth, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, The Shawshank Redemption, Forrest Gump, The Fugitive, Primal Fear, A Time to Kill, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Goodfellas, The Sting, L.A. Confidential, Good Will Hunting, There's Something About Mary, Saving Private Ryan, A Few Good Men, Shakespeare in Love, The Matrix, The Sixth Sense, The Thomas Crown Affair, Ferris Bueller's Day Off, Inside Man, The Green Mile, Hoosiers, Erin Brockovich, No Way Out, Caddyshack, Gladiator, The Contender, The Accused, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, We Were Soldiers, Spider-Man, Unfaithful, The Bourne Identity, Road to Perdition, Catch Me If You Can, Presumed Innocent, The Last Samurai, Gladiator, The Bourne Supremacy, The Bourne Identity, Crash, Cinderella Man, Batman Begins, The Illusionist, Breach, 300, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, earth, painter, police

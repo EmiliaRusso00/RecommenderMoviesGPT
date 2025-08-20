@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, The Shawshank Redemption, True Romance, Life of Brian, One Flew Over the Cuckoo's Nest, A Clockwork Orange, Apocalypse Now, Ran, Full Metal Jacket, The Shining, Groundhog Day, Akira, The Big Lebowski, Dark City, Fear and Loathing in Las Vegas, The Last Temptation of Christ, Rushmore, The Matrix, Abre los ojos, Lola rennt, American Beauty, Fight Club, Magnolia, The Boys of Baraka, Requiem for a Dream, Memento, Blow, Donnie Darko, Vanilla Sky, The Royal Tenenbaums, Y tu mamá también, Human Nature, Hotaru no haka, Adaptation., Confessions of a Dangerous Mind, Cidade de Deus, 101 Reykjavík, Les triplettes de Belleville, The Meaning of Life, Big Fish, Eternal Sunshine of the Spotless Mind, The Machinist, La mala educación, Oldeuboi, Sin City, The Squid and the Whale, V for Vendetta, The Prestige.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

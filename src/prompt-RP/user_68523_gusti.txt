@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, Forrest Gump, The Princess Bride, When Harry Met Sally..., Chasing Amy, The Sweet Hereafter, The Hanging Garden, Rain Man, Office Space, The Matrix, Wandâfuru raifu, Le violon rouge, Arlington Road, American Beauty, Fight Club, Memento, Le fabuleux destin d'Amélie Poulain, Bowling for Columbine, Eternal Sunshine of the Spotless Mind, Dogville, The Corporation, Children of Men, Shut Up & Sing.
+
+Associated tags: boxing, earth, painter, police, whale

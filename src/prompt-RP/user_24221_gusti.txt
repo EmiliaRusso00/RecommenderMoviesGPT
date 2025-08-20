@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Shawshank Redemption, Life of Brian, Aliens, The Blues Brothers, The Matrix, Lola rennt, Fight Club, Wayne's World, Shrek, Donnie Darko, The Lord of the Rings: The Two Towers, The Lizzie McGuire Movie, X2, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Scooby Doo 2: Monsters Unleashed, Troy, Harry Potter and the Prisoner of Azkaban, Another Cinderella Story, Million Dollar Baby, The Queen.
+
+Associated tags: earth, painter, police

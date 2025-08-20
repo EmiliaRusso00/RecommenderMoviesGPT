@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Taxi Driver, Pulp Fiction, Blade Runner, The Godfather, 2001: A Space Odyssey, Delicatessen, Il buono, il brutto, il cattivo., Titanic, First Blood, American Beauty, Deliverance, Fight Club, American Movie, Mulholland Dr., Donnie Darko, Le fabuleux destin d'Amélie Poulain, Sleuth, 25th Hour, The Pianist, The Blood of Heroes, Lost in Translation, Jûbê ninpûchô, Master and Commander: The Far Side of the World, Touching the Void, Eternal Sunshine of the Spotless Mind, Sideways, Oldeuboi, Bin-jip, Salinui chueok, Der Untergang, Crash, Brokeback Mountain, The Fountain, King Kong, No Country for Old Men.
+
+Associated tags: boxing, earth, funny, painter, police, whale

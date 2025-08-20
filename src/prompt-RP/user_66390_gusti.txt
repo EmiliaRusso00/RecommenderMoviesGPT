@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Pulp Fiction, Schindler's List, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, 2001: A Space Odyssey, Alien, Das Boot, Alien³, Starship Troopers, The Exorcist, Fight Club, Requiem for a Dream, Moulin Rouge!, The Others, Mulholland Dr., Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Stroszek, Irréversible, Pirates of the Caribbean: The Curse of the Black Pearl, Elephant, Kill Bill: Vol. 2, Saw, Un long dimanche de fiançailles, The Interpreter, Hotel Rwanda, Der Untergang, Lord of War, Persepolis, El orfanato, The Dark Knight, Låt den rätte komma in.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

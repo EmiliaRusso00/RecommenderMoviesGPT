@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Bambi, The Great Mouse Detective, Peter Pan, The Secret of NIMH, A Bug's Life, The Adventures of Ichabod and Mr. Toad, The Brave Little Toaster, Hotaru no haka, Finding Nemo, 13 Going on 30, Majo no takkyûbin, Mimi wo sumaseba, There Will Be Blood, The Fall, WALL·E.
+
+Associated tags: earth, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., When We Were Kings, Psycho, Das Boot, The Full Monty, Dark City, Rocky, The Elephant Man, American History X, The Matrix, Barry Lyndon, American Beauty, The Green Mile, Ghost Dog: The Way of the Samurai, Billy Elliot, Cast Away, K-PAX, Donnie Darko, A Beautiful Mind, Shogun Assassin, Antwone Fisher, Cidade de Deus, Old School, Lilja 4-ever, This Boy's Life, Kill Bill: Vol. 2, Koroshiya 1, Cypher, Janghwa, Hongryeon, The Terminal, Talvisota, Collateral, Ray, Ying hung boon sik, 2046, Ôdishon, Gongdong gyeongbi guyeok JSA, Oldeuboi, Metallica: Some Kind of Monster, The 40 Year Old Virgin, Jarhead, The World's Fastest Indian, Running Scared, Clerks II, An Inconvenient Truth, Crank, Hot Fuzz, Grindhouse, Sunshine, Ocean's Thirteen, Death Proof, You Kill Me, Superbad, Planet Terror, Shoot 'Em Up, American Gangster, I Am Legend, El orfanato, Sweeney Todd: The Demon Barber of Fleet Street.
+
+Associated tags: boxing, earth, painter, police, whale

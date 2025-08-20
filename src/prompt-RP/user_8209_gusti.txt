@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Birdcage, The Nightmare Before Christmas, Aladdin, The Godfather, Casablanca, The Wizard of Oz, Escape to Witch Mountain, The Sound of Music, Victor Victoria, Monty Python and the Holy Grail, The Princess Bride, 12 Angry Men, The Godfather: Part II, Annie Hall, Waiting for Guffman, Rain Man, Labyrinth, The Parent Trap, The Little Mermaid, Newsies, Shakespeare in Love, Clue, Office Space, Lola rennt, American Beauty, Being John Malkovich, Holiday Inn, Fantasia/2000, O Brother, Where Art Thou?, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, Sen to Chihiro no kamikakushi, The Last Unicorn, A Mighty Wind, Lost in Translation, Love Actually, A Matter of Life and Death, Garden State, Hotel Rwanda, The Life Aquatic with Steve Zissou, Imaginary Heroes, The Constant Gardener, Match Point, Thank You for Smoking, La science des rêves, El laberinto del fauno, Ratatouille.
+
+Associated tags: boxing, earth, painter, police

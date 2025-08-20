@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ed Wood, Maverick, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Psycho, Amadeus, The Odd Couple, Play It Again, Sam, Fail-Safe, After the Thin Man, I Am a Fugitive from a Chain Gang, Steamboat Bill, Jr..
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

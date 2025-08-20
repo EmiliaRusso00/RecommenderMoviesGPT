@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Blade Runner, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Casablanca, 2001: A Space Odyssey, Star Wars: Episode V - The Empire Strikes Back, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Goodfellas, The Godfather: Part II, Full Metal Jacket, Chinatown, Stand by Me, The Big Sleep, The Big Lebowski, Rushmore, A Christmas Story, Ferris Bueller's Day Off, Best in Show, Le fabuleux destin d'Amélie Poulain, The Royal Tenenbaums, The Life Aquatic with Steve Zissou, Der Untergang, The Departed, The Darjeeling Limited, No Country for Old Men.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

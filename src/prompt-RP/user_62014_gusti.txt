@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, Pulp Fiction, The Shawshank Redemption, Kôkaku kidôtai, Trainspotting, One Flew Over the Cuckoo's Nest, Dead Poets Society, Gattaca, Good Will Hunting, Office Space, American Beauty, Fight Club, Dogma, Gladiator, Requiem for a Dream, Traffic, Blow, Donnie Darko, A Beautiful Mind, The Salton Sea, Believers, Cidade de Deus, Cowboy Bebop: Tengoku no tobira, Matchstick Men, Love Actually, Crash, The 40 Year Old Virgin, Lord of War, Family Guy Presents Stewie Griffin: The Untold Story, Syriana, Huo Yuan Jia, Miami Vice.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

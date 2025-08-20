@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Jungle Book, Schindler's List, Cinderella, Wallace & Gromit in The Wrong Trousers, Raiders of the Lost Ark, A Grand Day Out with Wallace and Gromit, Fantasia, The Sixth Sense, Donnie Darko, The Matrix Reloaded, Where in the World Is Osama Bin Laden?, La belle et la bête.
+
+Associated tags: boxing, earth, police

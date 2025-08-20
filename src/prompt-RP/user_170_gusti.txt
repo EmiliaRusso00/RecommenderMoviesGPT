@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mallrats, Clerks., Pulp Fiction, Full Metal Jacket, American History X, Fight Club, Requiem for a Dream, Donnie Darko, Clerks II.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

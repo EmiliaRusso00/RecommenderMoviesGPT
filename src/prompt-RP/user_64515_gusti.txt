@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Braveheart, Star Wars, Pulp Fiction, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Aliens, Star Wars: Episode VI - Return of the Jedi, Contact, Conan the Barbarian, The Thing, American Beauty, Time Bandits, RoboCop, Predator, Unbreakable, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, X2, The Lord of the Rings: The Return of the King, Star Wars: Episode III - Revenge of the Sith.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

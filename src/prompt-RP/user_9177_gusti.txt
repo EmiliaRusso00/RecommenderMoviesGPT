@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Trainspotting, The Godfather, 2001: A Space Odyssey, The Doors, Brazil, A Clockwork Orange, The Graduate, Pi, Blue Velvet, eXistenZ, Lola rennt, Yellow Submarine, Mononoke-hime, Altered States, Minority Report, Cidade de Deus, Videodrome, Bom yeoreum gaeul gyeoul geurigo bom, The Corporation, A Scanner Darkly, A History of Violence, El laberinto del fauno, Letters from Iwo Jima, Persepolis, Le scaphandre et le papillon.
+
+Associated tags: boxing, earth, police

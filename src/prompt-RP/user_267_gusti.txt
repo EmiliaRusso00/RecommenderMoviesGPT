@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Terminator 2: Judgment Day, 2001: A Space Odyssey, Det sjunde inseglet, Manhattan, Shichinin no samurai, The Straight Story, Solyaris, Per qualche dollaro in più, Bronenosets Potyomkin, Smultronstället.
+
+Associated tags: earth, police, whale

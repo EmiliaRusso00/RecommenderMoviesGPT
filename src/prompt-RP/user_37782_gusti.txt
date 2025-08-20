@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Forrest Gump, The Nightmare Before Christmas, The Silence of the Lambs, Beauty and the Beast, The Blues Brothers, The Shining, The Matrix, Eyes Wide Shut, American Beauty, Fight Club, Mulholland Dr., Donnie Darko, The Lord of the Rings: The Fellowship of the Ring, Seom, Sen to Chihiro no kamikakushi, Tonari no Totoro, Lost in Translation, Kill Bill: Vol. 2, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Janghwa, Hongryeon, Sideways, Death Proof.
+
+Associated tags: boxing, earth, funny, painter, police, whale

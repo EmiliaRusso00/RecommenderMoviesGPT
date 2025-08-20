@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clueless, Happy Gilmore, French Kiss, Sleepless in Seattle, So I Married an Axe Murderer, Thirty Two Short Films About Glenn Gould, Fargo, Nuovo Cinema Paradiso, The Princess Bride, Fantasia, A Room with a View, The Fifth Element, You've Got Mail, Fantasia/2000, Erin Brockovich, Best in Show, Legally Blonde, The Mission, Whale Rider, Ella Enchanted, Meet the Fockers, Failure to Launch, August Rush, The Golden Compass, Charlie Wilson's War.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, satoshi kon

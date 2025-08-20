@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, DragonHeart, Twister, Independence Day, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Godzilla, Star Wars: Episode I - The Phantom Menace, Toy Story, Monsters, Inc., Harry Potter and the Sorcerer's Stone, The Lord of the Rings: The Fellowship of the Ring, Star Wars: Episode II - Attack of the Clones, The Lord of the Rings: The Two Towers, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, The Last Samurai, The Lord of the Rings: The Return of the King, Gladiator, Shrek 2, Spider-Man, Star Wars: Episode III - Revenge of the Sith, Mr. & Mrs. Smith, Batman Begins, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Munich.
+
+Associated tags: boxing, earth, police

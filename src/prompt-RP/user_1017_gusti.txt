@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Blade Runner, Star Wars: Episode I - The Phantom Menace, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, Pirates of the Caribbean: Dead Man's Chest.
+
+Associated tags: earth, police, whale

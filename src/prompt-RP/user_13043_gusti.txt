@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Remains of the Day, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Emma, Citizen Kane, Sophie's Choice, To Kill a Mockingbird, The Manchurian Candidate, Gattaca, Kundun, Dark City, Something Wicked This Way Comes, One True Thing, The Mission, Mononoke-hime, Mansfield Park, Gladiator, Gosford Park, My Big Fat Greek Wedding, Signs, The Lord of the Rings: The Two Towers, Radio, The Lord of the Rings: The Return of the King, Diarios de motocicleta, Ray, No Direction Home: Bob Dylan, Water, Das Leben der Anderen, Ratatouille, Away from Her.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

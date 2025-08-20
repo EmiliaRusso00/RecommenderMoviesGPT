@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Once Were Warriors, The Shawshank Redemption, The Great Escape, The Sixth Sense, The Pianist, Hotel Rwanda.
+
+Associated tags: earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Pulp Fiction, The Shawshank Redemption, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Life of Brian, 12 Angry Men, C'era una volta il West, The Godfather: Part II, Terminator Salvation, American History X, Arlington Road, The Blair Witch Project, American Beauty, Fight Club, Being John Malkovich, Requiem for a Dream, Wo hu cang long, Memento, Amores perros, Mulholland Dr., Waking Life, K-PAX, Le fabuleux destin d'Amélie Poulain, Witness for the Prosecution, Bowling for Columbine, Cidade de Deus, The Life of David Gale, Ying xiong, House of Sand and Fog, Garden State, The Machinist, Oldeuboi, Hotel Rwanda, Sin City, Crash, Thank You for Smoking, Babel, Children of Men, The Prestige, Ratatouille, Juno, The Dark Knight, Burn After Reading, Quantum of Solace.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Ed Wood, Blade Runner, The Godfather, Casablanca, The Maltese Falcon, The Adventures of Robin Hood, Monty Python and the Holy Grail, Raiders of the Lost Ark, Lawrence of Arabia, Goodfellas, Army of Darkness, The Godfather: Part II, Amadeus, Stand by Me, The Great Escape, Raising Arizona, The Fifth Element, L.A. Confidential, Indiana Jones and the Temple of Doom, Willow, The Odd Couple, Gladiator, One Day in September, The Lord of the Rings: The Two Towers, X2, The Lord of the Rings: The Return of the King, We're No Angels, The Private Life of Henry VIII..
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

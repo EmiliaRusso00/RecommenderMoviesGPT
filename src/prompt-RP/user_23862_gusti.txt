@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Taxi Driver, Star Wars, Natural Born Killers, Léon, Pulp Fiction, Ghost, The Silence of the Lambs, Trainspotting, The Godfather, Casablanca, Dial M for Murder, A Streetcar Named Desire, Star Wars: Episode V - The Empire Strikes Back, The Graduate, The Shining, Stand by Me, The Matrix, American Beauty, Fight Club, Being John Malkovich, Amores perros, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Cidade de Deus, Lost in Translation, Kill Bill: Vol. 2, Ultimo tango a Parigi, Ying xiong, Kill Bill: Vol. 2, Shi mian mai fu, Sin City, Divorzio all'italiana, Das Leben der Anderen, Volver, Ratatouille, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

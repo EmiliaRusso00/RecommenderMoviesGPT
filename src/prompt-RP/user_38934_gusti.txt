@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Shichinin no samurai, Before the Rain, Pulp Fiction, Forrest Gump, A Bronx Tale, Batman, Underground, 2001: A Space Odyssey, Terminator Salvation, Groundhog Day, Pink Floyd The Wall, The Game, Titanic, Rocky, The Matrix, Dom za vesanje, Magnolia, Born on the Fourth of July, Scarface, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Whose Life Is It Anyway?, La règle du jeu, Ultimo tango a Parigi, Crossroads, My Summer of Love.
+
+Associated tags: boxing, dreamdontcatch, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

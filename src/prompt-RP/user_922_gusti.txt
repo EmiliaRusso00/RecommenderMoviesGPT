@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Birdcage, Interview with the Vampire: The Vampire Chronicles, The Shawshank Redemption, Forrest Gump, Philadelphia, Ghost, Pretty Woman, Sleepers, Back to the Future, Contact, The Truman Show, Sphere, City of Angels, Cube, Pleasantville, Meet Joe Black, Cocoon, You've Got Mail, Der Name der Rose, She's All That, Cruel Intentions, The Thirteenth Floor, Fight Club, Final Destination, The Patriot, Bring It On, Billy Elliot, Charlie's Angels: Full Throttle, Men of Honor, Shrek, Artificial Intelligence: AI, Thir13en Ghosts, Zoolander, Monsters, Inc., Vanilla Sky, A Beautiful Mind, Sweet Home Alabama, Chicago, Identity, Camp, The Last Samurai, Big Fish, Monster, The Butterfly Effect, 50 First Dates, Connie and Carla, Shrek 2, The Notebook, King Arthur, Saw, Constantine, The Island, Brokeback Mountain, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, whale

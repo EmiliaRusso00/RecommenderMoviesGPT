@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Léon, Pulp Fiction, Forrest Gump, Blade Runner, Dances with Wolves, Batman, The Silence of the Lambs, Die Hard, Alien, Terminator Salvation, Rain Man, Rambo: First Blood Part II, First Blood, The Matrix, Notting Hill, Spartacus, Fight Club, Men of Honor, Cast Away, Fahrenheit 451, Wild at Heart, Escape from Alcatraz, Lord of War, Match Point, El laberinto del fauno, The Departed, The Last King of Scotland, The Prestige, Mr. Brooks.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Dead Man Walking, The Usual Suspects, The Birdcage, Pulp Fiction, Swimming with Sharks, The Silence of the Lambs, The Godfather, Bound, Extreme Measures, Die Hard, A Fish Called Wanda, The Godfather: Part II, Chinatown, 8 Heads in a Duffel Bag, The Fifth Element, As Good as It Gets, Out of Sight, Rain Man, The Negotiator, Enemy of the State, Playing by Heart, Lock, Stock and Two Smoking Barrels, American Pie, Being John Malkovich, Midnight Run, Thelma & Louise, Keeping the Faith, Gladiator, Meet the Parents, Memento, Monsters, Inc., Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, Ice Age, Chicago, Matchstick Men, Les triplettes de Belleville, Mystic River, Collateral, Sideways.
+
+Associated tags: boxing, earth, funny, painter, police, whale

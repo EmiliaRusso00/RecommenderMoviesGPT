@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Hackers, Heavenly Creatures, Willy Wonka & the Chocolate Factory, E.T.: The Extra-Terrestrial, One Flew Over the Cuckoo's Nest, The Matrix, Fight Club, High Fidelity, Pee-wee's Big Adventure, Bring It On, Hedwig and the Angry Inch, Mulholland Dr., Donnie Darko, Le fabuleux destin d'Amélie Poulain, Bowling for Columbine, Cidade de Deus, My Life Without Me, Kill Bill: Vol. 2, Ying xiong, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Before Sunset, V for Vendetta, The Devil and Daniel Johnston, Volver, Brick, Le ballon rouge, Jesus Camp, Children of Men, Shut Up & Sing, Paris, je t'aime.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, satoshi kon, time travel, whale

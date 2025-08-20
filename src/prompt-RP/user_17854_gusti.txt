@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Hung fan kui, Before Sunrise, The Shawshank Redemption, The Mask of Zorro, Office Space, Cruel Intentions, 10 Things I Hate About You, Lola rennt, American Pie, Koneko monogatari, American Beauty, Magnolia, Final Destination, Croupier, Antitrust, Legally Blonde, American Pie, About a Boy, The Bourne Identity, xXx, The Transporter, Punch-Drunk Love, Love Actually, The Lord of the Rings: The Return of the King, EuroTrip, Taking Lives, Harry Potter and the Prisoner of Azkaban, Before Sunset, V for Vendetta, Clerks II, Apocalypto, Children of Men, Knocked Up, Live Free or Die Hard, Harry Potter and the Order of the Phoenix.
+
+Associated tags: boxing, earth, police

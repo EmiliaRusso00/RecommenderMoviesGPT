@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Star Wars, The Shawshank Redemption, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Back to the Future, Ghost Busters, Fight Club, Shanghai Noon, Interstate 60: Episodes of the Road.
+
+Associated tags: earth, painter, police

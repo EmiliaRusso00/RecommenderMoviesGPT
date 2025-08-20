@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, Les parapluies de Cherbourg, Schindler's List, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Godfather, Casablanca, The Wizard of Oz, Citizen Kane, 2001: A Space Odyssey, Mr. Smith Goes to Washington, Dumbo, The Sound of Music, Raiders of the Lost Ark, Brazil, A Clockwork Orange, To Kill a Mockingbird, Apocalypse Now, A Grand Day Out with Wallace and Gromit, Amadeus, Das Boot, Det sjunde inseglet, Chinatown, Young Frankenstein, High Noon, Field of Dreams, West Side Story, Midnight Cowboy, The French Connection, Bambi, The Last Temptation of Christ, Saving Private Ryan, The Elephant Man, The Last Picture Show, A Raisin in the Sun, Days of Wine and Roses, The Lord of the Rings: The Fellowship of the Ring, Smultronstället, The Lord of the Rings: The Two Towers, Kiss of the Spider Woman, The Freshman, Big Fish, The Lord of the Rings: The Return of the King, The Diary of Anne Frank.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

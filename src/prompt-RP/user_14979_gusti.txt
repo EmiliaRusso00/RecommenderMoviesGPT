@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Rob Roy, First Knight, Legends of the Fall, Forrest Gump, Jurassic Park, The Three Musketeers, Dances with Wolves, Batman, The Silence of the Lambs, Le grand bleu, Dracula, Seven Years in Tibet, The Godfather: Part III, A Few Good Men, Mission: Impossible, Remember the Titans, Men of Honor, Finding Forrester, Harry Potter and the Sorcerer's Stone, The Count of Monte Cristo, Ice Age, Harry Potter and the Chamber of Secrets, The Lord of the Rings: The Return of the King, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, whale

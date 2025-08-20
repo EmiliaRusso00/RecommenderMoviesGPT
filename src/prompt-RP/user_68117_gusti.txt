@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Shawshank Redemption, Schindler's List, Terminator 2: Judgment Day, Roman Holiday, Raiders of the Lost Ark, Star Wars: Episode VI - Return of the Jedi, Shall we dansu?, The Matrix, The Iron Giant, Thirteen Days, Memento, The Mists of Avalon, She's the Man, Cars, The Prestige, Transformers, The Bucket List.
+
+Associated tags: boxing, earth, painter, police, satoshi kon

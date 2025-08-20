@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Trois couleurs: Rouge, The Silence of the Lambs, Rear Window, Some Like It Hot, One Flew Over the Cuckoo's Nest, Il buono, il brutto, il cattivo., Apocalypse Now, Psycho, Full Metal Jacket, The Graduate, The Shining, The Birds, The Exorcist, The Gods Must Be Crazy, Rosemary's Baby, The Fly, Chelovek s kino-apparatom, La strada, Krótki film o zabijaniu, Saw III, Perfume: The Story of a Murderer.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

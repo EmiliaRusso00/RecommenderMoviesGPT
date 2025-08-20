@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Star Wars, Little Women, Pulp Fiction, The Shawshank Redemption, The Nightmare Before Christmas, The Silence of the Lambs, Trainspotting, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, The Shining, Batman Returns, Lost Highway, The Game, The Joy Luck Club, Edward Scissorhands, Happiness, The Matrix, Le violon rouge, The Color Purple, American Beauty, Fight Club, Being John Malkovich, Magnolia, Thelma & Louise, Almost Famous, Snatch., Memento, Donnie Darko, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, Das Experiment, The Hours, Kill Bill: Vol. 2, 21 Grams, Big Fish, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Fahrenheit 9/11, The Assassination of Richard Nixon, Sin City, Corpse Bride, V for Vendetta, El laberinto del fauno, Little Children, Perfume: The Story of a Murderer, 300, Persepolis.
+
+Associated tags: almodovar, boxing, dreamdontcatch, earth, excellent characters, funny, painter, police, robots, whale

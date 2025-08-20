@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, Bad Boys, Dances with Wolves, A Time to Kill, Top Gun, Il buono, il brutto, il cattivo., Dead Poets Society, Beavis and Butt-Head Do America, The Postman, Lethal Weapon 4, Lethal Weapon, Lethal Weapon, Lethal Weapon 3, Crocodile Dundee, The Matrix, Papillon, Road Trip, Big Momma's House, Hamlet, Freddy Got Fingered, The Fast and the Furious, Rush Hour 2, The Shipping News, A Walk to Remember, We Were Soldiers, The Four Feathers, Equilibrium, The Lord of the Rings: The Two Towers, Boat Trip, The Matrix Reloaded, The Italian Job, Pirates of the Caribbean: The Curse of the Black Pearl, The Last Samurai, EuroTrip, The Girl Next Door, Children of Dune, AVP: Alien vs. Predator, Underworld: Evolution, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, earth, frightfully accurate political commentary, funny, painter, police, robots, satoshi kon, whale

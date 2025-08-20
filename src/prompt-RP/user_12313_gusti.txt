@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Pulp Fiction, The Shawshank Redemption, Terminator 2: Judgment Day, The Godfather, 2001: A Space Odyssey, Life of Brian, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, Aliens, 12 Angry Men, A Clockwork Orange, Star Wars: Episode VI - Return of the Jedi, Alien, The Godfather: Part II, Terminator Salvation, The Deer Hunter, Highlander, Alien³, Star Trek: First Contact, Star Trek: The Motion Picture, Star Trek IV: The Voyage Home, The Fifth Element, Alien³, The Matrix, The Sixth Sense, Fight Club, X-Men, Unbreakable, Wo hu cang long, Memento, Artificial Intelligence: AI, K-PAX, Le fabuleux destin d'Amélie Poulain, The Last Waltz, X2, WarGames, The Butterfly Effect, Hotel Rwanda, Serenity, Family Guy Presents Stewie Griffin: The Untold Story, Lucky Number Slevin, Volver, Children of Men, The Prestige.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

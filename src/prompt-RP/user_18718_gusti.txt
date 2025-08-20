@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Casino, Shichinin no samurai, Star Wars, Pulp Fiction, Terminator 2: Judgment Day, The Godfather, Citizen Kane, Platoon, Glengarry Glen Ross, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Aliens, Il buono, il brutto, il cattivo., 12 Angry Men, Lawrence of Arabia, Apocalypse Now, C'era una volta il West, Goodfellas, Alien, The Godfather: Part II, Raging Bull, Das Boot, Ben-Hur, L.A. Confidential, The Big Lebowski, Saving Private Ryan, The Matrix, Fight Club, Dog Day Afternoon, Predator, The Lord of the Rings: The Fellowship of the Ring, Sleuth, The Lord of the Rings: The Two Towers, The Lord of the Rings: The Return of the King, No Country for Old Men.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

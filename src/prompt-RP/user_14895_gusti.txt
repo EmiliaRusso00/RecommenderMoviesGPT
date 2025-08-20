@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Blade Runner, Fargo, Citizen Kane, Reservoir Dogs, A Clockwork Orange, Full Metal Jacket, 8½, Koyaanisqatsi, Hearts and Minds, La planète sauvage, Being John Malkovich, The General, Easy Rider, Sans toit ni loi, Badlands, The Royal Tenenbaums, Rashômon, Kill Bill: Vol. 2, Les invasions barbares, La strada, Good Bye Lenin!, Dreamer: Inspired by a True Story, Movie Crazy, Little Miss Sunshine.
+
+Associated tags: boxing, brothers quay, earth, funny, medieval, painter, police, whale

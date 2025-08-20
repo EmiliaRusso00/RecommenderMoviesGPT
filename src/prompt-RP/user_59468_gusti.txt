@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, The Shawshank Redemption, In the Line of Fire, A Perfect World, The Secret Garden, Some Folks Call It a Sling Blade, Rear Window, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, The Princess Bride, Roseanna's Grave, G.I. Jane, Good Will Hunting, Charlotte's Web, Sixteen Candles, La vita è bella, 10 Things I Hate About You, Le violon rouge, Three Kings, Being John Malkovich, Magnolia, The Talented Mr. Ripley, The Perfect Storm, Romero, Jay and Silent Bob Strike Back, Bandits, Monster's Ball, Le professionnel, Chicago, Bend It Like Beckham, Mystic River, Fahrenheit 9/11, Crash, Wedding Crashers, A History of Violence, Capote, Brokeback Mountain, Walk the Line, Transamerica.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

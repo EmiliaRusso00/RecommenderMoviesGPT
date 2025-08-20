@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: What's Eating Gilbert Grape, Life of Brian, Bonnie and Clyde, Psycho, The Shining, The Birds, Star Trek: The Wrath of Khan, Beetle Juice.
+
+Associated tags: almodovar, boxing, brothers quay, earth, medieval, painter, police, robots, satoshi kon, seriously scary, whale

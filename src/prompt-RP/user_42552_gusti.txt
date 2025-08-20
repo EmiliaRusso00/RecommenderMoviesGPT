@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Happy Gilmore, The Brothers McMullen, Léon, Forrest Gump, Schindler's List, Dances with Wolves, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Wizard of Oz, 2001: A Space Odyssey, Mr. Smith Goes to Washington, The Crying Game, Nuovo Cinema Paradiso, Groundhog Day, Chasing Amy, Good Will Hunting, The Big Lebowski, Office Space, War of the Worlds, Lola rennt, Ghost Busters, Little Big Man, The Commitments, High Fidelity, O Brother, Where Art Thou?.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, satoshi kon, whale

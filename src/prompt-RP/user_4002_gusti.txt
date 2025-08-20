@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Léon, Pulp Fiction, The Shawshank Redemption, The Adventures of Priscilla, Queen of the Desert, Forrest Gump, In the Name of the Father, The Silence of the Lambs, Primal Fear, The Godfather, Reservoir Dogs, Platoon, Delicatessen, Brazil, Alien, Contact, The Godfather: Part III, Cube, American History X, Festen, The Matrix, Abre los ojos, American Beauty, Fight Club, 42: Forty Two Up, C'est arrivé près de chez vous, Donnie Darko, Le fabuleux destin d'Amélie Poulain, Das Experiment, Cidade de Deus, 28 Days Later..., The Great Train Robbery, Eternal Sunshine of the Spotless Mind, Cypher, Primer, The Animatrix, Der Untergang, Tideland, The Prestige, The Mist, The Kite Runner.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

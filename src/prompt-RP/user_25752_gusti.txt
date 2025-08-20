@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Powder, Kids, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Dazed and Confused, Schindler's List, Trainspotting, Platoon, Full Metal Jacket, The Killing Fields, Saving Private Ryan, The Sixth Sense, Deliverance, Double Jeopardy, Boys Don't Cry, Fight Club, Requiem for a Dream, Series 7: The Contenders, Donnie Darko, Gia, Hotel Rwanda, Little Miss Sunshine, Felon.
+
+Associated tags: almodovar, boxing, brothers quay, earth, funny, medieval, painter, police, whale

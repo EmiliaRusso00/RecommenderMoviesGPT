@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, Schindler's List, The Godfather, Rear Window, The Maltese Falcon, The Wizard of Oz, Lawrence of Arabia, Raging Bull, The Sting, The Graduate, Titanic, American History X, The Matrix, American Beauty, Fight Club, Diner, Rashômon, Angst essen Seele auf, Miracle, I Am a Fugitive from a Chain Gang, Diarios de motocicleta, Ocean's Twelve, Greed, Hotel Rwanda, A History of Violence, Munich, Das Leben der Anderen, United 93, An Inconvenient Truth, Babel, El laberinto del fauno, Little Children, The Namesake.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

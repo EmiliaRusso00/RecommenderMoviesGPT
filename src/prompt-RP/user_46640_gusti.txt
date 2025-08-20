@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Bottle Rocket, The Godfather, 2001: A Space Odyssey, Platoon, Star Wars: Episode V - The Empire Strikes Back, Apocalypse Now, Full Metal Jacket, Jaws, Austin Powers: International Man of Mystery, There's Something About Mary, Shichinin no samurai, Rushmore, The Matrix, Being John Malkovich, O Brother, Where Art Thou?, The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, Adaptation., Cidade de Deus, A Midnight Clear, Eternal Sunshine of the Spotless Mind, Der Untergang.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

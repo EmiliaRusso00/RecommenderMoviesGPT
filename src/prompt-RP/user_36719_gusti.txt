@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Schindler's List, The Godfather, Vertigo, North by Northwest, Casablanca, The Maltese Falcon, Citizen Kane, 2001: A Space Odyssey, Ran, Psycho, The Day the Earth Stood Still, The Birds, On the Waterfront, Shichinin no samurai, Yôjinbô, Magnolia, Double Indemnity, Modern Times, The Gold Rush, Blazing Saddles, Wo hu cang long, Memento, Fiddler on the Roof, Smultronstället, Rashômon, Seabiscuit, The Lord of the Rings: The Return of the King, La strada.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

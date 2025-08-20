@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, Primal Fear, Die Hard, The Long Kiss Goodnight, Gattaca, The Truman Show, Dark City, Fallen, Office Space, Lock, Stock and Two Smoking Barrels, Ferris Bueller's Day Off, Ladyhawke, Gladiator, Remember the Titans, Memento, Equilibrium, The Last Samurai, The Incredibles.
+
+Associated tags: almodovar, boxing, earth, painter, police, whale

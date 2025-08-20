@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, From Dusk Till Dawn, Vampire in Brooklyn, Desperado, Interview with the Vampire: The Vampire Chronicles, Pulp Fiction, The Shawshank Redemption, The Crow, Demolition Man, The Fugitive, The Silence of the Lambs, Reservoir Dogs, Back to the Future, Indiana Jones and the Last Crusade, The Devil's Advocate, Gattaca, Back to the Future Part III, Blade, Edward Scissorhands, The Matrix, Fight Club, Sleepy Hollow, The Green Mile, Buffy the Vampire Slayer, The Boondock Saints, Predator, 28 Days Later..., American Psycho, Shaft, Enemy at the Gates, Memento, Ocean's Eleven, Ocean's Eleven, Black Hawk Down, Blade II, Minority Report, Red Dragon, Equilibrium, 28 Days Later..., Underworld, The Butterfly Effect, Dawn of the Dead, Man on Fire, The Machinist, Saw, The Jacket, Constantine, Crash, Revolver.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Frankenstein, The Shawshank Redemption, Pretty Woman, My Fair Lady, The Sound of Music, Evita, Men in Black, Titanic, Ever After, An American Tail, La vita è bella, Notting Hill, Chocolat, Bridget Jones's Diary, Cocktail, A Walk to Remember, Blue Crush, Swimming Pool, Under the Tuscan Sun, Love Actually, Something's Gotta Give, Man on Fire, The Notebook, The Phantom of the Opera, Walk the Line, Casanova, The Devil Wears Prada, Marie Antoinette, Casino Royale, Bobby, The Holiday, Dreamgirls, Knocked Up, Hairspray, A Mighty Heart, No Reservations.
+
+Associated tags: boxing, earth, police

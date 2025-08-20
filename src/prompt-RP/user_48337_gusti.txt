@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Braveheart, Léon, The Shawshank Redemption, Jurassic Park, Terminator 2: Judgment Day, Independence Day, Stand by Me, The Fifth Element, Men in Black, The Game, The Truman Show, Mousehunt, The Matrix, The Sixth Sense, Fight Club, Gladiator, Snatch., Monsters, Inc., Ocean's Eleven, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, Minority Report, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, Matchstick Men, The Lord of the Rings: The Return of the King, Gladiator, The Bourne Supremacy, Ocean's Twelve, The Bourne Identity, Sin City, Serenity, V for Vendetta, Thank You for Smoking, Stranger Than Fiction, The Illusionist, Ocean's Thirteen, The Bourne Ultimatum, Into the Wild, Mongol, Iron Man, The Incredible Hulk, Body of Lies.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

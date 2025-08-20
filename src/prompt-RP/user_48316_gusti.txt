@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Star Wars, The Silence of the Lambs, Stalingrad, The Godfather, Die Hard, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Raiders of the Lost Ark, Apocalypse Now, Star Wars: Episode VI - Return of the Jedi, Indiana Jones and the Last Crusade, Saving Private Ryan, Indiana Jones and the Temple of Doom, The Matrix, Mad Max 2, Dark Star, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, painter, police

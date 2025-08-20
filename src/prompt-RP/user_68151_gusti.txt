@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, The Princess Bride, The Gods Must Be Crazy II, La vita è bella, Office Space, Lock, Stock and Two Smoking Barrels, The Matrix, Lola rennt, The Sixth Sense, Airplane II: The Sequel, Fight Club, Being John Malkovich, X-Men, O Brother, Where Art Thou?, Shrek, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, The Pianist, X2, Kill Bill: Vol. 2, Big Fish, Eternal Sunshine of the Spotless Mind, The Incredibles, Banlieue 13, Thank You for Smoking, The Departed, The Prestige, Stardust, The Bourne Ultimatum, 3:10 to Yuma, Into the Wild, No Country for Old Men, I Am Legend, Cloverfield, In Bruges, Redbelt, The Fall, Kung Fu Panda, Blackadder Back & Forth.
+
+Associated tags: earth, painter, police

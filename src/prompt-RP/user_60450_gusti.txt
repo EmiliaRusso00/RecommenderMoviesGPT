@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Fargo, Withnail & I, A Clockwork Orange, Psycho, Pump Up the Volume, Heathers, The Breakfast Club, Velvet Goldmine, Lola rennt, Fight Club, Girl, Interrupted, Cabaret, But I'm a Cheerleader, Cecil B. DeMented, Ghost World, Hedwig and the Angry Inch, Cidade de Deus, Lilja 4-ever, Batoru rowaiaru, Mean Girls, Ong-bak, Everything Is Illuminated, Brokeback Mountain, This Film Is Not Yet Rated, Hard Candy, Art School Confidential, Accepted, Shortbus, The Bourne Ultimatum, Juno, Quantum of Solace.
+
+Associated tags: boxing, earth, funny, painter, police, whale

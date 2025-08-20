@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Orgazmo, American Pie, American Beauty, Scary Movie, Scary Movie 2, American Pie, Not Another Teen Movie, Super Troopers, Old School, Scary Movie 3, Bad Santa, Harold & Kumar Go to White Castle, Wedding Crashers, The Aristocrats, The 40 Year Old Virgin.
+
+Associated tags: earth, police

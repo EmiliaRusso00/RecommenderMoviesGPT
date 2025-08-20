@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ace Ventura: Pet Detective, The Mask, Ghost, Pretty Woman, Saving Private Ryan, The Sixth Sense, The Patriot, The Wedding Planner, Signs, How to Lose a Guy in 10 Days, Evan Almighty, Pirates of the Caribbean: The Curse of the Black Pearl, Hidalgo, Saw II, Fun with Dick and Jane, V for Vendetta.
+
+Associated tags: boxing, earth, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Mystery Science Theater 3000: The Movie.
+
+Associated tags: earth

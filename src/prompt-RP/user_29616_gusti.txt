@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Some Like It Hot, Casablanca, The Maltese Falcon, To Kill a Mockingbird, The Bridge on the River Kwai, Young Frankenstein, Big, Stalag 17, American Graffiti, The Lord of the Rings: The Two Towers, All the President's Men, The Lord of the Rings: The Return of the King.
+
+Associated tags: boxing, earth, finnish, medieval, painter, police, whale

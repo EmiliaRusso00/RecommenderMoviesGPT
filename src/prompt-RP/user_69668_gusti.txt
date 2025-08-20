@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Wallace and Gromit in A Close Shave, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Monty Python and the Holy Grail, Wallace & Gromit in The Wrong Trousers, Strictly Ballroom, The Princess Bride, 12 Angry Men, Star Wars: Episode VI - Return of the Jedi, A Grand Day Out with Wallace and Gromit, The Sting, The Great Escape, Groundhog Day, Shall we dansu?, The Truman Show, A Man for All Seasons, La vita è bella, The Winslow Boy, A Christmas Story, The Emperor's New Groove, O Brother, Where Art Thou?, The 5,000 Fingers of Dr. T., UHF, The Lord of the Rings: The Fellowship of the Ring, Sen to Chihiro no kamikakushi, Tonari no Totoro, Spellbound, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Napoleon Dynamite, I Heart Huckabees.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

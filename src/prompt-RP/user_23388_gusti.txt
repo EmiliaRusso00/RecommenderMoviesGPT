@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Showgirls, Pulp Fiction, Tombstone, Raiders of the Lost Ark, Il buono, il brutto, il cattivo., Goodfellas, Cool Hand Luke, Raising Arizona, Soylent Green, Blue Velvet, Le notti di Cabiria, Pink Flamingos, McCabe & Mrs. Miller, Love and Death, Suspiria, The Wicker Man, CQ, Sans soleil, Commando, Bring Me the Head of Alfredo Garcia, Support Your Local Sheriff!.
+
+Associated tags: boxing, earth, funny, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Strange Days, Blade Runner, The Godfather, The Godfather: Part II, Groundhog Day, Lost Highway, L.A. Confidential, Deceiver, Starship Troopers, Midnight in the Garden of Good and Evil, The Godfather: Part III, eXistenZ, The Talented Mr. Ripley, Solyaris, The Wisdom of Crocodiles, Mulholland Dr., Donnie Darko, Aguirre, der Zorn Gottes, Forbrydelsens element, Cypher, Mou gaan dou, Bom yeoreum gaeul gyeoul geurigo bom, 2046, Serenity, Children of Men.
+
+Associated tags: earth, painter, police, whale

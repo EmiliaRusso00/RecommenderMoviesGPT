@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Money Train, The Usual Suspects, The Shawshank Redemption, Forrest Gump, The Lion King, Speed, 12 Angry Men, Dead Poets Society, Donnie Brasco, Good Will Hunting, The Goonies, Saving Private Ryan, My Cousin Vinny, Big, Ferris Bueller's Day Off, Scarface, Ocean's Eleven, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, The Ring, The Lord of the Rings: The Two Towers, Finding Nemo, The Lord of the Rings: The Return of the King, Bang Bang You're Dead, Crash, Lord of War, Into the Wild, American Gangster, Juno, Charlie Wilson's War, Cloverfield.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

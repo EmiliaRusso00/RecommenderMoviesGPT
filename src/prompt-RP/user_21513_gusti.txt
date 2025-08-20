@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Forrest Gump, The Nightmare Before Christmas, 48 Hrs., Bill & Ted's Bogus Journey, Peter Pan, American History X, The Matrix, Notting Hill, The Color Purple, Guess Who's Coming to Dinner, Finding Forrester, Save the Last Dance, Le fabuleux destin d'Amélie Poulain, Return to Never Land, Antwone Fisher, Finding Nemo, Lagaan: Once Upon a Time in India, Finding Neverland, Les choristes, Charlie and the Chocolate Factory, Coach Carter, Hitch, Bride & Prejudice, Crash, The Sisterhood of the Traveling Pants, Freedom Writers, The Visitor.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

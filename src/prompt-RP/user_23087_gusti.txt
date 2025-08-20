@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dumb & Dumber, Pulp Fiction, Stargate, The Shawshank Redemption, 2001: A Space Odyssey, Night of the Living Dead, E.T.: The Extra-Terrestrial, Raiders of the Lost Ark, A Clockwork Orange, Grease, The Fifth Element, Conan the Barbarian, Boogie Nights, Half Baked, There's Something About Mary, Logan's Run, The Matrix, Austin Powers: The Spy Who Shagged Me, The Blair Witch Project, Blazing Saddles, Woman on Top, Meet the Parents, O Brother, Where Art Thou?, The Bourne Identity, The Ring, 28 Days Later..., Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Dawn of the Dead, The Chronicles of Riddick, Spider-Man, The Bourne Supremacy, Shaun of the Dead, Hotel Rwanda, Star Wars: Episode III - Revenge of the Sith, Slither, X-Men: The Last Stand, Casino Royale, The Bourne Ultimatum, The Mist.
+
+Associated tags: boxing, earth, funny, painter, police, whale

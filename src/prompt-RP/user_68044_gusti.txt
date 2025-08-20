@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Muriel's Wedding, The Fugitive, The Silence of the Lambs, Primal Fear, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, North by Northwest, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, 12 Angry Men, Alien³, Sneakers, Shichinin no samurai, Enemy of the State, Festen, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Lord of the Rings: The Two Towers, Presumed Innocent, The Lord of the Rings: The Return of the King, Tinker, Tailor, Soldier, Spy.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, whale

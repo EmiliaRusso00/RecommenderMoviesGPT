@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, Dances with Wolves, Sophie's Choice, My Left Foot: The Story of Christy Brown, Strictly Ballroom, To Kill a Mockingbird, Fantasia, A Room with a View, Dangerous Liaisons, One Hundred and One Dalmatians, Edward Scissorhands, 10 Things I Hate About You, The Iron Giant, The Sixth Sense, Mononoke-hime, Gladiator, Space Cowboys, Unbreakable, Wo hu cang long, O Brother, Where Art Thou?, Artificial Intelligence: AI, A Beautiful Mind, Signs, Sen to Chihiro no kamikakushi, Hotaru no haka, Tonari no Totoro, Lady Jane, Tenkû no shiro Rapyuta, Kaze no tani no Naushika, Big Fish, Trollflöjten, Into the Woods, I, Robot, The Village, Majo no takkyûbin, Kurenai no buta, 2046, Hauru no ugoku shiro, Suchîmubôi, Pride & Prejudice, Memoirs of a Geisha, Banshun, V for Vendetta, Lucky Number Slevin, Lady in the Water, Stranger Than Fiction, The Prestige, Pirates of the Caribbean: At World's End, Doubt.
+
+Associated tags: boxing, earth, funny, painter, police

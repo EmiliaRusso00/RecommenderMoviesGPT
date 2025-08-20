@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, The Shawshank Redemption, Forrest Gump, Carlito's Way, Monty Python and the Holy Grail, Apocalypse Now, Lock, Stock and Two Smoking Barrels, The Matrix, The Boondock Saints, Snatch., Memento, Blow, Scarface, K-PAX, Vanilla Sky, Cidade de Deus, Eternal Sunshine of the Spotless Mind, Crank.
+
+Associated tags: boxing, earth, painter, police

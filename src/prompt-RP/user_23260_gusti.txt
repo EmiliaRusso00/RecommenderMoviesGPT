@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Get Shorty, Léon, Pulp Fiction, Stargate, Blade Runner, A Fish Called Wanda, Life of Brian, One Flew Over the Cuckoo's Nest, Raiders of the Lost Ark, Alien, The Blues Brothers, Harold and Maude, Dead Poets Society, Back to the Future, Night on Earth, Indiana Jones and the Last Crusade, Star Trek: First Contact, Star Trek VI: The Undiscovered Country, Star Trek IV: The Voyage Home, Mars Attacks!, Grosse Pointe Blank, Starship Troopers, Festen, The Matrix, The Sixth Sense, Three Days of the Condor, Todo sobre mi madre, Magnolia, The Guns of Navarone, Le fabuleux destin d'Amélie Poulain, Secretary, Hable con ella, The Andromeda Strain, Lost in Translation, My Life Without Me, Gorky Park, Hotel Rwanda, Over the Hedge, Babel, Children of Men.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, medieval, painter, police, time travel, whale

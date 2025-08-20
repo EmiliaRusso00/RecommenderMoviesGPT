@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Waterworld, Interview with the Vampire: The Vampire Chronicles, Forrest Gump, The Lion King, True Lies, Sleepless in Seattle, The Godfather, The English Patient, The Godfather: Part II, A Room with a View, Titanic, Out of Africa, The Godfather: Part III, The Gods Must Be Crazy, La leggenda del pianista sull'oceano, American Beauty, Gladiator, The Patriot, The Mummy Returns, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Chicago, The Pianist, Troy, X-Men: The Last Stand, Kung Fu Panda, WALL·E.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

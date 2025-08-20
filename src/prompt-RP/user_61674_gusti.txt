@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, Léon, Pulp Fiction, Trainspotting, Reservoir Dogs, American History X, American Beauty, Requiem for a Dream, Memento, Blow, Scarface, Donnie Darko, 28 Days Later..., Eternal Sunshine of the Spotless Mind, Garden State, Sin City, Grandma's Boy, Children of Men, Knocked Up, Juno, The Dark Knight.
+
+Associated tags: boxing, earth, funny, painter, police, whale

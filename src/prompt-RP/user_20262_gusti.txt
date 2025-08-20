@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Braveheart, Interview with the Vampire: The Vampire Chronicles, Star Wars, Léon, Pulp Fiction, The Shawshank Redemption, Forrest Gump, The Mask, Mrs. Doubtfire, Schindler's List, Terminator 2: Judgment Day, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Amadeus, Stalker, Das Boot, Terminator Salvation, Groundhog Day, The Great Dictator, Indiana Jones and the Last Crusade, Rain Man, Shichinin no samurai, 'Crocodile' Dundee II, The Matrix, Crna macka, beli macor, Yellow Submarine, Fight Club, Kagemusha, Stuart Little 2, Zerkalo, Dersu Uzala, Solyaris, Cabaret, Shrek, A Beautiful Mind, The Bourne Identity, Russkiy kovcheg, Chicago, Pirates of the Caribbean: The Curse of the Black Pearl, Nostalgia Boy, Arizona Dream, Andrey Rublyov, Offret, Ivanovo detstvo, Madagascar.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

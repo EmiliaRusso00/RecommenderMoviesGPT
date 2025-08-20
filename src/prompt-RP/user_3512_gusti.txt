@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Apollo 13, Outbreak, Four Weddings and a Funeral, Schindler's List, The Silence of the Lambs, Pretty Woman, Independence Day, Some Like It Hot, 2001: A Space Odyssey, The Abyss, Monty Python and the Holy Grail, The Blues Brothers, The Right Stuff, Das Boot, When Harry Met Sally..., Mars Attacks!, Men in Black, The Hunt for Red October, The Game, There's Something About Mary, Der Name der Rose, The Matrix, Lola rennt, The Sixth Sense, Dogma, City Slickers, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, I, Robot, Night at the Museum.
+
+Associated tags: boxing, brothers quay, earth, medieval, painter, police, whale

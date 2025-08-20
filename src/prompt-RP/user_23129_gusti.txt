@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: GoldenEye, Pulp Fiction, Beverly Hills Cop III, The Godfather, Die Hard, Raiders of the Lost Ark, The Blues Brothers, Indiana Jones and the Last Crusade, Austin Powers: International Man of Mystery, Saving Private Ryan, Ghost Busters, Goldfinger, From Russia with Love, Dr. No, Wayne's World, Wayne's World 2, Gladiator, Kelly's Heroes, Beverly Hills Cop, Pirates of the Caribbean: The Curse of the Black Pearl, Shaun of the Dead, Da Block Party, Hot Fuzz, Pirates of the Caribbean: At World's End, Live Free or Die Hard, Transformers.
+
+Associated tags: boxing, earth, funny, painter, police, whale

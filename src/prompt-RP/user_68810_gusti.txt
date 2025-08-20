@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, The Sound of Music, A Bug's Life, The Lord of the Rings: The Fellowship of the Ring, Finding Nemo, The Lord of the Rings: The Return of the King, The Incredibles.
+
+Associated tags: earth

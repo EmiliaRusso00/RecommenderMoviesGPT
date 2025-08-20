@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clueless, Independence Day, Gone with the Wind, The Parent Trap, Escape from New York, Star Trek: The Wrath of Khan, Starship Troopers, Gremlins, The Mask of Zorro, The Poseidon Adventure, Splash, Romancing the Stone, The Karate Kid, Superman, Superman II, South Park: Bigger Longer & Uncut, Fright Night, Titanica, Dragonslayer, Spider-Man, Chitty Chitty Bang Bang, Never Say Never Again, X-Men: The Last Stand, Superman Returns, Talladega Nights: The Ballad of Ricky Bobby.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

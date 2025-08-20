@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Schindler's List, The Silence of the Lambs, Trainspotting, Rear Window, Reservoir Dogs, One Flew Over the Cuckoo's Nest, Full Metal Jacket, Das Boot, Groundhog Day, Contact, Sphere, Rain Man, The Negotiator, Cube, American History X, Office Space, The Matrix, Abre los ojos, Fight Club, American Psycho, The Boys of Baraka, Requiem for a Dream, Memento, A Beautiful Mind, Equilibrium, Identity, Batoru rowaiaru, The Last Samurai, Koroshiya 1, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, Cypher, Collateral, Saw, Ondskan, Oldeuboi, Crash, Star Wars: Episode III - Revenge of the Sith, Lord of War, The Weather Man, Saw II, Lucky Number Slevin, The Prestige.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

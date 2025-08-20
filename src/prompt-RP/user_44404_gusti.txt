@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Clerks., Pulp Fiction, Forrest Gump, Hot Shots! Part Deux, The Silence of the Lambs, Fargo, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, Full Metal Jacket, Das Boot, La Femme Nikita, The Game, The Big Lebowski, Cocoon, Lock, Stock and Two Smoking Barrels, Fight Club, Awakenings, American Psycho, Scary Movie, Snatch., Scarface, Scary Movie 2, Jay and Silent Bob Strike Back, Harry Potter and the Sorcerer's Stone, Finding Nemo, Kukushka, Kill Bill: Vol. 2, Bad Santa, Leprechaun, Dawn of the Dead, Kill Bill: Vol. 2, Shrek 2, Team America: World Police, 11:14, Knockin' on Heaven's Door, Sin City, Everything Is Illuminated, Family Guy Presents Stewie Griffin: The Untold Story, Waiting..., Grandma's Boy, Clerks II, American Gangster, 99 francs, WALL·E, Tropic Thunder, Burn After Reading, Futurama: Bender's Game.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

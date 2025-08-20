@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: American History X, The Matrix, Buena Vista Social Club, The Sixth Sense, Memento, Le fabuleux destin d'Amélie Poulain, Eternal Sunshine of the Spotless Mind, Finding Neverland, Batman Begins, Match Point, Thank You for Smoking, Little Miss Sunshine, La science des rêves, The Prestige, 300, The Dark Knight, Vicky Cristina Barcelona.
+
+Associated tags: boxing, earth, police

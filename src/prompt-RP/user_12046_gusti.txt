@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Clerks., Pulp Fiction, Forrest Gump, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, Life of Brian, Reservoir Dogs, Raiders of the Lost Ark, A Clockwork Orange, Full Metal Jacket, Lock, Stock and Two Smoking Barrels, The Castle, South Park: Bigger Longer & Uncut, Fight Club, The Bourne Identity, Hauru no ugoku shiro, Sin City, Serenity, Lucky Number Slevin, Clerks II, Stranger Than Fiction, Hot Fuzz, Sunshine, The Bourne Ultimatum, No Country for Old Men, Kung Fu Panda, Get Smart.
+
+Associated tags: boxing, earth, finnish, funny, medieval, painter, police, whale

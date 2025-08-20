@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Crooklyn, Forrest Gump, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, E.T.: The Extra-Terrestrial, The Princess Bride, Aliens, Terminator Salvation, La Femme Nikita, The Shining, Gandhi, The Matrix, Ghost Busters, The Color Purple, The Sixth Sense, American Beauty, Malcolm X, Thelma & Louise, Do the Right Thing, Close Encounters of the Third Kind, Misery, The Naked Gun: From the Files of Police Squad!, Wo hu cang long, Memento, Tang shan da xiong, Mulholland Dr., The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Dirty Pretty Things, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Enter the Dragon, Brokeback Mountain, El laberinto del fauno, Children of Men.
+
+Associated tags: boxing, earth, finnish, painter, police, whale

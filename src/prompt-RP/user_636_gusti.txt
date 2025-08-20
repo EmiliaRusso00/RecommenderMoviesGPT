@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, Schindler's List, Wallace and Gromit in A Close Shave, The Godfather, Casablanca, Wallace & Gromit in The Wrong Trousers, Il buono, il brutto, il cattivo., Lawrence of Arabia, The Godfather: Part II, A Grand Day Out with Wallace and Gromit, Das Boot, The Bridge on the River Kwai, The Great Escape, As Good as It Gets, Mutiny on the Bounty, The Godfather: Part III, Impostor, The Matrix, The Longest Day, Kelly's Heroes, The Lord of the Rings: The Fellowship of the Ring, Road to Perdition, The Lord of the Rings: The Two Towers, 13 Rue Madeleine, Master and Commander: The Far Side of the World, The Lord of the Rings: The Return of the King, A Bridge Too Far, How the West Was Won, House on Haunted Hill, Wallace & Gromit in The Curse of the Were-Rabbit, Casanova.
+
+Associated tags: boxing, earth, painter, police

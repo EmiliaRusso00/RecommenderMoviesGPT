@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, The Usual Suspects, Pulp Fiction, The Shawshank Redemption, Blade Runner, Terminator 2: Judgment Day, Fargo, Wallace and Gromit in A Close Shave, The Godfather, 2001: A Space Odyssey, The Abyss, Aliens, Alien, Terminator Salvation, Miller's Crossing, The Birds, The Big Lebowski, 2010, The Matrix, Fight Club, Papillon, Jacob's Ladder, O Brother, Where Art Thou?, Memento, Moulin Rouge!, Mulholland Dr., The Man Who Wasn't There, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Barton Fink, 28 Days Later..., Eternal Sunshine of the Spotless Mind, Sin City, Serenity, Man cheng jin dai huang jin jia.
+
+Associated tags: boxing, earth, funny, painter, police, whale

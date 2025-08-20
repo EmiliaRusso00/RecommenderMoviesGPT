@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Muppet Treasure Island, It Happened One Night, It's a Wonderful Life, Bringing Up Baby, The Parent Trap, Cinderella, The Princess Bride, You Can't Take It with You, The Muppet Christmas Carol, Ever After, The Muppets Take Manhattan, Heidi, The Court Jester, Pride & Prejudice, National Treasure: Book of Secrets, Pride & Prejudice, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Hoodwinked!, Meet the Robinsons, Nancy Drew, Enchanted, National Treasure: Book of Secrets, The Chronicles of Narnia: Prince Caspian.
+
+Associated tags: earth, painter, police

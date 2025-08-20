@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Taxi Driver, Smoke, Clerks., Star Wars, Blade Runner, Fargo, The Godfather, One Flew Over the Cuckoo's Nest, Der Name der Rose, The Matrix, Magnolia, The Ninth Gate, Memento, The Lord of the Rings: The Fellowship of the Ring, The Day of the Jackal, Good Night, and Good Luck..
+
+Associated tags: boxing, earth, funny, police, whale

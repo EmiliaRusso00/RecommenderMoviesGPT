@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Nightmare Before Christmas, The Wizard of Oz, Monty Python and the Holy Grail, The Princess Bride, Indiana Jones and the Last Crusade, La vita è bella, The Iron Giant, Mononoke-hime, Wo hu cang long, Vampire Hunter D: Bloodlust, Sen to Chihiro no kamikakushi, Sien nui yau wan, Batman Begins, Serenity.
+
+Associated tags: boxing, earth, painter, police

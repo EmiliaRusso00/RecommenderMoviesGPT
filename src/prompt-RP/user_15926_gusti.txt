@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, Schindler's List, Snow White and the Seven Dwarfs, Willy Wonka & the Chocolate Factory, The Princess Bride, Psycho, The Shining, The Jungle Book, The Green Mile, Wo hu cang long, Blow, The Lord of the Rings: The Fellowship of the Ring, The Lord of the Rings: The Two Towers, Pirates of the Caribbean: The Curse of the Black Pearl, The Lord of the Rings: The Return of the King, Finding Neverland, Cinderella Man, Wedding Crashers, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, Memoirs of a Geisha.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Leaving Las Vegas, Four Weddings and a Funeral, The Piano, The English Patient, Dead Poets Society, Good Will Hunting, The Big Lebowski, The Color Purple, Chocolat, Ocean's Eleven, A Beautiful Mind, Cidade de Deus, Shrek 2.
+
+Associated tags: boxing, earth, police

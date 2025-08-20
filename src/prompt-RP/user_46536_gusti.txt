@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Terminator 2: Judgment Day, Dances with Wolves, Beauty and the Beast, Twister, The Sound of Music, Star Wars: Episode V - The Empire Strikes Back, Dead Poets Society, Unforgiven, Sling Blade, Armageddon, The Apple Dumpling Gang Rides Again, La vita è bella, The Mummy, L'ours, Shanghai Noon, Remember the Titans, Charlie's Angels: Full Throttle, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Count of Monte Cristo, The Bourne Identity, The Lord of the Rings: The Two Towers, The Italian Job, The Blood of Jesus, The Lord of the Rings: The Return of the King, Miracle, 50 First Dates, Million Dollar Baby, Kung fu, The Illusionist, El laberinto del fauno, Music and Lyrics, Superbad.
+
+Associated tags: boxing, earth, painter, police, whale

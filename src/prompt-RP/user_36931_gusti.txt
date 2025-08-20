@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Toy story, Pulp Fiction, Vertigo, Rear Window, North by Northwest, Casablanca, The Maltese Falcon, The Wizard of Oz, 2001: A Space Odyssey, Notorious, The Sound of Music, Raiders of the Lost Ark, A Clockwork Orange, Psycho, Det sjunde inseglet, Fantasia, City Lights, Modern Times, No Country for Old Men, WALL·E.
+
+Associated tags: boxing, earth, funny, painter, police, whale

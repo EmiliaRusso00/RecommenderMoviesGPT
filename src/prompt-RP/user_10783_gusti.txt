@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Sense and Sensibility, Bed of Roses, The Birdcage, French Kiss, While You Were Sleeping, One Fine Day, Emma, The Philadelphia Story, Singin' in the Rain, Breakfast at Tiffany's, Casablanca, My Fair Lady, Sabrina, Ever After, My Cousin Vinny, The Matrix, An Ideal Husband, Dogma, Mansfield Park, Snatch., Monsters, Inc., Ocean's Eleven, My Big Fat Greek Wedding, Pirates of the Caribbean: The Curse of the Black Pearl, Father of the Bride, Dodgeball: A True Underdog Story, Kiss Kiss Bang Bang, Pride & Prejudice, Keeping Mum, The Bourne Ultimatum.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, frightfully accurate political commentary, funny, medieval, painter, police, satoshi kon, seriously scary, time travel, whale

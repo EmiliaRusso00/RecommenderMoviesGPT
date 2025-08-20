@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Rear Window, It's a Wonderful Life, Alien³, Boogie Nights, American Beauty, Billy Elliot, Memento, Maria Full of Grace, Brokeback Mountain, United 93.
+
+Associated tags: boxing, earth, funny, medieval, painter, police

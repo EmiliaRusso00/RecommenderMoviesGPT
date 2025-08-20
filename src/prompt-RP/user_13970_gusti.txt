@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Jumanji, Braveheart, Hackers, Interview with the Vampire: The Vampire Chronicles, Forrest Gump, The Mask, Jurassic Park, Twister, Beavis and Butt-Head Do America, The Matrix, American Beauty, Dogma, American Pie, Harry Potter and the Sorcerer's Stone, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, Ice Age, Spider-Man, The Lord of the Rings: The Two Towers, The Matrix Reloaded, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, The Matrix Revolutions, The Lord of the Rings: The Return of the King, Shrek 2, Harry Potter and the Prisoner of Azkaban, Spider-Man, The Incredibles.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police

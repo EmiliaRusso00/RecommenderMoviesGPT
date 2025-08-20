@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Twelve Monkeys, The Usual Suspects, La haine, Clerks., The Silence of the Lambs, The Godfather, A Fish Called Wanda, Life of Brian, Brazil, Apocalypse Now, Goodfellas, Ran, The Godfather: Part II, The Deer Hunter, Deconstructing Harry, The Big Lebowski, The Godfather: Part III, The Thin Red Line, South Park: Bigger Longer & Uncut, And Now for Something Completely Different, Dog Day Afternoon, MASH, Rashômon, Shanghai Knights, Lammbock, Pat Garrett & Billy the Kid, Zatôichi, Gegen die Wand, Thank You for Smoking, Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan.
+
+Associated tags: boxing, brothers quay, earth, finnish, frightfully accurate political commentary, funny, medieval, painter, police, robots, satoshi kon

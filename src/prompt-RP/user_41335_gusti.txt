@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Taxi Driver, Pulp Fiction, Dazed and Confused, Fargo, Trainspotting, The Godfather, Vertigo, Casablanca, The Maltese Falcon, Reservoir Dogs, Paths of Glory, One Flew Over the Cuckoo's Nest, Il buono, il brutto, il cattivo., A Clockwork Orange, Apocalypse Now, C'era una volta il West, The Third Man, Goodfellas, Ran, Psycho, The Godfather: Part II, Full Metal Jacket, Amadeus, Once Upon a Time in America, Raging Bull, Annie Hall, Manhattan, Miller's Crossing, Touch of Evil, Chinatown, The Shining, The Deer Hunter, Carrie, Lost Highway, The Big Lebowski, Rosemary's Baby, Lock, Stock and Two Smoking Barrels, The Killing, Spartacus, Fight Club, Crimes and Misdemeanors, Yôjinbô, Dog Day Afternoon, Double Indemnity, Per qualche dollaro in più, The Conversation, Requiem for a Dream, Snatch., Memento, Frantic, Mulholland Dr., Donnie Darko, The Man Who Wasn't There, Kill Bill: Vol. 2, Dogville, Kill Bill: Vol. 2, The Lady from Shanghai, Oldeuboi.
+
+Associated tags: boxing, earth, funny, medieval, painter, police, whale

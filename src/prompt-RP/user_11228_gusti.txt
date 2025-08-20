@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, Braveheart, The Shawshank Redemption, Schindler's List, The Silence of the Lambs, Dead Poets Society, Shine, Hamlet, Good Will Hunting, Rounders, La vita è bella, The Matrix, Fight Club, The Green Mile, Of Mice and Men, Gladiator, A Beautiful Mind, About a Boy, The Bourne Identity, The Dangerous Lives of Altar Boys, Levity, Lost in Translation, The Last Samurai, Monster, Eternal Sunshine of the Spotless Mind, The Bourne Supremacy, Jing wu ying xiong, Crash, Cinderella Man, Stranger Than Fiction, The Departed, The Bourne Ultimatum, 3:10 to Yuma, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Léon, Blade Runner, Brazil, Withnail & I, Terminator Salvation, Akira, King of New York, Buffalo '66, Who's Afraid of Virginia Woolf?, Ferris Bueller's Day Off, Drugstore Cowboy, Network, Donnie Darko, Subway, 28 Days Later..., Ultimo tango a Parigi, Bad Boy Bubby, Taxi Driver.
+
+Associated tags: boxing, earth, police, whale

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Pulp Fiction, Maverick, Primal Fear, Phenomenon, The Sound of Music, Goodfellas, Contact, The Game, Fallen, Rounders, The Matrix, South Park: Bigger Longer & Uncut, American Beauty, Fight Club, The Green Mile, The Cider House Rules, The Talented Mr. Ripley, Memento, Ocean's Eleven, The Royal Tenenbaums, The Lord of the Rings: The Fellowship of the Ring, Kill Bill: Vol. 2, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

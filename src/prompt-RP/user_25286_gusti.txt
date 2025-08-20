@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Apollo 13, Léon, The Shawshank Redemption, Jurassic Park, Terminator 2: Judgment Day, The Game, Good Will Hunting, The Matrix, Lola rennt, Awakenings, Gladiator, In Good Company, Crash, Lord of War, Jarhead, Movie Crazy, Who Killed the Electric Car?, An Inconvenient Truth, The Pursuit of Happyness, El laberinto del fauno, Children of Men, The Prestige, Transformers.
+
+Associated tags: boxing, earth, medieval, painter, police

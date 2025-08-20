@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pocahontas, Casper, The Lion King, Beauty and the Beast, Pinocchio, The Sound of Music, Back to the Future, Gandhi, The Little Mermaid, The Sixth Sense, Shrek, Monsters, Inc., Harry Potter and the Chamber of Secrets, Finding Nemo, Pirates of the Caribbean: The Curse of the Black Pearl, Shrek 2, Spider-Man, The Incredibles.
+
+Associated tags: boxing, brothers quay, earth, excellent characters, finnish, funny, medieval, painter, police, whale

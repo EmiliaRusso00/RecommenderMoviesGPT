@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: To Wong Foo Thanks for Everything, Julie Newmar, The Shawshank Redemption, Much Ado About Nothing, The Rock, Independence Day, Breakfast at Tiffany's, Mary Poppins, The Sound of Music, Willy Wonka & the Chocolate Factory, The Princess Bride, Fried Green Tomatoes, Indiana Jones and the Last Crusade, Contact, Wag the Dog, The Goonies, The Sixth Sense, Mononoke-hime, Meatballs, Footloose, Le fabuleux destin d'Amélie Poulain, About a Boy, Sen to Chihiro no kamikakushi, Road Trip, What's Up, Doc?, Pirates of the Caribbean: The Curse of the Black Pearl, Lost in Translation, Les triplettes de Belleville, The Last Samurai, Chitty Chitty Bang Bang, The Day After Tomorrow, Saved!, National Treasure: Book of Secrets, Brokeback Mountain, Rent, V for Vendetta, The Devil Wears Prada, El laberinto del fauno.
+
+Associated tags: almodovar, boxing, earth, medieval, painter, police, whale

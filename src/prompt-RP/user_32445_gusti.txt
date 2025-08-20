@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Clerks., Ghost, Singin' in the Rain, Casablanca, Monty Python and the Holy Grail, The Princess Bride, Saving Private Ryan, Ever After, Lock, Stock and Two Smoking Barrels, An Ideal Husband, Spaceballs, Dogma, The Boondock Saints, High Fidelity, Almost Famous, O Brother, Where Art Thou?, Shrek, Jay and Silent Bob Strike Back, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Majestic, Super Troopers, The Bourne Identity, Equilibrium, Where Eagles Dare, The Lord of the Rings: The Return of the King, Zatôichi, Azumi, Der Untergang, Kiss Kiss Bang Bang, Thank You for Smoking, The Prestige, No Country for Old Men, There Will Be Blood, The Dark Knight, Forgetting Sarah Marshall, Chaos Theory.
+
+Associated tags: boxing, earth, medieval, painter, police

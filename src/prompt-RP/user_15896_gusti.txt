@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Lion King, Aladdin, Snow White and the Seven Dwarfs, Beauty and the Beast, A Time to Kill, Robin Hood: Prince of Thieves, Fallen, The Wedding Singer, The Prince of Egypt, The Castle, Notting Hill, The Green Mile, The Hurricane, Frequency, The Patriot, Remember the Titans, Men of Honor, The Emperor's New Groove, Finding Forrester, Cast Away, Enemy at the Gates, Shrek, The Score, Ocean's Eleven, A Beautiful Mind, We Were Soldiers, Ice Age, Signs, Catch Me If You Can, Seabiscuit, Elf, The Ten Commandments, Shrek 2, The Terminal, The Polar Express, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, whale

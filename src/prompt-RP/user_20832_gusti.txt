@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Adventures of Robin Hood, 20000 Leagues Under the Sea, Basic Instinct, King Kong, Young Sherlock Holmes, Tarzan, Deep Blue Sea, Good Morning, Vietnam, Every Thing You Always Wanted to Know About Sex * But Were Afraid to Ask, Air America, A Brief History of Time, Chaplin, Ice Age: The Meltdown, Casino Royale.
+
+Associated tags: boxing, earth, police

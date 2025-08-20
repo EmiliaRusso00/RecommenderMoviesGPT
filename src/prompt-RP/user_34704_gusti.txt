@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Star Wars, Pulp Fiction, Philadelphia, Schindler's List, Citizen Kane, Monty Python and the Holy Grail, Star Wars: Episode V - The Empire Strikes Back, Butch Cassidy and the Sundance Kid, Sneakers, The Matrix, American Beauty, Fight Club, Snatch., Donnie Darko, The Lord of the Rings: The Two Towers, Cidade de Deus, Lost in Translation, V for Vendetta.
+
+Associated tags: boxing, earth, funny, painter, police, whale

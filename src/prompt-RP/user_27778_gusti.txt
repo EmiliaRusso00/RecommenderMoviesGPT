@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Before Sunrise, Trois couleurs: Rouge, Trois couleurs: Bleu, Trzy kolory: Bialy, The Godfather, Some Like It Hot, 2001: A Space Odyssey, Alien, Once Upon a Time in America, Fanny och Alexander, Fa yeung nin wa, Metropolis, Solyaris, Le fils, Lilja 4-ever, Tenkû no shiro Rapyuta, The Red Shoes, Fucking Åmål, A Woman Under the Influence, Ying xiong, Persona, Trollflöjten, Sunrise: A Song of Two Humans, Rupan sansei: Kariosutoro no shiro, Pickpocket, A Fei zheng chuan, 2046, Bin-jip, The New World.
+
+Associated tags: boxing, earth, medieval, painter, police, whale

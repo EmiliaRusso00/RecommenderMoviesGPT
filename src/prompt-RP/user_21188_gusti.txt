@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Silence of the Lambs, Waiting for Guffman, Contact, Go, American Beauty, Fight Club, Being John Malkovich, Best in Show, Memento, Moulin Rouge!, Donnie Darko, Le fabuleux destin d'Amélie Poulain, The Lord of the Rings: The Fellowship of the Ring, Bowling for Columbine, The Lord of the Rings: The Two Towers, Chicago, Wait Until Dark, The Station Agent, 21 Grams, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Kill Bill: Vol. 2, Super Size Me, Maria Full of Grace, Primer, The Incredibles, Crash, Brokeback Mountain, Pride & Prejudice, Match Point, Shut Up & Sing, Dreamgirls.
+
+Associated tags: boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, Terminator 2: Judgment Day, Batman, Die Hard, The Fifth Element, The X Files, The Matrix, American Beauty, Traffic, The Lord of the Rings: The Fellowship of the Ring, The Bourne Identity, The Lord of the Rings: The Two Towers.
+
+Associated tags: earth, painter, police

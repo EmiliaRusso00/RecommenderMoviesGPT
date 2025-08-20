@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Fargo, It's a Wonderful Life, 12 Angry Men, Rabbit-Proof Fence, Sen to Chihiro no kamikakushi, Ying xiong.
+
+Associated tags: boxing, earth, funny, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Back to the Future, Star Wars: Episode I - The Phantom Menace, Superman, Gladiator, Almost Famous, Pirates of the Caribbean: The Curse of the Black Pearl.
+
+Associated tags: almodovar, boxing, earth, painter, police

@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Braveheart, Apollo 13, Pulp Fiction, The Shawshank Redemption, Forrest Gump, Dances with Wolves, The Silence of the Lambs, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Independence Day, It's a Wonderful Life, Monty Python and the Holy Grail, The Sting, Back to the Future, High Noon, Indiana Jones and the Last Crusade, Butch Cassidy and the Sundance Kid, Contact, The Big Lebowski, A Few Good Men, ¡Three Amigos!, Lola rennt, The Dirty Dozen, The Outlaw Josey Wales, Batman Begins, The Dark Knight.
+
+Associated tags: almodovar, boxing, earth, finnish, funny, painter, police, whale

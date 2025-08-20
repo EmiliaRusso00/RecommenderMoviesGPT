@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Pulp Fiction, Ace Ventura: Pet Detective, Forrest Gump, The Mask, Trainspotting, Life of Brian, Reservoir Dogs, Monty Python and the Holy Grail, Sliding Doors, The Truman Show, Fear and Loathing in Las Vegas, Cube, La vita è bella, American History X, Lock, Stock and Two Smoking Barrels, The Sixth Sense, Fight Club, Magnolia, Man on the Moon, Human Traffic, Le fabuleux destin d'Amélie Poulain, Vanilla Sky, Super Troopers, Ice Age, Bowling for Columbine, Adaptation., Catch Me If You Can, The Pianist, À la folie... pas du tout, Finding Nemo, Matchstick Men, The Meaning of Life, Eternal Sunshine of the Spotless Mind, The Notebook, Fahrenheit 9/11, Garden State, The Machinist, The Jacket, Crash, Little Miss Sunshine.
+
+Associated tags: almodovar, boxing, earth, funny, painter, police, whale

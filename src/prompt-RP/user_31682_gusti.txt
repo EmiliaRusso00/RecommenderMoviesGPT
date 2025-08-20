@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, Pulp Fiction, The Shawshank Redemption, Schindler's List, Blade Runner, The Godfather, Vertigo, Rear Window, Star Wars: Episode V - The Empire Strikes Back, 12 Angry Men, To Kill a Mockingbird, C'era una volta il West, The Sting, Sling Blade, A Few Good Men, Wonder Boys, American Graffiti, High Fidelity, The Odd Couple, Donnie Darko, Sen to Chihiro no kamikakushi, The Lord of the Rings: The Two Towers, Cidade de Deus, Wait Until Dark, Judgment at Nuremberg, All the President's Men, The Lord of the Rings: The Return of the King, Kill Bill: Vol. 2, Sin City, Zodiac, Michael Clayton, No Country for Old Men.
+
+Associated tags: boxing, earth, funny, painter, police, whale

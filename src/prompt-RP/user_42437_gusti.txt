@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: From Dusk Till Dawn, Hackers, The Net, Pulp Fiction, The Big Lebowski, Office Space, Cruel Intentions, Lock, Stock and Two Smoking Barrels, Entrapment, The Ninth Gate, Human Traffic, Saving Grace, Snatch., Scarface, Le professionnel, Interstate 60: Episodes of the Road, Lord of War, Banlieue 13, Grandma's Boy, Thank You for Smoking.
+
+Associated tags: boxing, earth, funny, painter, police, whale

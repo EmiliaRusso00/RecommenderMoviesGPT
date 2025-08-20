@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Shichinin no samurai, The Usual Suspects, Pulp Fiction, The Shawshank Redemption, True Romance, Fargo, The Godfather, Swingers, Raiders of the Lost Ark, Goodfellas, The Sting, Groundhog Day, Raising Arizona, The Hunt for Red October, L.A. Confidential, A Few Good Men, Office Space, The Matrix, Fight Club, Caddyshack, Let It Ride, Boyz n the Hood, Eternal Sunshine of the Spotless Mind, The In-Laws.
+
+Associated tags: boxing, brothers quay, earth, finnish, funny, medieval, painter, police, robots, whale

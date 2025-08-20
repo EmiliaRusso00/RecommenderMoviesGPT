@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Star Wars, The Nightmare Before Christmas, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Star Wars: Episode VI - Return of the Jedi, Edward Scissorhands, Shrek, Le fabuleux destin d'Amélie Poulain, A Beautiful Mind, Sen to Chihiro no kamikakushi, Sin City, Corpse Bride, Star Wreck: In the Pirkinning, Stardust, The Simpsons Movie, Sweeney Todd: The Demon Barber of Fleet Street, Joulutarina.
+
+Associated tags: earth, police

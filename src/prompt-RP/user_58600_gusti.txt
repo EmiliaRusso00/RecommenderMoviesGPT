@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, The Shawshank Redemption, Schindler's List, One Flew Over the Cuckoo's Nest, 12 Angry Men, Shichinin no samurai, Snatch., Final Fantasy: The Spirits Within, Le fabuleux destin d'Amélie Poulain, Sen to Chihiro no kamikakushi, Babylon 5: A Call to Arms, Stardust, The Great Debaters.
+
+Associated tags: earth, painter, police

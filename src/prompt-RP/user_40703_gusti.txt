@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Dead Man Walking, The Usual Suspects, Quiz Show, The Shawshank Redemption, Much Ado About Nothing, Philadelphia, Fargo, My Fair Lady, The Wizard of Oz, E.T.: The Extra-Terrestrial, To Kill a Mockingbird, Psycho, Better Off Dead..., The Shining, Heathers, When Harry Met Sally..., Charlotte's Web, The Untouchables, Say Anything..., A Few Good Men, La vita è bella, Office Space, Election, Le violon rouge, Vacation, American Beauty, Being John Malkovich, A River Runs Through It, Fast Times at Ridgemont High, Animal House, Misery, Planes, Trains & Automobiles, Who the #$&% Is Jackson Pollock?, Beverly Hills Cop, Memento, Monsters, Inc., Monsoon Wedding, 25th Hour, The Pianist, Bend It Like Beckham, Whale Rider, Pirates of the Caribbean: The Curse of the Black Pearl, Lost in Translation, Pygmalion, Big Fish, Eternal Sunshine of the Spotless Mind, Garden State, Million Dollar Baby, Crash, Hustle & Flow.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

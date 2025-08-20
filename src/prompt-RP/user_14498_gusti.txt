@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Ninja Assassin, Clerks., Léon, The Shawshank Redemption, The Secret Garden, The Silence of the Lambs, Good Will Hunting, Office Space, The Matrix, Fight Club, The Lord of the Rings: The Fellowship of the Ring, A Beautiful Mind, The Bourne Identity, The Lord of the Rings: The Two Towers, The Matrix Revolutions, The Lord of the Rings: The Return of the King, The Butterfly Effect, Eternal Sunshine of the Spotless Mind, I, Robot, The Bourne Supremacy, Shaun of the Dead, Finding Neverland, De grønne slagtere, Wedding Crashers, V for Vendetta, 300, Knocked Up, Pirates of the Caribbean: At World's End, The Bourne Ultimatum, Superbad, No Country for Old Men, I Am Legend.
+
+Associated tags: boxing, earth, painter, police, whale

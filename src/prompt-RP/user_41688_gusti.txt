@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Braveheart, Taxi Driver, Die Hard: With a Vengeance, Pulp Fiction, Forrest Gump, True Lies, The Fugitive, Jurassic Park, Sleepless in Seattle, Terminator 2: Judgment Day, Dances with Wolves, The Silence of the Lambs, Pretty Woman, Mission: Impossible III, The Rock, Independence Day, Eraser, The Godfather, Die Hard, Aliens, Alien, Indiana Jones and the Last Crusade, Austin Powers: International Man of Mystery, The Fifth Element, Men in Black, L.A. Confidential, Titanic, Rain Man, Lethal Weapon, Back to the Future Part III, Saving Private Ryan, La vita è bella, The Matrix, The Sixth Sense, Being John Malkovich, The Green Mile, Scent of a Woman, Gladiator, Memento, Mulholland Dr., The Matrix Revolutions, The Butterfly Effect, Saw, Hotel Rwanda, Saw II, Lucky Number Slevin.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police, whale

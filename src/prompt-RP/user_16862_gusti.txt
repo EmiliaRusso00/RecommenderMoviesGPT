@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Heat, The Usual Suspects, Legends of the Fall, Léon, Pulp Fiction, Huozhe, The Age of Innocence, Ba wang bie ji, The Piano, Independence Day, On Golden Pond, Once Upon a Time in America, Hilary and Jackie, The Matrix, Scent of a Woman, Moulin Rouge!, Training Day, 25th Hour, The Hours, Lost in Translation, Mystic River, Before Sunset, Sideways, Closer, Les choristes, Hostage, The Constant Gardener, The Weather Man.
+
+Associated tags: almodovar, boxing, brothers quay, earth, finnish, funny, painter, police, whale

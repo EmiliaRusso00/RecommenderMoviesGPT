@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Schindler's List, C'era una volta il West, American History X, American Beauty, Lilja 4-ever, Before Sunset, Hotel Rwanda, Brokeback Mountain, Good Night, and Good Luck., Joyeux Noël, The Road to Guantanamo.
+
+Associated tags: earth, police

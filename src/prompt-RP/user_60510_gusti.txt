@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Shawshank Redemption, American History X, Scary Movie, John Q, Spider-Man, Cidade de Deus, Lost in Translation, The Lord of the Rings: The Return of the King, Eternal Sunshine of the Spotless Mind, Saw, Sin City, Crash.
+
+Associated tags: earth

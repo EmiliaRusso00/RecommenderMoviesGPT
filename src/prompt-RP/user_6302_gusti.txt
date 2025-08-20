@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Brother Minister: The Assassination of Malcolm X, Marlene Dietrich: Shadow and Light, Synthetic Pleasures, The Longest Day, Billy Elliot, A Month in the Country, La mala educación, Der Untergang, Simon.
+
+Associated tags: earth

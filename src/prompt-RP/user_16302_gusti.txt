@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Braveheart, In the Line of Fire, Schindler's List, The Silence of the Lambs, The Godfather, Raiders of the Lost Ark, Goodfellas, The Godfather: Part II, Patton, Alien³, Men in Black, Crocodile Dundee, The Matrix, Toy Story, The Talented Mr. Ripley, Patriot Games, Gladiator, Requiem for a Dream, The Lord of the Rings: The Fellowship of the Ring, Black Hawk Down, The Lord of the Rings: The Two Towers, Finding Nemo, Ying xiong, Harry Potter and the Prisoner of Azkaban, The Bourne Supremacy, Sideways, The Incredibles, Riding Giants, Meet the Fockers, Sin City, Danny the Dog, Batman Begins.
+
+Associated tags: almodovar, boxing, earth, funny, medieval, painter, police

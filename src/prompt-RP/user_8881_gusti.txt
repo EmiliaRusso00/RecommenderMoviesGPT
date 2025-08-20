@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: Twelve Monkeys, Shichinin no samurai, The Usual Suspects, Taxi Driver, Pulp Fiction, Trois couleurs: Bleu, Forrest Gump, Schindler's List, Blade Runner, The Silence of the Lambs, Fargo, Wallace and Gromit in A Close Shave, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Trainspotting, The Godfather, 2001: A Space Odyssey, The Crying Game, Delicatessen, My Left Foot: The Story of Christy Brown, One Flew Over the Cuckoo's Nest, Star Wars: Episode V - The Empire Strikes Back, Alien, Psycho, Amadeus, Terminator Salvation, The Graduate, La Femme Nikita, The Bridge on the River Kwai, The Shining, The Deer Hunter, The Killing Fields, The Fifth Element, The Full Monty, Gattaca, Rain Man, Pleasantville, Waking Ned, The Matrix, Being John Malkovich, The Commitments, Fatal Attraction, Papillon, Scent of a Woman, Wonder Boys, Chicken Run, Traffic, Shrek, The French Lieutenant's Woman, Le fabuleux destin d'Amélie Poulain, 48 Hrs..
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale

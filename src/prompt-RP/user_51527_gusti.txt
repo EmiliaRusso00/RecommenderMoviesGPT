@@ -1,0 +1,5 @@
+Given a user, as a Recommender System, please provide only the
+names of the top 50 recommendations. You know that the user likes
+the following items: The Usual Suspects, Pulp Fiction, The Shawshank Redemption, Speed, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, The Manchurian Candidate, Alien³, Ronin, The Thing, Lola rennt, Big Daddy, Mystery Men, Double Jeopardy, Fight Club, Frequency, Gladiator, Le fabuleux destin d'Amélie Poulain, The Last Samurai, The Descent, The Departed.
+
+Associated tags: boxing, earth, finnish, funny, painter, police, whale
