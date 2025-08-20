@@ -17,7 +17,7 @@ Sistema di raccomandazione film basato su modelli di Collaborative Filtering (CF
 
 ---
 
-##📂 Struttura delle cartelle principali
+## 📂 Struttura delle cartelle principali
 
 - **data/**
   - `hetrec2011-movielens-2k-v2/` : Dataset MovieLens originale.
